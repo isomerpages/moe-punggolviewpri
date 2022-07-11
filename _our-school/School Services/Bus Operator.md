@@ -10,9 +10,7 @@ third_nav_title: School Services
 **Address**: No. 21 Woodlands Close #07-04 Primz Bizhub Singapore 737854
 
   
-**E-mail:** info.alltransportservices@gmail.com / info.alltransport@gmail.com  
-
-[info.alltransportservices@gmail.com](mailto:info.alltransportservices@gmail.com)/ [bsss@moe.edu.sg](mailto:bsss@moe.edu.sg)
+**E-mail:** [info.alltransportservices@gmail.com](mailto:info.alltransportservices@gmail.com)/ [info.alltransport@gmail.com](mailto:info.alltransport@gmail.com)
   
 **Tel:**  82231059 / 98553746  
   
