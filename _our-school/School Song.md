@@ -17,22 +17,6 @@ description: ""
 
 <p style="text-align:center;"><strong>Verse 2</strong><br> We grow and glow together<br>To be the persons of character.<br>Live our values every day,<br>Give of our best in all we do.</p>
 
-**Verse 2**  
-We grow and glow together  
-To be the persons of character.  
-Live our values every day,  
-Give of our best in all we do.
+<p style="text-align:center;"><strong>Chorus</strong><br> We are from Punggol View<br>The precious ones, the happy ones.<br>Working in harmony,<br>Caring for this family.<br>Standing for what is right,<br>Respecting one and all.</p>
 
-**Chorus**  
-We are from Punggol View  
-The precious ones, the happy ones.  
-Working in harmony,  
-Caring for this family.  
-Standing for what is right,  
-Respecting one and all.
-
-Never give up before we’ve tried (‘cause)  
-In all that we do,  
-It’s with all of our heart.  
-For all that we do,  
-We are Punggol View.
+<p style="text-align:center;">Never give up before we’ve tried (‘cause)<br>In all that we do,<br>It’s with all of our heart.<br>For all that we do,<br>We are Punggol View.</p>
