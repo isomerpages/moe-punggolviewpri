@@ -5,8 +5,6 @@ description: ""
 ---
 <h4 style="color:red" >School Facilities and Programmes</h4>
 
-  
-
 *   What are the school facilities?
 *   What are the programmes offered at the school?
 *   What activities can the school offer the pupils after school hours?
@@ -14,11 +12,7 @@ description: ""
 *   Will the school be starting classes for the other levels from P2 to P6?
 *   What Mother Tongue languages will be offered?
 
-  
-
 Punggol View Primary is one of the seven new primary schools that took in students from 2013. As recommended by the Primary Education Review and Implementation (PERI) Committee, the school has new design norms such as redesigned classrooms, dance and performing arts studios, as well as an outdoor jogging path. These facilities support the delivery of holistic education, and facilitate engaged learning in both academic and co-curriculum education.
-
-  
 
 Students can look forward to new facilities that will support educational approaches, which encourage more interaction and self-discovery, and facilitate experiential and hands-on learning. The new facilities also better support differentiated learning, to meet the learning needs of different groups of students.
 
@@ -91,9 +85,8 @@ To achieve MOE’s Desired Outcomes of Education and besides the standard subjec
 
 Punggol View Primary provides outdoor learning journeys and other enrichment activities for its students. To meet the needs and interests of our students, the school offer a range of CCAs in the area of Uniformed Group (Scout), Performing Arts (Art, Choir, Dance & Drama), Sports (Badminton, Floorball, Rugby and Wushu), and Clubs and Societies (IT-preneur Club, Service & Interact Club, Sports & Adventure Club) from Primary 3 onwards.  
 
-### Student Care Centre 
+<h4 style="color:black" >Student Care Centre</h4>
 
-  
 
 *   When will the Student Care Centre start operation?
 *   What are the operating hours of the Student Care Centre?
@@ -116,11 +109,7 @@ According to MSFD guidelines, the Student Care Centre runs from after school dis
 *   Group activities
 *   Parent involvement activities
 
-  
-
-Additional Information 
-
-  
+<h4 style="color:red" >Additional Information</h4>
 
 For enquiries, is there a contact number or e-mail address that I can write to?
 
@@ -128,13 +117,7 @@ For enquiries, is there a contact number or e-mail address that I can write to?
 
 For any enquiries on Punggol View Primary School, you can write to [punggolview\_ps@moe.edu.sg](mailto:punggolview_ps@moe.edu.sg). Alternatively, you can reach us at the following telephone number:  6570 1588.
 
-  
-
-  
-
-### Primary 1 Registration Matters 
-
-  
+<h4 style="color:black" >Primary 1 Registration Matters</h4>  
 
 For FAQs related to the P1 registration procedures, please refer to: 
 
