@@ -6,6 +6,19 @@ third_nav_title: School Services
 ---
 ![PGVPS Uniform & PE attire](/images/PGVPS%20Uniform%20&%20PE%20attire.jpg)
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<img src="/images/school%20uniform.jpg" alt="Paris" style="width:50%;">
+
+
 ![school uniform](/images/school%20uniform.jpg)
 
 **Shanghai School Uniforms Pte Ltd** has been supplying school uniforms to Singapore schools for the past 45 years and is one of the leading suppliers in the nation. We believe that quality school attire play a role in the learnng environment as dressing smartly is part and parcel of good image and discipline at school.   
