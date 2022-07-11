@@ -41,7 +41,7 @@ We will need to:
 
 \* The 21 st Century values and skills are as follows (alignment to the 21st Century Competencies Student Outcomes): 
 
-<p><strong>R <sup>3</sup>ICH Values: </strong>Respect, Responsibility, Resilience, Integrity, Care, Harmony.</p>
+<p><strong>R<sup>3</sup>ICH Values: </strong>Respect, Responsibility, Resilience, Integrity, Care, Harmony.</p>
 
 
 **Social and Emotional Competencies:**  
