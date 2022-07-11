@@ -11,7 +11,7 @@ description: ""
 
 <h3 style="color:black" align="center">"We are Punggol View"</h4>
 
-<p style="color:" align="center"><i>Lyrics by Staff of Punggol View <br>Music by Mrs Melody Leong</i></p>
+<p style="color:black" align="center"><i>Lyrics by Staff of Punggol View <br>Music by Mrs Melody Leong</i></p>
 
 <p style="text-align:center;"><strong>Verse 1</strong><br> I am a starfish<br>Here in Punggol View.<br>All of us are precious gems<br>Sparkling, shining in many ways.</p>
 
