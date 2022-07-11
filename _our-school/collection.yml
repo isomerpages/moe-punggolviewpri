@@ -2,16 +2,16 @@ collections:
   our-school:
     output: true
     order:
-      - School Services/Name Tag Supplier.md
-      - School Services/Insurance Claim for Students.md
-      - School Services/Student Care Centre.md
-      - School Services/School Dental Service.md
-      - School Services/Uniform Supplier.md
-      - School Services/Bookshop Vendor.md
-      - School Services/Bus Operator.md
-      - School Services/School Operating Hours.md
-      - School Services/School Services.md
       - School Services/.keep
+      - School Services/School Services.md
+      - School Services/School Operating Hours.md
+      - School Services/Bus Operator.md
+      - School Services/Bookshop Vendor.md
+      - School Services/Uniform Supplier.md
+      - School Services/School Dental Service.md
+      - School Services/Student Care Centre.md
+      - School Services/Insurance Claim for Students.md
+      - School Services/Name Tag Supplier.md
       - School Rules.md
       - Policies.md
       - Values.md
