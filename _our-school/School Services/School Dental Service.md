@@ -6,16 +6,20 @@ third_nav_title: School Services
 ---
 The School Dental Clinic has been operational since 25 July 2013. The operating hours of the clinic are:
 
-<h4 style="color:red" align="center">Mondays & Tuesdays</h4>
+<h5 style="color:red" align="center">Mondays & Tuesdays</h5>
 
 <p style="text-align:center;"> <strong>8 am to 5.30 pm</strong></p>
 
-<h4 style="color:red" align="center">Fridays</h4>
+<h5 style="color:red" align="center">Fridays</h5>
 
 <p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
+
+<h5 style="color:blue" align="center">Lunch Time (1.00 to 2.00 pm)
+</h5>
 					
 <p style="text-align:center;">Dental Therapist - Ms Elaine
 </p>
+
 
 Students who need urgent treatment can go to:-  
   
