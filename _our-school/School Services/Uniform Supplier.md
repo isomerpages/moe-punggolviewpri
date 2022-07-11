@@ -111,6 +111,6 @@ Singapore 408937
 Tel: +65 6747 8037  
 Fax: +65 6842 2741  
 
-<p>Mon-Sat: 10am to 6pm </p> <p style="color:red;">(Closed for Lunch from 1pm to 2pm)</p>
+<p>Mon-Sat: 10am to 6pm <p style="color:red;">(Closed for Lunch from 1pm to 2pm)</p>
 
 Closed during Stock Take and Secondary 1 Registration Day
