@@ -25,10 +25,10 @@ Students who need urgent treatment can go to:-
   
 	Punggol Green Pri Sch Dental Clinic      - 65389603  
 	Punggol Cove Pri Sch Dental Clinic       - 63857457  
-	Oasis Pri Sch Dental Clinic                     - 65098069  
-	Waterway Pri Sch Dental Clinic              - 63126047  
-	Sengkang Green Pri Sch Dental Clinic   - 62418954  
-	Health Promotion Board                         - 64353782
+	Oasis Pri Sch Dental Clinic                  - 65098069  
+	Waterway Pri Sch Dental Clinic            - 63126047  
+	Sengkang Green Pri Sch Dental Clinic     - 62418954  
+	Health Promotion Board                      - 64353782
   
   
 Students are advised to call for appointment as clinics are not open every day.  
