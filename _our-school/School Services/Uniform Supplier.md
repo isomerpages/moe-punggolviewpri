@@ -83,7 +83,8 @@ Arrangements have been made to place our uniforms in the school bookshop for the
 
 We conduct our year end uniform sales in the school during the peak period from mid-November to mid-January and our schedule is pegged to the bookshop's schedule (date and timing).   For Primary 1 orientation, we deploy maximum resources (a team of 10-15 staff) to carry out sales to the incoming students.   
   
-<p>Notwithstanding our superior quality and service, we are mindful of our costs and maintain competitive prices for our products.   By having our own manufacturing facilities and direct link with reputable international fabric mills, we are able to keep a close watch on our manufacturing costs while maintaining high quality standards so that our customers get the <u><strong>best value for money.</u></strong></p>   
+<p>Notwithstanding our superior quality and service, we are mindful of our costs and maintain competitive prices for our products. By having our own manufacturing facilities and direct link with reputable international fabric mills, we are able to keep a close watch on our manufacturing costs while maintaining high quality standards so that our customers get the <strong>best value for money.</strong></p>
+
 
 ### Contact Us
 
