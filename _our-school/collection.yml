@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Contact Us.md
       - School Services/.keep
       - School Services/School Services.md
       - School Services/School Operating Hours.md
