@@ -16,10 +16,9 @@ img {
 </head>
 <body>
 
-<img src="/images/school%20uniform.jpg" alt="Paris" style="width:50%;">
-
-
-![school uniform](/images/school%20uniform.jpg)
+<img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">
+	
+</body>
 
 **Shanghai School Uniforms Pte Ltd** has been supplying school uniforms to Singapore schools for the past 45 years and is one of the leading suppliers in the nation. We believe that quality school attire play a role in the learnng environment as dressing smartly is part and parcel of good image and discipline at school.   
    
