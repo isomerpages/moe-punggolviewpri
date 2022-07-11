@@ -6,7 +6,7 @@ description: ""
 <html>
 <body>
 
-<h1 style="text-align:center;">Confident Learners, Active Citizens</h1>
+<h3 style="text-align:center;">Confident Learners, Active Citizens</h3>
 
 </body>
 </html>
