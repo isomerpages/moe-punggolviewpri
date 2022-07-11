@@ -54,7 +54,6 @@ Online ordering (Website:&nbsp;[www.thecontinental.sg/punggolview](http://www.th
 
 * * *
 
-###   
 
 ### School Booklists
 
