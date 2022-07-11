@@ -2,10 +2,13 @@ collections:
   our-school:
     output: true
     order:
-      - School Song.md
-      - Strategic Thrusts.md
-      - FAQS.md
-      - Contact Us.md
+      - Vision.md
+      - Mission.md
+      - Motto.md
+      - Philosophy.md
+      - Values.md
+      - Policies.md
+      - School Rules.md
       - School Services/.keep
       - School Services/School Services.md
       - School Services/School Operating Hours.md
@@ -16,10 +19,7 @@ collections:
       - School Services/Student Care Centre.md
       - School Services/Insurance Claim for Students.md
       - School Services/Name Tag Supplier.md
-      - School Rules.md
-      - Policies.md
-      - Values.md
-      - Philosophy.md
-      - Motto.md
-      - Mission.md
-      - Vision.md
+      - Contact Us.md
+      - FAQS.md
+      - Strategic Thrusts.md
+      - School Song.md
