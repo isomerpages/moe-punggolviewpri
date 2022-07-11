@@ -9,18 +9,13 @@ description: ""
 
 ### Lyrics
 
-<h3 style="color:red" align="center">Fridays</h4>
+<h3 style="color:black" align="center">"We are Punggol View"</h4>
 
-### "We are Punggol View"
+<p style="text-align:center;"><i>Lyrics by Staff of Punggol View <br>Music by Mrs Melody Leong</i></p>
 
-_Lyrics by Staff of Punggol View  
-Music by Mrs Melody Leong_
+<p style="text-align:center;"><strong>Verse 1</strong><br> I am a starfish<br>Here in Punggol View.<br>All of us are precious gems<br>Sparkling, shining in many ways.</p>
 
-**Verse 1**  
-I am a starfish  
-Here in Punggol View.  
-All of us are precious gems  
-Sparkling, shining in many ways.
+<p style="text-align:center;"><strong>Verse 2</strong><br> We grow and glow together<br>To be the persons of character.<br>Live our values every day,<br>Give of our best in all we do.</p>
 
 **Verse 2**  
 We grow and glow together  
