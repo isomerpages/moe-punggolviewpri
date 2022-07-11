@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Policies.md
       - Values.md
       - Philosophy.md
       - Motto.md
