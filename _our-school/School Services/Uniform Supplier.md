@@ -4,7 +4,18 @@ permalink: /our-school/school-services/uniform-supplier
 description: ""
 third_nav_title: School Services
 ---
-![PGVPS Uniform & PE attire](/images/PGVPS%20Uniform%20&%20PE%20attire.jpg)
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<body>
+
+<img src="/images/PGVPS%20Uniform%20&%20PE%20attire.jpg" alt="PGVPS Uniform & PE attire" style="width:80%;">
+	
+</body>
 
 <style>
 img {
@@ -13,7 +24,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 <img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">
