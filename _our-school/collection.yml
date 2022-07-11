@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Services/Bus Operator.md
       - School Services/School Operating Hours.md
       - School Services/School Services.md
       - School Services/.keep
