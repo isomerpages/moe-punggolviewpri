@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - Motto.md
       - Mission.md
       - Vision.md
