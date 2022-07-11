@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Strategic Thrusts.md
       - FAQS.md
       - Contact Us.md
       - School Services/.keep
