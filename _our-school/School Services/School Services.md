@@ -6,7 +6,7 @@ third_nav_title: School Services
 ---
 <p><strong><u>Operating Hours</u></strong></p>
 
-In alignment with PERI's recommendations, Punggol View Primary School operates as a single-session school so as to commit more space and time for values-based holistic education. To facilitate this, the school starts at 7.30 am. For more details, [click here](/our-school/school-services/operating-hours).
+In alignment with PERI's recommendations, Punggol View Primary School operates as a single-session school so as to commit more space and time for values-based holistic education. To facilitate this, the school starts at 7.30 am. For more details, [click here](/our-school/school-services/school-operating-hours). 
 
 Tuesdays will be designated CCA day for most CCAs. There will be no other after-school programmes on Tuesdays.
 
