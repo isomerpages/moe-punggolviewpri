@@ -9,7 +9,7 @@ description: ""
 
 ### Lyrics
 
-<h3 style="color:black" align="center">"We are Punggol View"</h4>
+<h3 style="color:black" align="center">"We are Punggol View"</h3>
 
 <p style="color:black" align="center"><i>Lyrics by Staff of Punggol View <br>Music by Mrs Melody Leong</i></p>
 
