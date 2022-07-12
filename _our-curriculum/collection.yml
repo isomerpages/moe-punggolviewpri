@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/the children's Choir.md
       - Co Curricular Activities/Contemporary Dance.md
       - Co Curricular Activities/Sports & Adventure Club.md
       - Co Curricular Activities/Floorball.md
