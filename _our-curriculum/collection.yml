@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - English Language/Emphasising on oral communication.md
-      - English Language/Happy Hall program.md
-      - English Language/Our Journey thus far.md
-      - English Language/English Language.md
       - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Our Journey thus far.md
+      - English Language/Happy Hall program.md
+      - English Language/Emphasising on oral communication.md
       - Curriculum Framework.md
