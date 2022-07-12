@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Physical Education/Programmes.md
       - Physical Education/Physical Education.md
       - Physical Education/.keep
       - Information and Communication Technology (ICT).md
