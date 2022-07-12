@@ -213,7 +213,20 @@ img {
 
 ---
 
-![](/images/Mrs%20Magdelene%20Khairyl-Han.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mrs%20Magdelene%20Khairyl-Han.jpg" alt="Ms Magdelene Khairyl-Han" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>SH AESTHETICS<br>Ms Magdelene Khairyl-Han</strong><br><a href="mailto:han_may_yun_magdelene@moe.edu.sg">han_may_yun_magdelene@moe.edu.sg</a></p>
+
+---
 
 <style>  
 img {  
@@ -222,26 +235,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Luo%20Kangming%20Eugene.jpg" alt="Mr Luo Kangming Eugene
+" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>SH Innovation in T&L<br>Mr Luo Kangming Eugene
+</strong><br><a href="mailto:luo_kangming_eugene@moe.edu.sg ">luo_kangming_eugene@moe.edu.sg </a></p>
 
-![](/images/Mr%20Luo%20Kangming%20Eugene.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+---
 
 ![](/images/Mdm%20Janice%20Ong.jpg)
 
