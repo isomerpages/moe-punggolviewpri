@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language/English Language.md
       - English Language/.keep
       - Curriculum Framework.md
