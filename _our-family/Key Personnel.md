@@ -245,7 +245,20 @@ img {
 
 ---
 
-![](/images/Mdm%20Janice%20Ong.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mdm%20Janice%20Ong.jpg" alt="Mdm Janice Ong" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>SH CCE<br>Mdm Janice Ong</strong><br><a href="mailto:ong_poh_ling@moe.edu.sg">ong_poh_ling@moe.edu.sg</a></p>
+
+---
 
 <style>  
 img {  
@@ -254,13 +267,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Lim%20Hwee%20Li.jpg" alt="Mdm Lim Hwee Li" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>SH VIA cum YH<br>Mdm Lim Hwee Li</strong><br><a href="mailto:lim_hwee_li@moe.edu.sg">lim_hwee_li@moe.edu.sg</a></p>
 
-![](/images/Mdm%20Lim%20Hwee%20Li.jpg)
+---
 
 <style>  
 img {  
@@ -269,13 +282,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mrs%20Sophie%20Chen.jpg" alt="Mrs Sophie Chen - Ms Wang Peipei" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>AYH<br>Mrs Sophie Chen - Ms Wang Peipei</strong><br><a href="mailto:wang_peipei_sophie@moe.edu.sg">wang_peipei_sophie@moe.edu.sg</a></p>
 
-![](/images/Mrs%20Sophie%20Chen.jpg)
+---
 
 <style>  
 img {  
@@ -284,13 +297,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Han%20Huaxiu.jpg" alt="Mdm Han Huaxiu" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>AYH<br>Mdm Han Huaxiu</strong><br><a href="mailto:han_huaxiu@moe.edu.sg">han_huaxiu@moe.edu.sg</a></p>
 
-![](/images/Mdm%20Han%20Huaxiu.jpg)
+---
 
 <style>  
 img {  
@@ -299,13 +312,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Rosnita%20Abdul%20Rahim.jpg" alt="Mdm Rosnita Abdul Rahim" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>YH LOWER YEARS<br>Mdm Rosnita Abdul Rahim</strong><br><a href="mailto:rosnita_abdul_rahim@moe.edu.sg">rosnita_abdul_rahim@moe.edu.sg</a></p>
 
-![](/images/Ms%20Rosnita%20Abdul%20Rahim.jpg)
+---
 
 <style>  
 img {  
@@ -314,13 +327,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Jamie%202022.jpeg" alt="Miss Cheng Chin Ying, Jamie
+" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>YH UPPER YEARS<br>Miss Cheng Chin Ying, Jamie
+</strong><br><a href="mailto:cheng_chin_ying@moe.edu.sg 	">cheng_chin_ying@moe.edu.sg</a></p>
 
-![](/images/Jamie%202022.jpeg)
+---
 
 <style>  
 img {  
@@ -329,13 +344,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Tan%20Wan%20Ting%20Clara.jpg" alt="Mdm Clara Tan" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>AYH (Internal)<br>Mdm Clara Tan</strong><br><a href="mailto:tan_wan_ting_clara@moe.edu.sg">tan_wan_ting_clara@moe.edu.sg</a></p>
 
-![](/images/Mdm%20Tan%20Wan%20Ting%20Clara.jpg)
+---
 
 <style>  
 img {  
@@ -344,23 +359,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Karen%20Low%20Lai%20Fong.jpg" alt="Ms Karen Low" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
-
-![](/images/Ms%20Karen%20Low%20Lai%20Fong.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>MTT PE<br>Ms Karen Low</strong><br><a href="mailto:low_lai_fong_a@moe.edu.sg">low_lai_fong_a@moe.edu.sg</a></p>
