@@ -2,8 +2,31 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Art.md
-      - Music.md
+      - Curriculum Framework.md
+      - English Language/.keep
+      - English Language/English Language.md
+      - English Language/Our Journey thus far.md
+      - English Language/Happy Hall program.md
+      - English Language/Emphasising on oral communication.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Tamil Language.md
+      - Mother Tongue Languages/Malay Language.md
+      - Mathematics.md
+      - Character and Citizenship Education (CCE).md
+      - Information and Communication Technology (ICT).md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Programmes.md
+      - Distinctive Programmes.md
+      - Programme for Active Learning (PAL).md
+      - Science/.keep
+      - Science/Science.md
+      - Science/Quality Experience & Happy Hall.md
+      - Science/Integration of Science.md
+      - Student Development Team/.keep
+      - Student Development Team/Student Development Team.md
+      - Student Development Team/Student Leadership.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
       - Co Curricular Activities/Badminton.md
@@ -19,28 +42,5 @@ collections:
       - Co Curricular Activities/IT Preneurial Club.md
       - Co Curricular Activities/Malay Dance.md
       - Co Curricular Activities/Speech and Drama Society.md
-      - Student Development Team/.keep
-      - Student Development Team/Student Development Team.md
-      - Student Development Team/Student Leadership.md
-      - Science/.keep
-      - Science/Science.md
-      - Science/Quality Experience & Happy Hall.md
-      - Science/Integration of Science.md
-      - Programme for Active Learning (PAL).md
-      - Distinctive Programmes.md
-      - Physical Education/.keep
-      - Physical Education/Physical Education.md
-      - Physical Education/Programmes.md
-      - Information and Communication Technology (ICT).md
-      - Character and Citizenship Education (CCE).md
-      - Mathematics.md
-      - Mother Tongue Languages/.keep
-      - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/Tamil Language.md
-      - Mother Tongue Languages/Malay Language.md
-      - English Language/.keep
-      - English Language/English Language.md
-      - English Language/Our Journey thus far.md
-      - English Language/Happy Hall program.md
-      - English Language/Emphasising on oral communication.md
-      - Curriculum Framework.md
+      - Music.md
+      - Art.md
