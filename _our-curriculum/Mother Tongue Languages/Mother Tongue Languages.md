@@ -68,7 +68,7 @@ Chinese Language Unit started CL Touch-Typing Program in 2018 to develop student
 
 On 30 January 2019, more than 100 parents and students attended a reading technique workshop conducted by PGVP Malay Language Unit. The workshop, entitled ‘Waris Baca Cerita’, was graced by Senior Parliamentary Secretary and Chairman of the Malay Language Learning and Promotion Committee (MLLPC), Dr. Faishal Ibrahim and was featured in the Malay News programme on Suria Channel.
 
-![](/images/malay%20language%20unit.png)
+<img src="/images/malay%20language%20unit.png" style="width:240px;height:183px;margin-left:15px;" align = "left">
 
 During the workshop, parents and students were guided on ways to hone their reading and storytelling skills.  Interesting reading tips and storytelling techniques were shared to parents so that they could instil a love for reading in their children.  The workshop was designed based on the popular reader series, Nabil Nabilah, which were written by our very own Punggol View Malay Language teachers.
 
@@ -81,4 +81,3 @@ The series, filled with moral values written in the Singapore context have been 
 ##### For media coverage by Berita Mediacorp, please click this link: 
 
 [**https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp**](https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp)
-
