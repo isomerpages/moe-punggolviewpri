@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Art.md
       - Music.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
