@@ -97,9 +97,9 @@ We conduct our year end uniform sales in the school during the peak period from 
 
 #### **E-mail**
 
-[General: contact@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)
+General: [contact@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)
 
-[Sales: sales@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)
+Sales: [sales@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)
 
 <table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="margin: 0px; outline: 0px; padding: 0px; table-layout: fixed; font-size: 10pt; font-family: arial, sans, sans-serif; width: 0px; border-collapse: collapse; border: none;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 21px;"><td style="margin: 0px; outline: 0px; padding: 2px 3px; overflow: hidden; vertical-align: bottom;"></td></tr></tbody></table>
 
