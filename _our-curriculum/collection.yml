@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/MALAY DANCE.md
       - Co Curricular Activities/IT Preneurial Club.md
       - Co Curricular Activities/Service and Interact Club.md
       - Co Curricular Activities/Scouts.md
