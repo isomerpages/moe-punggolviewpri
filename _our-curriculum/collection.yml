@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/Science.md
       - Science/.keep
       - Programme for Active Learning (PAL).md
       - Distinctive Programmes.md
