@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Distinctive Programmes.md
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Programmes.md
