@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science/Integration of Science.md
-      - Science/Quality Experience & Happy Hall.md
-      - Science/Science.md
       - Science/.keep
+      - Science/Science.md
+      - Science/Quality Experience & Happy Hall.md
+      - Science/Integration of Science.md
       - Programme for Active Learning (PAL).md
       - Distinctive Programmes.md
       - Physical Education/.keep
