@@ -16,23 +16,7 @@ img {
 
 <p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
 
-
-![](/images/Mdm%20Tan%20Siew%20Chian.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
-
-![](/images/AIN.jpeg)
+---
 
 <style>  
 img {  
@@ -41,13 +25,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Tan%20Siew%20Chian.jpg" alt="Mdm Tan Siew Chian" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD ICT<br>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></p>
 
-![](/images/Alison.jpeg)
+---
 
 <style>  
 img {  
@@ -56,13 +40,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/AIN.jpeg" alt="Miss Nur Ain Bte Juma'at" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD CCE<br>Miss Nur Ain Bte Juma'at</strong><br><a href="mailto:nur_ain_juma_at@moe.edu.sg">nur_ain_juma_at@moe.edu.sg</a></p>
 
-![](/images/Mr%20Adrain%20Ong.jpg)
+---
 
 <style>  
 img {  
@@ -71,13 +55,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Alison.jpeg" alt="Ms Alison Teo" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD PE/CCA<br>Ms Alison Teo</strong><br><a href="mailto:teo_yili_alison@moe.edu.sg">teo_yili_alison@moe.edu.sg</a></p>
 
-![](/images/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.jpg)
+---
 
 <style>  
 img {  
@@ -86,13 +70,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Adrain%20Ong.jpg" alt="Mr Adrain Ong Wee Loon" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD MTL<br>Mr Adrain Ong Wee Loon</strong><br><a href="mailto:ong_wee_loon_adrain@moe.edu.sg">ong_wee_loon_adrain@moe.edu.sg</a></p>
 
-![](/images/Mr%20Cheng%20Chuen%20Yang%20Christopher.jpg)
+---
 
 <style>  
 img {  
@@ -101,13 +85,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.jpg" alt="Ms Nur Mawarni Nin Sahmad" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD SM<br>Ms Nur Mawarni Nin Sahmad</strong><br><a href="mailto:nur_mawarni_nin_sahmad@moe.edu.sg">nur_mawarni_nin_sahmad@moe.edu.sg</a></p>
 
-![](/images/Ms%20Balbir%20Kaur.jpg)
+---
 
 <style>  
 img {  
@@ -116,13 +100,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Cheng%20Chuen%20Yang%20Christopher.jpg" alt="Mr Christopher Cheng" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD MATHS<br>Mr Christopher Cheng</strong><br><a href="mailto:christopher_cheng@moe.edu.sg">christopher_cheng@moe.edu.sg</a></p>
 
-![](/images/Mr%20Ivan%20Ng%20Wee%20Liat.jpg)
+---
 
 <style>  
 img {  
@@ -131,13 +115,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Balbir%20Kaur.jpg" alt="Ms Balbir Kaur" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD EL<br>Ms Balbir Kaur</strong><br><a href="mailto:kaur_balbir_g_singh@moe.edu.sg">kaur_balbir_g_singh@moe.edu.sg</a></p>
 
-![](/images/Ms%20Cheryl%20Lim%20Lee.jpg)
+---
 
 <style>  
 img {  
@@ -146,11 +130,26 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Ivan%20Ng%20Wee%20Liat.jpg" alt="Mr Ivan Ng" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>SSD<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
+<p style="text-align:center;"><strong>HOD SCIENCE<br>Mr Ivan Ng</strong><br><a href="mailto:ng_wee_liat_ivan@moe.edu.sg">ng_wee_liat_ivan@moe.edu.sg</a></p>
+
+---
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Ms%20Cheryl%20Lim%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>LH EL<br>Ms Oh Pei Sze</strong><br><a href="mailto:oh_pei_sze@moe.edu.sg">oh_pei_sze@moe.edu.sg</a></p>
 
 ![](/images/Mr%20Teo%20Tze%20Koon%20Isreal.jpg)
 
