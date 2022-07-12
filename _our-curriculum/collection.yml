@@ -2,21 +2,21 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities/Speech and Drama Society.md
-      - Co Curricular Activities/MALAY DANCE.md
-      - Co Curricular Activities/IT Preneurial Club.md
-      - Co Curricular Activities/Service and Interact Club.md
-      - Co Curricular Activities/Scouts.md
-      - Co Curricular Activities/Young Artists' Club.md
-      - Co Curricular Activities/the children's Choir.md
-      - Co Curricular Activities/Contemporary Dance.md
-      - Co Curricular Activities/Sports & Adventure Club.md
-      - Co Curricular Activities/Floorball.md
-      - Co Curricular Activities/Wushu.md
-      - Co Curricular Activities/Rugby.md
-      - Co Curricular Activities/Badminton.md
-      - Co Curricular Activities/Co Curricular Activities (CCAs).md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities (CCAs).md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Rugby.md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Floorball.md
+      - Co Curricular Activities/Sports & Adventure Club.md
+      - Co Curricular Activities/Contemporary Dance.md
+      - Co Curricular Activities/the children's Choir.md
+      - Co Curricular Activities/Young Artists' Club.md
+      - Co Curricular Activities/Scouts.md
+      - Co Curricular Activities/Service and Interact Club.md
+      - Co Curricular Activities/IT Preneurial Club.md
+      - Co Curricular Activities/MALAY DANCE.md
+      - Co Curricular Activities/Speech and Drama Society.md
       - Student Development Team/.keep
       - Student Development Team/Student Development Team.md
       - Student Development Team/Student Leadership.md
