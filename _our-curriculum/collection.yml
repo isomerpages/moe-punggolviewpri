@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Science/Quality Experience & Happy Hall.md
       - Science/Science.md
       - Science/.keep
       - Programme for Active Learning (PAL).md
