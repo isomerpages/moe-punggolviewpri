@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development Team/Student Leadership.md
-      - Student Development Team/Student Development Team.md
       - Student Development Team/.keep
+      - Student Development Team/Student Development Team.md
+      - Student Development Team/Student Leadership.md
       - Science/.keep
       - Science/Science.md
       - Science/Quality Experience & Happy Hall.md
