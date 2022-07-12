@@ -59,7 +59,46 @@ Learning never stops. I would want every PGVP student to continue to pursue thei
 
 I am very grateful to be posted to Punggol View Primary School to serve as its Vice-Principal. When I first stepped in the school campus, I could sense the strong collegiality and congeniality among the staff, and discerned how our students take great pride in all their learning endeavors.  This resonates very well in the school’s vision of ‘Confident Learners, Active Citizens’. I am also very delighted to sense the school’s concerted approach in providing a holistic education for all students, with a strong emphasis on character development.
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
 
-![Mr Goh Zensen](/images/Mr%20Goh%20Zensen.jpg)
 
-![Mr Michael Chong](/images/Mr%20Michael%20Chong.jpg)
+<img src="/images/Mr%20Goh%20Zensen.jpg" alt="Mr Goh Zensen" style="width:50%;">
+
+</body>
+
+<p style="text-align:center;"> <strong>Mr Goh Zensen<br>Vice-Principal</strong></p>
+
+I started my teaching career by spending 18 years at Blangah Rise Primary School, having served as its Head of Department for ICT and Vice-Principal before being rotated to Zhonghua Primary School for another 6 years.  A firm believer in innovation, I have always been championing this cause with my colleagues, resulting in enhanced student learning, improved work processes and reduced workload without comprising learning rigour or desired outcomes.
+
+My training in Bachelor of Business Administration (BBA) with a specialization in Management at NUS has helped a lot in my role as a school administrator. I was heartened to be conferred both the Dr Ruth Wong Medal and Association of Curriculum & Supervision Development (ASCD) Book Prize when I pursued my Diploma in Departmental Management (DDM). My RECSAM (Regional Education Centre in Science & Mathematics) scholarship to Penang in learning action research and my Master of Music Education Degree at NIE had further deepened my curriculum knowledge, which I am hopeful that I am able to spread the seed of knowledge with all my colleagues at PGVP joyfully while learning from them concurrently as we advance the Learn for Life movement together. I look forward to working with all to help our students become future-ready lifelong learners.
+
+---
+
+I am excited to be a part of Punggol View Primary - a learning environment that is vibrant and exciting.  I joined the education service in 1996 as a teacher at Red Swastika School.  Subsequently, I served as the HOD Science in the school before being appointed as Vice Principal in Ai Tong School, followed by postings to Park View Primary School and Casuarina Primary School.  This year, I have been posted to Punggol View as the Vice Principal (Admin).  Although this is a new learning opportunity for me, nevertheless, I hope to be able to share some of my experience gleaned over the years to enrich the staff and students at Punggol View Primary.
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+
+<img src="/images/Mr%20Michael%20Chong.jpg" alt="Mr Michael Chong" style="width:50%;">
+
+</body>
+
+<p style="text-align:center;"> <strong>Mr Michael Chong<br>Vice-Principal (Administration)</strong></p>
+
+My educational philosophy has always been to provide students with a broad-based holistic education. Schools should equip students with the necessary life-skills and learning tools so that they are able to learn for life. With the help of our dedicated team of teachers, students should be able to pick up positive learning dispositions, values and attitudes for lifelong learning.  As such, the educational environment, our classrooms and facilities must be able to allow teachers to impart learning and for students to become critical thinkers, self-directed learners and collaborative team members and leaders. Our school must also allocate appropriate resources to allow for teaching and learning to meet our students’ learning outcomes.  I am very sure that, together with the vibrant team of teachers and administrators, we will work in partnership with parents and the community to create quality teaching and learning programmes for our students so as to make Punggol View Primary a choice school in Punggol in the years to come.
