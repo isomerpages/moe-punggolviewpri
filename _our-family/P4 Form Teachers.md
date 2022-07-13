@@ -24,17 +24,17 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 4 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2022/harikrishnan.jpg" alt="harikrishnan.jpg" width="199" height="298">Mr Harikrishnan s/o Jayapalan</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Cheryl%20Lim%20Lee.JPG" alt="Ms Cheryl Lim Lee.JPG" width="201" height="300">Ms Cheryl Lim<br><br></td>
-    <td class="tg-qn16"><strong>Mr Harikrishnan s/o Jayapalan</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>harikrishnan_jayapalan@moe.edu.sg<br><br><strong>Ms Cheryl Lim</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_lee_@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/harikrishnan.jpg" alt="harikrishnan.jpg" width="199" height="298">Mr Harikrishnan s/o Jayapalan</td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Cheryl%20Lim%20Leee.jpg" alt="Ms Cheryl Lim Lee.JPG" width="201" height="300">Ms Cheryl Lim<br><br></td>
+    <td class="tg-qn16"><strong>Mr Harikrishnan s/o Jayapalan</strong><br><a href="mailto:hiharikrishnan_jayapalan@moe.edu.sg">harikrishnan_jayapalan@moe.edu.sg</a><br><br><strong>Ms Cheryl Lim</strong><br><a href="mailto:lim_lee_@moe.edu.sg">lim_lee_@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 4 Diamond   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Yeong%20Pui%20San.JPG" alt="Ms Yeong Pui San.JPG" width="199">Ms Yeong Pui San </td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Clara%20Tan.JPG" alt="Mdm Clara Tan.JPG" width="201">Mdm Clara Tan </td>
-    <td class="tg-qn16"><strong>Ms Yeong Pui San</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>yeong_pui_san@moe.edu.sg<br><br><strong>Mdm Clara Tan</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>tan_wan_ting_clara@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Yeong%20Pui%20San.jpg" alt="Ms Yeong Pui San.JPG" width="199">Ms Yeong Pui San </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Clara%20Tan.jpg" alt="Mdm Clara Tan.JPG" width="201">Mdm Clara Tan </td>
+    <td class="tg-qn16"><strong>Ms Yeong Pui San</strong><br><a href="mailto:yeong_pui_san@moe.edu.sg">yeong_pui_san@moe.edu.sg</a><br><br><strong>Mdm Clara Tan</strong><br><a href="mailto:tan_wan_ting_clara@moe.edu.sg">tan_wan_ting_clara@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  4 Emerald </strong> </td>
