@@ -45,12 +45,12 @@ description: ""
     <td class="tg-qn16"><strong>Mr Mohd Helmi</strong><br>mohammad_helmi_ahmad_bamad@moe.edu.sg<br><br><strong>Mdm Lim Hwee Li</strong><br>lim_hwee_li@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  3 Jade   </td>
+    <td class="tg-qn16" colspan="3"><strong>  3 Jade   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Chia%20Hui%20Ming%20Dawn%20[1].JPG" alt="Ms Chia Hui Ming Dawn .JPG" width="189">#Ms Dawn Chia Hui Ming<br><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/AIN.jpeg" alt="AIN.jpeg" width="190">#Miss Nur Ain Bte Juma'at </td>
-    <td class="tg-qn16"> Ms Dawn Chia Hui Ming<br>chia_hui_ming_dawn<br>@moe.edu.sg<br><br>Miss Nur Ain <br>nur_ain_juma_at@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="![](/images/Ms%20Chia%20Hui%20Ming%20Dawnn.jpg)" alt="Ms Chia Hui Ming Dawn .JPG" width="189">Ms Dawn Chia Hui Ming<br><br></td>
+    <td class="tg-v9jf"><img src="![](/images/ain.jpeg)" alt="AIN.jpeg" width="190">Miss Nur Ain Bte Juma'at </td>
+    <td class="tg-qn16"><strong> Ms Dawn Chia Hui Ming</strong><br>chia_hui_ming_dawn@moe.edu.sg<br><br><strong>Miss Nur Ain </strong><br>nur_ain_juma_at@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  3 Opal   </td>
