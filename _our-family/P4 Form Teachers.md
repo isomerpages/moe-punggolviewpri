@@ -40,9 +40,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>  4 Emerald </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Kumaran%20so%20Muniandi.JPG" alt="Mr Kumaran so Muniandi.JPG" width="199">Mr Kumaran</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Key%20Personnel/2017/Mr%20Muhd%20Nazriff%20Nasser.JPG" alt="Mr Muhd Nazriff Nasser.JPG">Mr Muhd Nazriff </td>
-    <td class="tg-qn16"><strong> Mr Kumaran s/o Muniandi</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>kumaran_muniandi@moe.edu.sg<br><br><strong>Mr Muhd Nazriff Nasser</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>muhammad_nazriff_naser@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Kumaran%20so%20Muniandi.jpg" alt="Mr Kumaran so Muniandi.JPG" width="199">Mr Kumaran</td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Muhd%20Nazriff%20Nasser.jpg" alt="Mr Muhd Nazriff Nasser.JPG">Mr Muhd Nazriff </td>
+    <td class="tg-qn16"><strong> Mr Kumaran s/o Muniandi</strong><br><a href="mailto:kumaran_muniandi@moe.edu.sg">kumaran_muniandi@moe.edu.sg</a><br><br><strong>Mr Muhd Nazriff Nasser</strong><br><a href="mailto:muhammad_nazriff_naser@moe.edu.sg">muhammad_nazriff_naser@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 4 Jade </strong>  </td>
