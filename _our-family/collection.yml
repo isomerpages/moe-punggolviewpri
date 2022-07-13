@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - P1 Form Teachers.md
       - EAS & Support Staff.md
       - Key Personnel.md
       - School Leaders.md
