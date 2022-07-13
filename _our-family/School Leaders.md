@@ -14,7 +14,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 
@@ -41,7 +40,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 
@@ -66,7 +64,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 
@@ -91,7 +88,6 @@ img {
   margin-right: auto;
 }
 </style>
-</head>
 <body>
 
 
