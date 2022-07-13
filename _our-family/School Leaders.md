@@ -17,7 +17,7 @@ img {
 <body>
 
 
-<img src="/images/Dr%20Ang%20Wek%20Cheng.jpg" alt="Paris" style="width:50%;">
+<img src="/images/Dr%20Ang%20Wek%20Cheng.jpg" alt="Paris" style="width:35%;">
 
 </body>
 
@@ -43,7 +43,7 @@ img {
 <body>
 
 
-<img src="/images/Mdm%20Sharifah%20Samirah.jpg" alt="Mdm Sharifah Samirah" style="width:50%;">
+<img src="/images/Mdm%20Sharifah%20Samirah.jpg" alt="Mdm Sharifah Samirah" style="width:35%;">
 
 </body>
 
@@ -67,7 +67,7 @@ img {
 <body>
 
 
-<img src="/images/Mr%20Goh%20Zensen.jpg" alt="Mr Goh Zensen" style="width:50%;">
+<img src="/images/Mr%20Goh%20Zensen.jpg" alt="Mr Goh Zensen" style="width:35%;">
 
 </body>
 
@@ -91,7 +91,7 @@ img {
 <body>
 
 
-<img src="/images/Mr%20Michael%20Chong.jpg" alt="Mr Michael Chong" style="width:50%;">
+<img src="/images/Mr%20Michael%20Chong.jpg" alt="Mr Michael Chong" style="width:35%;">
 
 </body>
 
