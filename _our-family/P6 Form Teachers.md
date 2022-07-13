@@ -58,7 +58,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mrs%20Lisa%20Choo.jpg" alt="Mrs Lisa Choo.JPG" width="194">Mdm Lisa Tan<br><br></td>
-    <td class="tg-v9jf"><img src="images/Mrs%20Sophie%20Chen.jpg" alt="Mrs Sophie Chen.JPG" width="194">Mrs Sophie Chen-Ms Wang Peipei </td>
+    <td class="tg-v9jf"><img src="/images/Mrs%20Sophie%20Chenn.jpg" alt="Mrs Sophie Chen.JPG" width="194">Mrs Sophie Chen-Ms Wang Peipei </td>
     <td class="tg-qn16"><strong>Mdm Lisa Tan</strong><br><a href="mailto:choo_lisa@moe.edu.sg">choo_lisa@moe.edu.sg</a><br><br><strong>Mrs Sophie Chen-Ms Wang Peipei</strong><br><a href="mailto:wang_peipei_sophie@moe.edu.sg">wang_peipei_sophie@moe.edu.sg</a></td>
   </tr>
   <tr>
