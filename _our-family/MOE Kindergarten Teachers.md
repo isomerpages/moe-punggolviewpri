@@ -38,14 +38,14 @@ description: ""
     <td class="tg-v9jf"><img src="/images/jeannie%20sim.jpg" alt="jeannie sim.jpg" width="163" height="243"><strong>Ms Sim Ai Ping Jeannie</strong><br></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Chew%20Tang%20Wee.JPG" alt="Ms Chew Tang Wee.JPG" width="164" height="246">#Ms Chew Tang Wee<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri-moe-edu-sg-admin.cwp.sg/qql/slot/u315/Our%20Family/MK/Ms%20Shalini%20Nair%20do%20Prabhakaran.JPG" alt="Ms Shalini Nair do Prabhakaran.JPG" width="166" height="249">#Ms Shalini Nair</td>
-    <td class="tg-xjv0"><span style="background-color:initial">Ms Ethel Ng Sining</span><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Chew%20Tang%20Wee.jpg" alt="Ms Chew Tang Wee.JPG" width="164" height="246"><strong>Ms Chew Tang Wee</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Shalini%20Nair%20do%20Prabhakaran.jpg" alt="Ms Shalini Nair do Prabhakaran.JPG" width="166" height="249"><strong>Ms Shalini Nair</strong></td>
+    <td class="tg-xjv0"><span style="background-color:initial"><strong>Ms Ethel Ng Sining</strong></span><br></td>
   </tr>
   <tr>
-    <td class="tg-xjv0"><br><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/joaquinne.jpg" alt="joaquinne.jpg" width="164" height="242"><br>Ms Lee Wen Qi Joaquine Theone</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/melinda.jpg" alt="melinda.jpg" width="166" height="248">#Ms Melinda Nachammal<br>Kumar R</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/juliana.jpg" alt="juliana.jpg" width="168" height="251">#Ms Mahtani Juliana Deepak </td>
+    <td class="tg-xjv0"><br><img src="/images/joaquinne.jpg" alt="joaquinne.jpg" width="164" height="242"><br><strong>Ms Lee Wen Qi Joaquine Theone</strong></td>
+    <td class="tg-v9jf"><img src="/images/melinda.jpg" alt="melinda.jpg" width="166" height="248"><strong>Ms Melinda Nachammal Kumar R</strong></td>
+    <td class="tg-v9jf"><img src="/images/juliana.jpg" alt="juliana.jpg" width="168" height="251"><strong>Ms Mahtani Juliana Deepak </strong></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE</span></td>
