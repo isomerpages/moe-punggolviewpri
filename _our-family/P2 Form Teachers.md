@@ -74,7 +74,7 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/Mdm%20Shannon%20Pang.jpg" alt="Mdm Shannon Pang.JPG" width="196">Mdm Shannon Pang </td>
     <td class="tg-v9jf"><img src="/images/Mdm%20Nur%20Amlia%20Jumali.jpg" alt="Mdm Nur Amlia Jumali.JPG" width="195">Mdm Nur Amlia Jumali </td>
-    <td class="tg-qn16"><strong>Mdm Shannon Pang</strong><br>pang_teng_yen@moe.edu.sg<br><br><strong>Mdm Nur Amlia Jumali</strong><br>nur_amalia_jumali@moe.edu.sg </td>
+    <td class="tg-qn16"><strong>Mdm Shannon Pang</strong><br><a href="mailto:pang_teng_yen@moe.edu.sg">pang_teng_yen@moe.edu.sg</a><br><br><strong>Mdm Nur Amlia Jumali</strong><br><a href="mailto:nur_amalia_jumali@moe.edu.sg">nur_amalia_jumali@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  <strong> 2 Sapphire </strong> </td>
