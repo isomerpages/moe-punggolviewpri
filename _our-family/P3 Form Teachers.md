@@ -21,20 +21,20 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qn16" colspan="3"> 3 Amethyst</td>
+    <td class="tg-qn16" colspan="3"><strong> 3 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2022/Lowe%20yoke%20leng.jpg" alt="Lowe yoke leng.jpg" width="189">#Miss Lowe Yoke Leng<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Brandon%20Chow%20Yuen%20Jeng.JPG" alt="Mr Brandon Chow Yuen Jeng.JPG" width="188" height="283">#Mr Brandon Chow</td>
-    <td class="tg-qn16">Miss Low Yoke Leng<br>low_yoke_leng@moe.edu.sg<br><br>Mr Brandon Chow<br>chow_yuen_jeng@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Lowe%20yoke%20leng.jpg" alt="Lowe yoke leng.jpg" width="189">Miss Lowe Yoke Leng<br></td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Brandon%20Chow%20Yuen%20Jeng.jpg" alt="Mr Brandon Chow Yuen Jeng.JPG" width="188" height="283">Mr Brandon Chow</td>
+    <td class="tg-qn16"><strong>Miss Low Yoke Leng</strong><br>low_yoke_leng@moe.edu.sg<br><br><strong>Mr Brandon Chow</strong><br>chow_yuen_jeng@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  3 Diamond   </td>
+    <td class="tg-qn16" colspan="3"> <strong> 3 Diamond  </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Yeo%20Chip%20Kheong%20Matthew.jpg" alt="Mr Yeo Chip Kheong Matthew.jpg" width="189" height="282">#Mr Matthew Yeo<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Ng%20Chong%20Gee.JPG" alt="Mr Ng Chong Gee.JPG" width="190">#Mr Ng Chong Gee </td>
-    <td class="tg-qn16">Mr Matthew Yeo<br>yep_chip_kheong@moe.edu.sg<br><br>Mr Ng Chong Gee<br>ng_chong_gee@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Yeo%20Chip%20Kheong%20Matthew.jpg)" alt="Mr Yeo Chip Kheong Matthew.jpg" width="189" height="282">Mr Matthew Yeo<br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Ng%20Chong%20Gee.JPG" alt="Mr Ng Chong Gee.JPG" width="190">Mr Ng Chong Gee </td>
+    <td class="tg-qn16"><strong>Mr Matthew Yeo</strong><br>yep_chip_kheong@moe.edu.sg<br><br><strong>Mr Ng Chong Gee</strong><br>ng_chong_gee@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">   3 Emerald  </td>
