@@ -22,7 +22,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Amethyst</td>
+    <td class="tg-qn16" colspan="3"> <strong>1 Amethyst</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mr%20Hidayat%20Bin%20Hamzah.jpg" alt="Mr Hidayat Bin Hamzah.JPG" width="194" height="291">Mrs Hidayat Hamzah<br><br></td>
