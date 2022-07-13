@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="Ms Cathy Lee" style="width:50%;">  
   
 </body>
 
@@ -18,7 +18,20 @@ img {
 
 ---
 
-![](/images/Mr%20Alan%20Ong.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mr%20Alan%20Ong.jpg" alt="Mr Alan Ong" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>Mr Alan Ong<br></strong>Operations Manager<br></p>
+
+---
 
 <style>  
 img {  
@@ -27,26 +40,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Wong%20Miao%20Ling.jpg" alt="Ms Wong Miao Ling" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Ms Wong Miao Ling<br></strong>Admin Executive<br></p>
 
-![](/images/Ms%20Wong%20Miao%20Ling.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+---
 
 ![](/images/naqiah.jpg)
 
