@@ -45,7 +45,7 @@ description: ""
     <td class="tg-qn16"><strong>Ms Siti Khadijah</strong><br><a href="mailto:siti_khadijah_abdul_jalil@moe.edu.sg">siti_khadijah_abdul_jalil@moe.edu.sg</a><br><br><strong>Nurhayati Selamat</strong><br><a href="mailto:nurhayati_selamat@moe.edu.sg">nurhayati_selamat@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  2 Jade   </td>
+    <td class="tg-qn16" colspan="3"> <strong> 2 Jade </strong>  </td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Lyly%20Suriani.JPG" alt="Mdm Lyly Suriani.JPG" width="196">#Mdm Lyly Suriani<br></td>
