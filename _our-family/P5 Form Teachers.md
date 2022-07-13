@@ -48,8 +48,8 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong>  5 Jade   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Yeo%20Peng%20Peng.JPG" alt="Mdm Yeo Peng Peng.JPG" width="200">Mdm Yeo Peng Peng<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.JPG" alt="Ms Nur Mawarni  Bte Nin Sahmad.JPG" width="204">Ms Nur Mawarni </td>
+    <td class="tg-v9jf"><img src="![](/images/Mdm%20Yeo%20Peng%20Peng.jpg)" alt="Mdm Yeo Peng Peng.JPG" width="200">Mdm Yeo Peng Peng<br></td>
+    <td class="tg-v9jf"><img src="![](/images/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.jpg)" alt="Ms Nur Mawarni  Bte Nin Sahmad.JPG" width="204">Ms Nur Mawarni </td>
     <td class="tg-qn16"><strong>Mdm Yeo Peng Peng</strong><br>peng_peng_yeo@moe.edu.sg<br><br><strong>Ms Nur Mawarni Nin Sahmad</strong><br>nur_mawarni_nin_sahmad@moe.edu.sg </td>
   </tr>
   <tr>
