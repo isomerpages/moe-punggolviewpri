@@ -75,11 +75,11 @@ description: ""
     <td class="tg-qn16"><strong>Ms Teng Xiu Ying Agneta</strong><span style="background-color:initial"> </span><a href="mailto:teng_xiu_ying_agneta@moe.edu.sg">teng_xiu_ying_agneta@moe.edu.sg</a><br><br><strong>Mdm Devi Ganesan</strong><br><a href="mailto:devi_ganesan@moe.edu.sg">devi_ganesan@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">1 Ruby</td>
+    <td class="tg-qn16" colspan="3"><strong>1 Ruby</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Noor%20Adzilah%20Binte%20Tahir.jpg" alt="Mdm Noor Adzilah Binte Tahir.JPG" width="194"># Mdm Noor Adzilah</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Janice%20Ongg.jpg" alt="Mdm Janice Ong.JPG" width="192">#Mdm Janice Ong </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Noor%20Adzilah%20Binte%20Tahir.jpg" alt="Mdm Noor Adzilah Binte Tahir.JPG" width="194">Mdm Noor Adzilah</td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Janice%20Ongg.jpg" alt="Mdm Janice Ong.JPG" width="192">Mdm Janice Ong </td>
     <td class="tg-qn16">Mdm Noor Adzilah<br>noor_adzilah_tahir@moe.edu.sg<br><br>Mdm Janice Ong<br>ong_poh_ling@moe.edu.sg </td>
   </tr>
   <tr>
