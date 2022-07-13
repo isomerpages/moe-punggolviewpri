@@ -48,7 +48,20 @@ img {
 
 ---
 
-![](/images/naqiah.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/naqiah.jpg" alt="Mdm Naqiah" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>Mdm Naqiah<br></strong>Admin Executive<br></p>
+
+---
 
 <style>  
 img {  
@@ -57,13 +70,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Hayati%20Abdul%20Kadir.jpg" alt="Mdm Haryati" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Haryati<br></strong>Corporate Support Officer<br></p>
 
-![](/images/Mdm%20Hayati%20Abdul%20Kadir.jpg)
+---
 
 <style>  
 img {  
@@ -72,26 +85,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Low%20Lee%20Kheng.jpg" alt="Ms Low Lee Kheng" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Ms Low Lee Kheng<br></strong>Corporate Support Officer<br></p>
 
-![](/images/Ms%20Low%20Lee%20Kheng.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+---
 
 ![](/images/J%20Durgeshwari.jpg)
 
