@@ -26,7 +26,7 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/Ms%20Li%20Xinni.jpg" alt="Ms Li Xinni.jpg" width="196" height="291">Ms Li Xinni<br></td>
     <td class="tg-v9jf"><img src="/images/Mdm%20Han%20Huaxiuu.jpg" alt="Mdm Han Huaxiu.JPG" width="195" height="290">Mdm Han Huaxiu</td>
-    <td class="tg-qn16"><strong> Ms Li Xinni</strong><br>li_xinni@moe.edu.sg<br><br><strong>Mdm Han Huaxiu</strong><br>han_huaxiu@moe.edu.sg</td>
+    <td class="tg-qn16"><strong> Ms Li Xinni</strong><br><a href="mailto:li_xinni@moe.edu.sg">li_xinni@moe.edu.sg</a><br><br><strong>Mdm Han Huaxiu</strong><br><a href="mailto:han_huaxiu@moe.edu.sg">han_huaxiu@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>2 Diamond</strong></td>
