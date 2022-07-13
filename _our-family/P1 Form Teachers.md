@@ -83,20 +83,20 @@ description: ""
     <td class="tg-qn16"><strong>Mdm Noor Adzilah</strong><br><a href="mailto:noor_adzilah_tahir@moe.edu.sg">noor_adzilah_tahir@moe.edu.sg</a><br><br><strong>Mdm Janice Ong</strong><br><a href="mailto:ong_poh_ling@moe.edu.sg">ong_poh_ling@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Sapphire</td>
+    <td class="tg-qn16" colspan="3"><strong> 1 Sapphire</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Nurasyiqin.jpg" alt="Mdm Nurasyiqin.JPG" width="194"># Ms Nurasyiqin</td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Azarizal%20Mohamed.jpg" alt="Mr Azarizal Mohamed.JPG" width="192">#Mr Azarizal</td>
-    <td class="tg-qn16">Ms Nurasyiqin<br>nurasyiqin_mohammad_abdu@moe.edu.sg<br><br>Mr Azarizal Mohamed<br>nor_azarizal_mohamed@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Nurasyiqin.jpg" alt="Mdm Nurasyiqin.JPG" width="194">Ms Nurasyiqin</td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Azarizal%20Mohamed.jpg" alt="Mr Azarizal Mohamed.JPG" width="192">Mr Azarizal</td>
+    <td class="tg-qn16"><strong>Ms Nurasyiqin</strong><br><a href="mailto:nurasyiqin_mohammad_abdu@moe.edu.sg">nurasyiqin_mohammad_abdu@moe.edu.sg</a><br><br><strong>Mr Azarizal Mohamed</strong><br><a href="mailto:hidnor_azarizal_mohamed@moe.edu.sg">nor_azarizal_mohamed@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Topaz</td>
+    <td class="tg-qn16" colspan="3"><strong> 1 Topaz</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Siti%20Nadiah.jpg" alt="Siti Nadiah.jpg" width="194"># Ms Siti Nadia</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Liang%20Hong%20Wen.jpg" alt="4JA Mdm Liang Hong Wen (2).JPG" width="192">#Mdm Liang Hong Wen </td>
-    <td class="tg-qn16"> Ms Siti Nadia<br>siti_nadia_mohamed_rafii@moe.edu.sg<br><br>Mdm Liang Hong Wen<br>liang_hong_wen@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="/images/Siti%20Nadiah.jpg" alt="Siti Nadiah.jpg" width="194">Ms Siti Nadia</td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Liang%20Hong%20Wen.jpg" alt="4JA Mdm Liang Hong Wen (2).JPG" width="192">Mdm Liang Hong Wen </td>
+    <td class="tg-qn16"><strong> Ms Siti Nadia</strong><br><a href="mailto:siti_nadia_mohamed_rafii@moe.edu.sg">siti_nadia_mohamed_rafii@moe.edu.sg</a><br><br><strong>Mdm Liang Hong Wen</strong><br><a href="mailto:liang_hong_wen@moe.edu.sg">liang_hong_wen@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
