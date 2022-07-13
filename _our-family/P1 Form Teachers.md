@@ -30,7 +30,7 @@ description: ""
     <td class="tg-qn16"> <strong>Mr Hidayat Hamzah</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a><br><br><strong>Mdm Rosnita Abdul Rahim</strong><br><a href="mailto:rosnita_abdul_rahim@moe.edu.sg">rosnita_abdul_rahim@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">1 Diamond</td>
+    <td class="tg-qn16" colspan="3"><strong>1 Diamond</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mdm%20Sarina%20Sapari.jpg" alt="Mdm Sarina Sapari.JPG" width="193" height="287">Mdm Sarina Sapari </td>
@@ -38,12 +38,12 @@ description: ""
 		<td class="tg-qn16"><strong>Mdm Sarina Sapar</strong><br><a href="mailto:sarina_sapari@moe.edu.sg">sarina_sapari@moe.edu.sg</a><br><br><strong>Ms Catherine Sim</strong><br><a href="mailto:sim_beng_hui_catherine@moe.edu.sg">sim_beng_hui_catherine@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Emerald</td>
+    <td class="tg-qn16" colspan="3"> <strong>1 Emerald</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Suriani%20Sokran.jpg" alt="Mdm Suriani Sokran.JPG" width="194" height="290">#Mdm Suriani Sokran</td>
-    <td class="tg-v9jf"><img src="/images/Kwan%20Wai%20Leng.jpg" alt="Kwan Wai Leng.jpg" width="192">#Mdm Kwan Wai Leng</td>
-    <td class="tg-qn16">Mdm Suriani Sokran<br>suriani_sokran@moe.edu.sg <br><br>Mdm Kwan Wai Leng<br><br>Mr Koh Wee Kiat</td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Suriani%20Sokran.jpg" alt="Mdm Suriani Sokran.JPG" width="194" height="290">Mdm Suriani Sokran</td>
+    <td class="tg-v9jf"><img src="/images/Kwan%20Wai%20Leng.jpg" alt="Kwan Wai Leng.jpg" width="192">Mdm Kwan Wai Leng</td>
+    <td class="tg-qn16"><strong>Mdm Suriani Sokran</strong><br><a href="mailto:suriani_sokran@moe.edu.sg">suriani_sokran@moe.edu.sg</a> <br><br><strong>Mdm Kwan Wai Leng</strong><br><br><strong>Mr Koh Wee Kiat</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/koh%20wee%20kiat%20nicholas.jpg" alt="koh wee kiat nicholas.jpg" width="194">#Mr Koh Wee Kiat<br></td>
