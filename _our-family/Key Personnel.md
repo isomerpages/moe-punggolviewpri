@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Oh%20Pei%20Sze.jpg" alt="School Uniform" style="width:35%;">  
   
 </body>
 
@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Tan%20Siew%20Chian.jpg" alt="Mdm Tan Siew Chian" style="width:50%;">  
+<body><img src="/images/Mdm%20Tan%20Siew%20Chian.jpg" alt="Mdm Tan Siew Chian" style="width:35%;">  
   
 </body>
 
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/AIN.jpeg" alt="Miss Nur Ain Bte Juma'at" style="width:50%;">  
+<body><img src="/images/AIN.jpeg" alt="Miss Nur Ain Bte Juma'at" style="width:35%;">  
   
 </body>
 
@@ -55,7 +55,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Alison.jpeg" alt="Ms Alison Teo" style="width:50%;">  
+<body><img src="/images/Alison.jpeg" alt="Ms Alison Teo" style="width:35%;">  
   
 </body>
 
@@ -70,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Adrain%20Ong.jpg" alt="Mr Adrain Ong Wee Loon" style="width:50%;">  
+<body><img src="/images/Mr%20Adrain%20Ong.jpg" alt="Mr Adrain Ong Wee Loon" style="width:35%;">  
   
 </body>
 
@@ -85,7 +85,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.jpg" alt="Ms Nur Mawarni Nin Sahmad" style="width:50%;">  
+<body><img src="/images/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.jpg" alt="Ms Nur Mawarni Nin Sahmad" style="width:35%;">  
   
 </body>
 
@@ -100,7 +100,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Cheng%20Chuen%20Yang%20Christopher.jpg" alt="Mr Christopher Cheng" style="width:50%;">  
+<body><img src="/images/Mr%20Cheng%20Chuen%20Yang%20Christopher.jpg" alt="Mr Christopher Cheng" style="width:35%;">  
   
 </body>
 
@@ -115,7 +115,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Balbir%20Kaur.jpg" alt="Ms Balbir Kaur" style="width:50%;">  
+<body><img src="/images/Ms%20Balbir%20Kaur.jpg" alt="Ms Balbir Kaur" style="width:35%;">  
   
 </body>
 
@@ -130,7 +130,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Ivan%20Ng%20Wee%20Liat.jpg" alt="Mr Ivan Ng" style="width:50%;">  
+<body><img src="/images/Mr%20Ivan%20Ng%20Wee%20Liat.jpg" alt="Mr Ivan Ng" style="width:35%;">  
   
 </body>
 
@@ -145,7 +145,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cheryl%20Lim%20Lee.jpg" alt="MS CHERYL LIM" style="width:50%;">  
+<body><img src="/images/Ms%20Cheryl%20Lim%20Lee.jpg" alt="MS CHERYL LIM" style="width:35%;">  
   
 </body>
 
@@ -160,7 +160,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Teo%20Tze%20Koon%20Isreal.jpg" alt="MR ISREAL TEO" style="width:50%;">  
+<body><img src="/images/Mr%20Teo%20Tze%20Koon%20Isreal.jpg" alt="MR ISREAL TEO" style="width:35%;">  
   
 </body>
 
@@ -175,7 +175,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Sylvia%20Wang%20Yong%20Ling.jpg" alt="Ms Sylvia Wang" style="width:50%;">  
+<body><img src="/images/Mdm%20Sylvia%20Wang%20Yong%20Ling.jpg" alt="Ms Sylvia Wang" style="width:35%;">  
   
 </body>
 
@@ -190,7 +190,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs%20Eng%20Yi%20Wen.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mrs%20Eng%20Yi%20Wen.jpg" alt="School Uniform" style="width:35%;">  
   
 </body>
 
@@ -205,7 +205,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mr%20Fabian.jpg" alt="Mr Fabian Koh" style="width:50%;">  
+<body><img src="/images/Mr%20Fabian.jpg" alt="Mr Fabian Koh" style="width:35%;">  
   
 </body>
 
@@ -220,7 +220,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs%20Magdelene%20Khairyl-Han.jpg" alt="Ms Magdelene Khairyl-Han" style="width:50%;">  
+<body><img src="/images/Mrs%20Magdelene%20Khairyl-Han.jpg" alt="Ms Magdelene Khairyl-Han" style="width:35%;">  
   
 </body>
 
@@ -236,7 +236,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Mr%20Luo%20Kangming%20Eugene.jpg" alt="Mr Luo Kangming Eugene
-" style="width:50%;">  
+" style="width:35%;">  
   
 </body>
 
@@ -252,7 +252,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Janice%20Ong.jpg" alt="Mdm Janice Ong" style="width:50%;">  
+<body><img src="/images/Mdm%20Janice%20Ong.jpg" alt="Mdm Janice Ong" style="width:35%;">  
   
 </body>
 
@@ -267,7 +267,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Lim%20Hwee%20Li.jpg" alt="Mdm Lim Hwee Li" style="width:50%;">  
+<body><img src="/images/Mdm%20Lim%20Hwee%20Li.jpg" alt="Mdm Lim Hwee Li" style="width:35%;">  
   
 </body>
 
@@ -282,7 +282,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mrs%20Sophie%20Chen.jpg" alt="Mrs Sophie Chen - Ms Wang Peipei" style="width:50%;">  
+<body><img src="/images/Mrs%20Sophie%20Chen.jpg" alt="Mrs Sophie Chen - Ms Wang Peipei" style="width:35%;">  
   
 </body>
 
@@ -297,7 +297,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Han%20Huaxiu.jpg" alt="Mdm Han Huaxiu" style="width:50%;">  
+<body><img src="/images/Mdm%20Han%20Huaxiu.jpg" alt="Mdm Han Huaxiu" style="width:35%;">  
   
 </body>
 
@@ -312,7 +312,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Rosnita%20Abdul%20Rahim.jpg" alt="Mdm Rosnita Abdul Rahim" style="width:50%;">  
+<body><img src="/images/Ms%20Rosnita%20Abdul%20Rahim.jpg" alt="Mdm Rosnita Abdul Rahim" style="width:35%;">  
   
 </body>
 
@@ -328,7 +328,7 @@ img {
 }  
 </style>  
 <body><img src="/images/Jamie%202022.jpeg" alt="Miss Cheng Chin Ying, Jamie
-" style="width:50%;">  
+" style="width:35%;">  
   
 </body>
 
@@ -344,7 +344,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mdm%20Tan%20Wan%20Ting%20Clara.jpg" alt="Mdm Clara Tan" style="width:50%;">  
+<body><img src="/images/Mdm%20Tan%20Wan%20Ting%20Clara.jpg" alt="Mdm Clara Tan" style="width:35%;">  
   
 </body>
 
@@ -359,7 +359,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Karen%20Low%20Lai%20Fong.jpg" alt="Ms Karen Low" style="width:50%;">  
+<body><img src="/images/Ms%20Karen%20Low%20Lai%20Fong.jpg" alt="Ms Karen Low" style="width:35%;">  
   
 </body>
 
