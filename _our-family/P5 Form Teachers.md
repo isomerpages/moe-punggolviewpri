@@ -21,60 +21,60 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qn16" colspan="3"> 5 Amethyst</td>
+    <td class="tg-qn16" colspan="3"> <strong>5 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Samihah%20Bte%20Abdul%20Kader.JPG" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">#Mdm Samihah Bte Abdul Kader<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Ariffin.JPG" alt="Mr Ariffin.JPG" width="192" height="289">#Mr Ariffin Abdul Latif<br><br></td>
-    <td class="tg-qn16"> Mdm Samihah Bte Abdul Kader<br>samihah_abdul_kader@moe.edu.sg<br><br>Mr Ariffin Abdul Latif<br>ariffin_ab_latif@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Samihah%20Bte%20Abdul%20Kader.JPG" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Ariffin.JPG" alt="Mr Ariffin.JPG" width="192" height="289">Mr Ariffin Abdul Latif<br><br></td>
+    <td class="tg-qn16"> <strong>Mdm Samihah Bte Abdul Kader</strong><br>samihah_abdul_kader@moe.edu.sg<br><br><strong>Mr Ariffin Abdul Latif</strong><br>ariffin_ab_latif@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   5 Diamond  </td>
+    <td class="tg-qn16" colspan="3"> <strong>  5 Diamond </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Jeremy%20Lim.JPG" alt="Mr Jeremy Lim.JPG" width="200">#Mr Jeremy Lim <br><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Jamie%202022.jpeg" alt="Jamie 2022.jpeg" width="197" height="275">#Miss Cheng Chin Ying, Jamie </td>
-    <td class="tg-qn16">Mr Jeremy Lim<br>lim_wei_peng_jeremy@moe.edu.sg<br><br>Miss Cheng Chin Ying, Jamie<br>cheng_chin_ying@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Jeremy%20Lim.JPG" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Jamie%202022.jpeg" alt="Jamie 2022.jpeg" width="197" height="275">Miss Cheng Chin Ying, Jamie </td>
+    <td class="tg-qn16"><strong>Mr Jeremy Lim</strong><br>lim_wei_peng_jeremy@moe.edu.sg<br><br><strong>Miss Cheng Chin Ying, Jamie</strong><br>cheng_chin_ying@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   5 Emerald  </td>
+    <td class="tg-qn16" colspan="3"> <strong>  5 Emerald </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mrs%20Tan-Li%20Shi%20Hua.JPG" alt="Mrs Tan-Li Shi Hua.JPG" width="200">#Mdm Li Shihua<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Key%20Personnel/2018/Mdm%20Sylvia%20Wang%20Yong%20Ling.JPG" alt="Mdm Sylvia Wang Yong Ling.JPG" width="204">#Ms Sylvia Wang</td>
-    <td class="tg-qn16">Mdm Li Shihua<br>li_shihua@moe.edu.sg<br><br>Wang Yong Ling Sylvia<br>wang_yong_ling_sylvia@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mrs%20Tan-Li%20Shi%20Hua.JPG" alt="Mrs Tan-Li Shi Hua.JPG" width="200">Mdm Li Shihua<br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Key%20Personnel/2018/Mdm%20Sylvia%20Wang%20Yong%20Ling.JPG" alt="Mdm Sylvia Wang Yong Ling.JPG" width="204">Ms Sylvia Wang</td>
+    <td class="tg-qn16"><strong>Mdm Li Shihua</strong><br>li_shihua@moe.edu.sg<br><br><strong>Wang Yong Ling Sylvia</strong><br>wang_yong_ling_sylvia@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  5 Jade   </td>
+    <td class="tg-qn16" colspan="3"><strong>  5 Jade   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Yeo%20Peng%20Peng.JPG" alt="Mdm Yeo Peng Peng.JPG" width="200">#Mdm Yeo Peng Peng<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.JPG" alt="Ms Nur Mawarni  Bte Nin Sahmad.JPG" width="204">#Ms Nur Mawarni </td>
-    <td class="tg-qn16">Mdm Yeo Peng Peng<br>peng_peng_yeo@moe.edu.sg<br><br>Ms Nur Mawarni Nin Sahmad<br>nur_mawarni_nin_sahmad@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Yeo%20Peng%20Peng.JPG" alt="Mdm Yeo Peng Peng.JPG" width="200">Mdm Yeo Peng Peng<br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Nur%20Mawarni%20%20Bte%20Nin%20Sahmad.JPG" alt="Ms Nur Mawarni  Bte Nin Sahmad.JPG" width="204">Ms Nur Mawarni </td>
+    <td class="tg-qn16"><strong>Mdm Yeo Peng Peng</strong><br>peng_peng_yeo@moe.edu.sg<br><br><strong>Ms Nur Mawarni Nin Sahmad</strong><br>nur_mawarni_nin_sahmad@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  5 Opal   </td>
+    <td class="tg-qn16" colspan="3"> <strong> 5 Opal   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Hadijah%20Bte%20Abdul%20Rahman.jpg" alt="Miss Hadijah Bte Abdul Rahman.jpg" width="194" height="290">#Ms Hadijah Abdul Rahman<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Fabian.jpg" alt="Mr Fabian.jpg" width="194" height="291">#Mr Fabian Koh<br><br></td>
-    <td class="tg-qn16">Ms Hadijah Abdul Rahman<br>hadijah_abdul_rahman@moe.edu.sg<br><br>Mr Fabian Koh<br>koh_zong_cheng_fabian@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Hadijah%20Bte%20Abdul%20Rahman.jpg" alt="Miss Hadijah Bte Abdul Rahman.jpg" width="194" height="290">Ms Hadijah Abdul Rahman<br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Fabian.jpg" alt="Mr Fabian.jpg" width="194" height="291">Mr Fabian Koh<br><br></td>
+    <td class="tg-qn16"><strong>Ms Hadijah Abdul Rahman</strong><br>hadijah_abdul_rahman@moe.edu.sg<br><br><strong>Mr Fabian Koh</strong><br>koh_zong_cheng_fabian@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">  5 Pearl   </td>
+    <td class="tg-qn16" colspan="3"> <strong> 5 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2018/Mr%20Mohd%20Zahid.JPG" alt="Mr Mohd Zahid.JPG" width="200" height="300"># Mr Mohd Zahid</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/MTL/2017/Mrs%20Vijayalakshmi%20Vijayan.jpg" alt="Mrs Vijayalakshmi Vijayan.jpg">#Mrs Vijayalakshmi Vijayan </td>
-    <td class="tg-qn16">Mr Mohd Zahid<br>mohammad_zahid_rohmat@moe.edu.sg<br><br>Mrs Vijayalakshmi<br>vijayalakshmi_vijayan@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2018/Mr%20Mohd%20Zahid.JPG" alt="Mr Mohd Zahid.JPG" width="200" height="300">Mr Mohd Zahid</td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/MTL/2017/Mrs%20Vijayalakshmi%20Vijayan.jpg" alt="Mrs Vijayalakshmi Vijayan.jpg">Mrs Vijayalakshmi Vijayan </td>
+    <td class="tg-qn16"><strong>Mr Mohd Zahid</strong><br>mohammad_zahid_rohmat@moe.edu.sg<br><br><strong>Mrs Vijayalakshmi</strong><br>vijayalakshmi_vijayan@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   5 Ruby  </td>
+    <td class="tg-qn16" colspan="3">  <strong> 5 Ruby </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Choo%20Jia%20Jia.JPG" alt="Miss Choo Jia Jia.JPG" width="200">#Miss Choo Jia <br><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Khairunnisa%20Binte%20Mohd%20Isa.jpg" alt="Mdm Khairunnisa Binte Mohd Isa.jpg" width="200" height="299">#Mdm Khairunnisa Mohd Isa </td>
-    <td class="tg-qn16">Miss Choo Jia<br>choo_jia@moe.edu.sg<br><br> Mdm Khairunnisa<br>khairunnisa_mohd_isa@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Choo%20Jia%20Jia.JPG" alt="Miss Choo Jia Jia.JPG" width="200">Miss Choo Jia <br><br></td>
+    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Khairunnisa%20Binte%20Mohd%20Isa.jpg" alt="Mdm Khairunnisa Binte Mohd Isa.jpg" width="200" height="299">Mdm Khairunnisa Mohd Isa </td>
+    <td class="tg-qn16"><strong>Miss Choo Jia</strong><br>choo_jia@moe.edu.sg<br><br><strong> Mdm Khairunnisa</strong><br>khairunnisa_mohd_isa@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
