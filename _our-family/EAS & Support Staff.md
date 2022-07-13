@@ -138,7 +138,20 @@ img {
 
 ---
 
-![](/images/Mdm%20Goo%20Ah%20Hwa.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Mdm%20Goo%20Ah%20Hwa.jpg" alt="Ms Goo Ah Hwa" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>Ms Goo Ah Hwa<br></strong>Operations Support Officer<br></p>
+
+---
 
 <style>  
 img {  
@@ -147,13 +160,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Tan%20Kheng%20Hock.jpg" alt="Mr William Tan" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mr William Tan<br></strong>Operations Support Officer<br></p>
 
-![](/images/Mr%20Tan%20Kheng%20Hock.jpg)
+---
 
 <style>  
 img {  
@@ -162,13 +175,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/saadiah.jpg" alt="Mdm Saadiah" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Saadiah<br></strong>Operations Support Officer<br></p>
 
-![](/images/saadiah.jpg)
+---
 
 <style>  
 img {  
@@ -177,13 +190,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Lim%20Ah%20Mui%20Linda.jpg" alt="Mdm Linda Lim" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Linda Lim<br></strong>Relief Executive<br></p>
 
-![](/images/Mdm%20Lim%20Ah%20Mui%20Linda.jpg)
+---
 
 <style>  
 img {  
@@ -192,13 +205,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ms%20Lim%20Ainie.jpg" alt="Mdm Lim Ainie" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Lim Ainie<br></strong>Operations Support Officer<br></p>
 
-![](/images/Ms%20Lim%20Ainie.jpg)
+---
 
 <style>  
 img {  
@@ -207,13 +220,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Rokiah.jpg" alt="Mdm Rokiah" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Rokiah<br></strong>Operations Support Officer<br></p>
 
-![](/images/Mdm%20Rokiah.jpg)
+---
 
 <style>  
 img {  
@@ -222,24 +235,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/toh%20xue%20li.jpg" alt="Mdm Toh Xue Li" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p><style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
+<p style="text-align:center;"><strong>Mdm Toh Xue Li<br></strong>AED<br>(SCHOOL COUNSELLOR)<br></p>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
-
-![](/images/toh%20xue%20li.jpg)
+---
 
 <style>  
 img {  
@@ -248,13 +250,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Siti%20zulaiha.jpg" alt="Ms Siti Zulaiha" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Ms Siti Zulaiha<br></strong>AED<br>(Learning & Behavioral Support)<br></p>
 
-![](/images/Siti%20zulaiha.jpg)
+---
 
 <style>  
 img {  
@@ -263,13 +265,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Ridiana%20binte%20Suparman.jpg" alt="Mdm Ridiana Binte Suparman" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Ridiana Binte Suparman<br></strong>AED<br>(Learning & Behavioral Support)</p>
 
-![](/images/Mdm%20Ridiana%20binte%20Suparman.jpg)
+---
 
 <style>  
 img {  
@@ -278,13 +280,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/iskandar.jpg" alt="Mr Iskandar" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mr Iskandar<br></strong>ICT Associate<br></p>
 
-![](/images/iskandar.jpg)
+---
 
 <style>  
 img {  
@@ -293,13 +295,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/muru%20new.jpg" alt="Mr Muru" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mr Muru<br></strong>Desktop Engineer<br></p>
 
-![](/images/muru%20new.jpg)
+---
 
 <style>  
 img {  
@@ -308,23 +310,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/mr%20tay%20yu%20han.jpg" alt="Mr Tay Yu Han" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
-
-![](/images/mr%20tay%20yu%20han.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mr Tay Yu Han<br></strong>Desktop Engineer<br></p>
