@@ -33,9 +33,9 @@ description: ""
     <td class="tg-qn16" colspan="3">1 Diamond</td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Sarina%20Sapari.jpg" alt="Mdm Sarina Sapari.JPG" width="193" height="287">#Mdm Sarina Sapari </td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Sim%20Beng%20Hui%20Catherinee.jpg" alt="Ms Sim Beng Hui Catherine.JPG" width="191" height="285">#Ms Catherine Sim </td>
-    <td class="tg-qn16">Mdm Sarina Sapari<br>sarina_sapari@moe.edu.sg<br><br>Ms Catherine Sim<br>sim_beng_hui_catherine@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Sarina%20Sapari.jpg" alt="Mdm Sarina Sapari.JPG" width="193" height="287">Mdm Sarina Sapari </td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Sim%20Beng%20Hui%20Catherinee.jpg" alt="Ms Sim Beng Hui Catherine.JPG" width="191" height="285">Ms Catherine Sim </td>
+		<td class="tg-qn16"><strong>Mdm Sarina Sapar</strong><br><a href="mailto:sarina_sapari@moe.edu.sg">sarina_sapari@moe.edu.sg</a><br><br><strong>Ms Catherine Sim</strong><br><a href="mailto:sim_beng_hui_catherine@moe.edu.sg">sim_beng_hui_catherine@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> 1 Emerald</td>
@@ -100,4 +100,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
