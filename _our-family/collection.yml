@@ -2,13 +2,13 @@ collections:
   our-family:
     output: true
     order:
-      - MOE Kindergarten Teachers.md
-      - P6 Form Teachers.md
-      - P5 Form Teachers.md
-      - P4 Form Teachers.md
-      - P3 Form Teachers.md
-      - P2 Form Teachers.md
-      - P1 Form Teachers.md
-      - EAS & Support Staff.md
-      - Key Personnel.md
       - School Leaders.md
+      - Key Personnel.md
+      - EAS & Support Staff.md
+      - P1 Form Teachers.md
+      - P2 Form Teachers.md
+      - P3 Form Teachers.md
+      - P4 Form Teachers.md
+      - P5 Form Teachers.md
+      - P6 Form Teachers.md
+      - MOE Kindergarten Teachers.md
