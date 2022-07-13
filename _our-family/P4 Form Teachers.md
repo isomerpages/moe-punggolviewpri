@@ -73,16 +73,16 @@ description: ""
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mdm%20Siti%20Noor%20Fatimah%20.jpg" alt="Mdm Siti Noor Fatimah .JPG" width="199">Mdm Siti Noor Fatimah Jabbar<br></td>
-    <td class="tg-v9jf"><img src="![](/images/JANET.jpg)" alt="JANET.jpg" width="201">Mrs Janet Chan<br><br></td>
-    <td class="tg-qn16"><strong>Mdm Siti Noor Fatimah Jabbar</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>siti_noor_fatimah_jabbar@moe.edu.sg<br><br><strong>Mrs Janet Chan</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>janet_chankho@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/JANET.jpg" alt="JANET.jpg" width="201">Mrs Janet Chan<br><br></td>
+    <td class="tg-qn16"><strong>Mdm Siti Noor Fatimah Jabbar</strong><br><a href="mailto:siti_noor_fatimah_jabbar@moe.edu.sg">siti_noor_fatimah_jabbar@moe.edu.sg</a><br><br><strong>Mrs Janet Chan</strong><br><a href="mailto:janet_chankho@moe.edu.sg">janet_chankho@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong>  4 Sapphire </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="![](/images/Mr%20Lim%20Wei%20Cheng.jpg)" alt="Mr Lim Wei Cheng.jpg" width="199">Mr Lim Wei Cheng </td>
-    <td class="tg-v9jf"><img src="![](/images/Mr%20Surjono%20SupaGat.jpg)" alt="Mr Surjono SupaGat.JPG" width="201">Mr Surjono Supa'at </td>
-    <td class="tg-qn16"><strong>Mr Lim Wei Cheng</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>lim_wei_cheng@moe.edu.sg<br><br><strong>Mr Surjono Supa'at</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>surjono_b_supaat@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Lim%20Wei%20Cheng.jpg" alt="Mr Lim Wei Cheng.jpg" width="199">Mr Lim Wei Cheng </td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Surjono%20SupaGat.jpg" alt="Mr Surjono SupaGat.JPG" width="201">Mr Surjono Supa'at </td>
+    <td class="tg-qn16"><strong>Mr Lim Wei Cheng</strong><br><a href="mailto:lim_wei_cheng@moe.edu.sg">lim_wei_cheng@moe.edu.sg</a><br><br><strong>Mr Surjono Supa'at</strong><br><a href="mailto:surjono_b_supaat@moe.edu.sg">surjono_b_supaat@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
