@@ -64,9 +64,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 4 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Priya%20do%20Seridaran.JPG" alt="Ms Priya do Seridaran.JPG" width="199">Ms Priya D/O Seridaran<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Paul%20Miki%20Koh.JPG" alt="Mdm Paul Miki Koh.JPG" width="201">Mdm Paul Miki Koh </td>
-    <td class="tg-qn16"><strong>Ms Priya D/O Seridaran</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>priya_seridaran@moe.edu.sg<br><br><strong>Mdm Paul Miki Koh</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a>paul_miki_koh@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Priya%20do%20Seridaran.jpg" alt="Ms Priya do Seridaran.JPG" width="199">Ms Priya D/O Seridaran<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Paul%20Miki%20Koh.jpg" alt="Mdm Paul Miki Koh.JPG" width="201">Mdm Paul Miki Koh </td>
+    <td class="tg-qn16"><strong>Ms Priya D/O Seridaran</strong><br><a href="mailto:priya_seridaran@moe.edu.sg">priya_seridaran@moe.edu.sg</a><br><br><strong>Mdm Paul Miki Koh</strong><br><a href="mailto:paul_miki_koh@moe.edu.sg">paul_miki_koh@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  4 Ruby </strong> </td>
