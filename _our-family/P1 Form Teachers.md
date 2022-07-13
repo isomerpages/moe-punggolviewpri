@@ -80,7 +80,7 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/Mdm%20Noor%20Adzilah%20Binte%20Tahir.jpg" alt="Mdm Noor Adzilah Binte Tahir.JPG" width="194">Mdm Noor Adzilah</td>
     <td class="tg-v9jf"><img src="/images/Mdm%20Janice%20Ongg.jpg" alt="Mdm Janice Ong.JPG" width="192">Mdm Janice Ong </td>
-    <td class="tg-qn16">Mdm Noor Adzilah<br>noor_adzilah_tahir@moe.edu.sg<br><br>Mdm Janice Ong<br>ong_poh_ling@moe.edu.sg </td>
+    <td class="tg-qn16"><strong>Mdm Noor Adzilah</strong><br><a href="mailto:noor_adzilah_tahir@moe.edu.sg">noor_adzilah_tahir@moe.edu.sg</a><br><br><strong>Mdm Janice Ong</strong><br><a href="mailto:ong_poh_ling@moe.edu.sg">ong_poh_ling@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> 1 Sapphire</td>
