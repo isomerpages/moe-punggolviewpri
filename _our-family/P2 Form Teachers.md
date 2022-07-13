@@ -21,15 +21,15 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qn16" colspan="3"> 2 Amethyst</td>
+    <td class="tg-qn16" colspan="3"><strong> 2 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2020/Ms%20Li%20Xinni.jpg" alt="Ms Li Xinni.jpg" width="196" height="291">#Ms Li Xinni<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2018/Mdm%20Han%20Huaxiu.JPG" alt="Mdm Han Huaxiu.JPG" width="195" height="290">#Mdm Han Huaxiu</td>
-    <td class="tg-qn16"> Ms Li Xinni<br>li_xinni@moe.edu.sg<br><br>Mdm Han Huaxiu<br>han_huaxiu@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Li%20Xinni.jpg" alt="Ms Li Xinni.jpg" width="196" height="291">Ms Li Xinni<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Han%20Huaxiuu.jpg" alt="Mdm Han Huaxiu.JPG" width="195" height="290">Mdm Han Huaxiu</td>
+    <td class="tg-qn16"><strong> Ms Li Xinni</strong><br>li_xinni@moe.edu.sg<br><br><strong>Mdm Han Huaxiu</strong><br>han_huaxiu@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 2 Diamond</td>
+    <td class="tg-qn16" colspan="3"> <strong>2 Diamond</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2020/farizan.jpg" alt="farizan.jpg" width="196"># Miss Nurfarizan</td>
