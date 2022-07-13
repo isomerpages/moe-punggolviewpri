@@ -25,17 +25,17 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/Ms%20Michelle%20Joesoosay%20Thomas.JPG" alt="Ms Michelle Joesoosay Thomas.JPG" width="178" height="266"><span style="background-color:initial">#Miss Michelle Joesoosay </span>Thomas<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/nasreen.jpg" alt="nasreen.jpg" width="181" height="268">#  Ms Nasreen Bte Naser<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Michelle%20Joesoosay%20Thomas.jpg" alt="Ms Michelle Joesoosay Thomas.JPG" width="178" height="266"><span style="background-color:initial"><strong>Miss Michelle Joesoosay </span>Thomas<strong><br></td>
+    <td class="tg-v9jf"><img src="/images/nasreen.jpg" alt="nasreen.jpg" width="181" height="268"><strong>Ms Nasreen Bte Naser</strong><br><br></td>
     <td class="tg-fma3"></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">ENGLISH LANGUAGE</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Alyssa%20Amritha%20Loganathan.JPG" alt="Ms Alyssa Amritha Loganathan.JPG" width="165" height="247"><span style="background-color:transparent">#Ms Alyssa Amritha Loganathan</span><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri-moe-edu-sg-admin.cwp.sg/qql/slot/u315/Our%20Family/MK/2021/Miss%20Leck%20Shi%20Fang%20Charmaine.JPG" alt="Miss Leck Shi Fang Charmaine.JPG" width="163" height="243">#Leck Shi Fang<br>Charmaine <br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri-moe-edu-sg-admin.cwp.sg/qql/slot/u315/Our%20Family/MK/2021/jeannie%20sim.jpg" alt="jeannie sim.jpg" width="163" height="243">#Ms Sim Ai Ping Jeannie<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Alyssa%20Amritha%20Loganathan.jpg" alt="Ms Alyssa Amritha Loganathan.JPG" width="165" height="247"><span style="background-color:transparent"><strong>Ms Alyssa Amritha Loganathan</span></strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Miss%20Leck%20Shi%20Fang%20Charmaine.jpg" alt="Miss Leck Shi Fang Charmaine.JPG" width="163" height="243"><strong>Leck Shi Fang Charmaine</strong> <br></td>
+    <td class="tg-v9jf"><img src="/images/jeannie%20sim.jpg" alt="jeannie sim.jpg" width="163" height="243"><strong>Ms Sim Ai Ping Jeannie</strong><br></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Chew%20Tang%20Wee.JPG" alt="Ms Chew Tang Wee.JPG" width="164" height="246">#Ms Chew Tang Wee<br></td>
