@@ -48,9 +48,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 2 Jade </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Lyly%20Suriani.JPG" alt="Mdm Lyly Suriani.JPG" width="196">#Mdm Lyly Suriani<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/nabil.jpg" alt="nabil.jpg" width="195">#Mr Muhammad Nabil </td>
-    <td class="tg-qn16">Mdm Lyly Suriani<br>lyly_suriani_osman@moe.edu.sg<br><br>Mr Muhammad Nabil<br>muhammad_nabil_muhammad_ismail<br>@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Lyly%20Suriani.jpg" alt="Mdm Lyly Suriani.JPG" width="196">Mdm Lyly Suriani<br></td>
+    <td class="tg-v9jf"><img src="images/nabil.jpg" alt="nabil.jpg" width="195">Mr Muhammad Nabil </td>
+    <td class="tg-qn16"><strong>Mdm Lyly Suriani</strong><br><a href="mailto:lyly_suriani_osman@moe.edu.sg">lyly_suriani_osman@moe.edu.sg</a><br><br><strong>Mr Muhammad Nabil</strong><br><a href="mailto:muhammad_nabil_muhammad_ismail@moe.edu.sg">muhammad_nabil_muhammad_ismail@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">   2 Opal  </td>
