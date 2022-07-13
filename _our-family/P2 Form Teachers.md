@@ -53,15 +53,15 @@ description: ""
     <td class="tg-qn16"><strong>Mdm Lyly Suriani</strong><br><a href="mailto:lyly_suriani_osman@moe.edu.sg">lyly_suriani_osman@moe.edu.sg</a><br><br><strong>Mr Muhammad Nabil</strong><br><a href="mailto:muhammad_nabil_muhammad_ismail@moe.edu.sg">muhammad_nabil_muhammad_ismail@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   2 Opal  </td>
+    <td class="tg-qn16" colspan="3">  <strong> 2 Opal </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Raihanah%20Ali.JPG" alt="Mdm Raihanah Ali.JPG" width="196"># Mdm Raihanah Ali</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2020/gumutha.jpg" alt="gumutha.jpg" width="195">#Mdm Gumutha </td>
-    <td class="tg-qn16">Mdm Raihanah Ali<br>raihanah_ali@moe.edu.sg<br><br>Mdm Gumutha<br>gumutha_murugathasan@moe.edus.g </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Raihanah%20Ali.jpg" alt="Mdm Raihanah Ali.JPG" width="196">Mdm Raihanah Ali</td>
+    <td class="tg-v9jf"><img src="images/gumutha.jpg" alt="gumutha.jpg" width="195">Mdm Gumutha </td>
+    <td class="tg-qn16"><strong>Mdm Raihanah Ali</strong><br><a href="mailto:raihanah_ali@moe.edu.sg">raihanah_ali@moe.edu.sg</a><br><br><strong>Mdm Gumutha</strong><br><a href="mailto:gumutha_murugathasan@moe.edu.sg ">gumutha_murugathasan@moe.edu.sg </a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   2 Pearl  </td>
+    <td class="tg-qn16" colspan="3"> <strong>  2 Pearl </strong> </td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Liow%20Chai%20Hong%20Corinna%20.JPG" alt="Ms Liow Chai Hong Corinna .JPG" width="196"># Mrs Tee - Ms Corinna Liow Chai Hong</td>
