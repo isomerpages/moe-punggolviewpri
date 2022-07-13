@@ -24,7 +24,7 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>5 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="images/Mdm%20Samihah%20Bte%20Abdul%20Kader.jpg" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Samihah%20Bte%20Abdul%20Kader.jpg" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
     <td class="tg-v9jf"><img src="/images/Mr%20Ariffin.jpg" alt="Mr Ariffin.JPG" width="192" height="289">Mr Ariffin Abdul Latif<br><br></td>
     <td class="tg-qn16"> <strong>Mdm Samihah Bte Abdul Kader</strong><br><a href="mailto:samihah_abdul_kader@moe.edu.sg">samihah_abdul_kader@moe.edu.sg</a><br><br><strong>Mr Ariffin Abdul Latif</strong><br><a href="mailto:ariffin_ab_latif@moe.edu.sg">ariffin_ab_latif@moe.edu.sg</a></td>
   </tr>
