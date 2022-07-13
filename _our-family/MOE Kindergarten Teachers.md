@@ -56,15 +56,15 @@ description: ""
     <td class="tg-v9jf"><img src="/images/Ms%20Yan%20Anni.jpg" alt="Ms Yan Anni.JPG" width="163" height="244"><strong>Ms Yan Anni</strong><br></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/chan%20chiew%20chian.jpg" alt="chan chiew chian.jpg" width="168" height="251">#Ms Chan Chieu Chin</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/zhu%20chun%20ying.jpg" alt="zhu chun ying.jpg" width="165" height="247">#Ms Zhu Chunying</td>
+    <td class="tg-v9jf"><img src="/images/chan%20chiew%20chian.jpg" alt="chan chiew chian.jpg" width="168" height="251"><strong>Ms Chan Chieu Chin</strong></td>
+    <td class="tg-v9jf"><img src="/images/zhu%20chun%20ying.jpg" alt="zhu chun ying.jpg" width="165" height="247"><strong>Ms Zhu Chunying</strong></td>
     <td class="tg-fma3"></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505"> MALAY LANGUAGE</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/latifah.jpg" alt="latifah.jpg" width="168" height="251">#Ms Latiffah Bte Shamsudin<br></td>
+    <td class="tg-v9jf"><img src="![](/images/latifah.jpg)" alt="latifah.jpg" width="168" height="251">#Ms Latiffah Bte Shamsudin<br></td>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Nur%20Hawa%20Bte%20Hamidon.JPG" alt="Ms Nur Hawa Bte Hamidon.JPG" width="171" height="253">#Ms Nur Hawa Bte Hamidon<br></td>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/sonia.jpg" alt="sonia.jpg" width="170" height="254">#Ms Sonia Asyira Bte Arman</td>
   </tr>
