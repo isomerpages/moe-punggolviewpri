@@ -93,7 +93,20 @@ img {
 
 ---
 
-![](/images/J%20Durgeshwari.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/J%20Durgeshwari.jpg" alt="Ms Durgeshwari" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;"><strong>Ms Durgeshwari<br></strong>Admin Manager<br></p>
+
+---
 
 <style>  
 img {  
@@ -102,13 +115,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mdm%20Lee%20Lee%20Yen.jpg" alt="Mdm Lee Lee Yen" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mdm Lee Lee Yen<br></strong>Operations Support Officer<br></p>
 
-![](/images/Mdm%20Lee%20Lee%20Yen.jpg)
+---
 
 <style>  
 img {  
@@ -117,26 +130,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mr%20Mohamed%20Junaidy%20Bin%20Mohamed%20Hameed.jpg" alt="Mr Junaidy" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+<p style="text-align:center;"><strong>Mr Junaidy<br></strong>Operations Support Officer<br></p>
 
-![](/images/Mr%20Mohamed%20Junaidy%20Bin%20Mohamed%20Hameed.jpg)
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Ms%20Cathy%20Lee.jpg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<p style="text-align:center;"><strong>Ms Cathy Lee<br></strong>Admin Manager<br></p>
+---
 
 ![](/images/Mdm%20Goo%20Ah%20Hwa.jpg)
 
