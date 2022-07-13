@@ -46,12 +46,12 @@ description: ""
     <td class="tg-qn16"><strong>Mdm Suriani Sokran</strong><br><a href="mailto:suriani_sokran@moe.edu.sg">suriani_sokran@moe.edu.sg</a> <br><br><strong>Mdm Kwan Wai Leng</strong><br><br><strong>Mr Koh Wee Kiat</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/koh%20wee%20kiat%20nicholas.jpg" alt="koh wee kiat nicholas.jpg" width="194">#Mr Koh Wee Kiat<br></td>
+    <td class="tg-v9jf"><img src="/images/koh%20wee%20kiat%20nicholas.jpg" alt="koh wee kiat nicholas.jpg" width="194">Mr Koh Wee Kiat<br></td>
     <td class="tg-fma3"> </td>
     <td class="tg-fma3"> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Jade</td>
+    <td class="tg-qn16" colspan="3"><strong> 1 Jade</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mrs%20Ariff-Siti%20Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="194">#Mrs Ariff - Siti Nurhawa<br></td>
