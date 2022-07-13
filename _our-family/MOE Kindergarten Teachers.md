@@ -64,15 +64,15 @@ description: ""
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505"> MALAY LANGUAGE</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="![](/images/latifah.jpg)" alt="latifah.jpg" width="168" height="251">#Ms Latiffah Bte Shamsudin<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Nur%20Hawa%20Bte%20Hamidon.JPG" alt="Ms Nur Hawa Bte Hamidon.JPG" width="171" height="253">#Ms Nur Hawa Bte Hamidon<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/sonia.jpg" alt="sonia.jpg" width="170" height="254">#Ms Sonia Asyira Bte Arman</td>
+    <td class="tg-v9jf"><img src="/images/latifah.jpg" alt="latifah.jpg" width="168" height="251"><strong>Ms Latiffah Bte Shamsudin</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Nur%20Hawa%20Bte%20Hamidon.jpg" alt="Ms Nur Hawa Bte Hamidon.JPG" width="171" height="253"><strong>Ms Nur Hawa Bte Hamidon</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/sonia.jpg" alt="sonia.jpg" width="170" height="254"><strong>Ms Sonia Asyira Bte Arman</strong></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">TAMIL LANGUAGE</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/Ms%20Buvaneshwari%20do%20Rajoo%20.JPG" alt="Ms Buvaneshwari do Rajoo .JPG" width="196" height="293">#Ms Buvaneshwari d/o Rajoo</td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Buvaneshwari%20do%20Rajoo%20.jpg" alt="Ms Buvaneshwari do Rajoo .JPG" width="196" height="293"><strong>Ms Buvaneshwari d/o Rajoo</strong></td>
     <td class="tg-fma3"> </td>
     <td class="tg-fma3"> </td>
   </tr>
