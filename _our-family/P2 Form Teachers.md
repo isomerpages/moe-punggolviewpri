@@ -69,20 +69,20 @@ description: ""
     <td class="tg-qn16"><strong>Mrs Tee - Ms Corrina Liow Chai Hong</strong><br><a href="mailto:liow_chai_hong_corinna@moe.edu.sg">liow_chai_hong_corinna@moe.edu.sg</a> <br><br><strong>Ms Magdelene Khairyl-Han</strong><br><a href="mailto:han_may_yun_magdelene@moe.edu.sg">han_may_yun_magdelene@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   2 Ruby  </td>
+    <td class="tg-qn16" colspan="3"> <strong>  2 Ruby </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Shannon%20Pang.JPG" alt="Mdm Shannon Pang.JPG" width="196">#Mdm Shannon Pang </td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Nur%20Amlia%20Jumali.JPG" alt="Mdm Nur Amlia Jumali.JPG" width="195">#Mdm Nur Amlia Jumali </td>
-    <td class="tg-qn16">Mdm Shannon Pang<br>pang_teng_yen@moe.edu.sg<br><br>Mdm Nur Amlia Jumali<br>nur_amalia_jumali@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Shannon%20Pang.jpg" alt="Mdm Shannon Pang.JPG" width="196">Mdm Shannon Pang </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Nur%20Amlia%20Jumali.jpg" alt="Mdm Nur Amlia Jumali.JPG" width="195">Mdm Nur Amlia Jumali </td>
+    <td class="tg-qn16"><strong>Mdm Shannon Pang</strong><br>pang_teng_yen@moe.edu.sg<br><br><strong>Mdm Nur Amlia Jumali</strong><br>nur_amalia_jumali@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3">   2 Sapphire  </td>
+    <td class="tg-qn16" colspan="3">  <strong> 2 Sapphire </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Suhainis%20Samsi.JPG" alt="Mdm Suhainis Samsi.JPG" width="196">#Mdm Suhainis Samsi</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/all%20staff%20photos/Ms%20Tan%20Li%20Hwa.jpg" alt="Ms Tan Li Hwa.jpg" width="195">#Mdm Tan Li Hwa</td>
-    <td class="tg-qn16">Mdm Suhainis Samsi<br>suhainis_samsi@moe.edu.sg<br><br>Mdm Tan Li Hwa<br>tan_li_hwa_a@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Suhainis%20Samsi.jpg" alt="Mdm Suhainis Samsi.JPG" width="196">Mdm Suhainis Samsi</td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Tan%20Li%20Hwa.jpg" alt="Ms Tan Li Hwa.jpg" width="195">Mdm Tan Li Hwa</td>
+    <td class="tg-qn16"><strong>Mdm Suhainis Sams</strong><br><a href="mailto:suhainis_samsi@moe.edu.sg">suhainis_samsi@moe.edu.sg</a><br><br><strong>Mdm Tan Li Hwa</strong><br><a href="mailto:tan_li_hwa_a@moe.edu.sg">tan_li_hwa_a@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
