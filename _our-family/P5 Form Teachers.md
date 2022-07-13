@@ -32,7 +32,7 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>  5 Diamond </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="images/Mr%20Jeremy%20Lim.jpg" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Jeremy%20Lim.jpg" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
     <td class="tg-v9jf"><img src="/images/Jamie.jpeg" alt="Jamie 2022.jpeg" width="197" height="275">Miss Cheng Chin Ying, Jamie </td>
     <td class="tg-qn16"><strong>Mr Jeremy Lim</strong><br><a href="mailto:lim_wei_peng_jeremy@moe.edu.sg">lim_wei_peng_jeremy@moe.edu.sg</a><br><br><strong>Miss Cheng Chin Ying, Jamie</strong><br><a href="mailto:cheng_chin_ying@moe.edu.sg">cheng_chin_ying@moe.edu.sg</a></td>
   </tr>
