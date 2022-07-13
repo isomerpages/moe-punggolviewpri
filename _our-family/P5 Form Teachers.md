@@ -56,24 +56,24 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 5 Opal   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Hadijah%20Bte%20Abdul%20Rahman.jpg" alt="Miss Hadijah Bte Abdul Rahman.jpg" width="194" height="290">Ms Hadijah Abdul Rahman<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Fabian.jpg" alt="Mr Fabian.jpg" width="194" height="291">Mr Fabian Koh<br><br></td>
+    <td class="tg-v9jf"><img src="![](/images/Miss%20Hadijah%20Bte%20Abdul%20Rahman.jpg)" alt="Miss Hadijah Bte Abdul Rahman.jpg" width="194" height="290">Ms Hadijah Abdul Rahman<br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Fabiann.jpg)" alt="Mr Fabian.jpg" width="194" height="291">Mr Fabian Koh<br><br></td>
     <td class="tg-qn16"><strong>Ms Hadijah Abdul Rahman</strong><br>hadijah_abdul_rahman@moe.edu.sg<br><br><strong>Mr Fabian Koh</strong><br>koh_zong_cheng_fabian@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 5 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2018/Mr%20Mohd%20Zahid.JPG" alt="Mr Mohd Zahid.JPG" width="200" height="300">Mr Mohd Zahid</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/MTL/2017/Mrs%20Vijayalakshmi%20Vijayan.jpg" alt="Mrs Vijayalakshmi Vijayan.jpg">Mrs Vijayalakshmi Vijayan </td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Mohd%20Zahid.jpg)" alt="Mr Mohd Zahid.JPG" width="200" height="300">Mr Mohd Zahid</td>
+    <td class="tg-v9jf"><img src="![](/images/Mrs%20Vijayalakshmi%20Vijayan.jpg)" alt="Mrs Vijayalakshmi Vijayan.jpg">Mrs Vijayalakshmi Vijayan </td>
     <td class="tg-qn16"><strong>Mr Mohd Zahid</strong><br>mohammad_zahid_rohmat@moe.edu.sg<br><br><strong>Mrs Vijayalakshmi</strong><br>vijayalakshmi_vijayan@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  <strong> 5 Ruby </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Miss%20Choo%20Jia%20Jia.JPG" alt="Miss Choo Jia Jia.JPG" width="200">Miss Choo Jia <br><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Khairunnisa%20Binte%20Mohd%20Isa.jpg" alt="Mdm Khairunnisa Binte Mohd Isa.jpg" width="200" height="299">Mdm Khairunnisa Mohd Isa </td>
+    <td class="tg-v9jf"><img src="![](/images/Miss%20Choo%20Jia%20Jia.jpg)" alt="Miss Choo Jia Jia.JPG" width="200">Miss Choo Jia <br><br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mdm%20Khairunnisa%20Binte%20Mohd%20Isa.jpg)" alt="Mdm Khairunnisa Binte Mohd Isa.jpg" width="200" height="299">Mdm Khairunnisa Mohd Isa </td>
     <td class="tg-qn16"><strong>Miss Choo Jia</strong><br>choo_jia@moe.edu.sg<br><br><strong> Mdm Khairunnisa</strong><br>khairunnisa_mohd_isa@moe.edu.sg</td>
   </tr>
 </tbody>
