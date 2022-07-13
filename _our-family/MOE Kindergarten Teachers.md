@@ -51,9 +51,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Zhou%20Feng.JPG" alt="Ms Zhou Feng.JPG" width="164" height="246">#Ms Zhou Feng<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Gan%20Menghui.JPG" alt="Ms Gan Menghui.JPG" width="165" height="247">#Ms Gan Menghui<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/Ms%20Yan%20Anni.JPG" alt="Ms Yan Anni.JPG" width="163" height="244">#Ms Yan Anni<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Zhou%20Feng.jpg" alt="Ms Zhou Feng.JPG" width="164" height="246"><strong>Ms Zhou Feng</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Gan%20Menghui.jpg" alt="Ms Gan Menghui.JPG" width="165" height="247"><strong>Ms Gan Menghui</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Yan%20Anni.jpg" alt="Ms Yan Anni.JPG" width="163" height="244"><strong>Ms Yan Anni</strong><br></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/MK/2021/chan%20chiew%20chian.jpg" alt="chan chiew chian.jpg" width="168" height="251">#Ms Chan Chieu Chin</td>
