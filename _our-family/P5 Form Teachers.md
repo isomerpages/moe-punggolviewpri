@@ -24,23 +24,23 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>5 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Samihah%20Bte%20Abdul%20Kader.JPG" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Ariffin.JPG" alt="Mr Ariffin.JPG" width="192" height="289">Mr Ariffin Abdul Latif<br><br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mdm%20Samihah%20Bte%20Abdul%20Kader.jpg)" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Ariffin.jpg)" alt="Mr Ariffin.JPG" width="192" height="289">Mr Ariffin Abdul Latif<br><br></td>
     <td class="tg-qn16"> <strong>Mdm Samihah Bte Abdul Kader</strong><br>samihah_abdul_kader@moe.edu.sg<br><br><strong>Mr Ariffin Abdul Latif</strong><br>ariffin_ab_latif@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  5 Diamond </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Jeremy%20Lim.JPG" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Jamie%202022.jpeg" alt="Jamie 2022.jpeg" width="197" height="275">Miss Cheng Chin Ying, Jamie </td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Jeremy%20Lim.jpg)" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
+    <td class="tg-v9jf"><img src="![](/images/Jamie.jpeg)" alt="Jamie 2022.jpeg" width="197" height="275">Miss Cheng Chin Ying, Jamie </td>
     <td class="tg-qn16"><strong>Mr Jeremy Lim</strong><br>lim_wei_peng_jeremy@moe.edu.sg<br><br><strong>Miss Cheng Chin Ying, Jamie</strong><br>cheng_chin_ying@moe.edu.sg </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  5 Emerald </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mrs%20Tan-Li%20Shi%20Hua.JPG" alt="Mrs Tan-Li Shi Hua.JPG" width="200">Mdm Li Shihua<br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mrs%20Tan-Li%20Shi%20Hua.jpg)" alt="Mrs Tan-Li Shi Hua.JPG" width="200">Mdm Li Shihua<br></td>
     <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Key%20Personnel/2018/Mdm%20Sylvia%20Wang%20Yong%20Ling.JPG" alt="Mdm Sylvia Wang Yong Ling.JPG" width="204">Ms Sylvia Wang</td>
     <td class="tg-qn16"><strong>Mdm Li Shihua</strong><br>li_shihua@moe.edu.sg<br><br><strong>Wang Yong Ling Sylvia</strong><br>wang_yong_ling_sylvia@moe.edu.sg </td>
   </tr>
