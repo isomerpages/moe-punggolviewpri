@@ -54,17 +54,17 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 1 Jade</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Ariff-Siti%20Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="194">#Mrs Ariff - Siti Nurhawa<br></td>
-    <td class="tg-v9jf"><img src="/images/wang%20shuangji.jpg" alt="wang shuangji.jpg" width="192" height="254">#Mdm Wang Shuangji</td>
-    <td class="tg-qn16">Mrs Ariff-Siti Nurhawa<br>siti_nurhawa_abdul_shukor@moe.edu.sg<br><br>Mdm Wang Shuangji<br>wang_shuangji@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mrs%20Ariff-Siti%20Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="194">Mrs Ariff - Siti Nurhawa<br></td>
+    <td class="tg-v9jf"><img src="/images/wang%20shuangji.jpg" alt="wang shuangji.jpg" width="192" height="254">Mdm Wang Shuangji</td>
+    <td class="tg-qn16"><strong>Mrs Ariff-Siti Nurhawa</strong><br><a href="mailto:siti_nurhawa_abdul_shukor@moe.edu.sg">siti_nurhawa_abdul_shukor@moe.edu.sg</a><br><br><strong>Mdm Wang Shuangji</strong><br><a href="mailto:wang_shuangji@moe.edu.sg">wang_shuangji@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Opal</td>
+    <td class="tg-qn16" colspan="3"> <strong>1 Opal</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Hafizah%20Binte%20Nordin.jpg" alt="Mdm Hafizah Binte Nordin.JPG" width="194">#Ms Hafizah Nordin<br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Teo%20Xin%20Ning.jpg" alt="Ms Teo Xin Ning.JPG" width="192">#Ms Teo Xin Ning <br></td>
-    <td class="tg-qn16">Ms Hafizah Nordin<br>hafizah_nordin@moe.edu.sg<br><br>Ms Teo Xin Ning<br>teo_xin_ning@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Hafizah%20Binte%20Nordin.jpg" alt="Mdm Hafizah Binte Nordin.JPG" width="194">Ms Hafizah Nordin<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Teo%20Xin%20Ning.jpg" alt="Ms Teo Xin Ning.JPG" width="192">Ms Teo Xin Ning <br></td>
+		<td class="tg-qn16"><strong>Ms Hafizah Nordin</strong><br><a href="mailto:hafizah_nordin@moe.edu.sg">hafizah_nordin@moe.edu.sg</a><br><br><strong>Ms Teo Xin Ning</strong><br><a href="mailto:teo_xin_ning@moe.edu.sg">teo_xin_ning@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> 1 Pearl</td>
