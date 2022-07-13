@@ -67,12 +67,12 @@ description: ""
 		<td class="tg-qn16"><strong>Ms Hafizah Nordin</strong><br><a href="mailto:hafizah_nordin@moe.edu.sg">hafizah_nordin@moe.edu.sg</a><br><br><strong>Ms Teo Xin Ning</strong><br><a href="mailto:teo_xin_ning@moe.edu.sg">teo_xin_ning@moe.edu.sg</a> </td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 1 Pearl</td>
+    <td class="tg-qn16" colspan="3"> <strong>1 Pearl</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Agneta%20Teng%20Xiu%20Ying.jpg" alt="Ms Agneta Teng Xiu Ying.JPG" width="194">#Ms Teng Xiu Ying Agneta<br></td>
-    <td class="tg-v9jf"><img src="/images/DEVI.jpg" alt="DEVI.jpg" width="192">#Mdm Devi Ganesan</td>
-    <td class="tg-qn16">Ms Teng Xiu<span style="background-color:initial"> Ying Agneta</span>teng_xiu_ying_agneta@moe.edu.sg<br><br>Mdm Devi Ganesan<br>devi_ganesan@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Agneta%20Teng%20Xiu%20Ying.jpg" alt="Ms Agneta Teng Xiu Ying.JPG" width="194">Ms Teng Xiu Ying Agneta<br></td>
+    <td class="tg-v9jf"><img src="/images/DEVI.jpg" alt="DEVI.jpg" width="192">Mdm Devi Ganesan</td>
+    <td class="tg-qn16"><strong>Ms Teng Xiu Ying Agneta</strong><span style="background-color:initial"> </span><a href="mailto:teng_xiu_ying_agneta@moe.edu.sg">teng_xiu_ying_agneta@moe.edu.sg</a><br><br><strong>Mdm Devi Ganesan</strong><br><a href="mailto:devi_ganesan@moe.edu.sg">devi_ganesan@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">1 Ruby</td>
