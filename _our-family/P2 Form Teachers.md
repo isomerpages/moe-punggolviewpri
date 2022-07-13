@@ -29,12 +29,12 @@ description: ""
     <td class="tg-qn16"><strong> Ms Li Xinni</strong><br><a href="mailto:li_xinni@moe.edu.sg">li_xinni@moe.edu.sg</a><br><br><strong>Mdm Han Huaxiu</strong><br><a href="mailto:han_huaxiu@moe.edu.sg">han_huaxiu@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> <strong>2 Diamond</strong></td>
+    <td class="tg-qn16" colspan="3"><strong>2 Diamond</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2020/farizan.jpg" alt="farizan.jpg" width="196"># Miss Nurfarizan</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Key%20Personnel/2019/Mdm%20Tan%20Siew%20Chian.JPG" alt="Mdm Tan Siew Chian.JPG" width="195">#Mdm Tan Siew Chian<br></td>
-    <td class="tg-qn16"> Miss Nurfarizan<br>nurfarizan_abdul_wahab@moe.edu.sg<br><br>Mdm Tan Siew Chian<br>tan_siew_chian@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="/images/farizan.jpg" alt="farizan.jpg" width="196">Miss Nurfarizan</td>
+    <td class="tg-v9jf"><img src="/images/Mdm%20Tan%20Siew%20Chiann.jpg" alt="Mdm Tan Siew Chian.JPG" width="195">Mdm Tan Siew Chian<br></td>
+    <td class="tg-qn16"> <strong>Miss Nurfarizan</strong><br><a href="mailto:nurfarizan_abdul_wahab@moe.edu.sg">nurfarizan_abdul_wahab@moe.edu.sg</a><br><br><strong>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> 2 Emerald </td>
