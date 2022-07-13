@@ -37,12 +37,12 @@ description: ""
     <td class="tg-qn16"> <strong>Miss Nurfarizan</strong><br><a href="mailto:nurfarizan_abdul_wahab@moe.edu.sg">nurfarizan_abdul_wahab@moe.edu.sg</a><br><br><strong>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"> 2 Emerald </td>
+    <td class="tg-qn16" colspan="3"><strong> 2 Emerald </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/2020/Khadijah.jpeg" alt="Khadijah.jpeg" width="196">#Ms Siti Khadijah</td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Ms%20Nurhayati%20Binte%20Selamat.JPG" alt="Ms Nurhayati Binte Selamat.JPG" width="195">#Ms Nurhayati </td>
-    <td class="tg-qn16">Ms Siti Khadijah<br>siti_khadijah_abdul_jalil@moe.edu.sg<br><br>Nurhayati Selamat<br>nurhayati_selamat@moe.edu.sg </td>
+    <td class="tg-v9jf"><img src="/images/Khadijah.jpeg" alt="Khadijah.jpeg" width="196">Ms Siti Khadijah</td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Nurhayati%20Binte%20Selamat.jpg" alt="Ms Nurhayati Binte Selamat.JPG" width="195">Ms Nurhayati </td>
+    <td class="tg-qn16"><strong>Ms Siti Khadijah</strong><br><a href="mailto:siti_khadijah_abdul_jalil@moe.edu.sg">siti_khadijah_abdul_jalil@moe.edu.sg</a><br><br><strong>Nurhayati Selamat</strong><br><a href="mailto:nurhayati_selamat@moe.edu.sg">nurhayati_selamat@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  2 Jade   </td>
