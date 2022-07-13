@@ -25,9 +25,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> 1 Amethyst</td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Hidayat%20Bin%20Hamzah.jpg" alt="Mr Hidayat Bin Hamzah.JPG" width="194" height="291">#Mrs Hidayat Hamzah<br><br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Rosnita%20Abdul%20Rahim.jpg" alt="Ms Rosnita Abdul Rahim.JPG" width="191" height="289">#Mdm Rosnita Abdul Rahim</td>
-    <td class="tg-qn16"> Mr Hidayat Hamzah<br>hidayat_hamzah@moe.edu.sg<br><br>Mdm Rosnita Abdul Rahim<br>rosnita_abdul_rahim@moe.edu.sg</td>
+    <td class="tg-v9jf"><img src="/images/Mr%20Hidayat%20Bin%20Hamzah.jpg" alt="Mr Hidayat Bin Hamzah.JPG" width="194" height="291">Mrs Hidayat Hamzah<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Rosnita%20Abdul%20Rahim.jpg" alt="Ms Rosnita Abdul Rahim.JPG" width="191" height="289">Mdm Rosnita Abdul Rahim</td>
+    <td class="tg-qn16"> <strong>Mr Hidayat Hamzah</strong><br><a href="mailto:hidayat_hamzah@moe.edu.sg">hidayat_hamzah@moe.edu.sg</a><br><br><strong>Mdm Rosnita Abdul Rahim</strong><br><a href="mailto:rosnita_abdul_rahim@moe.edu.sg">rosnita_abdul_rahim@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">1 Diamond</td>
@@ -100,3 +100,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
