@@ -25,8 +25,8 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 6 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mdm%20Goh%20Poh%20Khim.JPG" alt="Mdm Goh Poh Khim.JPG" width="193" height="290">Ms Goh Poh Khim<br></td>
-    <td class="tg-v9jf"><img src="https://punggolviewpri.moe.edu.sg/qql/slot/u315/Our%20Family/Staff/Mr%20Michael%20Png%20Ban%20Seng.JPG" alt="Mr Michael Png Ban Seng.JPG" width="191" height="288">Mr Michael Png</td>
+    <td class="tg-v9jf"><img src="![](/images/Mdm%20Goh%20Poh%20Khim.jpg)" alt="Mdm Goh Poh Khim.JPG" width="193" height="290">Ms Goh Poh Khim<br></td>
+    <td class="tg-v9jf"><img src="![](/images/Mr%20Michael%20Png%20Ban%20Seng.jpg)" alt="Mr Michael Png Ban Seng.JPG" width="191" height="288">Mr Michael Png</td>
     <td class="tg-qn16"><strong> Ms Goh Poh Khim</strong><br>goh_poh_khim@moe.edu.sg<br><br><strong>Mr Michael Png</strong><br>png_ban_seng_michael@moe.edu.sg</td>
   </tr>
   <tr>
