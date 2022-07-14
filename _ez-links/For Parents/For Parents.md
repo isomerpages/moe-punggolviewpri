@@ -198,3 +198,7 @@ Below is an infographic and video explaining what the Parents Gateway is.
 **(upload video to youtube and embed here)**
 
 ![Parents Gateway](/images/pgateway.jpg)
+
+#### Snacks For Break Time
+
+![Snacks For Break Time](/images/Snacks%20for%20Break%20Time_HPB.jpg)
