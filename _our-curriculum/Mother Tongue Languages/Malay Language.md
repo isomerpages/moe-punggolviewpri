@@ -21,5 +21,4 @@ Di bengkel tersebut, waris dan murid-murid dibimbing dengan cara-cara untuk memp
 
 Siri bacaan itu, yang sarat dengan nilai-nilai murni dan ditulis dalam konteks Singapura, diterima dengan baik oleh waris dari serata Singapura.  Buku-buku itu telah dilancarkan pada 7 Julai 2017 oleh Dr. Faishal, Kementerian Pelajaran dan Kementerian Pembangunan Keluarga di Canopy@J-Link. Siri bahan bacaan dalam bahasa Melayu untuk murid sekolah rendah, Nabil Nabilah, yang kini digunakan murid Darjah 1 hingga 4, akan diluaskan pula kepada murid Darjah 5 dan 6 bermula tahun 2021. 
 
-Malah siri buku cerita yang bertujuan memperkasa keupayaan bahasa Melayu kanak-kanak, akan turut diperkenalkan kepada murid-murid peringkat prasekolah, iaitu Tadika 1 dan 2. Buku-buku cerita Nabil Nabilah itu juga terdapat dalam versi online dan boleh anda dimuat turun secara percuma di laman MLLPC https://www.mllpc.sg/publications.
-
+Malah siri buku cerita yang bertujuan memperkasa keupayaan bahasa Melayu kanak-kanak, akan turut diperkenalkan kepada murid-murid peringkat prasekolah, iaitu Tadika 1 dan 2. Buku-buku cerita Nabil Nabilah itu juga terdapat dalam versi online dan boleh anda dimuat turun secara percuma di laman MLLPC [https://www.mllpc.sg/publications](https://www.mllpc.sg/publications)
