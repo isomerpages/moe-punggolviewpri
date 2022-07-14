@@ -1,4 +1,5 @@
 collections:
   ez-links:
     output: true
-    order: []
+    order:
+      - E Open House 2022.md
