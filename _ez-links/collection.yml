@@ -2,19 +2,7 @@ collections:
   ez-links:
     output: true
     order:
-      - Media (Gallery).md
-      - Alumni.md
-      - Forms & Useful Links.md
-      - Staff Achievements.md
-      - SLS.md
-      - Transition E Tour.md
-      - Zoom.md
-      - HBL.md
-      - Student ICON.md
-      - P1 Admin Matters.md
-      - Health Promotion Month.md
-      - For Students.md
-      - For Teachers.md
+      - E Open House 2022.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Letters.md
@@ -22,4 +10,16 @@ collections:
       - For Parents/Briefing Slides.md
       - For Parents/Financial Assistance Schemes (FAS).md
       - For Parents/Parent Volunteer Scheme.md
-      - E Open House 2022.md
+      - For Teachers.md
+      - For Students.md
+      - Health Promotion Month.md
+      - P1 Admin Matters.md
+      - Student ICON.md
+      - HBL.md
+      - Zoom.md
+      - Transition E Tour.md
+      - SLS.md
+      - Staff Achievements.md
+      - Forms & Useful Links.md
+      - Alumni.md
+      - Media (Gallery).md
