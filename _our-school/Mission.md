@@ -37,7 +37,8 @@ These are also known as our six MESCAP Student Outcomes.
 
 After six years of Education@Punggol View, we want our students to attain an “Inspiring Future” when they have grown their Moral, Emotional, Social, Cognitive, Aesthetic and Physical (MESCAP) domains to the full and glowed to become persons of character who are good and useful citizens of tomorrow. Persons of character possess both moral and performance character.
 
-![Inspiring Future (Outcome)](/images/inspiring%20student%20outcomes.png)
+<img src="/images/inspiring%20student%20outcomes.png"  
+style="width:70%">
   
 
 In other words, our students will grow to be the best that they can be and always striving to “Do the Right Thing” (developed in the moral character - moral, emotional and social domains) and “Give of their Best” (developed in the performance character - cognitive, aesthetic and physical domains) for future learning, employment and citizenship.
