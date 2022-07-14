@@ -45,18 +45,18 @@ Video from K2 teachers
 
 [K1 2b. MKPV Home-Based Activities_CL.pdf](/files/K1%202b%20MKPV%20Home-Based%20Activities_CL.pdf) 
 
-[K1 2c. MKPV Home-Based Activities_ML.pdf](/files/K2%202c%20MKPV%20Home-Based%20Activities_ML.pdf) 
+[K1 2c. MKPV Home-Based Activities_ML.pdf](/files/K1%202c%20MKPV%20Home-Based%20Activities_ML.pdf)
 
 [K1 2d. MKPV Home-Based Activities_TL.pdf](/files/K1%202d%20MKPV%20Home-Based%20Activities_TL.pdf) 
 
 
-K2 2a. MKPV Home-Based Activities_EL(revised).pdf 
+[K2 2a MKPV Home-Based Activities_EL(revised).pdf](/files/K2%202a%20MKPV%20Home-Based%20Activities_EL(revised).pdf) 
 
-K2 2b. MKPV Home-Based Activities_CL.pdf 
+[K2 2b. MKPV Home-Based Activities_CL.pdf](/files/K2%202b%20MKPV%20Home-Based%20Activities_CL.pdf) 
 
-K2 2c. MKPV Home-Based Activities_ML.pdf 
+[K2 2c. MKPV Home-Based Activities_ML.pdf](/files/K2%202c%20MKPV%20Home-Based%20Activities_ML.pdf) 
 
-K2 2d. MKPV Home-Aased Activities_TL.pdf 
+[K2 2d. MKPV Home-Aased Activities_TL.pdf](/files/K2%202d%20MKPV%20Home-Aased%20Activities_TL.pdf) 
 
 
 #### School Closure and Home Based Learning (7th April)
