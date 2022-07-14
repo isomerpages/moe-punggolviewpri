@@ -25,7 +25,8 @@ The iCARE programme that is held thrice a week during recess is developed to foc
 **image036.jpg here!** <br>
 **image038.jpg here!**
 
-![](/images/image011.jpg)
+<img src="/images/image011.jpg"  
+style="width:50%">
 
 Health Promotion Month Celebrating Physically Robust Students who Eat Wisely and Exercise Regularly – A Health Promotion Effort in Punggol View  
 The Physical Education Department carries out an array of learning experiences for a month long annually to help our students acquire knowledge, skills and values to empower them to lead healthy lifestyles and take responsibility for their health. We hope to create a nurturing and learning environment for our students to develop positive attitudes and practise healthy habits.
@@ -34,17 +35,22 @@ The Physical Education Department carries out an array of learning experiences f
 
 #### Launch of Fruittie Veggie
 
-![Launch of Fruittie Veggie](/images/Launch%20of%20Fruittie%20Veggie.png)
+<img src="/images/Launch%20of%20Fruittie%20Veggie.png"  
+style="width:75%">
 
 #### Roving Carnival
 
-![Roving Carnival](/images/Roving%20Carnival_1.jpg)
+<img src="/images/Roving%20Carnival_1.jpg"  
+style="width:50%">
 
-![Roving Carnival](/images/Roving%20Carnival_2.png)
+<img src="/images/Roving%20Carnival_2.png"  
+style="width:50%">
 
-![Roving Carnival](/images/Roving%20Carnival_3.jpg)
+<img src="/images/Roving%20Carnival_3.jpg"  
+style="width:50%">
 
-![Roving Carnival](/images/Roving%20Carnival_4.jpg)
+<img src="/images/Roving%20Carnival_4.jpg"  
+style="width:50%">
 
 ### Camps
   
