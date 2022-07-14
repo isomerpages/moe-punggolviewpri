@@ -76,8 +76,8 @@ The series, filled with moral values written in the Singapore context have been 
 
 ##### For media coverage by Straits Times, please click this link:
 
-[**https://www.straitstimes.com/singapore/education/popular-malay-books-on-siblings-nabil-and-nabilah-extended-to-kindergarten-level?&utm\_source=whatsapp&utm\_medium=social-media&utm\_campaign=addtoany**](https://www.straitstimes.com/singapore/education/popular-malay-books-on-siblings-nabil-and-nabilah-extended-to-kindergarten-level?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany)
+[https://www.straitstimes.com/singapore/education/popular-malay-books-on-siblings-nabil-and-nabilah-extended-to-kindergarten-level?&utm\_source=whatsapp&utm\_medium=social-media&utm\_campaign=addtoany](https://www.straitstimes.com/singapore/education/popular-malay-books-on-siblings-nabil-and-nabilah-extended-to-kindergarten-level?&utm_source=whatsapp&utm_medium=social-media&utm_campaign=addtoany)
 
 ##### For media coverage by Berita Mediacorp, please click this link: 
 
-[**https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp**](https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp)
+[https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp](https://berita.mediacorp.sg/mobilem/singapura/siri-buku-nabil-nabilah-akan-dilanjutkan-ke-darjah-5-6-serta-k1/4231638.html#.XFG7r1QlGxE.whatsapp)
