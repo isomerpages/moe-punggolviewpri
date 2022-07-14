@@ -168,3 +168,20 @@ Stay home, stay safe, stay curious.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E9t53lZw_rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Click here to view the file below, in a new window](/files/Resource%20Kit%20-%20HBL%20(Part%202).pdf)
+
+**(embed pdf here?)**
+
+#### Home-Based Learning: Don't Worry, Be Steady!
+
+[Click here to open the file below in a new window](/files/Resource%20Kit%20-%20HBL.pdf)
+
+**(embed pdf here?)**
+
+#### Tips for Parents to guide Children in using Technology
+
+Do you know how to guide your child and cultivating good habits in using ICT? <br>
+Here are some technology tips that you can adopt to ensure good ICT practices from your child.
+
+**(embed pdf here?)**
+
+[Click here to view full screen version](/files/Children%20%20Technology%20Tips%20for%20Parents%20(003).pdf)
