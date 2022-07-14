@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - School Family Education/School Family Education.md
       - School Family Education/.keep
       - Parents Support Group.md
