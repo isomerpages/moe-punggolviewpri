@@ -34,3 +34,8 @@ Go to [https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooti
 ![](/images/FHBL%20Resource%203%20-%20Ensuring%20smooth%20HBL%20lessons%20May20211024_1.jpg)
 
 ![](/images/FHBL%20Resource%204%20-%20Search%20MOE%20Library.jpg)
+
+#### Parent Kit - Supporting Your Child During Full HBL
+
+
+[Click here to download.](/files/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf)
