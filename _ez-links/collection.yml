@@ -2,4 +2,5 @@ collections:
   ez-links:
     output: true
     order:
+      - For Parents/.keep
       - E Open House 2022.md
