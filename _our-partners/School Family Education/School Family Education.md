@@ -4,7 +4,6 @@ permalink: /our-partners/school-family-education
 description: ""
 third_nav_title: School Family Education
 ---
-
 <img src="/images/FMPGVP.jpg"  
 style="width:70%">
 
@@ -32,10 +31,10 @@ Ms Justina Koh is our Coordinator and she is contactable at [justina\_amand
 
 
 <img src="/images/family%20fun%20@%20east%20coast%20park.png"  
-style="width:80%">
+style="width:75%">
 
 <img src="/images/ECPpic4.jpg"  
-style="width:80%">
+style="width:75%">
 
 *   Health Promotion Month
 
@@ -43,12 +42,15 @@ Good nutrition is necessary to raise children with healthy body and mind. Beside
 
 The first workshop on Nutrition was conducted by Exercise Physiologist, Kevin Wong. The talk focused on how to achieve a balanced lifestyle. It covered topics like wise nutrition for energy balance, adequate hydration and exercise. The second speaker, Elaine touched on food that boost children’s memory. She talked about how feeding our children nutrient-rich food fuels their brains to improve concentration and memory. The talk was followed by a simple cooking demonstration. Parents and children had the opportunity to taste the healthy food that was prepared.  We are delighted that all parents who attended the workshop found the workshop very useful and gave positive feedback.  We hope to reach out to more parents during the next round.
 
-![](/images/Health%20Promotion%20Month.png)
+<img src="/images/Health%20Promotion%20Month.png"  
+style="width:70%">
 
 *   Parent and child bonding through building a terrarium
 
-![Parent and child bonding through building a terrarium](/images/Parent%20and%20child%20bonding%20through%20building%20a%20terrarium.png)
+<img src="/images/Parent%20and%20child%20bonding%20through%20building%20a%20terrarium.png"  
+style="width:70%">
 
 *   Art workshop
 
-![art workshop](/images/art%20workshop.png)
+<img src="/images/art%20workshop.png"  
+style="width:70%">
