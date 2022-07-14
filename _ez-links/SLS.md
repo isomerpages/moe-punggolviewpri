@@ -11,9 +11,11 @@ The Singapore Student Learning Space (SLS) will be temporarily unavailable durin
   
 Please take not that your child/ward will not be able to access the system during this time.
 
-![](/images/SLS%20Downtime_1.png)
+<img src="/images/SLS%20Downtime_1.png"  
+style="width:70%">
 
-![](/images/SLS%20Downtime_2.png)
+<img src="/images/SLS%20Downtime_2.png"  
+style="width:70%">
 
 #### SLS Account Management, Password Reset and FAQ
 
