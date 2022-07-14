@@ -41,13 +41,13 @@ Video from K2 teachers
 
 #### Home Based Activities (20th April)
 
-K1 2a. MKPV Home-Based Activities_EL.pdf 
+[K1 2a. MKPV Home-Based Activities_EL.pdf](/files/K1%202a%20MKPV%20Home-Based%20Activities_EL.pdf) 
 
-K1 2b. MKPV Home-Based Activities_CL.pdf 
+[K1 2b. MKPV Home-Based Activities_CL.pdf](/files/K1%202b%20MKPV%20Home-Based%20Activities_CL.pdf) 
 
-K1 2c. MKPV Home-Based Activities_ML.pdf 
+[K1 2c. MKPV Home-Based Activities_ML.pdf](/files/K2%202c%20MKPV%20Home-Based%20Activities_ML.pdf) 
 
-K1 2d. MKPV Home-Based Activities_TL.pdf 
+[K1 2d. MKPV Home-Based Activities_TL.pdf](/files/K1%202d%20MKPV%20Home-Based%20Activities_TL.pdf) 
 
 
 K2 2a. MKPV Home-Based Activities_EL(revised).pdf 
