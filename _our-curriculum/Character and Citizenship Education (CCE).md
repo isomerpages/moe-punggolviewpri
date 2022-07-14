@@ -68,9 +68,14 @@ Assembly talks on the school values are conducted every month. Students reflecte
 
 #### Value Badges Recipients
 
-![Value Badges Recipients](/images/Value%20Badges%20Recipients.png)
 
-![Value Badges Recipients](/images/Value%20Badges%20Recipients_2.jpg)
+
+<img src="/images/Value%20Badges%20Recipients.png"  
+style="width:70%">
+
+
+<img src="/images/Value%20Badges%20Recipients_2.jpg"  
+style="width:70%">
 
 #### Sexuality Education 2022
 
