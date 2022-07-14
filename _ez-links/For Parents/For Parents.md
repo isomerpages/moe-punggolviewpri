@@ -10,7 +10,7 @@ third_nav_title: For Parents
 
 #### Hai Sing Catholic School DSA 2022
 
-[Click here to read more about Hai Sing Catholic School's DSA](https://haisingcatholic.moe.edu.sg/direct-school-admission/dsa-online-info-sharing-session)  
+Click [here](https://haisingcatholic.moe.edu.sg/direct-school-admission/dsa-online-info-sharing-session) to read more about Hai Sing Catholic School's DSA  
   
 
 #### Parents Briefing
