@@ -5,7 +5,7 @@ description: ""
 ---
 #### FAQ 
 
-[Please click here if you are unable to view the FAQ](/files/2022_Punggol%20View%20Pri_FAQs_E%20Open%20House_edited.pdf)
+[Please click here to view the FAQ](/files/2022_Punggol%20View%20Pri_FAQs_E%20Open%20House_edited.pdf)
 
 #### P1 Transition
 
