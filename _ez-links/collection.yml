@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - For Teachers.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Letters.md
