@@ -14,7 +14,7 @@ sections:
           - title: "Important Things to Bring (2022) "
             url: ""
           - title: Student Icon - Locked Accounts  and Password Reset
-            url: ""
+            url: /ez-links/student-icon
   - infobar:
       title: Infobar title
       subtitle: Subtitle
