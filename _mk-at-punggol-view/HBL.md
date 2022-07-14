@@ -62,14 +62,14 @@ Video from K2 teachers
 #### School Closure and Home Based Learning (7th April)
 
 
-[Click here to open the file below in a new window](https://punggolviewpri-moe-edu-sg-admin.cwp.sg/qql/slot/u315/a)%202020%20Announcements/MK%202020/Letter%20from%20CH%20on%20School%20Closure%20and%20Home-Based%20Learning.pdf)
+[Click here to open the file below in a new window](/files/Letter%20from%20CH%20on%20School%20Closure%20and%20Home-Based%20Learning.pdf)
 
 #### Home-Based Activities for MOE Kindergarten
 
-1a. MK Home-based Activities_MOE EL 1.pdf 
+[1a. MK Home-based Activities_MOE EL 1.pdf](/files/1a%20MK%20Home-based%20Activities_MOE%20EL%201.pdf) 
 
-1b. MK Home-based Activities_MOE CL 1.pdf 
+[1b MK Home-based Activities_MOE CL 1.pdf](/files/1b%20MK%20Home-based%20Activities_MOE%20CL%201.pdf) 
 
-1c. MK Home-based Activities_MOE ML 1.pdf 
+[1c. MK Home-based Activities_MOE ML 1.pdf](/files/1c%20MK%20Home-based%20Activities_MOE%20ML%201.pdf) 
 
-1d. MK Home-based Activities_MOE TL 1.pdf
+[1d. MK Home-based Activities_MOE TL 1.pdf](/files/1d%20MK%20Home-based%20Activities_MOE%20TL%201.pdf)
