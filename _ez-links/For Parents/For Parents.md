@@ -74,7 +74,8 @@ Click on the link below to read more.
 
 #### NIE CTA 2022
 
-![](/images/NIECTA2022.jpg)
+<img src="/images/NIECTA2022.jpg"  
+style="width:70%">
 
 ![](/images/NIE%20CTA%202022.jpg)
 
