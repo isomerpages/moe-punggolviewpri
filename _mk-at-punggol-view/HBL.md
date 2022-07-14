@@ -19,3 +19,58 @@ Video from K1 teachers
 
 Video from K2 teachers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYPKOfwI2Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Home Based Activities (27th April)
+
+K1 3a. MKPV Home-Based Activities_EL.pdf 
+
+K1 3b. MKPV Home-Based Activities_CL.pdf 
+
+K1 3c. MKPV Home-Based Activities_ML.pdf 
+
+K1 3d. MKPV Home-Based Activities_TL.pdf 
+
+
+K2 3a. MKPV Home-Based Activities_EL.pdf 
+
+K2 3b. MKPV Home-Based Activities_CL.pdf 
+
+K2 3c. MKPV Home-Based Activities_ML.pdf 
+
+K2 3d. MKPV Home-Based Activities_TL.pdf 
+
+#### Home Based Activities (20th April)
+
+K1 2a. MKPV Home-Based Activities_EL.pdf 
+
+K1 2b. MKPV Home-Based Activities_CL.pdf 
+
+K1 2c. MKPV Home-Based Activities_ML.pdf 
+
+K1 2d. MKPV Home-Based Activities_TL.pdf 
+
+
+K2 2a. MKPV Home-Based Activities_EL(revised).pdf 
+
+K2 2b. MKPV Home-Based Activities_CL.pdf 
+
+K2 2c. MKPV Home-Based Activities_ML.pdf 
+
+K2 2d. MKPV Home-Aased Activities_TL.pdf 
+
+
+#### School Closure and Home Based Learning (7th April)
+
+
+[Click here to open the file below in a new window](https://punggolviewpri-moe-edu-sg-admin.cwp.sg/qql/slot/u315/a)%202020%20Announcements/MK%202020/Letter%20from%20CH%20on%20School%20Closure%20and%20Home-Based%20Learning.pdf)
+
+#### Home-Based Activities for MOE Kindergarten
+
+1a. MK Home-based Activities_MOE EL 1.pdf 
+
+1b. MK Home-based Activities_MOE CL 1.pdf 
+
+1c. MK Home-based Activities_MOE ML 1.pdf 
+
+1d. MK Home-based Activities_MOE TL 1.pdf 
+
