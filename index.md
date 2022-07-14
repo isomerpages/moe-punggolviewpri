@@ -9,9 +9,10 @@ sections:
   - hero:
       background: /images/punggol pri.gif
       dropdown:
-        title: Announcements
+        title: ANNOUNCEMENTS
         options:
-          - title: Announ
+          - title: Important Things to Bring (2022) Click here for the important things to
+              bring on your first day of school!
             url: ""
   - infobar:
       title: Infobar title
