@@ -99,7 +99,16 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 
 #### Baseline ICT Training for Primary 1 and Primary 2
 
-![Baseline ICT Training for Primary 1 and Primary 2](/images/Baseline%20ICT%20Training%20for%20Primary%201%20and%20Primary%202.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Baseline%20ICT%20Training%20for%20Primary%201%20and%20Primary%202.jpg" alt="Baseline ICT Training for Primary 1 and Primary 2" style="width:50%;">  
+  
+</body>
   
 
 **Baseline ICT Training for Primary 1 and Primary 2**
