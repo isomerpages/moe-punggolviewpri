@@ -17,11 +17,15 @@ The aims of art education in our schools are to enable every child to
 -	communicate visually, and
 -	make meaning through connecting with society and culture.
 
+<img src="/images/Aims%20of%20Art%20Education%20in%20Schools.png"  
+style="width:60%">
 
-![Aims of Art Education in Schools](/images/Aims%20of%20Art%20Education%20in%20Schools.png)
 
-![art framework](/images/art%20framework.png)
+<img src="/images/art%20framework.png"  
+style="width:75%">
 
-![general art programme](/images/GAP.png)
+<img src="/images/GAP.png"  
+style="width:75%">
 
-![art focus](/images/art%20focus.png)
+<img src="/images/art%20focus.png"  
+style="width:75%">
