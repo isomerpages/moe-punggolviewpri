@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - School Family Education/Photo Gallery.md
-      - School Family Education/School Family Education.md
       - School Family Education/.keep
+      - School Family Education/School Family Education.md
+      - School Family Education/Photo Gallery.md
       - Parents Support Group.md
