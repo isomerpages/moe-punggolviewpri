@@ -39,7 +39,9 @@ img {
 
 
 
-<img style="width:50%;" alt="Drama@play – freeze frame" src="/images/image022%20(1).jpg">
+<img style="width:40%;" alt="Drama@play – freeze frame" src="/images/image022%20(1).jpg">
+
+
 <p style="text-align:center;">Drama@play – freeze frame</p>
 	
 
@@ -97,7 +99,7 @@ img {
 
 
 
-<img style="width:50%;" alt="Reading “Walking Through the Jungle" src="/images/image029.jpg">
+<img style="width:40%;" alt="Reading “Walking Through the Jungle" src="/images/image029.jpg">
 <p style="text-align:center;">Reading “Walking Through the Jungle"</p>
 	
 
