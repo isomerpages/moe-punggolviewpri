@@ -74,7 +74,7 @@ Development Programme, and aid in the development of life skills. Our programme 
   
 	
 
-email: pv@rafflesstudentcare.com <br>
+email:  [pv@rafflesstudentcare.com](mailto:pv@rafflesstudentcare.com)<br>
 contact : 8952 5226
 
   
