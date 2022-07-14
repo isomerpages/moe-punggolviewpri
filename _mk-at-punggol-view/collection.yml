@@ -2,11 +2,11 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - MOE KINDERGARTEN WEBSITE.md
-      - FORMS & USEFUL LINKS.md
-      - USEFUL INFORMATION.md
-      - HBL.md
-      - COLLABORATIONS.md
-      - MK TOTAL CURRICULUM.md
-      - KINDERGARTEN NEWS.md
       - OPEN HOUSE 2022.md
+      - KINDERGARTEN NEWS.md
+      - MK TOTAL CURRICULUM.md
+      - COLLABORATIONS.md
+      - HBL.md
+      - USEFUL INFORMATION.md
+      - FORMS & USEFUL LINKS.md
+      - MOE KINDERGARTEN WEBSITE.md
