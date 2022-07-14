@@ -49,3 +49,17 @@ We hope to continue building a strong partnership with all parents in supporting
 [2022 ML P1 Curriculum Briefing for PARENTS 200121.pdf](/files/2022%20ML%20P1%20Curriculum%20Briefing%20for%20PARENTS%20200121.pdf)
 
 [2022 MA P1 Curriculum Briefing.pdf](/files/2022%20MA%20P1%20Curriculum%20Briefing.pdf)
+
+#### Raising a confident child
+
+It is so heartening that you would like to start off the New Year by supporting the new parents to nurture their children with motivation and love. 
+
+  
+
+Chapter Zero shared the topic "Raising a Confident Child" during the webinar. They shared about the circle of security (using attachment) as a basis for parents to form a secure haven and base for their child, so that their child will also have the security and confidence to explore the world on their own and gradually grow in confidence and resilience.
+
+  
+
+Click on the link below to read more.
+
+[Raising a Confident Child - Punggol View 002.pdf](/files/Raising%20a%20Confident%20Child%20-%20Punggol%20View%20002.pdf)
