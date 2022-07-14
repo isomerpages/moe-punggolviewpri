@@ -39,3 +39,5 @@ Go to [https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooti
 
 
 [Click here to download.](/files/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf)
+
+**(embed pdf here?)**
