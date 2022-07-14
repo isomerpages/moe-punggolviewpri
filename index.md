@@ -15,6 +15,8 @@ sections:
             url: ""
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
+          - title: PGVP Quarterly Term 3 (2022)
+            url: /ez-links/for-parents/letters
   - infobar:
       title: Infobar title
       subtitle: Subtitle
