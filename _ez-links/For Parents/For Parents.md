@@ -42,10 +42,10 @@ We hope to continue building a strong partnership with all parents in supporting
 
 [2022_EL P1_presentation slides.pdf](/files/2022_EL%20P1_presentation%20slides.pdf)
 
-2022_CL P1 Curriculum Briefing.pdf
+[2022_CL P1 Curriculum Briefing.pdf](/files/2022_CL%20P1%20Curriculum%20Briefing.pdf)
 
-2022 TL_P1 Curriculum Briefing.pdf
+[2022 TL_P1 Curriculum Briefing.pdf](/files/2022%20TL_P1%20Curriculum%20Briefing.pdf)
 
-2022 ML P1 Curriculum Briefing for PARENTS 200121.pdf
+[2022 ML P1 Curriculum Briefing for PARENTS 200121.pdf](/files/2022%20ML%20P1%20Curriculum%20Briefing%20for%20PARENTS%20200121.pdf)
 
-2022 MA P1 Curriculum Briefing.pdf
+[2022 MA P1 Curriculum Briefing.pdf](/files/2022%20MA%20P1%20Curriculum%20Briefing.pdf)
