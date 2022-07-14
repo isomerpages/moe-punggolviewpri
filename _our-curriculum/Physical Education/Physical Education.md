@@ -40,7 +40,16 @@ The purpose of physical education is to enable students to demonstrate individua
 ##### Goals of Physical Education
 A comprehensive, well-articulated syllabus helps students to achieve the goals of physical education. The six goals are equally important - each interacts with others in a well-planned programme that addresses the knowledge, skills and values desired for every student. Physical education seeks to develop in each student the ability to:
 
-![Goals of Physical Education](/images/pe003.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/pe003.jpg" alt="Goals of Physical Education" style="width:60%;">  
+  
+</body>
 
 This syllabus is organised to achieve the goals of physical education based on the framework below. At the apex is the purpose of physical education, achieved through the learning areas to enable students to develop efficiency, effectiveness and versatility in their movement. Learning in the affective areas and competencies for the 21st century are both the outcomes and enablers for the learning of physical education. Through a balanced and well-designed curriculum, delivered through appropriate and effective pedagogies and meaningful assessment, students will acquire the knowledge, skills and values to live active and healthy lives.
 
