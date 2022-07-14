@@ -18,7 +18,7 @@ sections:
           - title: PGVP Quarterly Term 3 (2022)
             url: /ez-links/for-parents/letters
           - title: PGVP Quarterly Term 2 (2022)
-            url: ""
+            url: /ez-links/for-parents/letters
   - infobar:
       title: Infobar title
       subtitle: Subtitle
