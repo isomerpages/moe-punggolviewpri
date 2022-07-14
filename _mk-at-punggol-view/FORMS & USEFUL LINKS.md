@@ -37,11 +37,11 @@ For more information on KiFAS, you may visit [https://www.ecda.gov.sg/Pages/Subs
 Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit another form, subject to approval.
 
 For Application of Authorisation Passes, please submit the information here:
-MOE Kindergarten@Punggol View Authorisation Pass Application 
+[MOE Kindergarten@Punggol View Authorisation Pass Application](https://go.gov.sg/mkpvap)
 
 #### Transfer Session Request
 
 If you wish to request for a change of session for your child at MOE Kindergarten, please submit your request here:
-MOE Kindergarten@Punggol View Transfer Session Request Form 
+[MOE Kindergarten@Punggol View Transfer Session Request Form](https://go.gov.sg/mkpvtransfer)
 
 Requests for transfers will be granted based on available vacancies. Parents will be contacted upon successful transfers.
