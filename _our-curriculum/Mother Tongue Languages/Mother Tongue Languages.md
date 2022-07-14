@@ -70,7 +70,7 @@ On 30 January 2019, more than 100 parents and students attended a reading techni
 
 <img src="/images/malay%20language%20unit.png" style="width:240px;height:183px;margin-left:15px;" align = "left">
 
-During the workshop, parents and students were guided on ways to hone their reading and storytelling skills.  Interesting reading tips and storytelling techniques were shared to parents so that they could instil a love for reading in their children.  The workshop was designed based on the popular reader series, Nabil Nabilah, which were written by our very own Punggol View Malay Language teachers.
+<p style="text-align:right;">During the workshop, parents and students were guided on ways to hone their reading and storytelling skills.  Interesting reading tips and storytelling techniques were shared to parents so that they could instil a love for reading in their children.  The workshop was designed based on the popular reader series, Nabil Nabilah, which were written by our very own Punggol View Malay Language teachers.</p>
 
 The series, filled with moral values written in the Singapore context have been well-received by parents throughout Singapore. The series was first launched in 2015 for Primary 1 and 2 pupils, while books for Primary 3 and 4 were launched last year. At the event, Dr Faishal also announced that books for K1 and K2 children, as well as Primary 5 and 6 students, will be rolled out by 2021. We were indeed grateful for this opportunity. The PDF versions of the books can be accessed via [https://www.mllpc.sg/publications](https://www.mllpc.sg/publications).  
 
