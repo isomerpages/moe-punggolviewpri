@@ -10,4 +10,5 @@ Through joining the Speech and Drama Society, we hope to see students perform co
 
 ![Speech and Drama Society](/images/speech%20and%20drama%20society.png)
 
-![Speech and Drama Society](/images/speech%20and%20drama%20society_2.jpg)
+<img src="/images/speech%20and%20drama%20society_2.jpg"  
+style="width:75%">
