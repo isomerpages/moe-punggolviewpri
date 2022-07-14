@@ -4,7 +4,9 @@ permalink: /our-partners/school-family-education
 description: ""
 third_nav_title: School Family Education
 ---
-![School Family Education](/images/FMPGVP.jpg)
+
+<img src="/images/FMPGVP.jpg"  
+style="width:70%">
 
 _Because FAMILY matters._
 
@@ -28,9 +30,12 @@ Ms Justina Koh is our Coordinator and she is contactable at [justina\_amand
 
 *   Family Fun @ East Coast Park (Castle-In-The-Sand)
 
-![family fun at east coast park](/images/family%20fun%20@%20east%20coast%20park.png)
 
-![family fun at east coast park](/images/ECPpic4.jpg)
+<img src="/images/family%20fun%20@%20east%20coast%20park.png"  
+style="width:80%">
+
+<img src="/images/ECPpic4.jpg"  
+style="width:80%">
 
 *   Health Promotion Month
 
