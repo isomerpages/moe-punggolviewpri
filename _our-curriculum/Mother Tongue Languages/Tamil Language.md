@@ -24,4 +24,5 @@ third_nav_title: Mother Tongue Languages
 
 #### TL Teachers
 
-![Tamil Language Teachers](/images/TL%20Teachers.jpg)
+<img src="/images/TL%20Teachers.jpg"  
+style="width:65%">
