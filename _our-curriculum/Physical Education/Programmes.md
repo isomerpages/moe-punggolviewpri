@@ -59,8 +59,13 @@ The school camps will provide a platform for our students to apply and demonstra
 
 #### P4 Camp Harmony
 
-![P4 Camp Harmony](/images/p4%20camp%20harmony.png)
+<img src="/images/p4%20camp%20harmony.png"  
+style="width:60%">
 
-![P4 Camp Harmony](/images/p4%20camp%20harmony_2.png)
 
-![P4 Camp Harmony](/images/pe035.jpg)
+<img src="/images/p4%20camp%20harmony_2.png"  
+style="width:60%">
+
+
+<img src="/images/pe035.jpg"  
+style="width:60%">
