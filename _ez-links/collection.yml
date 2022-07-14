@@ -1,0 +1,4 @@
+collections:
+  ez-links:
+    output: true
+    order: []
