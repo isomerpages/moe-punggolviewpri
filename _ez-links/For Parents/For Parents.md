@@ -185,3 +185,16 @@ Here are some technology tips that you can adopt to ensure good ICT practices fr
 **(embed pdf here?)**
 
 [Click here to view full screen version](/files/Children%20%20Technology%20Tips%20for%20Parents%20(003).pdf)
+
+#### Parents Gateway
+---------------
+
+Dear parents,   
+  
+Below is an infographic and video explaining what the Parents Gateway is.  
+  
+[[For a more detailed FAQ, please click here.](/files/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)]
+
+**(upload video to youtube and embed here)**
+
+![Parents Gateway](/images/pgateway.jpg)
