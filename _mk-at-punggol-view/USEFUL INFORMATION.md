@@ -8,7 +8,7 @@ Operation Hours: 8am - 5pm
 
 Tel: 65701588
 
-Email: mk_punggolview@moe.edu.sg
+Email:  [mk_punggolview@moe.edu.sg](mailto:mk_punggolview@moe.edu.sg)
 
 #### MOE Kindergarten Uniform Supplier
 
