@@ -22,7 +22,8 @@ For DBS/POSB Accounts, please refer to the guide on how to apply for the GIRO ar
 
 Guide on GIRO Application for DBS and POSB accounts.pdf
 
-KiFAS Application
+#### KiFAS Application
+
 KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KiFAS, please submit the KF1 Application Form to the General Office.
 
 KF1 - Enrolment and KiFAS Application.pdf
