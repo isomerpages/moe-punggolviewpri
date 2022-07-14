@@ -10,6 +10,7 @@ We have designed our programme to be progressive and we will have three to four 
 
 Through our CCA, students are provided with a platform to practice our school values and develop social-emotional competencies through learning and playing with others.
 
-![Sports & Adventure Club](/images/sports%20and%20adventure%20club.png)
+<img src="/images/sports%20and%20adventure%20club.png"  
+style="width:75%">
 
 ![Sports & Adventure Club](/images/sports%20and%20adventure%20club_2.jpg)
