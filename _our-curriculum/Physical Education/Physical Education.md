@@ -120,11 +120,13 @@ style="width:60%">
 
 Physical health and fitness stimulate students’ interest in physical activity as meaningful connections between health concepts and practical applications are made through experiential learning.  Younger learners gain an understanding of good health practices in nutrition, exercise, safety and hygiene, as they are put through regular and purposeful health-enhancing physical activities and learning tasks. These activities generate fun and promote a positive attitude towards continual participation in physical activities for health, fitness and enjoyment.
 
-![](/images/pe010.jpg)
+<img src="/images/pe010.jpg"  
+style="width:50%">
 
 The key focus of the Physical Health and Fitness content is to provide students with the knowledge, skills and values to empower them to make responsible decisions to pursue life-long total well-being. It also aims to provide students with the opportunities to develop and practise good health habits and attitudes through a variety of fun learning experiences presented during PE lessons.
 
-![](/images/pe011.jpg)
+<img src="/images/pe011.jpg"  
+style="width:50%">
 
 The content for this component has been organised into five main themes:                 
 
