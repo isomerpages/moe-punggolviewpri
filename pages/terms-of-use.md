@@ -17,7 +17,7 @@ permalink: /terms-of-use/
       
 **Privacy Policy**  
     
-5.  Click [here](https://punggolviewpri.moe.edu.sg/others/privacy-statement) to review this Web Site Privacy Statement.  
+5.  Click [here](/privacy/) to review this Web Site Privacy Statement.  
 
 **Restrictions on Use of Materials**  
     
