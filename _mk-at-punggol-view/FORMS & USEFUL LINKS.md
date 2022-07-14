@@ -26,11 +26,11 @@ For DBS/POSB Accounts, please refer to the guide on how to apply for the GIRO ar
 
 KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KiFAS, please submit the KF1 Application Form to the General Office.
 
-KF1 - Enrolment and KiFAS Application.pdf
+[KF1 - Enrolment and KiFAS Application.pdf](/files/KF1%20-%20Enrolment%20and%20KiFAS%20Application.pdf)
 
-KF - KiFAS Explanatory Notes.pdf
+[KF - KiFAS Explanatory Notes.pdf](/files/KF%20-%20KiFAS%20Explanatory%20Notes.pdf)
 
-For more information on KiFAS, you may visit https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx 
+For more information on KiFAS, you may visit [https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx%C2%A0)
 
 #### Authorisation Pass for MOE Kindergarten
 
