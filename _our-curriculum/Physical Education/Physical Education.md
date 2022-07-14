@@ -111,7 +111,8 @@ The team of Punggol View Primary School (PGVPS) Teachers worked with Dr. Mitchel
 
 ![](/images/pe008.png)
 
-![](/images/pe009.jpg)
+<img src="/images/pe009.jpg"  
+style="width:60%">
 
 **Physical Health & Fitness**
 
