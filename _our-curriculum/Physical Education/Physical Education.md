@@ -53,7 +53,16 @@ img {
 
 This syllabus is organised to achieve the goals of physical education based on the framework below. At the apex is the purpose of physical education, achieved through the learning areas to enable students to develop efficiency, effectiveness and versatility in their movement. Learning in the affective areas and competencies for the 21st century are both the outcomes and enablers for the learning of physical education. Through a balanced and well-designed curriculum, delivered through appropriate and effective pedagogies and meaningful assessment, students will acquire the knowledge, skills and values to live active and healthy lives.
 
-![Goals of Physical Education](/images/pe004.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/pe004.jpg" alt="Goals of Physical Education" style="width:60%;">  
+  
+</body>
 
 
 <h5><strong>21 <sup>st</sup> Century Competencies in Physical Education </strong></h5>
