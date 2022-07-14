@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Integration%20of%20Science_1.png" alt="Integration of Science" style="width:50%;">  
+<body><img src="/images/Integration%20of%20Science_1.png" alt="Integration of Science" style="width:35%;">  
   
 </body>
 
@@ -41,6 +41,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Integration%20of%20Science_2.png" alt="Integration of Science" style="width:80%;">  
+<body><img src="/images/Integration%20of%20Science_2.png" alt="Integration of Science" style="width:60%;">  
   
 </body>
