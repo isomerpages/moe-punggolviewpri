@@ -75,7 +75,7 @@ Block 1013 Geylang East Ave 3 #02-154 (S)389728
 
 **Telephone:** <br>
 6659 1266 (School Bookshop) <br> &nbsp; 
-62478482&nbsp;(Main Office)&nbsp;&nbsp;&nbsp;&nbsp;  
+6247 8482&nbsp;(Main Office)&nbsp;&nbsp;&nbsp;&nbsp;  
 
 **Fax:**&nbsp;&nbsp;&nbsp; 68441779  
   
