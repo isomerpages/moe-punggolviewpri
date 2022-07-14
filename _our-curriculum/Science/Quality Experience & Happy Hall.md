@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/quality%20experience_2.png" alt="Provision of Quality Learning Experiences for Our Students" style="width:50%;">  
+<body><img src="/images/quality%20experience_2.png" alt="Provision of Quality Learning Experiences for Our Students" style="width:35%;">  
   
 </body>
 
@@ -45,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/quality%20experience_3.png" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/quality%20experience_3.png" alt="School Uniform" style="width:35%;">  
   
 </body>
 
