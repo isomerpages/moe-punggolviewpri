@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Zoom.md
       - HBL.md
       - Student ICON.md
       - P1 Admin Matters.md
