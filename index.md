@@ -4,24 +4,15 @@ title: Punggol View Primary School
 description: Punggol View Primary School
 image: /images/school logo2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      background: /images/punggol pri.gif
+      dropdown:
+        title: Announcements
+        options:
+          - title: Announ
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,5 +20,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
