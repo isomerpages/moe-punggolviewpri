@@ -52,7 +52,8 @@ We will need to:
 4.  Relationship Management,
 5.  Responsible Decision-Making
 
-![social and emotional competencies](/images/social%20and%20emotional%20competencies.png)
+<img src="/images/social%20and%20emotional%20competencies.png"  
+style="width:65%">
 
 **21st Century Competencies:**
 
