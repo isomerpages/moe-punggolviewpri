@@ -8,9 +8,12 @@ description: ""
 Submit the completed Waitlist Application and supporting documents here:
 MOE Kindergarten@Punggol View Waitlist Submission
 
-Drive Thru Pass
+#### Drive Thru Pass
+
 PGVP Drive Through pass
-Application for GIRO
+
+#### Application for GIRO
+
 Fees can be paid via GIRO. The GIRO form is used for non DBS/POSB accounts. Please download the form and submit the original to the General Office.
 
 GIRO for payment of MK fee non-DBSPOSBacct.pdf
@@ -39,4 +42,3 @@ If you wish to request for a change of session for your child at MOE Kindergarte
 MOE Kindergarten@Punggol View Transfer Session Request Form 
 
 Requests for transfers will be granted based on available vacancies. Parents will be contacted upon successful transfers.
-
