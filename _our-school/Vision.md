@@ -40,4 +40,5 @@ Our values-based holistic education is designed to give our students a strong fo
 
 We hope our students will grow and learn to strive to “Do the Right Thing” (moral character) and “Give of their Best” (performance character). Ultimately, they will glow as persons of character who are good and useful citizens of tomorrow. This vision is aligned to the MOE’s Philosophy of Education, 21st Century Competencies Student Outcomes and the recommendations made by the Primary Education Review and Implementation (PERI).
 
-![](/images/vision.png)
+<img src="/images/vision.png"  
+style="width:70%">
