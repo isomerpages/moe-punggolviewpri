@@ -9,11 +9,30 @@ third_nav_title: Physical Education
  
 <p style="text-align:center;"> <strong>Physically Active and Healthy Learners</strong></p>
 
-![Physically Active and Healthy Learners](/images/pe001.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/pe001.png" alt="Physically Active and Healthy Learners" style="width:60%;">  
+  
+</body>
 
 The Physical Education Department wants to cultivate active and responsible students by developing their knowledge, skills, attitudes and values that contribute to a healthy and physically active lifestyle.
 
-![Physical Education](/images/pe002.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/pe002.jpg" alt="Physical Education" style="width:50%;">  
+  
+</body>
+
 
 ##### Purpose of Physical Education
 The purpose of physical education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
