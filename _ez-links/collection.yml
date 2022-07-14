@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Student ICON.md
       - P1 Admin Matters.md
       - Health Promotion Month.md
       - For Students.md
