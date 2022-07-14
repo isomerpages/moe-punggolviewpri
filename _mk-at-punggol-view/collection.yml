@@ -1,4 +1,5 @@
 collections:
   mk-at-punggol-view:
     output: true
-    order: []
+    order:
+      - OPEN HOUSE 2022.md
