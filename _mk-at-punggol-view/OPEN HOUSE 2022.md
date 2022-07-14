@@ -11,8 +11,7 @@ description: ""
 
 Dear Parents,
 
-Are you looking for a quality and affordable kindergarten programme for your  
-pre-school child?
+Are you looking for a quality and affordable kindergarten programme for your pre-school child?
 
 At MOE Kindergarten, we believe that children are curious, active and competent learners. We nurture children holistically, so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy.
 
