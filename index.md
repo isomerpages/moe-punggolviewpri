@@ -19,10 +19,4 @@ sections:
             url: /ez-links/for-parents/letters
           - title: PGVP Quarterly Term 2 (2022)
             url: /ez-links/for-parents/letters
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
