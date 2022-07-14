@@ -25,7 +25,16 @@ The ICT Department aims to provide a holistic approach to the learning of approp
 
 #### Student Learning Space (SLS)
 
-![Student Learning Space](/images/Student%20Learning%20Space%20(SLS).png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Student%20Learning%20Space%20(SLS).png" alt="Student Learning Space" style="width:40%;">  
+  
+</body>
 
 The Singapore Student Learning Space is a platform that will support Teaching and Learning in Punggol View Primary School. In particular, it will help empower our students to drive their own learning according to their needs and interests. By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.
 
