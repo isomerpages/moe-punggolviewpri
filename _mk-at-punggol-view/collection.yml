@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - MOE KINDERGARTEN WEBSITE.md
       - FORMS & USEFUL LINKS.md
       - USEFUL INFORMATION.md
       - HBL.md
