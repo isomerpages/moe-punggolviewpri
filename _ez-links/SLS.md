@@ -29,13 +29,17 @@ Go to [https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooti
 
 #### FHBL Resource
 
-![](/images/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files1024_1.jpg)
+<img src="/images/FHBL%20Resource%201%20-%20Uploading%20of%20Audio%20and%20Video%20Files1024_1.jpg"  
+style="width:70%">
 
-![](/images/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students1024_1.jpg)
+<img src="/images/FHBL%20Resource%202_Clear%20browsing%20history%20and%20Cache%20for%20students1024_1.jpg"  
+style="width:70%">
 
-![](/images/FHBL%20Resource%203%20-%20Ensuring%20smooth%20HBL%20lessons%20May20211024_1.jpg)
+<img src="/images/FHBL%20Resource%203%20-%20Ensuring%20smooth%20HBL%20lessons%20May20211024_1.jpg"  
+style="width:70%">
 
-![](/images/FHBL%20Resource%204%20-%20Search%20MOE%20Library.jpg)
+<img src="/images/FHBL%20Resource%204%20-%20Search%20MOE%20Library.jpg"  
+style="width:70%">
 
 #### Parent Kit - Supporting Your Child During Full HBL
 
