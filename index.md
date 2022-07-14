@@ -12,7 +12,7 @@ sections:
         title: ANNOUNCEMENTS
         options:
           - title: "Important Things to Bring (2022) "
-            url: ""
+            url: /ez-links/1st-day-of-school-2022
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
           - title: PGVP Quarterly Term 3 (2022)
