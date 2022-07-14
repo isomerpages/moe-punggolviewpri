@@ -51,7 +51,8 @@ Our students will be able to:
 </tbody>
 </table>
 
-![mathematics](/images/mathematics.png)
+<img src="/images/mathematics.png"  
+style="width:70%">
 
 #### We support our students in their learning through: 
 
