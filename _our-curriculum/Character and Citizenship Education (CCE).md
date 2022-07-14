@@ -104,6 +104,9 @@ Field-based experiential learning allows the students to contextualise their lea
 
 ![Social Studies Field-based Experiential Learning](/images/Social%20Studies%20Field-based%20Experiential%20Learning.png)
 
+<img src="/images/Social%20Studies%20Field-based%20Experiential%20Learning.png"  
+style="width:85%">
+
 #### NE Commemorative Days
 
 NE events in school are commemorated and emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.  
