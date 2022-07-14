@@ -11,8 +11,9 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: Important Things to Bring (2022) Click here for the important things to
-              bring on your first day of school!
+          - title: "Important Things to Bring (2022) "
+            url: ""
+          - title: Student Icon - Locked Accounts  and Password Reset
             url: ""
   - infobar:
       title: Infobar title
