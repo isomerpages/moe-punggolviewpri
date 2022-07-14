@@ -42,11 +42,29 @@ The Singapore Student Learning Space is a platform that will support Teaching an
 
 The SLS allows our students to take greater ownership of their learning and work collaboratively. In line with 21CC development, the SLS seeks to encourage learners to be self-directed and collaborative and promote student ownership. Through this process, students will discover the **joy of learning.**
 
-![Student Learning Space](/images/Student%20Learning%20Space%20(SLS)_2.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Student%20Learning%20Space%20(SLS)_2.jpg" alt="Student Learning Space" style="width:50%;">  
+  
+</body>
 
 #### Cyber Wellness Education
 
-![Cyber Wellness Education](/images/Cyber%20Wellness%20Education.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Cyber%20Wellness%20Education.jpg" alt="Cyber Wellness Education" style="width:50%;">  
+  
+</body>
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in the online space. The focus of CW is to help students to become responsible digital learners. It is important for students to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practice safe and responsible use. Students should also be a positive peer influence and harness the power of technology for the good of the community.     
 
