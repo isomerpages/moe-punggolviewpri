@@ -38,7 +38,7 @@ We hope to continue building a strong partnership with all parents in supporting
 
 ![P1 Curriculum Briefing Slides 2022](/images/P1%20Curriculum%20Briefing%20Slides%202022_3.png)
 
-[latest_2022 Principal_Overview P1 Curriculum Briefing 22 Jan 2021.pdf](/files/latest_2022%20Principal_Overview%20P1%20Curriculum%20Briefing%2022%20Jan%202021.pdf) 
+[Latest_2022 Principal_Overview P1 Curriculum Briefing 22 Jan 2021.pdf](/files/latest_2022%20Principal_Overview%20P1%20Curriculum%20Briefing%2022%20Jan%202021.pdf) 
 
 [2022_EL P1_presentation slides.pdf](/files/2022_EL%20P1_presentation%20slides.pdf)
 
