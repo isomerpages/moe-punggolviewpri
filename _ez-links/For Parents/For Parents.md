@@ -32,11 +32,14 @@ A big thank you for your support in attending our P1 Curriculum Briefing on 21 J
 These are the three sets of slides shared by the school for your reference. <br>
 We hope to continue building a strong partnership with all parents in supporting their child's journey with us. Have a great day.
 
-![P1 Curriculum Briefing Slides 2022](/images/P1%20Curriculum%20Briefing%20Slides%202022_1.png)
+<img src="/images/P1%20Curriculum%20Briefing%20Slides%202022_1.png"  
+style="width:75%">
 
-![P1 Curriculum Briefing Slides 2022](/images/P1%20Curriculum%20Briefing%20Slides%202022_2.png)
+<img src="/images/P1%20Curriculum%20Briefing%20Slides%202022_2.png"  
+style="width:75%">
 
-![P1 Curriculum Briefing Slides 2022](/images/P1%20Curriculum%20Briefing%20Slides%202022_3.png)
+<img src="/images/P1%20Curriculum%20Briefing%20Slides%202022_3.png"  
+style="width:75%">
 
 [Latest_2022 Principal_Overview P1 Curriculum Briefing 22 Jan 2021.pdf](/files/latest_2022%20Principal_Overview%20P1%20Curriculum%20Briefing%2022%20Jan%202021.pdf) 
 
