@@ -1,5 +1,5 @@
 title: Punggol View Primary School
-url: ""
+url: https://punggolviewpri.moe.edu.sg
 favicon: /images/pvps favicon.png
 colors:
   primary-color: "#0f00ce"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-punggolviewpri-staging.netlify.app
 prod: https://moe-punggolviewpri-prod.netlify.app
-shareicon: /images/school logo2.png
+shareicon: /images/sch banner 2.jpeg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
