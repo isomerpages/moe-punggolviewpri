@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /our-curriculum/music
+permalink: /our-curriculum/music/
 description: ""
 ---
 #### Curricular Goal:
@@ -9,9 +9,9 @@ Our students are motivated participants and appreciative audience of the Arts.
 #### Programmes:
 **Music Learning Framework**
 
-The music curriculum in Punggol View Primary is anchored on creating direct experiences in Listening and Responding, Creating and Performing Music. It is through these music-making activities, at the end of six years of music education, students develop 
-•	an awareness and appreciation of music of various cultures, 
-•	an ability for creative expression and communication through music, and
+The music curriculum in Punggol View Primary is anchored on creating direct experiences in Listening and Responding, Creating and Performing Music. It is through these music-making activities, at the end of six years of music education, students develop <br>
+•	an awareness and appreciation of music of various cultures, <br>
+•	an ability for creative expression and communication through music, and<br>
 •	an understanding of music elements and concepts.
 
 #### How Lessons are Taught
