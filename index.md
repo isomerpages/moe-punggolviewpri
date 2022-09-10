@@ -2,7 +2,7 @@
 layout: homepage
 title: Punggol View Primary School
 description: Punggol View Primary School
-image: /images/school logo2.png
+image: /images/sch banner 2.jpeg
 permalink: /
 notification: ""
 sections:
@@ -20,3 +20,4 @@ sections:
           - title: PGVP Quarterly Term 2 (2022)
             url: /ez-links/for-parents/letters
 ---
+
