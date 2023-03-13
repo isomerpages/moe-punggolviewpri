@@ -1,6 +1,6 @@
 ---
 title: Forms & Useful Links
-permalink: /ez-links/forms-n-useful-links
+permalink: /ez-links/forms-n-useful-links/
 description: ""
 ---
 #### Punggol View Pri Sch Waitlist Application Form

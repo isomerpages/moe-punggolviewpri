@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /our-partners/parents-support-group
+permalink: /our-partners/parents-support-group/
 description: ""
 ---
 <img src="/images/psg%20logo.jpg" style="width:183px;height:183px;margin-left:15px;" align = "left">

@@ -1,6 +1,6 @@
 ---
 title: Transition E Tour
-permalink: /ez-links/transition-e-tour
+permalink: /ez-links/transition-e-tour/
 description: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wE4aI3alNBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 title: Philosophy
-permalink: /our-school/philosophy
+permalink: /our-school/philosophy/
 description: ""
 ---
 <html>

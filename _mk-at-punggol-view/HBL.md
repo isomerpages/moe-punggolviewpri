@@ -1,6 +1,6 @@
 ---
 title: HBL
-permalink: /mk-at-punggol-view/hbl
+permalink: /mk-at-punggol-view/hbl/
 description: ""
 ---
 #### Mother's Day Activities

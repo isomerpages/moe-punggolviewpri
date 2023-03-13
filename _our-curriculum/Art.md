@@ -1,6 +1,6 @@
 ---
 title: Art
-permalink: /our-curriculum/art
+permalink: /our-curriculum/art/
 description: ""
 ---
 ![art](/images/art.png)

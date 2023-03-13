@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning (PAL)
-permalink: /our-curriculum/programme-for-active-learning-pal
+permalink: /our-curriculum/programme-for-active-learning-pal/
 description: ""
 ---
 In Punggol View Primary School, all P1 and P2 students undergo Programme for Active Learning (PAL) modules during school hours. With these modules spread over the two years, we hope to provide our students with broad-based exposure in the areas of Sports and Games, Outdoor Education, Visual and Performing Arts and an avenue for learning values and Social Emotional skills.

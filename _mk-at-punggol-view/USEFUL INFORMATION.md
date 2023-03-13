@@ -1,6 +1,6 @@
 ---
 title: USEFUL INFORMATION
-permalink: /mk-at-punggol-view/useful-information
+permalink: /mk-at-punggol-view/useful-information/
 description: ""
 ---
 #### MOE Kindergarten @ Punggol View Contact Information

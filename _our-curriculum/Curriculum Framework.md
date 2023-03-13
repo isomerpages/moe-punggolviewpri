@@ -1,6 +1,6 @@
 ---
 title: Curriculum Framework
-permalink: /our-curriculum/curriculum-framework
+permalink: /our-curriculum/curriculum-framework/
 description: ""
 ---
 ![Punggol View Curriculum Model](/images/curriculum_model.png)

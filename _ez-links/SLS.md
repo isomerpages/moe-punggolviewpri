@@ -1,6 +1,6 @@
 ---
 title: SLS
-permalink: /ez-links/sls
+permalink: /ez-links/sls/
 description: ""
 ---
 #### SLS Downtime

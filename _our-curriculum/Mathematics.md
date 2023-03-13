@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/mathematics
+permalink: /our-curriculum/mathematics/
 description: ""
 ---
 #### Our Curricular Goal

@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /ez-links/for-students
+permalink: /ez-links/for-students/
 description: ""
 ---
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)

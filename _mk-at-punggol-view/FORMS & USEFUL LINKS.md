@@ -1,6 +1,6 @@
 ---
 title: FORMS & USEFUL LINKS
-permalink: /mk-at-punggol-view/forms-n-useful-links
+permalink: /mk-at-punggol-view/forms-n-useful-links/
 description: ""
 ---
 #### MOE Kindergarten Waitlist Application 2022

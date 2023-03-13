@@ -1,6 +1,6 @@
 ---
 title: Policies
-permalink: /our-school/policies
+permalink: /our-school/policies/
 description: ""
 ---
 To provide a values-based, holistic education for our students through a comprehensive academic and co-curriculum education in a caring and rich learning environment so that they will grow in the **M**oral, **E**motional, **S**ocial, **C**ognitive, **A**esthetic and **P**hysical (**MESCAP**) domains to the full.  By so doing, we hope our students will attain the six MESCAP Student Outcomes and become persons of character who are good and useful citizens of tomorrow.

@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /our-family/key-personnel
+permalink: /our-family/key-personnel/
 description: ""
 ---
 <style>  

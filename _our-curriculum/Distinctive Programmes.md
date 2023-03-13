@@ -1,6 +1,6 @@
 ---
 title: Distinctive Programmes
-permalink: /our-curriculum/distinctive-programmes
+permalink: /our-curriculum/distinctive-programmes/
 description: ""
 ---
 #### PGVP Applied Learning Programme (ALP) - Effective & Empathetic Communicators (E²C@PGVP)

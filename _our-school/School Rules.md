@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /our-school/school-rules
+permalink: /our-school/school-rules/
 description: ""
 ---
 **1.    ASSEMBLY / PLEDGE TAKING**  

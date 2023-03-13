@@ -1,6 +1,6 @@
 ---
 title: Zoom
-permalink: /ez-links/zoom
+permalink: /ez-links/zoom/
 description: ""
 ---
 #### Zoom Onboarding Guide

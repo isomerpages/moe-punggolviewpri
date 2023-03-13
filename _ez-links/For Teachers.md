@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /ez-links/for-teachers
+permalink: /ez-links/for-teachers/
 description: ""
 ---
 *   [PGVP Classroom Walkthroughs](https://padlet.com/nor_azarizal_mohamed/fbnpac7um45gn68g)

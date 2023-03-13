@@ -1,6 +1,6 @@
 ---
 title: Media (Gallery)
-permalink: /ez-links/media-gallery
+permalink: /ez-links/media-gallery/
 description: ""
 ---
 #### CNY 2022

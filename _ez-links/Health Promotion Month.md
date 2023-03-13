@@ -1,6 +1,6 @@
 ---
 title: Health Promotion Month
-permalink: /ez-links/health-promotion-month
+permalink: /ez-links/health-promotion-month/
 description: ""
 ---
 #### Health Promotion Month (JULY 2022)

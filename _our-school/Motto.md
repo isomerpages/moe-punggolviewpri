@@ -1,6 +1,6 @@
 ---
 title: Motto
-permalink: /our-school/motto
+permalink: /our-school/motto/
 description: ""
 ---
 <html>  

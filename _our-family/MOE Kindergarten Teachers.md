@@ -1,6 +1,6 @@
 ---
 title: MOE Kindergarten Teachers
-permalink: /our-family/moe-kindergarten-teachers
+permalink: /our-family/moe-kindergarten-teachers/
 description: ""
 ---
 <style type="text/css">

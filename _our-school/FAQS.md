@@ -1,6 +1,6 @@
 ---
 title: FAQS
-permalink: /our-school/faqs
+permalink: /our-school/faqs/
 description: ""
 ---
 <h4 style="color:red" >School Facilities and Programmes</h4>

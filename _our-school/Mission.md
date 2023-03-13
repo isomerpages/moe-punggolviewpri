@@ -1,6 +1,6 @@
 ---
 title: Mission
-permalink: /our-school/mission
+permalink: /our-school/mission/
 description: ""
 ---
 <html>

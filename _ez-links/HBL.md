@@ -1,6 +1,6 @@
 ---
 title: HBL
-permalink: /ez-links/hbl
+permalink: /ez-links/hbl/
 description: ""
 ---
 #### HBL 27th Sept - 6th Oct 21

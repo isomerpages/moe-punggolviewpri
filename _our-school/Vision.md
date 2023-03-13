@@ -1,6 +1,6 @@
 ---
 title: Vision
-permalink: /our-school/vision
+permalink: /our-school/vision/
 description: ""
 ---
 <html>

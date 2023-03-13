@@ -1,6 +1,6 @@
 ---
 title: Strategic Thrusts
-permalink: /our-school/strategic-thrusts
+permalink: /our-school/strategic-thrusts/
 description: ""
 ---
 <h4 style="color:black" align="center">Strategic Thrust 1: Values-Based Holistic Development (Performance Character)</h4>

@@ -1,6 +1,6 @@
 ---
 title: Student ICON
-permalink: /ez-links/student-icon
+permalink: /ez-links/student-icon/
 description: ""
 ---
 #### Password reset

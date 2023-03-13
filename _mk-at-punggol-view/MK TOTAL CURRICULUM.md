@@ -1,6 +1,6 @@
 ---
 title: MK TOTAL CURRICULUM
-permalink: /mk-at-punggol-view/mk-total-curriculum
+permalink: /mk-at-punggol-view/mk-total-curriculum/
 description: ""
 ---
 #### MK TOTAL CURRICULUM

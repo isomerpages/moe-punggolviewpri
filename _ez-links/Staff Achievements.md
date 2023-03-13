@@ -1,6 +1,6 @@
 ---
 title: Staff Achievements
-permalink: /ez-links/staff-achievements
+permalink: /ez-links/staff-achievements/
 description: ""
 ---
 #### MSEA 2020 (MOE Service Excellence Award)

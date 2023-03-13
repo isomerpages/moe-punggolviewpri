@@ -1,6 +1,6 @@
 ---
 title: School Leaders
-permalink: /our-family/school-leaders
+permalink: /our-family/school-leaders/
 description: ""
 ---
 I am honoured to be part of the Punggol View family and to serve as the Principal of Punggol View Primary School – a school that strives to develop our students into Confident Learners, Active Citizens.  

@@ -1,6 +1,6 @@
 ---
 title: COLLABORATIONS
-permalink: /mk-at-punggol-view/collaborations
+permalink: /mk-at-punggol-view/collaborations/
 description: ""
 ---
 #### Collaborations 

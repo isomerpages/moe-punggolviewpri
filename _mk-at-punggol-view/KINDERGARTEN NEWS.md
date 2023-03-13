@@ -1,6 +1,6 @@
 ---
 title: KINDERGARTEN NEWS
-permalink: /mk-at-punggol-view/kindergarten-news
+permalink: /mk-at-punggol-view/kindergarten-news/
 description: ""
 ---
 #### Registration Exercise 2022 CLOSED
