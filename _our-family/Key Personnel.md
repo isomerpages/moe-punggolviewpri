@@ -52,3 +52,8 @@ description: ""
 |:-:|---|---|
 |**SH Innovation in T&L  <br>Mr Luo Kangming Eugene**  <br>[luo_kangming_eugene@moe.edu.sg](mailto:luo_kangming_eugene@moe.edu.sg)   |  **SH PE  <br>Mr Fabian Koh**  <br>[koh_zong_cheng_fabian@moe.edu.sg](mailto:koh_zong_cheng_fabian@moe.edu.sg) | **SH CCE Cov YH (MY)  <br>Mdm Lim Hwee Li**  <br>[lim_hwee_li@moe.edu.sg](mailto:lim_hwee_li@moe.edu.sg)  |
 |   |   |   |
+
+<img src="/images/kp16.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp17.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp18.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
