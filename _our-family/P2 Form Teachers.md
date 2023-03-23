@@ -24,9 +24,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 2 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Li%20Xinni.jpg" alt="Ms Li Xinni.jpg" width="196" height="291">Ms Li Xinni<br></td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Han%20Huaxiuu.jpg" alt="Mdm Han Huaxiu.JPG" width="195" height="290">Mdm Han Huaxiu</td>
-    <td class="tg-qn16"><strong> Ms Li Xinni</strong><br><a href="mailto:li_xinni@moe.edu.sg">li_xinni@moe.edu.sg</a><br><br><strong>Mdm Han Huaxiu</strong><br><a href="mailto:han_huaxiu@moe.edu.sg">han_huaxiu@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Oh Ling Li Jueween.jpeg" alt="Ms Oh Ling Li Jueween.jpeg" width="196" height="291">Ms Jueween Oh<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Rosnita Abdul Rahim.jpeg" alt="Ms Rosnita Abdul Rahim.JPEG" width="195" height="290">Mdm Rosnita Abdul Rahim</td>
+    <td class="tg-qn16"><strong> Ms Jueween Oh</strong><br><a href="mailto:jueween_oh_ling_li@moe.edu.sg">jueween_oh_ling_li@moe.edu.sg</a><br><br><strong>Mdm Rosnita Abdul Rahim</strong><br><a href="mailto:rosnita_abdul_rahim@moe.edu.sg">rosnita_abdul_rahim@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong>2 Diamond</strong></td>
