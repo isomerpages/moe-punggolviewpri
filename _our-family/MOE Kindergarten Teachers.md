@@ -76,5 +76,13 @@ description: ""
     <td class="tg-fma3"> </td>
     <td class="tg-fma3"> </td>
   </tr>
+	  <tr>
+    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">OPERATIONS SUPPORT OFFICER</span></td>
+  </tr>
+  <tr>
+    <td class="tg-v9jf"><img src="/images/rokiah.jpg" alt="rokiah.JPG" width="196" height="293"><strong>Ms Rokiah Binte Tirahmat</strong></td>
+    <td class="tg-v9jf"><img src="/images/ainie.jpg" alt="ainie.JPG" width="171" height="253"><strong>Ms Lim Ainie</strong><br></td>
+    <td class="tg-fma3"> </td>
+  </tr>
 </tbody>
 </table>
