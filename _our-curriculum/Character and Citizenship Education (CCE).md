@@ -86,8 +86,6 @@ Please click on the link below to access info from MOE website <br>
 
 [2023 Info on SEd for schs website PGVP.pdf](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20PGVP.pdf)
 
-Please click the link below for the Opt-out form.
-
 Please click the link below for the Opt-out form.<br>
 [https://go.gov.sg/pgvpsed2023](https://go.gov.sg/pgvpsed2023)
 
