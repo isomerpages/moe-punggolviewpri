@@ -65,9 +65,9 @@ Bin Ahmad Bamadhaj</strong><br><a href="mailto:mohammad_helmi_ahmad_bamad@moe.ed
     <td class="tg-qn16" colspan="3"> <strong> 4 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Priya%20do%20Seridaran.jpg" alt="Ms Priya do Seridaran.JPG" width="199">Ms Priya D/O Seridaran<br></td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Paul%20Miki%20Koh.jpg" alt="Mdm Paul Miki Koh.JPG" width="201">Mdm Paul Miki Koh </td>
-    <td class="tg-qn16"><strong>Ms Priya D/O Seridaran</strong><br><a href="mailto:priya_seridaran@moe.edu.sg">priya_seridaran@moe.edu.sg</a><br><br><strong>Mdm Paul Miki Koh</strong><br><a href="mailto:paul_miki_koh@moe.edu.sg">paul_miki_koh@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/hari.jpg" alt="hari.JPG" width="199">Mr Harikrishnan s/o Jayapalan<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Khairunnisa Binte Mohd Isa.jpg" alt="Mdm Khairunnisa Binte Mohd Isa.JPG" width="201">Mdm Khairunnisa Mohd Isa </td>
+    <td class="tg-qn16"><strong>Mr Harikrishnan s/o Jayapalan</strong><br><a href="mailto:harikrishnan_jayapalan@moe.edu.sg">harikrishnan_jayapalan@moe.edu.sg</a><br><br><strong>Mdm Khairunnisa Mohd Isa</strong><br><a href="mailto:khairunnisa_mohd_isa@moe.edu.sg">khairunnisa_mohd_isa@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  4 Ruby </strong> </td>
