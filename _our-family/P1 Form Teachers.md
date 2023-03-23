@@ -49,9 +49,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 1 Jade</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Ariff-Siti%20Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="194">Mrs Ariff - Siti Nurhawa<br></td>
-    <td class="tg-v9jf"><img src="/images/wang%20shuangji.jpg" alt="wang shuangji.jpg" width="192" height="254">Mdm Wang Shuangji</td>
-    <td class="tg-qn16"><strong>Mrs Ariff-Siti Nurhawa</strong><br><a href="mailto:siti_nurhawa_abdul_shukor@moe.edu.sg">siti_nurhawa_abdul_shukor@moe.edu.sg</a><br><br><strong>Mdm Wang Shuangji</strong><br><a href="mailto:wang_shuangji@moe.edu.sg">wang_shuangji@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Khadijah.jpeg" alt="Khadijah.JPEG" width="194">Ms Siti Khadijah<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Shannon Pang.jpeg" alt="Mdm Shannon Pang.jpeg" width="192" height="254">Mdm Shannon Pang</td>
+    <td class="tg-qn16"><strong>Ms Siti Khadijah</strong><br><a href="mailto:siti_khadijah_abdul_jalil@moe.edu.sg">siti_khadijah_abdul_jalil@moe.edu.sg</a><br><br><strong>Mdm Shannon Pang</strong><br><a href="mailto:pang_teng_yen@moe.edu.sg">pang_teng_yen@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>1 Opal</strong></td>
