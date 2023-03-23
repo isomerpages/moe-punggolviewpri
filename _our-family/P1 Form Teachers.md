@@ -33,9 +33,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong>1 Diamond</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Sarina%20Sapari.jpg" alt="Mdm Sarina Sapari.JPG" width="193" height="287">Mdm Sarina Sapari </td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Sim%20Beng%20Hui%20Catherinee.jpg" alt="Ms Sim Beng Hui Catherine.JPG" width="191" height="285">Ms Catherine Sim </td>
-		<td class="tg-qn16"><strong>Mdm Sarina Sapar</strong><br><a href="mailto:sarina_sapari@moe.edu.sg">sarina_sapari@moe.edu.sg</a><br><br><strong>Ms Catherine Sim</strong><br><a href="mailto:sim_beng_hui_catherine@moe.edu.sg">sim_beng_hui_catherine@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Mrs Alison Humphries.jpeg" alt="Mrs Alison Humphries.JPEG" width="193" height="287">Mrs Alison Humphries </td>
+    <td class="tg-v9jf"><img src="/images/Mrs Eng Yi Wen.jpg" alt="Mrs Eng Yi Wen.JPG" width="191" height="285">Mrs Eng Yi Wen </td>
+		<td class="tg-qn16"><strong>Mrs Alison Humphries</strong><br><a href="mailto:alison_maree_dragon-humphries@moe.edu.sg">alison_maree_dragon-humphries@moe.edu.sg</a><br><br><strong>Mrs Eng-Teng Yi Wen, Yvonne</strong><br><a href="mailto:teng_yi_wen@moe.edu.sg">teng_yi_wen@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>1 Emerald</strong></td>
