@@ -40,9 +40,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 2 Emerald </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Khadijah.jpeg" alt="Khadijah.jpeg" width="196">Ms Siti Khadijah</td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Nurhayati%20Binte%20Selamat.jpg" alt="Ms Nurhayati Binte Selamat.JPG" width="195">Ms Nurhayati </td>
-    <td class="tg-qn16"><strong>Ms Siti Khadijah</strong><br><a href="mailto:siti_khadijah_abdul_jalil@moe.edu.sg">siti_khadijah_abdul_jalil@moe.edu.sg</a><br><br><strong>Nurhayati Selamat</strong><br><a href="mailto:nurhayati_selamat@moe.edu.sg">nurhayati_selamat@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Koh Su Shin.jpeg" alt="Ms Koh Su Shin.jpeg" width="196">Ms Koh Su Shin</td>
+    <td class="tg-v9jf"><img src="/images/Mdm Suhainis Samsi.jpeg" alt="Mdm Suhainis Samsi.JPEG" width="195">Mdm Suhainis Samsi </td>
+    <td class="tg-qn16"><strong>Ms Koh Su Shin</strong><br><a href="mailto:koh_su_shin@moe.edu.sg">koh_su_shin@moe.edu.sg</a><br><br><strong>Mdm Suhainis</strong><br><a href="mailto:suhainis_samsi@moe.edu.sg">suhainis_samsi@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 2 Jade </strong>  </td>
