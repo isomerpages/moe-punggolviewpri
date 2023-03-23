@@ -57,9 +57,9 @@ Bin Ahmad Bamadhaj</strong><br><a href="mailto:mohammad_helmi_ahmad_bamad@moe.ed
     <td class="tg-qn16" colspan="3"> <strong> 4 Opal  </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Ng%20Yi%20Qin%20Ryan.jpg" alt="Mr Ng Yi Qin Ryan.JPG" width="199">Mr Ng Yi Qin Ryan<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Mohamed%20Hizammuddin.jpg" alt="Mr Mohamed Hizammuddin.JPG" width="201">Mr Hizammuddin </td>
-    <td class="tg-qn16"><strong>Mr Ng Yi Qin Ryan</strong><br><a href="mailto:ng_yi_qin_ryan@moe.edu.sg">ng_yi_qin_ryan@moe.edu.sg</a><br><br><strong>Mr Mohd Hizammuddin Mohd Yusof</strong><br><a href="mailto:mohd_hizammuddin_mohd_yusof@moe.edu.sg">mohd_hizammuddin_mohd_yusof@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Mohammed Fadly Ramli.jpeg" alt="Mr Mohammed Fadly Ramli.JPEG" width="199">Mr Mohammed Fadly Ramli<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Paul Miki Koh.jpeg" alt="Mdm Paul Miki Koh.JPEG" width="201">Mdm Paul Miki Koh</td>
+    <td class="tg-qn16"><strong>Mr Mohammed Fadly Ramli</strong><br><a href="mailto:mohammed_fadly_ramli@moe.edu.sg">mohammed_fadly_ramli@moe.edu.sg</a><br><br><strong>Mdm Paul Miki Koh</strong><br><a href="mailto:paul_miki_koh@moe.edu.sg">paul_miki_koh@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 4 Pearl </strong>  </td>
