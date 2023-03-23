@@ -73,9 +73,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong>1 Ruby</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Noor%20Adzilah%20Binte%20Tahir.jpg" alt="Mdm Noor Adzilah Binte Tahir.JPG" width="194">Mdm Noor Adzilah</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Janice%20Ongg.jpg" alt="Mdm Janice Ong.JPG" width="192">Mdm Janice Ong </td>
-    <td class="tg-qn16"><strong>Mdm Noor Adzilah</strong><br><a href="mailto:noor_adzilah_tahir@moe.edu.sg">noor_adzilah_tahir@moe.edu.sg</a><br><br><strong>Mdm Janice Ong</strong><br><a href="mailto:ong_poh_ling@moe.edu.sg">ong_poh_ling@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Ms Liow Chai Hong Corinna.jpeg" alt="Ms Liow Chai Hong Corinna.JPEG" width="194">Ms Liow Chai Hong Corinna</td>
+    <td class="tg-v9jf"><img src="/images/Mdm Suriani Sokran.jpeg" alt="Mdm Suriani Sokran.JPEG" width="192">Mdm Suriani Sokran </td>
+    <td class="tg-qn16"><strong>Mrs Tee - Ms Corinna Liow Chai Hong</strong><br><a href="mailto:liow_Chai_hong_corinna@moe.edu.sg">liow_Chai_hong_corinna@moe.edu.sg</a><br><br><strong>Mdm Suriani Sokran</strong><br><a href="mailto:suriani_sokran@moe.edu.sg">suriani_sokran@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong> 1 Sapphire</strong></td>
