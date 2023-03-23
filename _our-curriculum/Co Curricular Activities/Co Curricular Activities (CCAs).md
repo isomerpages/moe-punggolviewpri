@@ -87,14 +87,14 @@ third_nav_title: Co Curricular Activities
   <tr>
     <td class="tg-ii8k">Floorball</td>
 		<td class="tg-ii8k">Sch Hall <b>(Mon)</b><br>ISH <b>(Tue)</b></td>
-    <td class="tg-ii8k">Recreation &amp; School Team<br>3.30 – 5.30pm (2hrs)</td>
-    <td class="tg-ii8k">School Team<br>2.15 – 4.15pm (2hrs)<br></td>
+		<td class="tg-ii8k"><b>Recreation &amp; School Team</b><br>3.30 – 5.30pm </td>
+		<td class="tg-ii8k"><b>School Team</b><br>2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
   </tr>
 	  <tr>
     <td class="tg-ii8k">Badminton</td>
-    <td class="tg-ii8k">ISH</td>
-    <td class="tg-ii8k"></td>
+			<td class="tg-ii8k">ISH <b>(Mon)</b><br>IBC <b>(Tue)</b><br>ISH <b>(Thu)</b></td>
+			<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.30pm</td>
     <td class="tg-ii8k">Recreation 2.15 – 4.15pm (2hrs)<br>&amp; School Team<br>2.15 – 4.45pm<br>(2.5hrs)</td>
     <td class="tg-ii8k">School Team<br>3.30 – 5.00pm<br>(1.5hrs)</td>
   </tr>
