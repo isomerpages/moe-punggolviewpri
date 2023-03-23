@@ -65,9 +65,17 @@ description: ""
     <td class="tg-fma3" colspan="3"> <strong>  6 Pearl </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Ponniamal%20R%20Suppan.jpg" alt="Ms Ponniamal R Suppan.JPG" width="194">Ms Ponniamal R Suppan<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Loh%20Hao%20Jie.jpg" alt="Mr Loh Hao Jie.JPG" width="194">Mr Loh Hao Jie </td>
-    <td class="tg-qn16"><strong>Ms Ponniamal R Suppan</strong><br><a href="mailto:ponniamal_r_suppan@moe.edu.sg">ponniamal_r_suppan@moe.edu.sg</a><br><br><strong>Mr Loh Hao Jie</strong><br><a href="mailto:loh_hao_jie@moe.edu.sg">loh_hao_jie@moe.edu.sg</a><br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Mohd Zahid.jpeg" alt="Mr Mohd Zahid.JPEG" width="194">Mr Mohd Zahid<br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Mohamed Bilal Bin Obayadulla.jpeg" alt="Mr Mohamed Bilal Bin Obayadulla.JPEG" width="194">Mr Mohamed Bilal Bin Obayadulla</td>
+    <td class="tg-qn16"><strong>Mr Mohd Zahid</strong><br><a href="mailto:mohammad_zahid_rohmat@moe.edu.sg">mohammad_zahid_rohmat@moe.edu.sg</a><br><br><strong>Mr Mohamed Bilal Bin Obayadulla</strong><br><a href="mailto:mohamed_bilal_obayadulla@moe.edu.sg">mohamed_bilal_obayadulla@moe.edu.sg</a><br><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-fma3" colspan="3"> <strong>  6 Ruby </strong></td>
+  </tr>
+  <tr>
+    <td class="tg-v9jf"><img src="/images/Miss Choo Jia Jia.jpeg" alt="Miss Choo Jia Jia.JPEG" width="194">Ms Choo Jia<br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Cheng Chuen Yang Christopher.jpeg" alt="Mr Cheng Chuen Yang Christopher.JPEG" width="194">Mr Christopher Cheng</td>
+    <td class="tg-qn16"><strong>Ms Choo Jia</strong><br><a href="mailto:choo_jia@moe.edu.sg">choo_jia@moe.edu.sg</a><br><br><strong>Mr Christopher Cheng</strong><br><a href="mailto:christopher\_cheng@moe.edu.sg">christopher\_cheng@moe.edu.sg</a><br><br></td>
   </tr>
 </tbody>
 </table>
