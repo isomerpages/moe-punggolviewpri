@@ -32,9 +32,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong>2 Diamond</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/farizan.jpg" alt="farizan.jpg" width="196">Miss Nurfarizan</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Tan%20Siew%20Chiann.jpg" alt="Mdm Tan Siew Chian.JPG" width="195">Mdm Tan Siew Chian<br></td>
-    <td class="tg-qn16"> <strong>Miss Nurfarizan</strong><br><a href="mailto:nurfarizan_abdul_wahab@moe.edu.sg">nurfarizan_abdul_wahab@moe.edu.sg</a><br><br><strong>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Sarina Sapari.jpeg" alt="Mdm Sarina Sapari.jpeg" width="196">Mdm Sarina Sapari</td>
+    <td class="tg-v9jf"><img src="/images/Ms Sim Beng Hui Catherine.jpeg" alt="Ms Sim Beng Hui Catherine.JPEG" width="195">Ms Catherine Sim<br></td>
+    <td class="tg-qn16"> <strong>Mdm Sarina Sapari</strong><br><a href="mailto:sarina_sapari@moe.edu.sg">sarina_sapari@moe.edu.sg</a><br><br><strong>Ms Catherine Sim</strong><br><a href="mailto:sim_beng_hui_catherine@moe.edu.sg">sim_beng_hui_catherine@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong> 2 Emerald </strong></td>
