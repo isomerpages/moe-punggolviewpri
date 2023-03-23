@@ -55,8 +55,8 @@ description: ""
     <td class="tg-v9jf"><img src="/images/yan.jpg" alt="yan.JPG" width="163" height="244"><strong>Ms Yan Anni</strong><br></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/chan%20chiew%20chian.jpg" alt="chan chiew chian.jpg" width="168" height="251"><strong>Ms Zhang Jialing</strong></td>
-    <td class="tg-v9jf"><img src="/images/zhu%20chun%20ying.jpg" alt="zhu chun ying.jpg" width="165" height="247"><strong>Ms Zhou Feng</strong></td>
+    <td class="tg-v9jf"><img src="/images/jialing.jpg" alt="jialing.jpg" width="168" height="251"><strong>Ms Zhang Jialing</strong></td>
+    <td class="tg-v9jf"><img src="/images/zhoufeng.jpg" alt="zhoufeng.jpg" width="165" height="247"><strong>Ms Zhou Feng</strong></td>
     <td class="tg-fma3"></td>
   </tr>
   <tr>
