@@ -38,9 +38,9 @@ description: ""
     <td class="tg-v9jf"><img src="/images/Ms Ethel Ng Sining  English Language Teacher.jpg" alt="Ms Ethel Ng Sining  English Language Teacher.jpg" width="163" height="243"><strong>Ms Ethel Ng Sining</strong><br></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Chew%20Tang%20Wee.jpg" alt="Ms Chew Tang Wee.JPG" width="164" height="246"><strong>Ms Chew Tang Wee</strong><br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Shalini%20Nair%20do%20Prabhakaran.jpg" alt="Ms Shalini Nair do Prabhakaran.JPG" width="166" height="249"><strong>Ms Shalini Nair</strong></td>
-    <td class="tg-xjv0"><span style="background-color:initial"><strong>Ms Ethel Ng Sining</strong></span><br></td>
+    <td class="tg-v9jf"><img src="/images/farhannah.jpg" alt="farhannah.JPG" width="164" height="246"><strong>Ms Farhanah Binte Ramlan</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/shifang.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Leck Shi Fang Charmaine</strong></td>
+    <td class="tg-xjv0"><img src="/images/juliana.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Mahtani Juliana Deepak</strong></span><br></td>
   </tr>
   <tr>
     <td class="tg-xjv0"><br><img src="/images/joaquinne.jpg" alt="joaquinne.jpg" width="164" height="242"><br><strong>Ms Lee Wen Qi Joaquine Theone</strong></td>
