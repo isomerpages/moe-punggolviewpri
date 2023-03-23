@@ -17,16 +17,11 @@ We want to nurture the whole child in Punggol View through a values-based, holis
 
 To nurture the whole child in the **M** oral, **E** motional, **S** ocial, **C** ognitive, **A** esthetic and **P** hysical ( **MESCAP** ) domains to the full so that our students would become  
 
-(1)  Morally upright (developed in the moral domain), 
-
-(2)  Emotionally adept (developed in the emotional domain), 
-
-(3)  Socially responsible (developed in the social domain), 
-
-(4)  Cognitively robust (developed in the cognitive domain), 
-
-(5)  Aesthetically aware (developed in the aesthetic domain), and 
-
+(1)  Morally upright (developed in the moral domain), <br>
+(2)  Emotionally adept (developed in the emotional domain), <br>
+(3)  Socially responsible (developed in the social domain), <br>
+(4)  Cognitively robust (developed in the cognitive domain), <br>
+(5)  Aesthetically aware (developed in the aesthetic domain), and <br>
 (6)  Physically active (developed in the physical domain). 
 
 These are also known as our six MESCAP Student Outcomes.
