@@ -24,27 +24,20 @@ The Mother Tongue Language (MTL) Department promotes students’ learning via en
 
 We work towards enhancing students’ five language competencies, namely: 
 
-1. Speaking
-
-2. Listening 
-
-3. Reading 
-
-4. Writing 
-
-5. Interactive skills 
+1 \. Speaking<br>
+2 \. Listening <br>
+3 \. Reading <br>
+4 \. Writing <br>
+5 \. Interactive skills 
 
   
 
 Through our programmes and activities, students are developed to become proficient and culturally-rooted learners.  
 
-1\. Chinese New Year Celebration
-
-2\. MTL Parent Workshop
-
-3\. Mother Tongue Language Fortnight and Racial Harmony Day  
-
-4\. Chinese Language Touch-Typing
+1 \. Chinese New Year Celebration<br>
+2 \. MTL Parent Workshop<br>
+3 \. Mother Tongue Language Fortnight and Racial Harmony Day  <br>
+4 \. Chinese Language Touch-Typing
 
 #### MTL Parent Workshop
 
