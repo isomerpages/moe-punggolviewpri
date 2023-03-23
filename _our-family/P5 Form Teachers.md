@@ -64,9 +64,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 5 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Mohd%20Zahid.jpg" alt="Mr Mohd Zahid.JPG" width="200" height="300">Mr Mohd Zahid</td>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Vijayalakshmi%20Vijayan.jpg" alt="Mrs Vijayalakshmi Vijayan.jpg">Mrs Vijayalakshmi Vijayan </td>
-    <td class="tg-qn16"><strong>Mr Mohd Zahid</strong><br><a href="mailto:mohammad_zahid_rohmat@moe.edu.sg">mohammad_zahid_rohmat@moe.edu.sg</a><br><br><strong>Mrs Vijayalakshmi</strong><br><a href="mailto:vijayalakshmi_vijayan@moe.edu.sg">vijayalakshmi_vijayan@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Lim Wei Cheng.jpg" alt="Mr Lim Wei Cheng.JPG" width="200" height="300">Mr Lim Wei Cheng</td>
+    <td class="tg-v9jf"><img src="/images/Mdm Tan Siew Chian.jpeg" alt="Mdm Tan Siew Chian.jpeg">Mdm Tan Siew Chian</td>
+    <td class="tg-qn16"><strong>Mr Lim Wei Cheng</strong><br><a href="mailto:lim_wei_cheng@moe.edu.sg">lim_wei_cheng@moe.edu.sg</a><br><br><strong>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  <strong> 5 Ruby </strong> </td>
