@@ -119,8 +119,7 @@ For any enquiries on Punggol View Primary School, you can write to [punggolview
 
 <h4 style="color:black" >Primary 1 Registration Matters</h4>  
 
-For FAQs related to the P1 registration procedures, please refer to: 
-
+For FAQs related to the P1 registration procedures, please refer to: <br>
 [MOE FAQs - Primary One Admissions](http://www.ifaq.gov.sg/MOE/apps/fcd_faqmain.aspx#TOPIC_5284)
 
 *   How many vacancies are available at Punggol View Primary School?
