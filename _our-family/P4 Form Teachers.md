@@ -49,9 +49,9 @@ Bin Ahmad Bamadhaj</strong><br><a href="mailto:mohammad_helmi_ahmad_bamad@moe.ed
     <td class="tg-qn16" colspan="3"> <strong> 4 Jade </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Violette%20Chew.jpg" alt="Mrs Violette Chew.JPG" width="199">Mrs Violette Lim</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Jiang%20Wen%20Shan.jpg" alt="Mdm Jiang Wen Shan.JPG" width="201">Mdm Jiang Wenshan </td>
-    <td class="tg-qn16"><strong>Mrs Violette Lim</strong><br><a href="mailto:chew_chai_lian@moe.edu.sg">chew_chai_lian@moe.edu.sg</a><br><br><strong>Mdm Jiang Wenshan</strong><br><a href="mailto:jiang_wenshan@moe.edu.sg ">jiang_wenshan@moe.edu.sg </a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Chia Hui Ming Dawn.jpeg" alt="Ms Chia Hui Ming Dawn.JPEG" width="199">Ms Dawn Chia Hui Ming</td>
+    <td class="tg-v9jf"><img src="/images/Mr Brandon Chow Yuen Jeng.jpeg" alt="Mr Brandon Chow Yuen Jeng.JPEG" width="201">Mr Brandon Chow </td>
+    <td class="tg-qn16"><strong>Ms Dawn Chia Hui Ming</strong><br><a href="mailto:chia_hui_ming_dawn@moe.edu.sg">chia_hui_ming_dawn@moe.edu.sg</a><br><br><strong>Mr Brandon Chow</strong><br><a href="mailto:chow_yuen_jeng@moe.edu.sg">chow_yuen_jeng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 4 Opal  </strong> </td>
