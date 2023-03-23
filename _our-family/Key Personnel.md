@@ -37,3 +37,8 @@ description: ""
 <img src="/images/kp11.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/kp12.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
+
+|   |   |   |
+|:-:|---|---|
+| **LH EL  <br>Ms Sharifah Aliah**  <br>[sharifah_aliah_syed@moe.edu.sg](mailto:sharifah_aliah_syed@moe.edu.sg)  | **LH MATHS  <br>Mr Isreal Teo**  <br>[teo_tze_koon_isreal@moe.edu.sg](mailto:teo_tze_koon_isreal@moe.edu.sg)  |  **SH AESTHETICS  <br>Ms Magdelene Khairyl-Han**  <br>[han_may_yun_magdelene@moe.edu.sg](mailto:han_may_yun_magdelene@moe.edu.sg) |
+|   |   |   |
