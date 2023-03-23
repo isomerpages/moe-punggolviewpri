@@ -41,9 +41,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>1 Emerald</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Suriani%20Sokran.jpg" alt="Mdm Suriani Sokran.JPG" width="194" height="290">Mdm Suriani Sokran</td>
+    <td class="tg-v9jf"><img src="/images/Mdm Nur Amlia Jumali.jpeg" alt="Mdm Nur Amlia Jumali.JPEG" width="194" height="290">Mdm Nur Amlia Jumali</td>
     <td class="tg-v9jf"><img src="/images/Kwan%20Wai%20Leng.jpg" alt="Kwan Wai Leng.jpg" width="192">Mdm Kwan Wai Leng</td>
-    <td class="tg-qn16"><strong>Mdm Suriani Sokran</strong><br><a href="mailto:suriani_sokran@moe.edu.sg">suriani_sokran@moe.edu.sg</a> <br><br><strong>Mdm Kwan Wai Leng</strong><br><br><strong>Mr Koh Wee Kiat</strong></td>
+    <td class="tg-qn16"><strong>Mdm Nur Amlia Jumali</strong><br><a href="mailto:nur_amlia_jumali@moe.edu.sg">nur_amlia_jumali@moe.edu.sg</a> <br><br><strong>Mdm Kwan Wai Leng</strong><br><br><strong>Mr Koh Wee Kiat</strong></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/koh%20wee%20kiat%20nicholas.jpg" alt="koh wee kiat nicholas.jpg" width="194">Mr Koh Wee Kiat<br></td>
