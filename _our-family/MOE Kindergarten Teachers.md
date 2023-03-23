@@ -43,9 +43,8 @@ description: ""
     <td class="tg-xjv0"><img src="/images/juliana.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Mahtani Juliana Deepak</strong></span><br></td>
   </tr>
   <tr>
-    <td class="tg-xjv0"><br><img src="/images/joaquinne.jpg" alt="joaquinne.jpg" width="164" height="242"><br><strong>Ms Lee Wen Qi Joaquine Theone</strong></td>
-    <td class="tg-v9jf"><img src="/images/melinda.jpg" alt="melinda.jpg" width="166" height="248"><strong>Ms Melinda Nachammal Kumar R</strong></td>
-    <td class="tg-v9jf"><img src="/images/juliana.jpg" alt="juliana.jpg" width="168" height="251"><strong>Ms Mahtani Juliana Deepak </strong></td>
+    <td class="tg-xjv0"><br><img src="/images/tanxinyi.jpg" alt="tanxinyi.jpg" width="164" height="242"><br><strong>Ms Tan Xin Yi</strong></td>
+    <td></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE</span></td>
