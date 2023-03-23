@@ -124,11 +124,12 @@ third_nav_title: Co Curricular Activities
 
 #### Curricular Goal
 
-The intent of CCA is to spark passion and interests, and develop knowledge and skills in areas beyond the academic and non-academic curriculum. Apart from bringing together students from different classes and profiles, CCA is a natural platform for students to form their character by learning and practising the school’s values such as Resilience, Responsibility, Care and Harmony, and developing Socio-Emotional Competencies such as managing one’s feelings and working well with others, all of which are essential to prepare our students for future education and employment.
+The intent of Co-Curricular Activities (CCAs) is to spark passion and interests, and develop knowledge and skills in areas beyond the academic and non-academic curriculum. Apart from bringing together students from different classes and profiles, CCAs are a natural platform for students to develop their character by learning and practising the school’s values such as Resilience, Responsibility, Care and Harmony, and developing Socio-Emotional Competencies such as managing one’s feelings and working well with others, all of which are essential to prepare our students to be future-ready.
 
 #### CCA Offerings
 
-The CCA offerings can be divided into the three areas, namely, (i) Sports & Fitness, (ii) Visual & Performing Arts and (iii) Clubs & Societies. The school offers five CCAs in Sports & Fitness, three CCAs in Visual &Performing Arts and three CCAs in Clubs & Societies. They are as follows:
+The school offers a total of 13 CCAs which are divided into three categories.<br>
+They are as follows:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
