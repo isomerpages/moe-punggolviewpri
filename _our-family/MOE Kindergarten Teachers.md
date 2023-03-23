@@ -72,7 +72,7 @@ description: ""
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">TAMIL LANGUAGE TEACHER</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Buvaneshwari%20do%20Rajoo%20.jpg" alt="Ms Buvaneshwari do Rajoo .JPG" width="196" height="293"><strong>Ms Buvaneshwari D/O Rajoo</strong></td>
+    <td class="tg-v9jf"><img src="/images/rajoo.jpg" alt="rajoo.JPG" width="196" height="293"><strong>Ms Buvaneshwari D/O Rajoo</strong></td>
     <td class="tg-fma3"> </td>
     <td class="tg-fma3"> </td>
   </tr>
