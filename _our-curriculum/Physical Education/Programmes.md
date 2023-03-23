@@ -6,9 +6,10 @@ third_nav_title: Physical Education
 ---
 #### Health Promoting School Canteen
 The Health Promoting School Canteen Programme (HPSC) serves to bring Healthy Set Meals to students. This programme follows the existing Healthy Eating in School Programme (HESP) which introduces 10 food service guidelines in the school canteens.
+
 The Healthy Set Meals incorporate the appropriate proportions of food from four main food groups rice and alternatives, meat and alternatives, fruit and vegetables based on Singapore’s Dietary Guidelines for Children and Adolescents ensuring that when students consume meals at the school, they will receive the right nutrients necessary for their growing needs. Each canteen stall serves at least two types of set meals per day and vendors are encouraged to change their menu daily to ensure variety.
 
-iCARE ( i C an be an A ctive student by exe R cising regularly and E ating wisely)
+iCARE ( i C an be an A ctive student by exe R cising regularly and E ating wisely)  
 The iCARE programme that is held thrice a week during recess is developed to focus on our students’ overall physical well-being by encouraging them to develop healthy habits, using a combination of fun ways to exercise, learn about nutrition and recognising and changing behavioural habits. Parents, child and teacher work in partnership to promote healthy eating and working towards an active lifestyle.
 
 **insert PE.jpg here!**
@@ -37,6 +38,10 @@ The Physical Education Department carries out an array of learning experiences f
 
 <img src="/images/Launch%20of%20Fruittie%20Veggie.png"  
 style="width:75%">
+
+#### Healthy Food Tasting
+
+<img src="/images/pe024.jpg" style="width:85%">
 
 #### Roving Carnival
 
