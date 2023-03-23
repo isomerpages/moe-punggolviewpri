@@ -56,9 +56,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 3 Opal   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Mohammed%20Fadly%20Ramli.jpg" alt="Mr Mohammed Fadly Ramli.JPG" width="189">Mr Mohammed Fadly Ramli</td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Teo%20Tze%20Koon%20Isreall.jpg" alt="Mr Teo Tze Koon Isreal.JPG" width="190">Mr Isreal Teo <br><br></td>
-    <td class="tg-qn16"><strong>Mr Mohammed Fadly</strong><br><a href="mailto:mohammed_fadly_ramli@moe.edu.sg">mohammed_fadly_ramli@moe.edu.sg</a><br><br><strong>Mr Isreal Teo</strong><br><a href="mailto:teo_tze_koon_isreal@moe.edu.sg">teo_tze_koon_isreal@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Yeong Pui San.jpeg" alt="Ms Yeong Pui San.JPEG" width="189">Ms Yeong Pui San</td>
+    <td class="tg-v9jf"><img src="/images/elain.jpg" alt="elain.JPG" width="190">Ms Baey Geok Link Elain<br><br></td>
+    <td class="tg-qn16"><strong>Ms Yeong Pui San</strong><br><a href="mailto:yeong_pui_san@moe.edu.sg">yeong_pui_san@moe.edu.sg</a><br><br><strong>Ms Baey Geok Link Elain</strong><br><a href="mailto:baey_geok_lin_elain@moe.edu.sg">baey_geok_lin_elain@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  3 Pearl </strong> </td>
