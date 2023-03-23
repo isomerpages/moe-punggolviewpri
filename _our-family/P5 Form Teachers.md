@@ -64,7 +64,7 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 5 Pearl </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr Lim Wei Cheng.jpg" alt="Mr Lim Wei Cheng.JPG" width="200" height="300">Mr Lim Wei Cheng</td>
+    <td class="tg-v9jf"><img src="/images/Mr Lim Wei Cheng.jpg" alt="Mr Lim Wei Cheng.JPG" width="200" height="">Mr Lim Wei Cheng</td>
     <td class="tg-v9jf"><img src="/images/Mdm Tan Siew Chian.jpeg" alt="Mdm Tan Siew Chian.jpeg">Mdm Tan Siew Chian</td>
     <td class="tg-qn16"><strong>Mr Lim Wei Cheng</strong><br><a href="mailto:lim_wei_cheng@moe.edu.sg">lim_wei_cheng@moe.edu.sg</a><br><br><strong>Mdm Tan Siew Chian</strong><br><a href="mailto:tan_siew_chian@moe.edu.sg">tan_siew_chian@moe.edu.sg</a></td>
   </tr>
@@ -72,9 +72,9 @@ description: ""
     <td class="tg-qn16" colspan="3">  <strong> 5 Ruby </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Miss%20Choo%20Jia%20Jia.jpg" alt="Miss Choo Jia Jia.JPG" width="200">Miss Choo Jia <br><br></td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Khairunnisa%20Binte%20Mohd%20Isa.jpg" alt="Mdm Khairunnisa Binte Mohd Isa.jpg" width="200" height="299">Mdm Khairunnisa Mohd Isa </td>
-    <td class="tg-qn16"><strong>Miss Choo Jia</strong><br><a href="mailto:choo_jia@moe.edu.sg">choo_jia@moe.edu.sg</a><br><br><strong> Mdm Khairunnisa</strong><br><a href="mailto:khairunnisa_mohd_isa@moe.edu.sg">khairunnisa_mohd_isa@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/alyani copy.jpg" alt="alyani copy.JPG" width="200">Ms Alyani Bt Mohamed Husain<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Jeslyn Kang.jpeg" alt="Mdm Jeslyn Kang.jpeg" width="200" height="299">Mdm Jeslyn Kang</td>
+    <td class="tg-qn16"><strong>Ms Alyani Bt Mohamed Husain</strong><br><br><br><strong> Mdm Jeslyn Kang</strong><br><a href="mailto:kang_siew_ngoh@moe.edu.sg">kang_siew_ngoh@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
