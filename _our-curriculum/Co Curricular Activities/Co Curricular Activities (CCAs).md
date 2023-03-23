@@ -113,11 +113,11 @@ third_nav_title: Co Curricular Activities
 			<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.00pm</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">The Children's Choir<br> </td>
-    <td class="tg-ii8k">Music Rm 1 &amp; 2</td>
+    <td class="tg-ii8k">Children’s Choir<br> </td>
+    <td class="tg-ii8k">Music Room 2</td>
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">3.30 - 5.30pm</td>
+    <td class="tg-ii8k">3.30pm – 5.30pm</td>
   </tr>
 </tbody>
 </table>
