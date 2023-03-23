@@ -33,9 +33,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">ENGLISH LANGUAGE TEACHERS</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Alyssa%20Amritha%20Loganathan.jpg" alt="Ms Alyssa Amritha Loganathan.JPG" width="165" height="247"><span style="background-color:transparent"><strong>Ms Alyssa Amritha Loganathan</strong></span><br></td>
-    <td class="tg-v9jf"><img src="/images/Miss%20Leck%20Shi%20Fang%20Charmaine.jpg" alt="Miss Leck Shi Fang Charmaine.JPG" width="163" height="243"><strong>Leck Shi Fang Charmaine</strong> <br></td>
-    <td class="tg-v9jf"><img src="/images/jeannie%20sim.jpg" alt="jeannie sim.jpg" width="163" height="243"><strong>Ms Sim Ai Ping Jeannie</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/_Ms Siti Nurul Aisyah Binte Mohd Adrin English Language Teacher.jpg" alt="_Ms Siti Nurul Aisyah Binte Mohd Adrin English Language Teacher.JPG" width="165" height="247"><span style="background-color:transparent"><strong>Ms Siti Nurul Aisyah Binte Mohd Adrin</strong></span><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Chew Tang Wee English Language Teacher.jpg" alt="Ms Chew Tang Wee English Language Teacher.JPG" width="163" height="243"><strong>Ms Chew Tang Wee</strong> <br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Ethel Ng Sining  English Language Teacher.jpg" alt="Ms Ethel Ng Sining  English Language Teacher.jpg" width="163" height="243"><strong>Ms Ethel Ng Sining</strong><br></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Ms%20Chew%20Tang%20Wee.jpg" alt="Ms Chew Tang Wee.JPG" width="164" height="246"><strong>Ms Chew Tang Wee</strong><br></td>
