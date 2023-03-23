@@ -44,7 +44,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-xjv0"><br><img src="/images/tanxinyi.jpg" alt="tanxinyi.jpg" width="164" height="242"><br><strong>Ms Tan Xin Yi</strong></td>
-    <td></td>
+    <td class="tg-fma3"></td>
+	<td class="tg-fma3"></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE TEACHERS</span></td>
@@ -65,13 +66,13 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/LATI.jpg" alt="LATI.jpg" width="168" height="251"><strong>Ms Latiffah Bte Shamsudin</strong><br></td>
     <td class="tg-v9jf"><img src="/images/SONIA.jpg" alt="SONIA.JPG" width="171" height="253"><strong>Ms Sonia Asyira Bte Arman</strong><br></td>
-    <td ></td>
+    <td class="tg-fma3"></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">TAMIL LANGUAGE</span></td>
+    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">TAMIL LANGUAGE TEACHER</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Buvaneshwari%20do%20Rajoo%20.jpg" alt="Ms Buvaneshwari do Rajoo .JPG" width="196" height="293"><strong>Ms Buvaneshwari d/o Rajoo</strong></td>
+    <td class="tg-v9jf"><img src="/images/Ms%20Buvaneshwari%20do%20Rajoo%20.jpg" alt="Ms Buvaneshwari do Rajoo .JPG" width="196" height="293"><strong>Ms Buvaneshwari D/O Rajoo</strong></td>
     <td class="tg-fma3"> </td>
     <td class="tg-fma3"> </td>
   </tr>
