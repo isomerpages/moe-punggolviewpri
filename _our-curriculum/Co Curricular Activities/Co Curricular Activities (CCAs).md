@@ -159,7 +159,19 @@ They are as follows:
 </table>
 
 #### CCA Policy
-Students from P3 onwards are encouraged to participate in a CCA. We strongly encourage students to remain in their CCA to ensure deeper skill development and continuity.
+Students from P3 onwards are encouraged to participate in a CCA. We strongly encourage students to remain in their CCA from P3 to P6 to ensure deeper skill development and continuity.
+
+#### CCA Transfer Policy
+
+While we encourage all students to remain in their CCA, we understand that there may be circumstances that students are unable to continue in their CCA. Thus, the school has two transfer periods within the year, **first 2 weeks** of Semester 1 and **last 2 weeks** of Semester 2.
+
+The school does not accede to any CCA transfer requests after the transfer periods unless on medical grounds.
+
+Students are entitled to only **one CCA change** during the time they are in the school. Provision for more than one change will be made for special cases like medical conditions.
+
+Students are required to fill up the CCA Transfer Form and submit to LH CCA, Mr Fabian Koh for approval.
+
+The CCA transfer is only successful if there is vacancy in the selected CCA.
 
 #### Attendance
 To ensure depth in knowledge and skills in the CCA, all students enrolled in CCA are expected to achieve 80% attendance in the year of participation. Students who do not meet the minimum attendance will not be considered to have completed the CCA, and may not be fielded for competitions or performances. If a student misses a session, he must produce a medical certificate or a valid supporting document to explain his absence.
