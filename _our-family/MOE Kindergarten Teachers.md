@@ -50,9 +50,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE TEACHERS</span></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Zhou%20Feng.jpg" alt="Ms Zhou Feng.JPG" width="164" height="246"><strong>Ms Zhou Feng</strong><br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Gan%20Menghui.jpg" alt="Ms Gan Menghui.JPG" width="165" height="247"><strong>Ms Gan Menghui</strong><br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Yan%20Anni.jpg" alt="Ms Yan Anni.JPG" width="163" height="244"><strong>Ms Yan Anni</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/MENGHUI.jpg" alt="MENGHUI.JPG" width="164" height="246"><strong>Gan Meng Hui</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/xudan.jpg" alt="xudan.JPG" width="165" height="247"><strong>Ms Xu Dan</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/yan.jpg" alt="yan.JPG" width="163" height="244"><strong>Ms Yan Anni</strong><br></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/chan%20chiew%20chian.jpg" alt="chan chiew chian.jpg" width="168" height="251"><strong>Ms Chan Chieu Chin</strong></td>
