@@ -72,3 +72,8 @@ description: ""
 |:-:|---|---|
 | **AYH (Internal)  <br>Mdm Clara Tan**  <br>[tan_wan_ting_clara@moe.edu.sg](mailto:tan_wan_ting_clara@moe.edu.sg)  | **MTT PE**<br>**Ms Karen Low**<br>[low_lai_fong_a@moe.edu.sg](mailto:low_lai_fong_a@moe.edu.sg)  | **YH LOWER YEARS  <br>Mdm Rosnita Abdul Rahim**  <br>[rosnita_abdul_rahim@moe.edu.sg](mailto:rosnita_abdul_rahim@moe.edu.sg)  |
 |   |   |   |
+
+<img src="/images/kp22.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+**AYH  <br>Ms Sophie Wang**  <br>[wang_peipei_sophie@moe.edu.sg](mailto:wang_peipei_sophie@moe.edu.sg)
