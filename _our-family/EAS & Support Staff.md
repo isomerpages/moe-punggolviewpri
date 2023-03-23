@@ -60,3 +60,12 @@ description: ""
 |:-:|---|---|
 | **Mdm Lim Ainie**<br>Operations Support Officer  | **Mdm Rokiah**<br>Operations Support Officer  | **Mdm Toh Xue Li**<br>AED<br>   (SCHOOL COUNSELLOR)  |
 |   |   |   |
+
+<img src="/images/ea17.jpg" style="width:49%" align=left>
+<img src="/images/ea18.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| **Ms Siti Zulaiha** <br>AED <br>(Learning & Behavioral Support)  | **Mdm Ridiana Binte Suparman**<br>AED <br>(Learning & Behavioral Support)  |
+|   |   |
