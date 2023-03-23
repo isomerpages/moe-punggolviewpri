@@ -98,7 +98,6 @@ National Education aims to develop national cohesion, cultivate the instinct for
 
 Field-based experiential learning allows the students to contextualise their learning experience in an authentic real-world setting, thus enabling the relational learning of concepts and content. Students would also be able to conduct hands-on exploration in a focused area of study, thus being engaged in multi-sensory modes. As part of engaging students’ interest in inquiry, field-based learning would also motivate and sustain their interest in the subject matter as they would learn to explore, construct new knowledge and make connections to the topic being studied.
 
-![Social Studies Field-based Experiential Learning](/images/Social%20Studies%20Field-based%20Experiential%20Learning.png)
 
 <img src="/images/Social%20Studies%20Field-based%20Experiential%20Learning.png"  
 style="width:85%">
@@ -113,40 +112,32 @@ NE events in school are commemorated and emphasises on cultivating a sense of be
 ![Total Defence Day](/images/Total%20Defence%20Day.png)
 
 **International Friendship Day** <br>
-
 International Friendship Day is commemorated on the 3rd Friday of Term 2.  It is day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond.  It serves as a good opportunity to nurture in our students the spirit of friendship and collaboration among different people as well as learn and appreciate other cultures that exist in Singapore.
 
 ![International Friendship Day](/images/International%20Friendship%20Day.png)
 
 **Racial Harmony Day** <br> 
-
 Racial Harmony Day is commemorated on 21 July.  On this day in 1964, Singapore saw racial riots.  Racial Harmony Day serves to remind our students that race and religion are potential fault-lines in Singapore society. It is a day for students to reflect on, and celebrate Singapore’s success as a harmonious nation and society built on a rich diversity of cultures and heritages.
 
 ![Racial Harmony Day](/images/Racial%20Harmony%20Day.png)
 
-**National Day**
-
+**National Day**<br>
 National Day is celebrated every year to commemorate Singapore’s independence from Malaysia in 1965 and our emergence as an independent country in the community of nations. Observance ceremony is held for students to have a greater sense of the historical importance and solemnity of National Day.
 
 ![National Day](/images/National%20Day.png)
 
 **P5 NE Show** <br>
-
 The NE Show is organised annually for P5 students to instill a sense of pride and belonging in them and to bring across the significance of our National Day. It also aims to develop group spirit among our students and their commitment to the community and our nation.  Our students also exercised their social responsibility as they ensured they kept the sector they sat at litter-free.
 
 ![P5 NE Show](/images/P5%20NE%20Show.png)
 
 **Values-In-Action (VIA)** <br>
-
 Values-in-Action are learning experiences that support our students’ development as socially responsible citizens who show care and contribute positively to the school, community and environment through the learning and application of values, knowledge and skills.   
   
 
-At Punggol View, VIA focuses on 
-
-a) **A**ssisting the needy  
-
-b) **B**uilding bonds with the Community
-
+At Punggol View, VIA focuses on <br>
+a) **A**ssisting the needy  <br>
+b) **B**uilding bonds with the Community<br>
 c) **C**ommitting to sustain as a Green school
 
 ![Value In Action](/images/VIA_1.png)
