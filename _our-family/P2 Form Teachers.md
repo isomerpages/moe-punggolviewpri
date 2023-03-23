@@ -80,9 +80,9 @@ description: ""
     <td class="tg-qn16" colspan="3">  <strong> 2 Sapphire </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Suhainis%20Samsi.jpg" alt="Mdm Suhainis Samsi.JPG" width="196">Mdm Suhainis Samsi</td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Tan%20Li%20Hwa.jpg" alt="Ms Tan Li Hwa.jpg" width="195">Mdm Tan Li Hwa</td>
-    <td class="tg-qn16"><strong>Mdm Suhainis Sams</strong><br><a href="mailto:suhainis_samsi@moe.edu.sg">suhainis_samsi@moe.edu.sg</a><br><br><strong>Mdm Tan Li Hwa</strong><br><a href="mailto:tan_li_hwa_a@moe.edu.sg">tan_li_hwa_a@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Nurasyiqin.jpeg" alt="Mdm Nurasyiqin.JPEG" width="196">Ms Nurasyiqin</td>
+    <td class="tg-v9jf"><img src="/images/Alison.jpeg" alt="Alison.jpeg" width="195">Ms Alison Teo</td>
+    <td class="tg-qn16"><strong>Ms Nurasyiqin</strong><br><a href="mailto:nurasyiqin_mohammad_abdu@moe.edu.sg">nurasyiqin_mohammad_abdu@moe.edu.sg</a><br><br><strong>Ms Alison Teo</strong><br><a href="mailto:teo_yili_alison@moe.edu.sg">teo_yili_alison@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
