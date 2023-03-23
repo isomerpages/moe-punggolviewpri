@@ -66,8 +66,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/nabil.jpg" alt="nabil.JPG" width="194">Mr Muhammad Nabil Bin Muhammad Ismail<br></td>
-    <td class="tg-v9jf"><img src="/images/DEVI.jpg" alt="DEVI.jpg" width="192">Mdm Devi Ganesan</td>
-    <td class="tg-qn16"><strong>Mr Muhammad Nabil Bin Muhammad Ismail</strong><br><span style="background-color:initial"> </span><a href="mailto:muhammad_nabil_muhammad_ismail@moe.edu.sg">muhammad_nabil_muhammad_ismail@moe.edu.sg</a><br><br><strong>Mdm Devi Ganesan</strong><br><a href="mailto:devi_ganesan@moe.edu.sg">devi_ganesan@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Mdm Han Huaxiu.jpeg" alt="Mdm Han Huaxiu.jpeg" width="192">Mdm Han Huaxiu</td>
+    <td class="tg-qn16"><strong>Mr Muhammad Nabil Bin Muhammad Ismail</strong><br><span style="background-color:initial"> </span><a href="mailto:muhammad_nabil_muhammad_ismail@moe.edu.sg">muhammad_nabil_muhammad_ismail@moe.edu.sg</a><br><br><strong>Mdm Han Huaxiu</strong><br><a href="mailto:han_huaxiu@moe.edu.sg">han_huaxiu@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong>1 Ruby</strong></td>
