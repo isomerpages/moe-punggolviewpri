@@ -64,17 +64,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>  3 Pearl </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Mohamed%20Bilal%20Bin%20Obayadulla.jpg" alt="Mr Mohamed Bilal Bin Obayadulla.JPG" width="189">Mr Mohamed Bilal Bin Obayadulla<br></td>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Eng%20Yi%20Wenn.jpg" alt="Mrs Eng Yi Wen.JPG" width="190">Mrs Eng-Teng Yi Wen, Yvonne<br></td>
-    <td class="tg-qn16"><strong>Mr Mohamed Bilal</strong><br><a href="mailto:mohamed_bilal_obayadulla@moe.edu.sg">mohamed_bilal_obayadulla@moe.edu.sg</a><br><br><strong>Mrs Eng-Teng Yi Wen, Yvonne</strong><br><a href="mailto:teng_yi_wen@moe.edu.sg">teng_yi_wen@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-qn16" colspan="3">  <strong> 3 Ruby </strong> </td>
-  </tr>
-  <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Jaya%20Balan%20Kanagasundram.jpg" alt="Mr Jaya Balan Kanagasundram.JPG" width="189">Mr Jaya Balan</td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Oh%20Ling%20Li%20Jueween.jpg" alt="Ms Oh Ling Li Jueween.JPG" width="190">Ms Jueween Oh </td>
-    <td class="tg-qn16"><strong>Mr Jaya Balan</strong><br><a href="mailto:jaya_balan_kanagasundram@moe.edu.sg">jaya_balan_kanagasundram@moe.edu.sg</a><br><br><strong>Ms Jueween Oh</strong><br><a href="mailto:jueween_oh_ling_li@moe.edu.sg">jueween_oh_ling_li@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/madeline.jpg" alt="madeline.JPG" width="189">Ms Madeline Tan Hwee Li<br></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Tan Wan Ting Clara.jpeg" alt="Mdm Tan Wan Ting Clara.JPEG" width="190">Mdm Clara Tan<br></td>
+    <td class="tg-qn16"><strong>Ms Madeline Tan Hwee Li</strong><br><a href="mailto:madeline_tan_hwee_li@moe.edu.sg">madeline_tan_hwee_li@moe.edu.sg</a><br><br><strong>Mdm Clara Tan</strong><br><a href="mailto:tan_wan_ting_clara@moe.edu.sg">tan_wan_ting_clara@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
