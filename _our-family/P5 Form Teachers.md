@@ -24,17 +24,17 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>5 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Samihah%20Bte%20Abdul%20Kader.jpg" alt="Mdm Samihah Bte Abdul Kader.JPG" width="194" height="287">Mdm Samihah Bte Abdul Kader<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Ariffin.jpg" alt="Mr Ariffin.JPG" width="192" height="289">Mr Ariffin Abdul Latif<br><br></td>
-    <td class="tg-qn16"> <strong>Mdm Samihah Bte Abdul Kader</strong><br><a href="mailto:samihah_abdul_kader@moe.edu.sg">samihah_abdul_kader@moe.edu.sg</a><br><br><strong>Mr Ariffin Abdul Latif</strong><br><a href="mailto:ariffin_ab_latif@moe.edu.sg">ariffin_ab_latif@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mrs Violette Chew.jpeg" alt="Mrs Violette Chew.JPEG" width="194" height="287">Mrs Violette Lim<br></td>
+    <td class="tg-v9jf"><img src="/images/Mrs Lydia Leong.jpeg" alt="Mrs Lydia Leong.JPEG" width="192" height="289">Mrs Lydia Leong<br><br></td>
+    <td class="tg-qn16"> <strong>Mrs Violette Lim</strong><br><a href="mailto:chew_chai_lian@moe.edu.sg">chew_chai_lian@moe.edu.sg</a><br><br><strong>Mrs Lydia Leong</strong><br><a href="mailto:lydia_tan_mee_mee@moe.edu.sg">lydia_tan_mee_mee@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  5 Diamond </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Jeremy%20Lim.jpg" alt="Mr Jeremy Lim.JPG" width="200">Mr Jeremy Lim <br><br></td>
-    <td class="tg-v9jf"><img src="/images/Jamie.jpeg" alt="Jamie 2022.jpeg" width="197" height="275">Miss Cheng Chin Ying, Jamie </td>
-    <td class="tg-qn16"><strong>Mr Jeremy Lim</strong><br><a href="mailto:lim_wei_peng_jeremy@moe.edu.sg">lim_wei_peng_jeremy@moe.edu.sg</a><br><br><strong>Miss Cheng Chin Ying, Jamie</strong><br><a href="mailto:cheng_chin_ying@moe.edu.sg">cheng_chin_ying@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Ong Yu Eng.jpeg" alt="Mr Ong Yu Eng.JPEG" width="200">Mr Ong Yu Eng<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Teo Tze Koon Isreal.jpeg" alt="Mr Teo Tze Koon Isreal.jpeg" width="197" height="275">Mr Isreal Teo</td>
+    <td class="tg-qn16"><strong>Mr Ong Yu Eng</strong><br><a href="mailto:ong_yu_eng@moe.edu.sg">ong_yu_eng@moe.edu.sg</a><br><br><strong>Mr Isreal Teo Tze Koon</strong><br><a href="mailto:teo_tze_koon_isreal@moe.edu.sg">teo_tze_koon_isreal@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  5 Emerald </strong> </td>
