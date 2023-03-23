@@ -47,7 +47,7 @@ description: ""
     <td></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE</span></td>
+    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">CHINESE LANGUAGE TEACHERS</span></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Ms%20Zhou%20Feng.jpg" alt="Ms Zhou Feng.JPG" width="164" height="246"><strong>Ms Zhou Feng</strong><br></td>
