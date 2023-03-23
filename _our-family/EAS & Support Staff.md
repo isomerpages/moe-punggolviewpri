@@ -40,3 +40,13 @@ description: ""
 |:-:|---|---|
 | **Mdm Lee Lee Yen**<br>Operations Support Officer  | **Mr Junaidy**  <br>Operations Support Officer  | **Ms Goo Ah Hwa**<br>Operations Support Officer  |
 |   |   |   |
+
+<img src="/images/ea11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ea12.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ea13.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+|   |   |   |
+|:-:|---|---|
+| **Mr William Tan**  <br>Operations Support Officer  | **Mdm Saadiah**<br>Operations Support Officer  |**Mdm Linda Lim**  <br>Relief Executive   |
+|   |   |   |
