@@ -48,9 +48,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong>  3 Jade   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Chia%20Hui%20Ming%20Dawnn.jpg" alt="Ms Chia Hui Ming Dawn .JPG" width="189">Ms Dawn Chia Hui Ming<br><br></td>
-    <td class="tg-v9jf"><img src="images/ain.jpeg" alt="AIN.jpeg" width="190">Miss Nur Ain Bte Juma'at </td>
-    <td class="tg-qn16"><strong> Ms Dawn Chia Hui Ming</strong><br><a href="mailto:chia_hui_ming_dawn@moe.edu.sg">chia_hui_ming_dawn@moe.edu.sg</a><br><br><strong>Miss Nur Ain </strong><br><a href="mailto:nur_ain_juma_at@moe.edu.sg">nur_ain_juma_at@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Ng Yi Qin Ryan.jpeg" alt="Mr Ng Yi Qin Ryan.JPEG" width="189">Mr Ng Yi Qin Ryan<br><br></td>
+    <td class="tg-v9jf"><img src="images/rukiya 2023.jpg" alt="rukiya 2023.jpg" width="190">Mdm Rukiya</td>
+    <td class="tg-qn16"><strong> Mr Ng Yi Qin Ryan</strong><br><a href="mailto:ng_yi_qin_ryan@moe.edu.sg">ng_yi_qin_ryan@moe.edu.sg</a><br><br><strong>Mdm Rukiya</strong><br><a href="mailto:rukiya_ameer_hamjah@moe.edu.sg">rukiya_ameer_hamjah@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 3 Opal   </strong></td>
