@@ -33,17 +33,17 @@ description: ""
     <td class="tg-fma3" colspan="3"><strong>  6 Diamond </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mr%20Ong%20Yu%20Eng.jpg" alt="Mr Ong Yu Eng.JPG" width="194" height="290">Mr Ong Yu Eng<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Ivan%20Ng%20Wee%20Liatt.jpg" alt="Mr Ivan Ng Wee Liat.jpg" width="192" height="288">Mr Ivan Ng </td>
-    <td class="tg-qn16"><strong>Mr Ong Yu Eng</strong><br><a href="mailto:ong_yu_eng@moe.edu.sg">ong_yu_eng@moe.edu.sg</a><br><br><strong>Mr Ivan Ng</strong><br><a href="mailto:ng_wee_liat_ivan@moe.edu.sg">ng_wee_liat_ivan@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mrs Lisa Choo.jpeg" alt="Mrs Lisa Choo.JPEG" width="194" height="290">Mdm Lisa Tan<br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Jeremy Lim.jpeg" alt="Mr Jeremy Lim.jpeg" width="192" height="288">Mr Jeremy Lim</td>
+    <td class="tg-qn16"><strong>Mdm Lisa Tan</strong><br><a href="mailto:choo_lisa@moe.edu.sg">choo_lisa@moe.edu.sg</a><br><br><strong>Mr Jeremy Lim</strong><br><a href="mailto:lim_wei_peng_jeremy@moe.edu.sg">lim_wei_peng_jeremy@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-fma3" colspan="3"> <strong> 6 Emerald </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Lydia%20Leongg.jpg" alt="Mrs Lydia Leong.jpg" width="194" height="290">Mrs Lydia Leong<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Adrain%20Ongg.jpg" alt="Mr Adrain Ong.jpg" width="194" height="291">Mr Adrain Ong Wee Loon </td>
-    <td class="tg-qn16"><strong>Mrs Lydia Leong</strong><br><a href="mailto:lydia_tan_mee_mee@moe.edu.sg">lydia_tan_mee_mee@moe.edu.sg</a><br><br><strong>Mr Adran Ong Wee Loon</strong><br><a href="mailto:ong_wee_loon_adrain@moe.edu.sg">ong_wee_loon_adrain@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mrs Tan-Li Shi Hua.jpeg" alt="Mrs Tan-Li Shi Hua.jpeg" width="194" height="290">Mdm Li Shihua<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Balbir Kaur.jpg" alt="Ms Balbir Kaur.jpg" width="194" height="291">Ms Balbir Kaur</td>
+    <td class="tg-qn16"><strong>Mdm Li Shihua</strong><br><a href="mailto:i_shihua@moe.edu.sg">i_shihua@moe.edu.sg</a><br><br><strong>MS Balbir Kaur</strong><br><a href="mailto:kaur_balbir_g_singh@moe.edu.sg">kaur_balbir_g_singh@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-fma3" colspan="3"> <strong> 6 Jade </strong> </td>
