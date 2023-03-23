@@ -76,5 +76,13 @@ description: ""
     <td class="tg-v9jf"><img src="/images/Mdm Jeslyn Kang.jpeg" alt="Mdm Jeslyn Kang.jpeg" width="200" height="299">Mdm Jeslyn Kang</td>
     <td class="tg-qn16"><strong>Ms Alyani Bt Mohamed Husain</strong><br><br><br><strong> Mdm Jeslyn Kang</strong><br><a href="mailto:kang_siew_ngoh@moe.edu.sg">kang_siew_ngoh@moe.edu.sg</a></td>
   </tr>
+	  <tr>
+    <td class="tg-qn16" colspan="3">  <strong>5 Sapphire </strong> </td>
+  </tr>
+  <tr>
+    <td class="tg-v9jf"><img src="/images/Mr Mohamed Hizammuddin.jpeg" alt="Mr Mohamed Hizammuddin.JPEG" width="200">Mr Mohd Hizammuddin Mohd Yusof<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Luo Kangming Eugene.jpeg" alt="Mr Luo Kangming Eugene.jpeg" width="200" height="299">Mr Luo Kangming Eugene</td>
+    <td class="tg-qn16"><strong>Mr Mohd Hizammuddin Mohd Yusof</strong><br><a href="mailto:mohd_hizammuddin_mohd_yusof@moe.edu.sg">mohd_hizammuddin_mohd_yusof@moe.edu.sg</a><br><br><br><strong> Mr Luo Kangming Eugene</strong><br><a href="mailto:luo_kangming_eugene@moe.edu.sg">luo_kangming_eugene@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
