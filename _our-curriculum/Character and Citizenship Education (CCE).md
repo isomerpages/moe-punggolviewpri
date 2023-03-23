@@ -77,21 +77,19 @@ style="width:70%">
 <img src="/images/Value%20Badges%20Recipients_2.jpg"  
 style="width:70%">
 
-#### Sexuality Education 2022
+#### Sexuality Education 2023
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships, and make wise, informed and responsible decisions on sexuality matters in their growing up years. Sexuality Education also aims to help students develop a moral compass, respect for themselves and others, premised on the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-  
+Please click on the link below to access info from MOE website <br>
+[Sexuality education (MOE)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
 
-Please click the link below for more details on SEd.
-
-[Info\_on\_SEd\_for\_schs\_website\_PGVP\_2022.pdf](/files/Info_on_SEd_for_schs_website_PGVP_2022.pdf)
-
-  
+[2023 Info on SEd for schs website PGVP.pdf](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20PGVP.pdf)
 
 Please click the link below for the Opt-out form.
 
-[Sexuality Education\_Reply Slip 2022.pdf](/files/Sexuality%20Education_Reply%20Slip%202022.pdf)
+Please click the link below for the Opt-out form.<br>
+[https://go.gov.sg/pgvpsed2023](https://go.gov.sg/pgvpsed2023)
 
 #### National Education
 
