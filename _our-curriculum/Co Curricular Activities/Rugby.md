@@ -12,16 +12,11 @@ Throughout the year, the various teams take part in external carnivals, friendli
 
 In Rugby, students will learn how to communicate effectively, work cooperatively and make responsible decisions. Rugby places as much importance on sportsmanship as on winning. It is a sport with values that develop players within a social and moral context: 
 
-* Respect for the rules, team mates, opponents, match officials and those involved in the game
-
-* Responsibility for their own and team mates’ safety
-
-* Resilience for working towards their goals
-
-* Integrity through honesty and fair play
- 
-* Care for their team mates
-
-* Harmony through a unifying spirit that leads to lifelong friendships, teamwork and loyalty.
+Respect for the rules, team mates, opponents, match officials and those involved in the game<br>
+Responsibility for their own and team mates’ safety<br>
+Resilience for working towards their goals<br>
+Integrity through honesty and fair play<br>
+Care for their team mates<br>
+Harmony through a unifying spirit that leads to lifelong friendships, teamwork and loyalty.
 
 ![rugby](/images/rugby.png)
