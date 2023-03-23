@@ -22,3 +22,7 @@ description: ""
 |:-:|---|---|
 | **HOD MATHS  <br>Mr Christopher Cheng**  <br>[christopher_cheng@moe.edu.sg](mailto:christopher_cheng@moe.edu.sg)  | **HOD MTL  <br>Mr Adrain Ong Wee Loon**  <br>[ong_wee_loon_adrain@moe.edu.sg](mailto:ong_wee_loon_adrain@moe.edu.sg)  | **HOD SM  <br>Ms Nur Mawarni Nin Sahmad**  <br>[nur_mawarni_nin_sahmad@moe.edu.sg](mailto:nur_mawarni_nin_sahmad@moe.edu.sg)  |
 |   |   |   |
+
+<img src="/images/kp7.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp8.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
