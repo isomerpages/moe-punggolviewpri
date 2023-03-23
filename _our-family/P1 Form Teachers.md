@@ -81,9 +81,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 1 Sapphire</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Nurasyiqin.jpg" alt="Mdm Nurasyiqin.JPG" width="194">Ms Nurasyiqin</td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Azarizal%20Mohamed.jpg" alt="Mr Azarizal Mohamed.JPG" width="192">Mr Azarizal</td>
-    <td class="tg-qn16"><strong>Ms Nurasyiqin</strong><br><a href="mailto:nurasyiqin_mohammad_abdu@moe.edu.sg">nurasyiqin_mohammad_abdu@moe.edu.sg</a><br><br><strong>Mr Azarizal Mohamed</strong><br><a href="mailto:hidnor_azarizal_mohamed@moe.edu.sg">nor_azarizal_mohamed@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Ms Nurhayati Binte Selamat.jpeg" alt="Ms Nurhayati Binte Selamat.JPEG" width="194">Ms Nurhayati</td>
+    <td class="tg-v9jf"><img src="/images/Ms Tan Li Hwa.jpg" alt="Ms Tan Li Hwa.JPG" width="192">Mdm Tan Li Hwa</td>
+    <td class="tg-qn16"><strong>Ms Nurhayati</strong><br><a href="mailto:nurhayati_selamat@moe.edu.sg">nurhayati_selamat@moe.edu.sg</a><br><br><strong>Mdm Tan Li Hwa</strong><br><a href="mailto:tan_li_hwa_a@moe.edu.sg">tan_li_hwa_a@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"><strong> 1 Topaz</strong></td>
