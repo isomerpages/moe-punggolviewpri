@@ -26,49 +26,29 @@ Our proprietary theme-based Character Development curriculum delivers exercises 
   
 
 Enrichment Programmes/Activities reinforce our objectives of the Character 
-
-Development Programme, and aid in the development of life skills. Our programme comprises of activities in the following areas: 
+Development Programme, and aid in the development of life skills. Our programme comprises of activities in the following areas:
 
   
 
-1) Aesthetics-Based 
-
-Crafts 
-
-Fine Arts 
-
-Drama 
-
+1 \) Aesthetics-Based <br>
+Crafts <br>
+Fine Arts <br>
+Drama <br>
 Edible Creations 
 
-  
-
-2) Kinaesthetics-Based 
-
-Calisthenics 
-
-Music & Movement 
-
-Team-based Games  
-
+2 ) Kinaesthetics-Based <br>
+Calisthenics <br>
+Music & Movement <br>
+Team-based Games  <br>
 Sports 
 
-  
-
-3) Social & Emotional Learning (SEL)-Based 
-
-Relationship Skills 
-
-Self-Awareness 
-
-Self-Management 
-
-Social Awareness 
-
-Responsible Decision Making 
-
-Executive Functioning Skills
-
+3 ) Social & Emotional Learning (SEL)-Based <br>
+Relationship Skills <br>
+Self-Awareness <br>
+Self-Management <br>
+Social Awareness <br>
+Responsible Decision Making <br>
+Executive Functioning Skills<br>
 Current Affairs Sharing Sessions
 
   
