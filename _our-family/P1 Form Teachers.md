@@ -85,13 +85,5 @@ description: ""
     <td class="tg-v9jf"><img src="/images/Ms Tan Li Hwa.jpg" alt="Ms Tan Li Hwa.JPG" width="192">Mdm Tan Li Hwa</td>
     <td class="tg-qn16"><strong>Ms Nurhayati</strong><br><a href="mailto:nurhayati_selamat@moe.edu.sg">nurhayati_selamat@moe.edu.sg</a><br><br><strong>Mdm Tan Li Hwa</strong><br><a href="mailto:tan_li_hwa_a@moe.edu.sg">tan_li_hwa_a@moe.edu.sg</a> </td>
   </tr>
-  <tr>
-    <td class="tg-qn16" colspan="3"><strong> 1 Topaz</strong></td>
-  </tr>
-  <tr>
-    <td class="tg-v9jf"><img src="/images/Siti%20Nadiah.jpg" alt="Siti Nadiah.jpg" width="194">Ms Siti Nadia</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Liang%20Hong%20Wen.jpg" alt="4JA Mdm Liang Hong Wen (2).JPG" width="192">Mdm Liang Hong Wen </td>
-    <td class="tg-qn16"><strong> Ms Siti Nadia</strong><br><a href="mailto:siti_nadia_mohamed_rafii@moe.edu.sg">siti_nadia_mohamed_rafii@moe.edu.sg</a><br><br><strong>Mdm Liang Hong Wen</strong><br><a href="mailto:liang_hong_wen@moe.edu.sg">liang_hong_wen@moe.edu.sg</a></td>
-  </tr>
 </tbody>
 </table>
