@@ -56,9 +56,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 5 Opal   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Miss%20Hadijah%20Bte%20Abdul%20Rahman.jpg" alt="Miss Hadijah Bte Abdul Rahman.jpg" width="194" height="290">Ms Hadijah Abdul Rahman<br></td>
-    <td class="tg-v9jf"><img src="/images/Mr%20Fabiann.jpg" alt="Mr Fabian.jpg" width="194" height="291">Mr Fabian Koh<br><br></td>
-    <td class="tg-qn16"><strong>Ms Hadijah Abdul Rahman</strong><br><a href="mailto:hadijah_abdul_rahman@moe.edu.sg">hadijah_abdul_rahman@moe.edu.sg</a><br><br><strong>Mr Fabian Koh</strong><br><a href="mailto:koh_zong_cheng_fabian@moe.edu.sg">koh_zong_cheng_fabian@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Loh Hao Jie.jpeg" alt="Mr Loh Hao Jie.jpeg" width="194" height="290">Mr Loh Hao Jie<br></td>
+    <td class="tg-v9jf"><img src="/images/Jamie 2022.jpeg" alt="Jamie 2022.jpeg" width="194" height="291">Ms Cheng Chin Ying, Jamie<br><br></td>
+    <td class="tg-qn16"><strong>Mr Loh Hao Jie</strong><br><a href="mailto:loh_hao_jie@moe.edu.sg">loh_hao_jie@moe.edu.sg</a><br><br><strong>Ms Cheng Chin Ying, Jamie</strong><br><a href="mailto:cheng_chin_ying@moe.edu.sg">cheng_chin_ying@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 5 Pearl </strong>  </td>
