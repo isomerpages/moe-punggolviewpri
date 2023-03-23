@@ -56,9 +56,9 @@ description: ""
     <td class="tg-qn16" colspan="3">  <strong> 2 Opal </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Raihanah%20Ali.jpg" alt="Mdm Raihanah Ali.JPG" width="196">Mdm Raihanah Ali</td>
-    <td class="tg-v9jf"><img src="images/gumutha.jpg" alt="gumutha.jpg" width="195">Mdm Gumutha </td>
-    <td class="tg-qn16"><strong>Mdm Raihanah Ali</strong><br><a href="mailto:raihanah_ali@moe.edu.sg">raihanah_ali@moe.edu.sg</a><br><br><strong>Mdm Gumutha</strong><br><a href="mailto:gumutha_murugathasan@moe.edu.sg ">gumutha_murugathasan@moe.edu.sg </a></td>
+    <td class="tg-v9jf"><img src="/images/Mdm Hafizah Binte Nordin.jpeg" alt="Mdm Hafizah Binte Nordin.JPEG" width="196">Mdm Hafizah Nordin</td>
+    <td class="tg-v9jf"><img src="images/Ms Teo Xin Ning.jpeg" alt="Ms Teo Xin Ning.jpeg" width="195">Miss Teo Xin Ning</td>
+    <td class="tg-qn16"><strong>Mdm Hafizah Nordin</strong><br><a href="mailto:hafizah_nordin@moe.edu.sg">hafizah_nordin@moe.edu.sg</a><br><br><strong>Miss Teo Xin Ning</strong><br><a href="mailto:teo_xin_ning@moe.edu.sg ">teo_xin_ning@moe.edu.sg </a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  2 Pearl </strong> </td>
