@@ -84,9 +84,7 @@ The PE Department has been very privileged to host and work with two visiting fe
 
   
 
-Dr. Sara Ashworth earned her MA from the University of Mississippi and an EdD from
-
-Temple University in Philadelphia, PA. From 1987-2008, Dr. Sara Ashworth taught the Spectrum of Teaching Styles in the Department of Elementary Education at Florida Atlantic University (FAU). 
+Dr. Sara Ashworth earned her MA from the University of Mississippi and an EdD from Temple University in Philadelphia, PA. From 1987-2008, Dr. Sara Ashworth taught the Spectrum of Teaching Styles in the Department of Elementary Education at Florida Atlantic University (FAU). 
 
   
 
@@ -130,14 +128,10 @@ style="width:50%">
 
 The content for this component has been organised into five main themes:                 
 
-·          Growth and Health
-
-·          Good Health Habits
-
-·          Vision and Oral Care
-
-·          Safety First
-
+·          Growth and Health<br>
+·          Good Health Habits<br>
+·          Vision and Oral Care<br>
+·          Safety First<br>
 ·          Keeping Safe from Illnesses and Diseases
 
 
@@ -146,9 +140,7 @@ The content for this component has been organised into five main themes:     
 
 **Health Promoting School Canteen**
 
-The Health Promoting School Canteen Programme (HPSC) serves to bring Healthy Set Meals to students. This programme follows the existing Healthy Eating in School Programme (HESP) which introduces 10 food service guidelines in the school canteens.
-
-The Healthy Set Meals incorporate the appropriate proportions of food from four main food groups rice and alternatives, meat and alternatives, fruit and vegetables based on Singapore’s Dietary Guidelines for Children and Adolescents ensuring that when students consume meals at the school, they will receive the right nutrients necessary for their growing needs. Each canteen stall serves at least two types of set meals per day and vendors are encouraged to change their menu daily to ensure variety.
+The Health Promoting School Canteen Programme (HPSC) serves to bring Healthy Set Meals to students. This programme follows the existing Healthy Eating in School Programme (HESP) which introduces 10 food service guidelines in the school canteens. The Healthy Set Meals incorporate the appropriate proportions of food from four main food groups rice and alternatives, meat and alternatives, fruit and vegetables based on Singapore’s Dietary Guidelines for Children and Adolescents ensuring that when students consume meals at the school, they will receive the right nutrients necessary for their growing needs. Each canteen stall serves at least two types of set meals per day and vendors are encouraged to change their menu daily to ensure variety.
 
   
 
@@ -166,9 +158,7 @@ The iCARE programme is developed to focus on our students’ overall physical we
 
 **Health Promotion Month**
 
-Health Promotion Month Celebrating Physically Robust Students who Eat Wisely and Exercise Regularly – A Health Promotion Effort in Punggol View
-
-The Physical Education Department carries out an array of learning experiences for a month long annually to help our students acquire knowledge, skills and values to empower them to lead healthy lifestyles and take responsibility for their health. We hope to create a nurturing and learning environment for our students to develop positive attitudes and practise healthy habits.
+Health Promotion Month Celebrating Physically Robust Students who Eat Wisely and Exercise Regularly – A Health Promotion Effort in Punggol View The Physical Education Department carries out an array of learning experiences for a month long annually to help our students acquire knowledge, skills and values to empower them to lead healthy lifestyles and take responsibility for their health. We hope to create a nurturing and learning environment for our students to develop positive attitudes and practise healthy habits.
 
 ![](/images/pe012.png)
 
