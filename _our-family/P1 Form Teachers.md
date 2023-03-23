@@ -57,9 +57,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>1 Opal</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Hafizah%20Binte%20Nordin.jpg" alt="Mdm Hafizah Binte Nordin.JPG" width="194">Ms Hafizah Nordin<br></td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Teo%20Xin%20Ning.jpg" alt="Ms Teo Xin Ning.JPG" width="192">Ms Teo Xin Ning <br></td>
-		<td class="tg-qn16"><strong>Ms Hafizah Nordin</strong><br><a href="mailto:hafizah_nordin@moe.edu.sg">hafizah_nordin@moe.edu.sg</a><br><br><strong>Ms Teo Xin Ning</strong><br><a href="mailto:teo_xin_ning@moe.edu.sg">teo_xin_ning@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Mdm Raihanah Ali.jpeg" alt="Mdm Raihanah Ali.JPEG" width="194">Mdm Raihanah Ali<br></td>
+    <td class="tg-v9jf"><img src="/images/Mrs Magdelene Khairyl-Han.jpeg" alt="Mrs Magdelene Khairyl-Han.JPEG" width="192">Mrs Magdelene Khairyl-Han <br></td>
+		<td class="tg-qn16"><strong>Mdm Raihanah Ali</strong><br><a href="mailto:raihanah_ali@moe.edu.sg">raihanah_ali@moe.edu.sg</a><br><br><strong>Mrs Magdelene Khairyl-Han</strong><br><a href="mailto:han_may_yun_magdelene@moe.edu.sg">han_may_yun_magdelene@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>1 Pearl</strong></td>
