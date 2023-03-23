@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 ![Co-Curricular Activities (CCAs)](/images/cca2020.png)
 
-#### CCA Details
+#### CCA Details (2023)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
 <tbody>
   <tr>
     <td class="tg-ii8k">Sports and Adventure Club<br> <br> <br></td>
-    <td class="tg-ii8k">ISH/IBC/<br>Parade Square/field<br></td>
+    <td class="tg-ii8k">IBC<br>Parade Square<br>School Field</td>
     <td class="tg-ii8k">3.30 – 5.00pm</td>
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k"></td>
@@ -51,7 +51,7 @@ third_nav_title: Co Curricular Activities
   </tr>
   <tr>
     <td class="tg-ii8k">Young Artists' Club</td>
-    <td class="tg-ii8k">Art Rm 1 &amp;2</td>
+    <td class="tg-ii8k">Art Rooms</td>
     <td class="tg-ii8k">3.30 – 5.00pm</td>
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k"></td>
@@ -60,45 +60,38 @@ third_nav_title: Co Curricular Activities
     <td class="tg-ii8k">Speech &amp; Drama Society</td>
     <td class="tg-ii8k">Music Rm 1</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">2.15 – 4.15pm<br></td>
+    <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-ii8k">IT Club</td>
-    <td class="tg-ii8k">Com Labs &amp; Teaching Lab</td>
+    <td class="tg-ii8k">Computer Labs<br>Teaching Lab</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">2.15 – 4.15pm<br></td>
+    <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Contemporary Dance</td>
     <td class="tg-ii8k">Dance/Drama Rm</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">2.15 – 4.15pm<br></td>
+    <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Scouts</td>
-    <td class="tg-ii8k">CCA Rm 1, 2, 3</td>
+    <td class="tg-ii8k">CCA Rooms 1 & 2</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">2.15 – 4.15pm<br></td>
+    <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Floorball</td>
-    <td class="tg-ii8k">Mon – Hall<br>Tue – IBC<br></td>
+		<td class="tg-ii8k">Sch Hall <b>(Mon)</b><br>ISH <b>(Tue)</b></td>
     <td class="tg-ii8k">Recreation &amp; School Team<br>3.30 – 5.30pm (2hrs)</td>
     <td class="tg-ii8k">School Team<br>2.15 – 4.15pm (2hrs)<br></td>
     <td class="tg-ii8k"></td>
   </tr>
-  <tr>
-    <td class="tg-ii8k">Wushu<br> <br></td>
-    <td class="tg-ii8k">Hall</td>
-    <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">Recreation 2.15 – 4.15pm (2hrs)<br>&amp; School Team<br>2.15 – 4.45pm (2.5hrs)<br> </td>
-    <td class="tg-ii8k">School Team<br>3.30 – 5.00pm (1.5hrs)</td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-ii8k">Badminton</td>
     <td class="tg-ii8k">ISH</td>
     <td class="tg-ii8k"></td>
@@ -111,6 +104,13 @@ third_nav_title: Co Curricular Activities
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k">Development Team (Tag Rugby/Jr. Team) &amp; School Team<br>2.15 – 4.45pm<br>(2.5hrs)</td>
     <td class="tg-ii8k">Development Team (Jr. Team) &amp; School Team<br>3.30 – 5.00pm<br>(1.5hrs)</td>
+  </tr>
+	  <tr>
+    <td class="tg-ii8k">Wushu<br> <br></td>
+    <td class="tg-ii8k">Hall</td>
+    <td class="tg-ii8k"></td>
+    <td class="tg-ii8k">Recreation 2.15 – 4.15pm (2hrs)<br>&amp; School Team<br>2.15 – 4.45pm (2.5hrs)<br> </td>
+    <td class="tg-ii8k">School Team<br>3.30 – 5.00pm (1.5hrs)</td>
   </tr>
   <tr>
     <td class="tg-ii8k">The Children's Choir<br> </td>
