@@ -153,7 +153,7 @@ They are as follows:
   <tr>
     <td class="tg-s6wz">1.    Badminton<br>2.    Floorball<br>3.    Rugby<br>4.   Sports and Adventure Club<br>5.    Wushu </td>
     <td class="tg-s6wz"><span style="background-color:initial">1.</span>     <span style="background-color:initial">Contemporary Dance</span><br>2.   Cultural Dance (Malay Dance)<br>3.   The Children’s Choir<br>4.   Young Artists’ Club</td>
-    <td class="tg-s6wz">1.  Scouts<br>2.  Service and Interact Club / Community Service<br>3.  IT Club<br>4.  Speech and Drama<br> </td>
+    <td class="tg-s6wz">1.      IT Club<br>2.     Scouts<br>3.     Service and Interact Club<br>4.  Speech and Drama Society<br> </td>
   </tr>
 </tbody>
 </table>
