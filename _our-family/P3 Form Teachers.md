@@ -24,9 +24,9 @@ description: ""
     <td class="tg-qn16" colspan="3"><strong> 3 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Lowe%20yoke%20leng.jpg" alt="Lowe yoke leng.jpg" width="189">Miss Lowe Yoke Leng<br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Cheryl Lim Lee.jpeg" alt="Ms Cheryl Lim Lee.jpeg" width="189">Ms Cheryl Lim<br></td>
     <td class="tg-v9jf"><img src="/images/Mr%20Brandon%20Chow%20Yuen%20Jeng.jpg" alt="Mr Brandon Chow Yuen Jeng.JPG" width="188" height="283">Mr Brandon Chow</td>
-    <td class="tg-qn16"><strong>Miss Low Yoke Leng</strong><br><a href="mailto:low_yoke_leng@moe.edu.sg">low_yoke_leng@moe.edu.sg</a><br><br><strong>Mr Brandon Chow</strong><br><a href="mailto:chow_yuen_jeng@moe.edu.sg">chow_yuen_jeng@moe.edu.sg</a></td>
+    <td class="tg-qn16"><strong>Ms Cheryl Lim</strong><br><a href="mailto:lim_lee_a@moe.edu.sg">lim_lee_a@moe.edu.sg</a><br><br><strong>Mr Brandon Chow</strong><br><a href="mailto:chow_yuen_jeng@moe.edu.sg">chow_yuen_jeng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 3 Diamond  </strong> </td>
