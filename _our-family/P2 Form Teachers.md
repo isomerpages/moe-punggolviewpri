@@ -48,9 +48,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 2 Jade </strong>  </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Lyly%20Suriani.jpg" alt="Mdm Lyly Suriani.JPG" width="196">Mdm Lyly Suriani<br></td>
-    <td class="tg-v9jf"><img src="images/nabil.jpg" alt="nabil.jpg" width="195">Mr Muhammad Nabil </td>
-    <td class="tg-qn16"><strong>Mdm Lyly Suriani</strong><br><a href="mailto:lyly_suriani_osman@moe.edu.sg">lyly_suriani_osman@moe.edu.sg</a><br><br><strong>Mr Muhammad Nabil</strong><br><a href="mailto:muhammad_nabil_muhammad_ismail@moe.edu.sg">muhammad_nabil_muhammad_ismail@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Mrs Ariff-Siti Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="196">Ms Siti Nurhawa Bte Abdul Shukor (Mrs Ariff)<br></td>
+    <td class="tg-v9jf"><img src="images/Mdm Wang Shuang Ji.jpeg" alt="Mdm Wang Shuangji.jpg" width="195">Mdm Wang Shuangji </td>
+    <td class="tg-qn16"><strong>Ms Siti Nurhawa Bte Abdul Shukor (Mrs Ariff)</strong><br><a href="mailto:siti_nurhawa_abdul_shukor@moe.edu.sg">siti_nurhawa_abdul_shukor@moe.edu.sg</a><br><br><strong>Mdm Wang Shuangji</strong><br><a href="mailto:wang_shuangji@moe.edu.sg">wang_shuangji@moe.edu.sg</a> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  <strong> 2 Opal </strong> </td>
