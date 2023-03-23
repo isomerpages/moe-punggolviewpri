@@ -46,11 +46,6 @@ description: ""
     <td class="tg-qn16"><strong>Mdm Nur Amlia Jumali</strong><br><a href="mailto:nur_amlia_jumali@moe.edu.sg">nur_amlia_jumali@moe.edu.sg</a> <br><br><strong>Mdm Devi Ganesan</strong><br><a href="mailto:devi_ganesan@moe.edu.sg">devi_ganesan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/koh%20wee%20kiat%20nicholas.jpg" alt="koh wee kiat nicholas.jpg" width="194">Mr Koh Wee Kiat<br></td>
-    <td class="tg-fma3"> </td>
-    <td class="tg-fma3"> </td>
-  </tr>
-  <tr>
     <td class="tg-qn16" colspan="3"><strong> 1 Jade</strong></td>
   </tr>
   <tr>
