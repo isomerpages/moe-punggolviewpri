@@ -24,9 +24,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 4 Amethyst</strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/harikrishnan.jpg" alt="harikrishnan.jpg" width="199" height="298">Mr Harikrishnan s/o Jayapalan</td>
-    <td class="tg-v9jf"><img src="/images/Ms%20Cheryl%20Lim%20Leee.jpg" alt="Ms Cheryl Lim Lee.JPG" width="201" height="300">Ms Cheryl Lim<br><br></td>
-    <td class="tg-qn16"><strong>Mr Harikrishnan s/o Jayapalan</strong><br><a href="mailto:hiharikrishnan_jayapalan@moe.edu.sg">harikrishnan_jayapalan@moe.edu.sg</a><br><br><strong>Ms Cheryl Lim</strong><br><a href="mailto:lim_lee_@moe.edu.sg">lim_lee_@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Lowe yoke leng.jpg" alt="Lowe yoke leng.jpg" width="199" height="298">Mrs Lee-Low Yoke Leng</td>
+    <td class="tg-v9jf"><img src="/images/Athena.jpg" alt="Athena.JPG" width="201" height="300">Mdm Tan Li Ying (Athena)<br><br></td>
+    <td class="tg-qn16"><strong>Mrs Lee-Low Yoke Leng</strong><br><a href="mailto:low_yoke_leng@moe.edu.sg">low_yoke_leng@moe.edu.sg</a><br><br><strong>Mdm Tan Li Ying</strong><br></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong> 4 Diamond   </strong></td>
