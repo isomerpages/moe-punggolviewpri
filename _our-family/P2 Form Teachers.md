@@ -72,9 +72,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>  2 Ruby </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Shannon%20Pang.jpg" alt="Mdm Shannon Pang.JPG" width="196">Mdm Shannon Pang </td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Nur%20Amlia%20Jumali.jpg" alt="Mdm Nur Amlia Jumali.JPG" width="195">Mdm Nur Amlia Jumali </td>
-    <td class="tg-qn16"><strong>Mdm Shannon Pang</strong><br><a href="mailto:pang_teng_yen@moe.edu.sg">pang_teng_yen@moe.edu.sg</a><br><br><strong>Mdm Nur Amlia Jumali</strong><br><a href="mailto:nur_amalia_jumali@moe.edu.sg">nur_amalia_jumali@moe.edu.sg</a> </td>
+    <td class="tg-v9jf"><img src="/images/Mdm Noor Adzilah Binte Tahir.jpeg" alt="Mdm Noor Adzilah Binte Tahir.JPEG" width="196">Mdm Noor Adzilah Binte Tahir </td>
+    <td class="tg-v9jf"><img src="/images/Mdm Janice Ong.jpg" alt="Mdm Janice Ong.JPG" width="195">Mdm Janice Ong</td>
+    <td class="tg-qn16"><strong>Mdm Noor Adzilah Binte Tahir</strong><br><a href="mailto:noor_adzilah_tahir@moe.edu.sg">noor_adzilah_tahir@moe.edu.sg</a><br><br><strong>Mdm Janice Ong</strong><br> </td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3">  <strong> 2 Sapphire </strong> </td>
