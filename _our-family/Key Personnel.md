@@ -25,9 +25,10 @@ description: ""
 
 <img src="/images/kp7.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/kp8.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp9.jpeg" style="width:30%;margin-right:15px;" align = "left">
 <br clear="left">
 
 |   |   |   |
 |:-:|---|---|
-| **HOD SCIENCE  <br>Ms Sylvia Wang**<br>[wang\_yong\_ling\_sylvia@moe.edu.sg](mailto:wang_yong_ling_sylvia@moe.edu.s)  | **HOD EL  <br>Ms Balbir Kaur** <br> [kaur\_balbir\_g\_singh@moe.edu.sg](mailto:kaur_balbir_g_singh@moe.edu.sg) |   |
+| **HOD SCIENCE  <br>Ms Sylvia Wang**<br>[wang\_yong\_ling\_sylvia@moe.edu.sg](mailto:wang_yong_ling_sylvia@moe.edu.s)  | **HOD EL  <br>Ms Balbir Kaur** <br> [kaur\_balbir\_g\_singh@moe.edu.sg](mailto:kaur_balbir_g_singh@moe.edu.sg) | **LH CL  <br>Mrs Eng-Teng Yi Wen, Yvonne**  <br>[teng_yi_wen@moe.edu.sg](mailto:teng_yi_wen@moe.edu.sg)  |
 |   |   |   |
