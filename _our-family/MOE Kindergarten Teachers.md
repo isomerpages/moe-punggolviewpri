@@ -25,12 +25,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Michelle%20Joesoosay%20Thomas.jpg" alt="Ms Michelle Joesoosay Thomas.JPG" width="178" height="266"><span style="background-color:initial"><strong>Miss Michelle Joesoosay </strong></span><strong>Thomas</strong><br></td>
-    <td class="tg-v9jf"><img src="/images/nasreen.jpg" alt="nasreen.jpg" width="181" height="268"><strong>Ms Nasreen Bte Naser</strong><br><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Michelle Joesoosay Thomas Centre Head.jpg" alt="Ms Michelle Joesoosay Thomas Centre Head.JPG" width="178" height="266"><span style="background-color:initial"><strong>Ms Michelle Joesoosay Thomas </strong></span><strong>Thomas</strong><br></td>
+    <td class="tg-v9jf"><img src="/images/Ms Shalini Nair Prabhakaran Deputy Centre Head.jpg" alt="Ms Shalini Nair Prabhakaran Deputy Centre Head.jpg" width="181" height=""><strong>Ms Shalini Nair Prabhakaran</strong><br><br></td>
     <td class="tg-fma3"></td>
   </tr>
   <tr>
-    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">ENGLISH LANGUAGE</span></td>
+    <td class="tg-qn16" colspan="3"><span style="font-weight:700;color:#050505">ENGLISH LANGUAGE TEACHERS</span></td>
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Ms%20Alyssa%20Amritha%20Loganathan.jpg" alt="Ms Alyssa Amritha Loganathan.JPG" width="165" height="247"><span style="background-color:transparent"><strong>Ms Alyssa Amritha Loganathan</strong></span><br></td>
