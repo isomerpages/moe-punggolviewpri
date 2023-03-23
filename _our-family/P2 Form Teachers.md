@@ -49,7 +49,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-v9jf"><img src="/images/Mrs Ariff-Siti Nurhawa.jpg" alt="Mrs Ariff-Siti Nurhawa.JPG" width="196">Ms Siti Nurhawa Bte Abdul Shukor (Mrs Ariff)<br></td>
-    <td class="tg-v9jf"><img src="images/Mdm Wang Shuang Ji.jpeg" alt="Mdm Wang Shuangji.jpg" width="195">Mdm Wang Shuangji </td>
+    <td class="tg-v9jf"><img src="images/Mdm Wang Shuang Ji.jpeg" alt="Mdm Wang Shuangji.jpeg" width="195">Mdm Wang Shuangji </td>
     <td class="tg-qn16"><strong>Ms Siti Nurhawa Bte Abdul Shukor (Mrs Ariff)</strong><br><a href="mailto:siti_nurhawa_abdul_shukor@moe.edu.sg">siti_nurhawa_abdul_shukor@moe.edu.sg</a><br><br><strong>Mdm Wang Shuangji</strong><br><a href="mailto:wang_shuangji@moe.edu.sg">wang_shuangji@moe.edu.sg</a> </td>
   </tr>
   <tr>
