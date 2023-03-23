@@ -69,3 +69,13 @@ description: ""
 |:-:|---|
 | **Ms Siti Zulaiha** <br>AED <br>(Learning & Behavioral Support)  | **Mdm Ridiana Binte Suparman**<br>AED <br>(Learning & Behavioral Support)  |
 |   |   |
+
+<img src="/images/ea19.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ea20.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ea21.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+|   |   |   |
+|:-:|---|---|
+| **Mr Iskandar**  <br>ICT Associate  | **Mr Muru**  <br>Desktop Engineer  | **Mr Tay Yu Han**  <br>Desktop Engineer  |
+|   |   |   |
