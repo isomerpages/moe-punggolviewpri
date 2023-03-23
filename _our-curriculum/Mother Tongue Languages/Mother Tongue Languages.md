@@ -53,8 +53,7 @@ Chinese Language Unit started CL Touch-Typing Program in 2018 to develop student
 
 **Chinese resources**  
 
-**1.**   **易** **•** **知识** **（** **ezhishi** **）**[https://www.ezhishi.net](https://www.ezhishi.net/Contents/)
-
+**1.**   **易** **•** **知识** **（** **ezhishi** **）**[https://www.ezhishi.net](https://www.ezhishi.net/Contents/)<br>
 \*老师已在第一学段把**学生账号****与****密码**交给学生\*
 
 #### 2019 Malay Language Unit Workshop for Parents 'Waris Baca Cerita'
