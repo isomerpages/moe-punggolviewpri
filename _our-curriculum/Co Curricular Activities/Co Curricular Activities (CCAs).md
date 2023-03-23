@@ -174,4 +174,4 @@ Students are required to fill up the CCA Transfer Form and submit to LH CCA, Mr 
 The CCA transfer is only successful if there is vacancy in the selected CCA.
 
 #### Attendance
-To ensure depth in knowledge and skills in the CCA, all students enrolled in CCA are expected to achieve 80% attendance in the year of participation. Students who do not meet the minimum attendance will not be considered to have completed the CCA, and may not be fielded for competitions or performances. If a student misses a session, he must produce a medical certificate or a valid supporting document to explain his absence.
+To ensure depth in knowledge and skills in the CCA, all students enrolled in CCA are expected to achieve 80% attendance in the year of participation. Students who do not meet the minimum attendance will not be considered to have completed the CCA, and may not be fielded for competitions or performances. If a student misses a session, he/she must produce a medical certificate or a valid supporting document to explain his/her absence.
