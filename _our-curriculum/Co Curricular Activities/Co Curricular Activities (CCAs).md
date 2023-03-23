@@ -100,17 +100,17 @@ third_nav_title: Co Curricular Activities
   </tr>
   <tr>
     <td class="tg-ii8k">Rugby</td>
-    <td class="tg-ii8k">Field</td>
+    <td class="tg-ii8k">School Field</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">Development Team (Tag Rugby/Jr. Team) &amp; School Team<br>2.15 – 4.45pm<br>(2.5hrs)</td>
-    <td class="tg-ii8k">Development Team (Jr. Team) &amp; School Team<br>3.30 – 5.00pm<br>(1.5hrs)</td>
+		<td class="tg-ii8k"><b>Development Team & School Team</b><br>2.00pm – 4.30pm</td>
+		<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.00pm</td>
   </tr>
 	  <tr>
     <td class="tg-ii8k">Wushu<br> <br></td>
-    <td class="tg-ii8k">Hall</td>
+    <td class="tg-ii8k">School Hall</td>
     <td class="tg-ii8k"></td>
-    <td class="tg-ii8k">Recreation 2.15 – 4.15pm (2hrs)<br>&amp; School Team<br>2.15 – 4.45pm (2.5hrs)<br> </td>
-    <td class="tg-ii8k">School Team<br>3.30 – 5.00pm (1.5hrs)</td>
+			<td class="tg-ii8k"><b>Recreational Team</b><br>2.00pm – 4.00pm<br><b>School Team</b><br>2.00pm – 4.30pm </td>
+			<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.00pm</td>
   </tr>
   <tr>
     <td class="tg-ii8k">The Children's Choir<br> </td>
