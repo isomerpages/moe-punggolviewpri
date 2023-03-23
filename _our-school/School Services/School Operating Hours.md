@@ -86,4 +86,4 @@ _Selected Co-Curricular Activities (CCAs), Learning Support Programme for Englis
 7.00am to 5.30pm  
   
 **School Holidays** <br>
-8.00am to 5.30pm
+8.00am to 5.00pm
