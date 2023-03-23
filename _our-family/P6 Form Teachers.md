@@ -49,17 +49,17 @@ description: ""
     <td class="tg-fma3" colspan="3"> <strong> 6 Jade </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Tan%20Siew%20Hwa%20Irene.jpg" alt="Mdm Tan Siew Hwa Irene.JPG" width="193" height="288">Mrs Tang-Tan Siew Hwa Irene</td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Jeslyn%20Kang.jpg" alt="Mdm Jeslyn Kang.jpg" width="193" height="288">Mdm Jeslyn Kang <br><br></td>
-    <td class="tg-qn16"><strong>Mrs Tang-Tan Siew Hwa Irene</strong><br><a href="mailto:tan_siew_hwa_a@moe.edu.sg">tan_siew_hwa_a@moe.edu.sg</a><br><br><strong>Mdm Jeslyn Kang</strong><br><a href="mailto:kang_siew_ngoh@moe.edu.sg">kang_siew_ngoh@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Mr Ariffin.jpeg" alt="Mr Ariffin.JPEG" width="193" height="288">Mr Ariffin Abdul Latif</td>
+    <td class="tg-v9jf"><img src="/images/Miss Nur Mawarni Binte Nin Sahmad.jpeg" alt="Miss Nur Mawarni Binte Nin Sahmad.jpeg" width="193" height="288">Miss Nur Mawarni Binte Nin Sahmad<br><br></td>
+    <td class="tg-qn16"><strong>Mr Ariffin Abdul Latif</strong><br><a href="mailto:ariffin_ab_latif@moe.edu.sg">ariffin_ab_latif@moe.edu.sg</a><br><br><strong>Ms Nur Mawarni</strong><br><a href="mailto:nur_mawarni_nin_sahmad@moe.edu.sg">nur_mawarni_nin_sahmad@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-fma3" colspan="3"><strong>  6 Opal </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Lisa%20Choo.jpg" alt="Mrs Lisa Choo.JPG" width="194">Mdm Lisa Tan<br><br></td>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Sophie%20Chenn.jpg" alt="Mrs Sophie Chen.JPG" width="194">Mrs Sophie Chen-Ms Wang Peipei </td>
-    <td class="tg-qn16"><strong>Mdm Lisa Tan</strong><br><a href="mailto:choo_lisa@moe.edu.sg">choo_lisa@moe.edu.sg</a><br><br><strong>Mrs Sophie Chen-Ms Wang Peipei</strong><br><a href="mailto:wang_peipei_sophie@moe.edu.sg">wang_peipei_sophie@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Hadijah Abdul Rahman.jpeg" alt="Ms Hadijah Abdul Rahman.JPEG" width="194">Ms Hadijah Abdul Rahman<br><br></td>
+    <td class="tg-v9jf"><img src="/images/Mr Azarizal Mohamed.jpeg" alt="Mr Azarizal Mohamed.JPEG" width="194">Mr Azarizal Mohamed</td>
+    <td class="tg-qn16"><strong>Ms Hadijah Abdul Rahman</strong><br><a href="mailto:hadijah_abdul_rahman@moe.edu.sg">hadijah_abdul_rahman@moe.edu.sg</a><br><br><strong>Mr Azarizal Mohamed</strong><br><a href="mailto:nor_azarizal_mohamed@moe.edu.sg">nor_azarizal_mohamed@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-fma3" colspan="3"> <strong>  6 Pearl </strong></td>
