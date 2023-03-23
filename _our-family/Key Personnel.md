@@ -62,3 +62,8 @@ description: ""
 |:-:|---|---|
 | **SH ICT (Internal)  <br>Mdm Shannon Pang**  <br>[pang_teng_yen@moe.edu.sg](mailto:pang_teng_yen@moe.edu.sg)  | **AYH  <br>Mdm Han Huaxiu**  <br>[han_huaxiu@moe.edu.sg](mailto:han_huaxiu@moe.edu.sg)  | **AYH  <br>Miss Cheng Chin Ying, Jamie**  <br>[cheng_chin_ying@moe.edu.sg](mailto:cheng_chin_ying@moe.edu.sg)  |
 |   |   |   |
+
+<img src="/images/kp19.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp20.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/kp21.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
