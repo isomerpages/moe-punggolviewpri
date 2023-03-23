@@ -32,9 +32,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong> 4 Diamond   </strong></td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Yeong%20Pui%20San.jpg" alt="Ms Yeong Pui San.JPG" width="199">Ms Yeong Pui San </td>
-    <td class="tg-v9jf"><img src="/images/Mdm%20Clara%20Tan.jpg" alt="Mdm Clara Tan.JPG" width="201">Mdm Clara Tan </td>
-    <td class="tg-qn16"><strong>Ms Yeong Pui San</strong><br><a href="mailto:yeong_pui_san@moe.edu.sg">yeong_pui_san@moe.edu.sg</a><br><br><strong>Mdm Clara Tan</strong><br><a href="mailto:tan_wan_ting_clara@moe.edu.sg">tan_wan_ting_clara@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/Ms Priya do Seridaran.jpeg" alt="Ms Priya do Seridaran.JPEG" width="199">Ms Priya D/O Seridaran</td>
+    <td class="tg-v9jf"><img src="/images/Mdm Goh Poh Khim.jpeg" alt="Mdm Goh Poh Khim.JPEG" width="201">Ms Goh Poh Khim</td>
+    <td class="tg-qn16"><strong>Ms Priya D/O Seridaran</strong><br><a href="mailto:priya_seridaran@moe.edu.sg">priya_seridaran@moe.edu.sg</a><br><br><strong>Ms Goh Poh Khim</strong><br><a href="mailto:goh_poh_khim@moe.edu.sg">goh_poh_khim@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  4 Emerald </strong> </td>
