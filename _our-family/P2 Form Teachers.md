@@ -64,9 +64,9 @@ description: ""
     <td class="tg-qn16" colspan="3"> <strong>  2 Pearl </strong> </td>
   </tr>
   <tr>
-    <td class="tg-v9jf"><img src="/images/Ms%20Liow%20Chai%20Hong%20Corinna%20.jpg" alt="Ms Liow Chai Hong Corinna .JPG" width="196">Mrs Tee - Ms Corinna Liow Chai Hong</td>
-    <td class="tg-v9jf"><img src="/images/Mrs%20Magdelene%20Khairyl-Han.jpg" alt="Mrs Magdelene Khairyl-Han.JPG" width="195">Ms Magdelene Khairyl-Han</td>
-    <td class="tg-qn16"><strong>Mrs Tee - Ms Corrina Liow Chai Hong</strong><br><a href="mailto:liow_chai_hong_corinna@moe.edu.sg">liow_chai_hong_corinna@moe.edu.sg</a> <br><br><strong>Ms Magdelene Khairyl-Han</strong><br><a href="mailto:han_may_yun_magdelene@moe.edu.sg">han_may_yun_magdelene@moe.edu.sg</a></td>
+    <td class="tg-v9jf"><img src="/images/farizan.jpg" alt="farizan.JPG" width="196">Miss Nurfarizan Binte Abdul Wahab</td>
+    <td class="tg-v9jf"><img src="/images/Mrs Vijayalakshmi Vijayan.jpg" alt="Mrs Vijayalakshmi Vijayan.JPG" width="195">Mrs Vijayalakshmi Vijayan</td>
+    <td class="tg-qn16"><strong>Miss Nurfarizan Binte Abdul Wahab</strong><br><a href="mailto:nurfarizan_abdul_wahab@moe.edu.sg">nurfarizan_abdul_wahab@moe.edu.sg</a> <br><br><strong>Mrs Vijayalakshmi Vijayan</strong><br><a href="mailto:vijayalakshmi_vijayan@moe.edu.sg">vijayalakshmi_vijayan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qn16" colspan="3"> <strong>  2 Ruby </strong> </td>
