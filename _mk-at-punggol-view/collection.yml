@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - CHINESE NEW YEAR 2023.md
       - 2023 MK OPEN HOUSE.md
       - KINDERGARTEN NEWS.md
       - MK TOTAL CURRICULUM.md
