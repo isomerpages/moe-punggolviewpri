@@ -16,3 +16,6 @@ description: ""
 |   |   |
 
 Click [here](https://go.gov.sg/mkopenhouse2023pmk) to register for the 2023 MK Open House!
+
+<img src="/images/MK open house 2023.png" style="width:85%">
+<img src="/images/2023 MK OH Flyer_Page 2.jpg" style="width:85%">
