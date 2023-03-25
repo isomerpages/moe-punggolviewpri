@@ -3,11 +3,6 @@ title: KINDERGARTEN NEWS
 permalink: /mk-at-punggol-view/kindergarten-news/
 description: ""
 ---
-#### Registration Exercise 2022 CLOSED
-
-Our Registration Exercise for 2022 is currently closed. You may place your child on the waiting list by submitting the Waitlist Application Form [here.](https://form.gov.sg/#!/61e784806c89fd0012a6e47b)  
-  
-
 #### 360 Tour Videos
 
 Here are a couple of 360 tour videos of our school and the KCare.
