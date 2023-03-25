@@ -20,7 +20,7 @@ The school will contact you once a vacancy is available for your child.
 |   |   |
 |:-:|---|
 | <br><br><br>**Application for GIRO**  | To apply for GIRO, please submit the original completed form to the General Office.<br><br> [GIRO Application Form for MK Fee Payment](/files/GIRO%20for%20payment%20of%20MK%20fee%20non-DBSPOSBacct.pdf) <br><br> For DBS/POSB accounts, you may apply online via iBanking by following the guide: <br><br> [Steps to apply GIRO online for DBS and POSB accounts.pdf](/files/Steps%20to%20apply%20GIRO%20online%20for%20DBS%20and%20POSB%20accounts.pdf) |
-| **Application for Kindergarten Financial Assistance Scheme (KIFAS)**<br><br>KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000.  |   |
+| **Application for Kindergarten Financial Assistance Scheme (KIFAS)**<br><br>KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000.  | To apply for KIFAS, please submit the completed KF1 form via [email](mailto:mk_punggolview@moe.edu.sg) or at the General Office.<br><br>[KF1 - Enrolment and KiFAS Application](/files/KF1%20-%20Enrolment%20and%20KiFAS%20Application.pdf) <br><br> [KF - KiFAS Explanatory Notes](/files/KF%20-%20KiFAS%20Explanatory%20Notes.pdf)<br><br> For more information on KiFAS, you may<br>visit [https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx%C2%A0) |
 |   |   |
 |   |   |
 |   |   |
