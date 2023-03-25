@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - Social Media (MOE).md
       - Media (Gallery).md
       - 1st day of school 2023.md
       - 2023 Curriculum Briefing/.keep
@@ -10,6 +9,7 @@ collections:
       - 2023 Curriculum Briefing/ML.md
       - 2023 Curriculum Briefing/TL.md
       - SP CCA.md
+      - Social Media (MOE).md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Letters.md
