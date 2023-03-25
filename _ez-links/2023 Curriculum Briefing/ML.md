@@ -13,7 +13,7 @@ third_nav_title: 2023 Curriculum Briefing
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.dlepvymbvefa4.amplifyapp.com/files/2023-ml-p1.pdf">
 <img style="width:40%" align=left src="/images/ml3.png">
 </a></p>
 
@@ -22,4 +22,3 @@ third_nav_title: 2023 Curriculum Briefing
 </a></p>
 <br clear=left>
 
-[3](/files/2023-ml-p1.pdf)
