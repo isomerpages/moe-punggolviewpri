@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - 2023 Curriculum Briefing/.keep
       - Media (Gallery).md
       - 1st day of school 2023.md
       - For Parents/.keep
