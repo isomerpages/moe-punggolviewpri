@@ -22,4 +22,3 @@ third_nav_title: 2023 Curriculum Briefing
 </a></p>
 <br clear=left>
 
-[3](/files/2023-tl-p1.pdf)
