@@ -15,5 +15,5 @@ description: ""
   
 Or scan the QR code below!
 
-<img src="/images/qr%20code%20psg.png"  
+<img src="/images/qr%20code%20psg.png" align=left 
 style="width:30%">
