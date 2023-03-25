@@ -144,3 +144,19 @@ Do you know how to guide your child and cultivating good habits in using ICT?
 Here are some technology tips that you can adopt to ensure good ICT practices from your child.
 
 [Tips for Parents.pdf](/files/Children%20%20Technology%20Tips%20for%20Parents%20(003).pdf)
+
+#### Parents Gateway
+
+Dear parents,   
+  
+Below is an infographic and video explaining what the Parents Gateway is.
+
+[For a more detailed FAQ, please click here. ](/files/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)
+
+**REQUIRE JACKSON INPUT VIDEO**
+
+<img src="/images/pgateway.jpg" style="width:85%">
+
+#### Snacks For Break Time
+
+<img src="/images/Snacks for Break Time_HPB.jpg" style="width:85%">
