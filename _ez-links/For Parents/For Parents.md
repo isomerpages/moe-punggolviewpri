@@ -46,3 +46,32 @@ to view and purchase the photographs.<br>
 
 No ‘’walk in’’ purchase will be entertained.
 
+#### Raising a confident child
+
+It is so heartening that you would like to start off the New Year by supporting the new parents to nurture their children with motivation and love. 
+
+Chapter Zero shared the topic "Raising a Confident Child" during the webinar. They shared about the circle of security (using attachment) as a basis for parents to form a secure haven and base for their child, so that their child will also have the security and confidence to explore the world on their own and gradually grow in confidence and resilience.
+
+Click on the link below to read more.
+
+[Raising a Confident Child - Punggol View 002.pdf](/files/Raising%20a%20Confident%20Child%20-%20Punggol%20View%20002.pdf)
+
+#### Why vaccinate your child?
+
+[Stuudent Vaccination.pdf](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
+
+#### \[Parent Kit\] Transitioning Back to School - It's a New Normal for us all
+
+Dear parents,  
+
+With the end of the Circuit Breaker on 1 Jun 2020, we enter the phase of safe opening. 2 Jun 2020 marks the beginning of a brand new school term. This new term with new arrangements and routines will be a new normal for all of us. 
+
+We hope that this issue of Parent Kit will help you to understand Back to School arrangements better and how you can guide your children to adjust back to school.
+
+We also ask for your support to keep our school and children safe, as you have done before the start of Full HBL. Pages 7 to 10 of the Parent Kit provides information on how you can do so.
+
+In Punggol View Primary School, we are working behind the scenes to prepare our school to ensure the safety our students so that learning can continue when school re-opens. We look forward to welcoming our students back in school!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaYA7TAnaMw" title="Back To School: Keeping Students Safe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Back to School.pdf](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School.pdf)
