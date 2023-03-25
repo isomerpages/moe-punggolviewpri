@@ -3,6 +3,11 @@ title: Forms & Useful Links
 permalink: /ez-links/forms-n-useful-links/
 description: ""
 ---
+#### MOE FAS ONLINE APPLICATION (2023) 
+
+Click below to register online<br>
+[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
 #### Punggol View Pri Sch Waitlist Application Form
 
 If you wish to enrol/transfer your child to Punggol View Primary School, please submit the Waitlist Application Form by scanning or clicking the QR code below. Vacancies are subjected to availability. The school will contact you once a vacancy is available.  
