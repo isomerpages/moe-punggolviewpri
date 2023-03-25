@@ -3,20 +3,22 @@ title: Student ICON
 permalink: /ez-links/student-icon/
 description: ""
 ---
+#### MIMS Account
+
+Here is a diagram to better explain how the MIMS account works for our students.
+
+<img src="/images/Slide1.jpeg" style="width:85%">
+
 #### Password reset
 
-Student ICON is primarily used to log on to the computers in school. Please approach your form teacher if you need your account to be unlocked.  
+Student ICON is primarily used to log on to the computers in school and to the Student ICON portal (Google Classroom) 
   
-Password reset can only be requested by form teachers or parents.   
-  
-Any requests by students themselves is not allowed.   
-  
-**Parents** can e-mail Mr Iskandar (ICT Associate) at   
-[iskandar_abdul_hamid@moe.edu.sg](mailto:iskandar_abdul_hamid@moe.edu.sg)
-  
-Provide student's full name and class when requesting password reset.   
-  
-Requests will be fulfilled within 1-3 working days.   
+[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+
+Parents can fill up the form below, to reset their children's password for Student ICON / MIMS.  
+[Password Reset Form](https://forms.gle/DWHm56pm7nCMQtgQ7)
+
+Requests will be fulfilled within 3-5 working days.
   
 #### Password Requirements
 
