@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - Links.md
       - Media (Gallery).md
       - 1st day of school 2023.md
       - 2023 Curriculum Briefing/.keep
@@ -30,3 +29,4 @@ collections:
       - Staff Achievements.md
       - Forms & Useful Links.md
       - Alumni.md
+      - Links.md
