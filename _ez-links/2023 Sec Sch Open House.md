@@ -7,3 +7,6 @@ description: ""
 * [Open House Invitation](/files/acs(i)%202023%20open%20house%20invitation.pdf)
 * [Invitation to ACS Open House 2023](/files/anglo-chinese%20school%20(independent)%20-%20invitation%20to%20acs%20open%20house%202023.pdf)
 
+**METHODHIST GIRLS' SCHOOL**
+* [Invitation to MGS Open House 2023](/files/mgs%20-%20invitation%20to%20mgs%20open%20house%202023.pdf)
+
