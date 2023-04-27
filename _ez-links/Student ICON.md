@@ -22,7 +22,7 @@ Requests will be fulfilled within 3-5 working days.
   
 #### Password Requirements
 
-![Password Requirements](/images/pp2023.jpg)
+![Password Requirements](/images/pp2023.PNG)
 
 #### How do I log in to Student Icon?
 
