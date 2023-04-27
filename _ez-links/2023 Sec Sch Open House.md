@@ -14,3 +14,7 @@ description: ""
 * [Invitation to RI Open House 2023](/files/raffles%20instituation-%20invitation%20to%20ri%20open%20house%202023.pdf)
 * [Open House Letter to P6 Parents](/files/ri200%20open%20house%20letter%20to%20p6%20parents.pdf)
 * [Programme Sheet](/files/rioh23%20programme%20sheet.pdf)
+
+**YUSOF ISHAK SECONDARY SCHOOL**
+* [Yusof Ishak Sec Sch Open House 2023](/files/e-invite%20to%20yusof%20ishak%20secondary%20school's%20dsa%20open%20house.pdf)
+* [Yusof Ishak DSA Open House 2023]()
