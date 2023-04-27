@@ -7,7 +7,7 @@ description: ""
 
 Here is a diagram to better explain how the MIMS account works for our students.
 
-<img src="/images/Slide1.jpeg" style="width:85%">
+<img src="/images/mims2023.jpg" style="width:85%">
 
 #### Password reset
 
@@ -22,7 +22,7 @@ Requests will be fulfilled within 3-5 working days.
   
 #### Password Requirements
 
-![Password Requirements](/images/Student%20iCON%20-%20Password%20Requirements.jpg)
+![Password Requirements](/images/pp2023.jpg)
 
 #### How do I log in to Student Icon?
 
