@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Student ICON.md
       - 2023 Sec Sch Open House.md
       - Media (Gallery).md
       - 1st day of school 2023.md
@@ -13,7 +14,6 @@ collections:
       - Social Media (MOE).md
       - E Learning.md
       - SLS.md
-      - Student ICON.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Letters.md
