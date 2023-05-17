@@ -17,4 +17,9 @@ description: ""
 
 **YUSOF ISHAK SECONDARY SCHOOL**
 * [Yusof Ishak Sec Sch Open House 2023](/files/e-invite%20to%20yusof%20ishak%20secondary%20school's%20dsa%20open%20house.pdf)
-* [Yusof Ishak DSA Open House 2023]()
+* [Yusof Ishak DSA Open House 2023]([](/files/yiss%20dsa%20oh%202023.jpg))
+
+**MERIDIAN SECONDARY SCHOOL**
+* [Invitation to Open House 2023](/files/invitation%20to%20meridian%20secondary%20school%20open%20house%202023.pdf)
+* [Infosheet for Parents Classroom Connections]([](/files/infosheet%20for%20parents_classroom%20connections.pdf))
+
