@@ -23,3 +23,6 @@ description: ""
 * [Invitation to Open House 2023](/files/invitation%20to%20meridian%20secondary%20school%20open%20house%202023.pdf)
 * [Infosheet for Parents Classroom Connections]([](/files/infosheet%20for%20parents_classroom%20connections.pdf))
 
+**MARIE STELLA HIGH SCHOOL**
+* [DSA Sharing Session ](/files/maris%20stella%20high%20school%20dsa%20sharing%20session%20-%2019%20may%20(friday).pdf)
+
