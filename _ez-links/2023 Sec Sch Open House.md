@@ -24,5 +24,7 @@ description: ""
 * [Infosheet for Parents Classroom Connections]([](/files/infosheet%20for%20parents_classroom%20connections.pdf))
 
 **MARIE STELLA HIGH SCHOOL**
-* [DSA Sharing Session ](/files/maris%20stella%20high%20school%20dsa%20sharing%20session%20-%2019%20may%20(friday).pdf)
+* [DSA Sharing Session  (20th May 2023)](/files/maris%20stella%20high%20school%20dsa%20sharing%20session%20-%2019%20may%20(friday).pdf)
 
+**VICTORIA SCHOOL**
+* [Open House 2023 (20th May 2023)]()
