@@ -17,4 +17,14 @@ description: ""
 
 **YUSOF ISHAK SECONDARY SCHOOL**
 * [Yusof Ishak Sec Sch Open House 2023](/files/e-invite%20to%20yusof%20ishak%20secondary%20school's%20dsa%20open%20house.pdf)
-* [Yusof Ishak DSA Open House 2023]()
+* [Yusof Ishak DSA Open House 2023]([](/files/yiss%20dsa%20oh%202023.jpg))
+
+**MERIDIAN SECONDARY SCHOOL**
+* [Invitation to Open House 2023](/files/invitation%20to%20meridian%20secondary%20school%20open%20house%202023.pdf)
+* [Infosheet for Parents Classroom Connections]([](/files/infosheet%20for%20parents_classroom%20connections.pdf))
+
+**MARIE STELLA HIGH SCHOOL**
+* [DSA Sharing Session  (20th May 2023)](/files/maris%20stella%20high%20school%20dsa%20sharing%20session%20-%2019%20may%20(friday).pdf)
+
+**VICTORIA SCHOOL**
+* [Open House 2023 (20th May 2023)]()
