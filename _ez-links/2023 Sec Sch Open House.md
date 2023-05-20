@@ -28,3 +28,8 @@ description: ""
 
 **VICTORIA SCHOOL**
 * [Open House 2023 (20th May 2023)]()
+
+**HWA CHONG INSTITUTION**
+* [E-Brochure 2023](/files/hci%20open%20house%202023_e-brochure.pdf)
+* [Letter from Principal](/files/hci%20open%20house%202023_letter%20from%20principal.pdf)
+* [Open House Invitation 2023](/files/invitation%20to%20hwa%20chong%20institution_s%20open%20house%20on%2020%20may%202023.pdf)
