@@ -43,7 +43,7 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/Mrs Tan-Li Shi Hua.jpeg" alt="Mrs Tan-Li Shi Hua.jpeg" width="194" height="290">Mdm Li Shihua<br></td>
     <td class="tg-v9jf"><img src="/images/Ms Balbir Kaur.jpg" alt="Ms Balbir Kaur.jpg" width="194" height="291">Ms Balbir Kaur</td>
-    <td class="tg-qn16"><strong>Mdm Li Shihua</strong><br><a href="mailto:i_shihua@moe.edu.sg">i_shihua@moe.edu.sg</a><br><br><strong>MS Balbir Kaur</strong><br><a href="mailto:kaur_balbir_g_singh@moe.edu.sg">kaur_balbir_g_singh@moe.edu.sg</a></td>
+    <td class="tg-qn16"><strong>Mdm Li Shihua</strong><br><a href="mailto:i_shihua@moe.edu.sg">li_shihua@moe.edu.sg</a><br><br><strong>MS Balbir Kaur</strong><br><a href="mailto:kaur_balbir_g_singh@moe.edu.sg">kaur_balbir_g_singh@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-fma3" colspan="3"> <strong> 6 Jade </strong> </td>
