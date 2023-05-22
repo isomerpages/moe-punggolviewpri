@@ -5,15 +5,16 @@ description: ""
 ---
 #### Password reset
 
-Click [here](https://www.learning.moe.edu.sg/sls/index.html) to access [Singapore Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
+Click&nbsp;[here](https://www.learning.moe.edu.sg/sls/index.html)&nbsp;to access&nbsp;[Singapore Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
 
-For **Login Troubleshooting**, assistance for login and technical issues, please access this [SLS Page](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html).
+For&nbsp;**Login Troubleshooting**, assistance for login and technical issues, please access this&nbsp;[SLS Page](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html).
 
 <img src="/images/sls1.jpg" style="width:85%">
 
-#### Updated Login to SLS with effect 1 December 2022 
+#### SLS R19 System Upgrade 2023&nbsp;
 
-<img src="/images/sls2.jpg" style="width:85%">
+The Singapore Student Learning Space (SLS) will be temporarily unavailable during a system upgrade from Tue 6 Jun until the evening of Wed 7 Jun 2023. 
+Thank you for your understanding as we enhance the system.
 
 #### R17 SLS
 
