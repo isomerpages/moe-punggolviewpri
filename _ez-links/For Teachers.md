@@ -9,7 +9,7 @@ description: ""
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 *   [SLS](https://vle.learning.moe.edu.sg/login)
 *   [iCON 2.0](https://icon.moe.edu.sg/)
-*   [School Cockpit](https://access.moe.edu.sg/login/login.jsp)
+*   [School Cockpit](https://schoolcockpit.moe.gov.sg)
 *   [PaC@Gov (Pay and Claims @ Government)](https://pacgov.agd.gov.sg/)
 *   [Fault Reporting Form (ICT/AV 2022)](https://forms.gle/V63XMwcKmzvF3T4u9)
 *   [Canteen TV upload request](https://docs.google.com/spreadsheets/d/10vzyPs0v4FGnLwiqN-rJhhYzv_VTHmvFGwLSRwiPQJM/edit?usp=sharing)
