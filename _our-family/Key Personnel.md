@@ -20,4 +20,10 @@ description: ""
  SH Innovation in T&L | Mr Luo Kangming Eugene | luo_kangming_eugene@moe.edu.sg
  SH PE | Mr Fabian Koh | koh_zong_cheng_fabian@moe.edu.sg
  SH CCE Cov YH (MY) | Mdm Lim Hwee Li | lim_hwee_li@moe.edu.sg
- 
+ SH ICT (Internal) | Mdm Shannon Pang | pang_teng_yen@moe.edu.sg
+ AYH | Mdm Han Huaxiu | han_huaxiu@moe.edu.sg
+ AYH | Miss Cheng Chin Ying, Jamie | cheng_chin_ying@moe.edu.sg
+ AYH (Internal) | Mdm Clara Tan | tan_wan_ting_clara@moe.edu.sg
+ AYH | Ms Sophie Wang | wang_peipei_sophie@moe.edu.sg
+ MTT PE | Ms Karen Low | low_lai_fong_a@moe.edu.sg
+ YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sg
