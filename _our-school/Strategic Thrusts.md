@@ -26,8 +26,5 @@ description: ""
 <h4 style="color:black" align="center">Strategic Thrust 3: Synergistic Partnerships</h4>
 
 **Long Term Goal:** To become a school that promotes Culture of Care and Learning  <br>
-**Short Term Goal 3.1:** To build school identity (Stories/Symbols)  <br>
-**Short Term Goal 3.2:** To build a culture of Care and Learning (Organisational Structure)  <br>
-**Short Term Goal 3.3:** To build a culture of Care and Learning (Ritual and Routines)  <br>
-**Short Term Goal 3.4:** To build a culture of Care and Learning (Power Structures)  <br>
-**Short Term Goal 3.5:** To build a culture of Care and Learning (Controls)
+**Short Term Goal 3.1:**&nbsp;To build school identity <br>
+**Short Term Goal 3.2:**&nbsp;To establish a culture of Care and Learning  <br>

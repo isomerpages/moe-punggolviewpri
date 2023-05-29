@@ -5,7 +5,7 @@ description: ""
 ---
 *   [PGVP Classroom Walkthroughs](https://padlet.com/nor_azarizal_mohamed/fbnpac7um45gn68g)
 *   [Resource Booking System (RBS)](https://rbs.avero-tech.com/index.html)
-*   [Stars Studio Booking Schedule](https://docs.google.com/spreadsheets/d/1JWOyj0Dy9f5lGiTVkNqb2ABvgJ48BP3wbsZmBYMIYeQ/edit?usp=sharing)
+*   [Stars Studio Booking Schedule](https://forms.gle/hsRAzrPf7hxaQXn77)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 *   [SLS](https://vle.learning.moe.edu.sg/login)
 *   [iCON 2.0](https://icon.moe.edu.sg/)
