@@ -7,3 +7,18 @@ description: ""
 | -------- | -------- 
 | Admin Manager    | Ms Cathy Lee
 Operations Manager | Mr Alan Ong
+Operations Manager | Eric Tan
+Admin Executive | Ms Wong Miao Ling
+Corporate Support Officer | Mdm Haryati
+Corporate Support Officer | Ms Low Lee Kheng
+Operations Support Officer | Mr Junaidy
+Operations Support Officer | Ms Goo Ah Hwa
+Operations Support Officer | Mr William Tan
+Operations Support Officer | Mr William
+Operations Support Officer | Mdm Saadiah
+Operations Support Officer (MK) | Mdm Lim Ainie
+Operations Support Officer (MK) | Mdm Rokiah
+Relief Executive | Mdm Linda Lim
+SEN | Ms Siti Zulaiha
+SEN | Mdm Ridiana Binte Suparman
+SEN | 
