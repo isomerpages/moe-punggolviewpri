@@ -11,3 +11,4 @@ description: ""
 4 Jade | Ms Dawn Chia<p>Mr Brandon Chow</p> | chia_hui_ming_dawn@moe.edu.sg<p>chow_yuen_jeng@moe.edu.sg</p>
 4 Opal | Mr Fadly<p>Mdm Paul Miki Koh</p> | mohammed_fadly_ramli@moe.edu.sg<p>paul_miki_koh@moe.edu.sg</p>
 4 Pearl | Mr Harikrishnan<p>Mdm Khairunnisa</p> | harikrishnan_jayapalan@moe.edu.sg<p>khairunnisa_mohd_isa@moe.edu.sg</p>
+4 Ruby | Mr Jaya Balan<p>Mr Hidayat</p> | jaya_balan_kanagasundram@moe.edu.sg<p>hidayat_hamzah@mmoe.edu.sg</p>
