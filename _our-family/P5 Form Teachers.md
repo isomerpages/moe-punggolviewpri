@@ -12,4 +12,4 @@ description: ""
 5 Opal | Mr Loh Hao Jie<p>Ms Cheng Chin Ying, Jamie</p> | loh_hao_jie@moe.edu.sg<p>cheng_chin_ying@moe.edu.sg</p>
 5 Pearl | Mr Lim Wei Cheng<p>Mdm Tan Siew Chian</p> | lim_wei_cheng@moe.edu.sg<p>tan_siew_chian@moe.edu.sg</p>
 5 Ruby | Ms Alyani<p>Mdm Jeslyn Kang</p> | alyani_mohamed_husain@moe.edu.sg<p>kang_siew_ngoh@moe.edu.sg</p>
-5 Sapphire | Mr Mohd Hizammuddin<p>Mr Luo Kangming Eugene</p>
+5 Sapphire | Mr Mohd Hizammuddin<p>Mr Luo Kangming Eugene</p> | mohd_hizammuddin_mohd_yusof@moe.edu.sg<p>luo_kangming_eugene@moe.edu.sg</p>
