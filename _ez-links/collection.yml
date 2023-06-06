@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - PGVP E Open House 2023.md
       - 2023 Sec Sch Open House.md
       - Student ICON.md
       - SLS.md
