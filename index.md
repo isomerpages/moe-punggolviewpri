@@ -19,6 +19,6 @@ sections:
             url: /ez-links/for-parents/letters
           - title: PGVP Quarterly Term 2 (2023)
             url: /ez-links/for-parents/letters
-          - title: Hero Dropdown Element Title
+          - title: ""
             url: ""
 ---
