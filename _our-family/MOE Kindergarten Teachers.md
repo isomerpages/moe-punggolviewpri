@@ -40,7 +40,7 @@ description: ""
   <tr>
     <td class="tg-v9jf"><img src="/images/farhannah.jpg" alt="farhannah.JPG" width="164" height="246"><strong>Ms Farhanah Binte Ramlan</strong><br></td>
     <td class="tg-v9jf"><img src="/images/shifang.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Leck Shi Fang Charmaine</strong></td>
-    <td class="tg-xjv0"><img src="/images/juliana.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Mahtani Juliana Deepak</strong></span><br></td>
+    <td class="tg-xjv0"><img src="/images/juliana.jpg" alt="shifang.JPG" width="166" height="249"><strong>Ms Mahtani Juliana Deepak</strong><br></td>
   </tr>
   <tr>
     <td class="tg-xjv0"><br><img src="/images/tanxinyi.jpg" alt="tanxinyi.jpg" width="164" height="242"><br><strong>Ms Tan Xin Yi</strong></td>
@@ -86,3 +86,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+| Centre Head | Deputy Centre Head | |
+| -------- | -------- | -------- |
+Ms Michelle Joesoosay Thomas| Ms Shalini Nair Prabhakaran|
+
