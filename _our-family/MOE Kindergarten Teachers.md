@@ -91,3 +91,6 @@ description: ""
 | -------- | -------- | -------- |
 Ms Michelle Joesoosay Thomas| Ms Shalini Nair Prabhakaran|
 
+| Class | Form Teachers | E-mail |
+| -------- | -------- | -------- |
+| 1 Amethyst      |Mdm Lyly Suriani<br>Mdm Li Xinni  | lyly_suriani_osman@moe.edu.sg<br>li_xinni@moe.edu.sg   |
