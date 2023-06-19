@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/punggol pri.gif
       dropdown:
-        title: ""
+        title: ANNOUNCEMENTS
         options:
           - title: 2023 E-open house
             url: https://www.punggolviewpri.moe.edu.sg/ez-links/pgvpeopenhouse2023/
