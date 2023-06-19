@@ -22,7 +22,3 @@ third_nav_title: Mother Tongue Languages
 
 ![MTL Fortnight Activities](/images/MTL%20Fortnight%20Activities_3.jpg)
 
-#### TL Teachers
-
-<img src="/images/TL%20Teachers.jpg"  
-style="width:65%">
