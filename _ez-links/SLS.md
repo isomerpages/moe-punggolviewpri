@@ -5,9 +5,9 @@ description: ""
 ---
 #### Password reset
 
-Click&nbsp;[here](https://www.learning.moe.edu.sg/sls/index.html)&nbsp;to access&nbsp;[Singapore Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
+Click&nbsp;[here](https://vle.learning.moe.edu.sg/login)&nbsp;to access&nbsp;[Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
-For&nbsp;**Login Troubleshooting**, assistance for login and technical issues, please access this&nbsp;[SLS Page](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html).
+For&nbsp;**Login Troubleshooting**, assistance for login and technical issues, please access this&nbsp;[SLS Page](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/).
 
 <img src="/images/sls1.jpg" style="width:85%">
 
