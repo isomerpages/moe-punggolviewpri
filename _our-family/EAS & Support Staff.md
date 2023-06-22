@@ -15,13 +15,11 @@ Corporate Support Officer (Adjunct) | Mdm Norafizah
 Operations Support Officer | Mr Junaidy
 Operations Support Officer | Ms Goo Ah Hwa
 Operations Support Officer | Mr William Tan
-Operations Support Officer | Mr William
 Operations Support Officer | Mdm Saadiah
 Operations Support Officer (Adjunct) | Mdm Linda Lim
 Operations Support Officer (MK) | Mdm Lim Ainie
 Operations Support Officer (MK) | Mdm Rokiah
-Relief Executive | Mdm Linda Lim
-SEN | Ms Siti Zulaiha
-SEN | Mdm Ridiana Binte Suparman
-SEN | Ms Fairoz
-SEN | MS V K Aswini
+Senior SEN Officer | Ms Siti Zulaiha
+Senior SEN Officer | Mdm Ridiana Binte Suparman
+Senior SEN Officer| Ms Fairoz
+School Counsellor | MS V K Aswini
