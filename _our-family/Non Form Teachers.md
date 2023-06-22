@@ -15,5 +15,4 @@ description: ""
 | Mdm Fong Lai Cheng Elaine(Mrs Elaine Lew) | fong_lai_cheng_elaine@moe.edu.sg
 | Ms Lee Lijun | lee_lijun@moe.edu.sg
 | Ms Susan Sng | susan_sng@moe.edu.sg
-| Mr Edwin Ong Zhi Wei | edwin_ong_zhi_wei@moe.edu.sg
 |
