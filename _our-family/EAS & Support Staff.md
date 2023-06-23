@@ -22,4 +22,7 @@ Operations Support Officer (MK) | Mdm Rokiah
 Senior SEN Officer | Ms Siti Zulaiha
 Senior SEN Officer | Mdm Ridiana Binte Suparman
 Senior SEN Officer| Ms Fairoz
-School Counsellor | MS V K Aswini
+School Counsellor | Ms V K Aswini
+ICT Associate | Mr Iskandar
+Desktop Engineer | Mr Muru
+Desktop Engineer | Mr Tay Yu Han
