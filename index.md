@@ -14,7 +14,7 @@ sections:
           - title: 2023 E-open house
             url: https://www.punggolviewpri.moe.edu.sg/ez-links/pgvpeopenhouse2023/
           - title: Quarterly Term 3 (2023)
-            url: /files/pgvp%20quarterly%20term%203%202023.pdf
+            url: /ez-links/for-parents/letters
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
           - title: PGVP Quarterly Term 3 (2023)
