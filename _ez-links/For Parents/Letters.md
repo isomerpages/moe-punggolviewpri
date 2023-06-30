@@ -8,9 +8,9 @@ third_nav_title: For Parents
 
 Dear Parents/Guardians  
   
-Click here to read the PGVP Quarterly for Term 2, 2023.
+Click the link below to read the PGVP Quarterly for Term 2, 2023.
 
-[PGVP Quarterly Term 2 2023.pdf](/files/PGVP%20Quarterly%20Term%202%202023.pdf)
+[PGVP Quarterly Term 3 (2023)](/files/pgvp%20quarterly%20term%203%202023.pdf)
 
 
 #### March 2023
