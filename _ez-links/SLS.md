@@ -7,7 +7,25 @@ description: ""
 
 Click&nbsp;[here](https://vle.learning.moe.edu.sg/login)&nbsp;to access&nbsp;[Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
+For password reset of SLS accounts, please approach your child's Form Teacher. (In case student has forgotten the SLS password)
+
+Please take note that SLS can be entered via 2 different accounts. 
+- SLS login account
+- MIMS/Student ICON account
+
+![sls mims login](/images/sls%20mims%20login.JPG)
+
+If the account has been LOCKED because of multiple incorrect attempts, please write an e-mail to our ICT Associate, Mr Iskandar at iskandar_abdul_hamid@moe.edu.sg
+
+State your child's full name, class and the parent's full name in the e-mail. 
+
+You will receive a reply within 3-5 working days. 
+
+#### Troubleshooting&nbsp;
+
 For&nbsp;**Login Troubleshooting**, assistance for login and technical issues, please access this&nbsp;[SLS Page](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/).
+
+
 
 <img src="/images/sls1.jpg" style="width:85%">
 
