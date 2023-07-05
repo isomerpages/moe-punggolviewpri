@@ -2,7 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - OUR PROGRAMME/UNDER CONSTRUCTION.md
+      - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/.keep
       - MK@PV.md
       - 2023 MK OPEN HOUSE.md
