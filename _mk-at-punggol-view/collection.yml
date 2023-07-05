@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
       - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/.keep
       - MK@PV.md
