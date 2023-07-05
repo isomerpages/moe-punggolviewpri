@@ -2,10 +2,10 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - OUR PROGRAMME/OUR LEARNING SPACES.md
-      - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
-      - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/.keep
+      - OUR PROGRAMME/MK TOTAL CURRICULUM.md
+      - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
+      - OUR PROGRAMME/OUR LEARNING SPACES.md
       - MK@PV.md
       - 2023 MK OPEN HOUSE.md
       - KINDERGARTEN NEWS.md
