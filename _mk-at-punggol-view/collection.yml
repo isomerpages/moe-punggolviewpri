@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - OUR MK FAMILY/K2 TEACHERS (EL & MTL).md
       - OUR MK FAMILY/K1 TEACHERS (EL & MTL).md
       - OUR MK FAMILY/.keep
       - OUR PROGRAMME/.keep
