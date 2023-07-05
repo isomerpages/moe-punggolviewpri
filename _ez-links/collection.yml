@@ -2,6 +2,11 @@ collections:
   ez-links:
     output: true
     order:
+      - Student ICON.md
+      - SLS.md
+      - 2023 Sec Sch Open House.md
+      - PGVP E Open House 2023.md
+      - Canteen Advertisement.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Letters.md
@@ -11,11 +16,6 @@ collections:
       - For Parents/Parent Volunteer Scheme.md
       - For Teachers.md
       - For Students.md
-      - PGVP E Open House 2023.md
-      - Canteen Advertisement.md
-      - 2023 Sec Sch Open House.md
-      - Student ICON.md
-      - SLS.md
       - Media (Gallery).md
       - 1st day of school 2023.md
       - 2023 Curriculum Briefing/.keep
