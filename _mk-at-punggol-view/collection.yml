@@ -2,7 +2,6 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - MK@pgvps.md
       - MK@PV.md
       - 2023 MK OPEN HOUSE.md
       - CHINESE NEW YEAR 2023.md
