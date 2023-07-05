@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - KINDERGARTEN NEWS/.keep
       - OUR MK FAMILY/.keep
       - OUR MK FAMILY/K1 TEACHERS (EL & MTL).md
       - OUR MK FAMILY/K2 TEACHERS (EL & MTL).md
