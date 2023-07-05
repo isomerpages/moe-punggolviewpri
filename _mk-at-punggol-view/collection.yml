@@ -2,7 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - Our Programme/.keep
+      - OUR PROGRAMME/.keep
       - MK@PV.md
       - 2023 MK OPEN HOUSE.md
       - KINDERGARTEN NEWS.md
