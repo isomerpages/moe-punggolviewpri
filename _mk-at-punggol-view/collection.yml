@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - KINDERGARTEN NEWS/NEWS.md
       - KINDERGARTEN NEWS/LATEST EVENTS.md
       - KINDERGARTEN NEWS/.keep
       - OUR MK FAMILY/.keep
