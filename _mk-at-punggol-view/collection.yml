@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - test.md
       - MK@PV.md
       - 2023 MK OPEN HOUSE.md
       - KINDERGARTEN NEWS.md
