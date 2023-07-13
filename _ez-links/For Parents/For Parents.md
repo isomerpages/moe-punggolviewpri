@@ -12,9 +12,11 @@ Here is the takeaway from the briefing held on 13th July 2023.
 
 Click below to view the files.
 
-![https://go.gov.sg/vp2addresstop5parents](/images/qr1-2023.jpeg)
+![](/images/qr1-2023.jpeg)
+[https://go.gov.sg/vp2addresstop5parents](https://go.gov.sg/vp2addresstop5parents)
 
-![https://go.gov.sg/paddressforp5parents](/images/qr3-2023.jpeg)
+![](/images/qr3-2023.jpeg)
+[https://go.gov.sg/paddressforp5parents](https://go.gov.sg/paddressforp5parents)
 
 #### Primary 6 Briefing via Zoom
 
