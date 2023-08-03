@@ -8,7 +8,6 @@ description: ""
 | Ms Teng Xiu Ying Agneta | teng_xiu_ying_agneta@moe.edu.sg
 | Miss Maithilli Anpazhahan | maithilli_anpazhahan@moe.edu.sg
 | Mrs Janet Chan | janet_chankho@moe.edu.sg 
-| Mr Leong Yew Sing Timothy | leong_yew_sing_timothy@moe.edu.sg
 | Mrs Mohan | venkatachalam_gangaiswary@moe.edu.sg
 | Ms Nurul Jannah | nurul_jannah_mohamad-zahir@moe.edu.sg
 | Mdm Teo Lee Hwa | teo_lee_hwa@moe.edu.sg
