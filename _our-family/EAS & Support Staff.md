@@ -7,7 +7,7 @@ description: ""
 | -------- | -------- 
 | Admin Manager    | Ms Cathy Lee
 Operations Manager | Mr Alan Ong
-Operations Manager | Eric Tan
+Operations Manager | Mr Eric Tan
 Admin Executive | Ms Wong Miao Ling
 Corporate Support Officer | Mdm Haryati
 Corporate Support Officer | Ms Low Lee Kheng
