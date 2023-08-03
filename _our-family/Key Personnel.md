@@ -15,7 +15,8 @@ description: ""
  HOD SM | Ms Nur Mawarni Nin Sahmad | nur_mawarni_nin_sahmad@moe.edu.sg
 SSD | Mr Luo Kangming Eugene | luo_kangming_eugene@moe.edu.sg 
 MTT PE | Ms Karen Low | low_lai_fong_a@moe.edu.sg
-YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sgLH English | Ms Sharifah Aliah | sharifah_aliah_syed@moe.edu.sg 
+YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sg
+LH English | Ms Sharifah Aliah | sharifah_aliah_syed@moe.edu.sg 
  | LH Maths | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
  LH CL | Mrs Eng-Teng Yi Wen Yvonne | teng_yi_wen@moe.edu.sg
  SH Aesthetics | Ms Magdelene Khairyl-Han | han_may_yun_magdelene@moe.edu.sg
