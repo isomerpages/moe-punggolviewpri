@@ -19,7 +19,7 @@ Operations Support Officer | Mdm Saadiah
 Operations Support Officer (Adjunct) | Mdm Linda Lim
 Operations Support Officer (MK) | Mdm Lim Ainie
 Operations Support Officer (MK) | Mdm Rokiah
-Senior SEN Officer | Ms Siti Zulaiha
+SEN Officer | Ms Siti Zulaiha
 Senior SEN Officer | Mdm Ridiana Binte Suparman
 Senior SEN Officer| Ms Fairoz
 School Counsellor | Ms V K Aswini
