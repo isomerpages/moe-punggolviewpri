@@ -12,7 +12,7 @@ sections:
         title: ANNOUNCEMENTS
         options:
           - title: Ex-Students coming back 31/8
-            url: ""
+            url: /ez-links/exstudents/
           - title: 2023 E-open house
             url: https://www.punggolviewpri.moe.edu.sg/ez-links/pgvpeopenhouse2023/
           - title: Quarterly Term 3 (2023)
