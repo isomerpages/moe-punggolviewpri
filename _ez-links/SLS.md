@@ -3,6 +3,17 @@ title: SLS
 permalink: /ez-links/sls/
 description: ""
 ---
+#### SLS System Downtime
+Dear Parents,
+
+Please take note that SLS will not be available from 5th (Tue) to 6th (Wed) September (September holiday week).
+
+Thank you. 
+
+
+
+
+
 #### Password reset
 
 Click&nbsp;[here](https://vle.learning.moe.edu.sg/login)&nbsp;to access&nbsp;[Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
