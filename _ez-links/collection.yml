@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - ELearning 15th 16th Aug 2023.md
       - Student ICON.md
       - SLS.md
       - 2023 Sec Sch Open House.md
