@@ -4,11 +4,19 @@ permalink: /ez-links/for-parents/letters/
 description: ""
 third_nav_title: For Parents
 ---
+#### September 2023
+
+Dear Parents/Guardians  
+  
+Click the link below to read the PGVP Quarterly for Term 4, 2023.
+
+[PGVP Quarterly Term 4 (2023)](/files/pgvp%20quarterly%20term%204%202023.pdf)
+
 #### July 2023
 
 Dear Parents/Guardians  
   
-Click the link below to read the PGVP Quarterly for Term 2, 2023.
+Click the link below to read the PGVP Quarterly for Term 3, 2023.
 
 [PGVP Quarterly Term 3 (2023)](/files/pgvp%20quarterly%20term%203%202023.pdf)
 

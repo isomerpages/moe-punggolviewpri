@@ -4,31 +4,19 @@ title: Punggol View Primary School
 description: Punggol View Primary School
 image: /images/sch banner 2.jpeg
 permalink: /
-notification: ""
+notification: Announcements
 sections:
   - hero:
       background: /images/punggol pri.gif
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: Ex-Students coming back 31/8
-            url: /ez-links/exstudents/
-          - title: 2023 E-open house
-            url: https://www.punggolviewpri.moe.edu.sg/ez-links/pgvpeopenhouse2023/
-          - title: Quarterly Term 3 (2023)
+          - title: 15th September E-Learning
+            url: /ez-links/sls/
+          - title: PGVP Quarterly Term 3 (2023)
             url: /ez-links/for-parents/letters
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
-          - title: PGVP Quarterly Term 3 (2023)
-            url: /ez-links/for-parents/letters
-          - title: PGVP Quarterly Term 2 (2023)
-            url: /ez-links/for-parents/letters
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Office closes at 1pm (31/8/23)
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
+      title: Announcements
+      subtitle: Click below to read the latest announcements
 ---
