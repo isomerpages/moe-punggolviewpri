@@ -11,20 +11,8 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: Quarterly Term 3 (2023)
+          - title: PGVP Quarterly Term 3 (2023)
             url: /ez-links/for-parents/letters
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
-          - title: PGVP Quarterly Term 3 (2023)
-            url: /ez-links/for-parents/letters
-          - title: PGVP Quarterly Term 2 (2023)
-            url: /ez-links/for-parents/letters
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Office closes at 1pm (31/8/23)
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
 ---
