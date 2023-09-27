@@ -11,8 +11,8 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: 15th September E-Learning
-            url: /ez-links/permalink/
+          - title: PSLE E-Learning Days 2023
+            url: /ez-links/permalink/psleelearning/
           - title: PGVP Quarterly Term 3 (2023)
             url: /ez-links/for-parents/letters
           - title: Student Icon - Locked Accounts  and Password Reset
