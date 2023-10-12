@@ -5,12 +5,6 @@ description: ""
 ---
 Dear parents,
 
-Please refer to the documents below regarding E-learning during the PSLE days from 28th September to 3rd October 2023. 
+Please refer to the documents below regarding E-learning from 16th to 18th October 2023. 
 
-[PSLE Written Exam P4 E-Learning](/files/final_2023_psle%20written%20exam_p4%20e-learning.pdf)
-
-[PSLE Written Exam P5 E-Learning](/files/final_2023_psle%20written%20exam_p5%20e-learning.pdf)
-
-[P4 E-Learning](/files/pgvp_235_p4%20e-learning%202023%20during%20psle%20written%20days.pdf)
-
-[P5 E-Learning](/files/pgvp_236_p5%20e-learning%202023%20during%20psle%20written%20days.pdf)
+[E-Learning Days (16th to 18th October 2023)](/files/pgvp_242_e-learning%202023_psle%20marking%20days.pdf)
