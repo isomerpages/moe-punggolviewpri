@@ -11,7 +11,7 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: PSLE E-Learning Days 2023
+          - title: 16th-18th Oct 2023 eLearning
             url: /ez-links/permalink/psleelearning/
           - title: PGVP Quarterly Term 4 (2023)
             url: /ez-links/for-parents/letters
