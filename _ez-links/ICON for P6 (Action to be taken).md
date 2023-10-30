@@ -7,8 +7,6 @@ Dear parents,
 
 All files in your child's ICON account (Google) will be automatically deleted at the end of the year.
 
-Please download any files your child may have in Google Drive, Google Mail, Google Photos and any other Google apps tied to the **@students.edu.sg account**.
-
 Once the files are automatically deleted at the end of the year, there is no way to retrieve them back. 
 
 So please, download all the files as soon as you can. 
