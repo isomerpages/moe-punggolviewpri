@@ -3,6 +3,14 @@ title: 2023 Sec Sch Open House
 permalink: /ez-links/2023sec-sch-open-house/
 description: ""
 ---
+**YUSOF ISHAK SECONDARY SCHOOL**
+
+* [Invitation to Open House 18th November](/files/invitation%20to%20yiss%20open%20house%20on%2018%20nov.pdf)
+* [Yusof Ishak Open House](/files/yiss%20open%20house%202023%20pg.pdf)
+
+
+
+
 **ANGLO-CHINESE SCHOOL (INDEPENDENT)**
 * [Open House Invitation](/files/acs(i)%202023%20open%20house%20invitation.pdf)
 * [Invitation to ACS Open House 2023](/files/anglo-chinese%20school%20(independent)%20-%20invitation%20to%20acs%20open%20house%202023.pdf)
