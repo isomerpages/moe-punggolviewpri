@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - 2024 Booklists.md
       - ICON for P6 (Action to be taken).md
       - Student ICON.md
       - P1 Admin Matters.md
