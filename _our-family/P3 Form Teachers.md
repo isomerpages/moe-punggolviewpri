@@ -8,7 +8,8 @@ variant: markdown
 | -------- | -------- | -------- |
 3 Amethyst | Mrs Ariff<br>Mr Jeremy Lim | siti_nurhawa_abdul_shukor@moe.edu.sg<br>lim_wei_peng_jeremy@moe.edu.sg
 3 Diamond | Mr Kumaran<br>Mr Brandon Chow | kumaran_muniandi@moe.edu.sg<br>chow_yuen_jeng@moe.edu.sg
-3 Emerald | Mr Nazriff<br>Ms Sharifah Aliah | muhammad_nazriff_nasser@moe.edu.sg<br>sharifah_aliah_syed@moe.edu.sg
-3 Jade | Mr Ng Yi Qin Ryan<br>Mdm Rukiya | ng_yi_qin_ryan@moe.edu.sg<br>rukiya_ameer_hamjah@moe.edu.sg
-3 Opal | Ms Yeong Pui San<br>Ms Baey Geok Lin Elain | yeong_pui_san@moe.edu.sg<br>baey_geok_lin_elain@moe.edu.sg
-3 Pearl | Ms Madeline Tan Hwee Li<br>Mdm Clara Tan | madeline_tan_hwee_li@moe.edu.sg<br>tan_wan_ting_clara@moe.edu.sg
+3 Emerald | Mr Siow Jit Keong<br>Ms Goh Poh Khim<br>Mrs Liew-Tan Bee Lin | siow_jit_keong@moe.edu.sg<br>goh_poh_khim@moe.edu.sg<br>tan_bee_lin@moe.edu.sg
+3 Jade | Ms Siti Nadia<br>Mdm Raihanah Ali | siti_nadia_mohamed_rafii@moe.edu.sg<br>raihanah_ali@moe.edu.sg
+3 Opal | Mr Jaya Balan<br>Mdm Paul Miki Koh<br>Mdm Fong/Mrs Lew  | jaya_balan_kanagasundram@moe.edu.sg<br>paul_miki_koh@moe.edu.sg<br>
+3 Pearl | Mr Helmi<br>Mrs Vijay | mohammad_helmi_ahmad_bamad@moe.edu.sg<br>vijayalakshmi_vijayan@moe.edu.sg
+3 Ruby | Mdm Li Shihua<br>Mr Lim Wei Cheng | li_shihua@moe.edu.sg<br>lim_wei_cheng@moe.edu.sg
