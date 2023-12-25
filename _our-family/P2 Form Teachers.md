@@ -12,6 +12,5 @@ variant: markdown
 2 Jade | Ms Siti Khadijah<br>Mdm Shannon Pang | siti_khadijah_abdul_jalil@moe.edu.sg<br>pang_teng_yen@moe.edu.sg
 2 Opal | Mr Kok Yao Xiang<br>Ms Magdelene Khairyl-Han | kok_yao_xiang@moe.edu.sg<br>han_may_yun_magdelene@moe.edu.sg
 2 Pearl | Mr Nabil<br>Mdm Han Huaxiu | muhammad_nabil_muhammad_ismail@moe.edu.sg<br>han_huaxiu@moe.edu.sg
-2 Ruby | Mdm Noor Adzilah<br>Mdm Janice Ong | noor_adzilah_tahir@moe.edu.sg<br>janice_ong_poh_ling@moe.edu.sg
-2 Sapphire | Ms Nurasyiqin<br>Ms Alison Teo | nurasyiqin_mohammad_abdu@moe.edu.sg<br>teo_yili_alison@moe.edu.sg
-2 Topaz | Ms Siti Nadia<br>Mdm Liang Hong Wen | siti_nadia_mohamed_rafii@moe.edu.sg<br>liang_hong_wen@moe.edu.sg
+2 Ruby | Mrs Tee-Ms Corinna Liow<br>Ms Nur Ain<br>Ms Nurul Jannah  | liow_chai_hong_corinna@moe.edu.sg<br>nur_ain_juma_at@moe.edu.sg<br>nurul_jannah_mohamad-zahir@moe.edu.sg
+2 Sapphire | Ms Nurhayati<br>Mr Bilal<br>Mrs Mohan | nurhayati_selamat@moe.edu.sg<br>mohamed_bilal_obayadulla@moe.edu.sg<br>venkatachalam_gangaiswary@moe.edu.sg
