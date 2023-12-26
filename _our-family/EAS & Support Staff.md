@@ -2,6 +2,7 @@
 title: EAS & Support Staff
 permalink: /our-family/eas-n-support-staff/
 description: ""
+variant: markdown
 ---
 | Designation | Name 
 | -------- | -------- 
@@ -11,6 +12,7 @@ Operations Manager | Mr Eric Tan
 Admin Executive | Ms Wong Miao Ling
 Corporate Support Officer | Mdm Haryati
 Corporate Support Officer | Ms Low Lee Kheng
+Corporate Support Officer | Mdm Aryani
 Corporate Support Officer (Adjunct) | Mdm Norafizah
 Operations Support Officer | Mr Junaidy
 Operations Support Officer | Ms Goo Ah Hwa
