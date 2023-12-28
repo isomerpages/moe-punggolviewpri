@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /our-family/key-personnel/
 description: ""
+variant: markdown
 ---
 |Designation | Name | E-Mail |
 | -------- | -------- | -------- |
@@ -14,11 +15,13 @@ description: ""
  HOD CCE | Miss Nur Ain Bte Jumaát | nur_ain_juma_at@moe.edu.sg
  HOD SM | Ms Nur Mawarni Nin Sahmad | nur_mawarni_nin_sahmad@moe.edu.sg
 SSD | Mr Luo Kangming Eugene | luo_kangming_eugene@moe.edu.sg 
-MTT PE | Ms Karen Low | low_lai_fong_a@moe.edu.sg
 YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sg
+YH Upper Years | Mdm Lim Hwee Li | lim_hwee_li@moe.edu.sg
 LH English | Ms Sharifah Aliah | sharifah_aliah_syed@moe.edu.sg 
- | LH Maths | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
+ | LH1 Maths | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
+ LH2 Maths | Mr Reuben Dominic Phay | phay_yi_ren_dominic@moe.edu.sg
  LH CL | Mrs Eng-Teng Yi Wen Yvonne | teng_yi_wen@moe.edu.sg
+ LH Science (Internal) | Ms Choo Jia | choo_jia@moe.edu.sg
  SH Aesthetics | Ms Magdelene Khairyl-Han | han_may_yun_magdelene@moe.edu.sg
  SH PE | Mr Fabian Koh | koh_zong_cheng_fabian@moe.edu.sg
  SH CCE Cov YH (MY) | Mdm Lim Hwee Li | lim_hwee_li@moe.edu.sg
