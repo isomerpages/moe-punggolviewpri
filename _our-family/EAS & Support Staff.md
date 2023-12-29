@@ -9,10 +9,9 @@ variant: markdown
 | Admin Manager    | Ms Cathy Lee
 Operations Manager | Mr Alan Ong
 Operations Manager | Mr Eric Tan
-Admin Executive | Ms Wong Miao Ling
+Admin Executive | Mdm Aryani
 Corporate Support Officer | Mdm Haryati
 Corporate Support Officer | Ms Low Lee Kheng
-Corporate Support Officer | Mdm Aryani
 Corporate Support Officer (Adjunct) | Mdm Norafizah
 Operations Support Officer | Mr Junaidy
 Operations Support Officer | Ms Goo Ah Hwa
