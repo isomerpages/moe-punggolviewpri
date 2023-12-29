@@ -12,5 +12,5 @@ variant: markdown
 1 Jade | Mdm Sarina Sapari<br>Ms Teo Xin Ning | sarina_sapari@moe.edu.sg teo_xin_ning@moe.edu.sg
 1 Opal | Mdm Rajabunnisah<br>Miss Alison Teo<br>Mdm Lee Lijun| rajabunnisah_abdul_latiff@moe.edu.sg<br>teo_yili_alison@moe.edu.sg<br>lee_lijun@moe.edu.sg
 1 Pearl | Ms Koh Su Shin<br>Mdm Fauziah Amat| koh_su_shin@moe.edu.sg<br>fauziah_mohamad@moe.edu.sg<br>
-1 Ruby | Ms Nurfarizan <br>Mdm Jeslyn Kang| nurfarizan_abdul_wahab@moe.edu.sg<br>kang_siew_ngoh@moe.edu.sg
+1 Ruby | Ms Nurfarizan <br>Mdm Jeslyn Kang<br>Mdm Liang Hong Wen| nurfarizan_abdul_wahab@moe.edu.sg<br>kang_siew_ngoh@moe.edu.sg
 1 Sapphire | Mdm Janice Ong<br>Mdm Suhainis Samsi| janice_ong_poh_ling@moe.edu.sg<br>suhainis_samsi@moe.edu.sg

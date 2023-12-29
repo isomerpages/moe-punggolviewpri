@@ -2,12 +2,13 @@
 title: Student ICON
 permalink: /ez-links/student-icon/
 description: ""
+variant: markdown
 ---
 #### MIMS Account
 
 Here is a diagram to better explain how the MIMS account works for our students.
 
-<img src="/images/mims2023.jpg" style="width:85%">
+<img src="/images/mims_2024.jpg" style="width:85%">
 
 #### Password reset
 
