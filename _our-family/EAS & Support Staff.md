@@ -10,6 +10,7 @@ variant: markdown
 Operations Manager | Mr Alan Ong
 Operations Manager | Mr Eric Tan
 Admin Executive | Mdm Aryani
+Admin Executive | Mdm Yap Ziwen Claire
 Corporate Support Officer | Mdm Haryati
 Corporate Support Officer | Ms Low Lee Kheng
 Corporate Support Officer (Adjunct) | Mdm Norafizah
