@@ -11,10 +11,6 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
-          - title: 16th-18th Oct 2023 eLearning
-            url: /ez-links/permalink/psleelearning/
-          - title: PGVP Quarterly Term 4 (2023)
-            url: /ez-links/for-parents/letters
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
       subtitle: Click below to read the latest announcements
