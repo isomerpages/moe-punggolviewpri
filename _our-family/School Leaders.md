@@ -68,7 +68,7 @@ img {
 
 
 
-<img src="/images/Mr%20Goh%20Zensen.jpg" alt="Mr Goh Zensen" style="width:35%;">
+<img src="/images/sandra_vp.jpg" alt="Mrs Sandra Theseira" style="width:35%;">
 
 
 
