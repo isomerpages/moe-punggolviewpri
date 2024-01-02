@@ -13,5 +13,7 @@ sections:
         options:
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
+          - title: Things to bring (2024)
+            url: https://www.punggolviewpri.moe.edu.sg/ez-links/things2024/
       subtitle: Click below to read the latest announcements
 ---
