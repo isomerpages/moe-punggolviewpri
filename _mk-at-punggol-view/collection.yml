@@ -1,0 +1,18 @@
+collections:
+  mk-at-punggol-view:
+    output: true
+    order:
+      - ABOUT MK@PV.md
+      - OUR PROGRAMME/.keep
+      - OUR PROGRAMME/MK TOTAL CURRICULUM.md
+      - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
+      - OUR PROGRAMME/OUR LEARNING SPACES.md
+      - KINDERGARTEN NEWS/.keep
+      - KINDERGARTEN NEWS/NEWS.md
+      - KINDERGARTEN NEWS/LATEST EVENTS.md
+      - KINDERGARTEN NEWS/LEARNING JOURNEYS.md
+      - MK TOTAL CURRICULUM.md
+      - COLLABORATIONS.md
+      - USEFUL INFORMATION.md
+      - FORMS & USEFUL LINKS.md
+      - MOE KINDERGARTEN WEBSITE.md
