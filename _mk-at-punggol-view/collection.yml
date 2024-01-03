@@ -3,14 +3,10 @@ collections:
     output: true
     order:
       - ABOUT MK@PV.md
-      - 2023 MK OPEN HOUSE.md
       - OUR PROGRAMME/.keep
       - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
       - OUR PROGRAMME/OUR LEARNING SPACES.md
-      - OUR MK FAMILY/.keep
-      - OUR MK FAMILY/K1 TEACHERS (EL & MTL).md
-      - OUR MK FAMILY/K2 TEACHERS (EL & MTL).md
       - KINDERGARTEN NEWS/.keep
       - KINDERGARTEN NEWS/NEWS.md
       - KINDERGARTEN NEWS/LATEST EVENTS.md
