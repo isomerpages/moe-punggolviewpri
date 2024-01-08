@@ -2,12 +2,12 @@ collections:
   ez-links:
     output: true
     order:
+      - Student ICON, MIMS.md
+      - SLS.md
       - Things to bring (2024).md
       - 2024 P1 Orientation.md
       - 2024 Booklists.md
-      - Student ICON, MIMS.md
       - P1 Admin Matters.md
-      - SLS.md
       - Canteen Advertisement.md
       - For Parents/.keep
       - For Parents/For Parents.md
