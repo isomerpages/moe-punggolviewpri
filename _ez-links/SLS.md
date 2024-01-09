@@ -2,6 +2,7 @@
 title: SLS
 permalink: /ez-links/sls/
 description: ""
+variant: markdown
 ---
 #### Password reset
 
@@ -15,9 +16,11 @@ Please take note that SLS can be entered via 2 different accounts.
 
 ![sls mims login](/images/sls%20mims%20login.JPG)
 
-If the account has been LOCKED because of multiple incorrect attempts, please write an e-mail to our ICT Associate, Mr Iskandar at iskandar_abdul_hamid@moe.edu.sg
+#### Account locked
 
-State your child's full name, class and the parent's full name in the e-mail. 
+If the account has been LOCKED because of multiple incorrect attempts, please fill out the form below.
+
+[Account Unlock Form](https://forms.gle/nbYjvzeTtnEXyrLM8)
 
 You will receive a reply within 3-5 working days. 
 

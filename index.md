@@ -11,6 +11,8 @@ sections:
       dropdown:
         title: ANNOUNCEMENTS
         options:
+          - title: PGVP Quarterly 2024 Term 1
+            url: https://www.punggolviewpri.moe.edu.sg/ez-links/for-parents/letters/
           - title: Student Icon - Locked Accounts  and Password Reset
             url: /ez-links/student-icon
           - title: Things to bring (2024)

@@ -1,5 +1,5 @@
 ---
-title: Student ICON
+title: Student ICON, MIMS
 permalink: /ez-links/student-icon/
 description: ""
 variant: markdown
@@ -15,6 +15,8 @@ Here is a diagram to better explain how the MIMS account works for our students.
 Student ICON is primarily used to log on to the computers in school and to the Student ICON portal (Google Classroom) 
   
 [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+
+Primary school students cannot do a self reset via the MIMS portal. 
 
 Parents can fill up the form below, to reset their children's password for Student ICON / MIMS.  
 [Password Reset Form](https://forms.gle/DWHm56pm7nCMQtgQ7)
