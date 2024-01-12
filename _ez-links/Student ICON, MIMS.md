@@ -2,45 +2,6 @@
 title: Student ICON, MIMS
 permalink: /ez-links/student-icon/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### MIMS Account
-
-Here is a diagram to better explain how the MIMS account works for our students.
-
-<img src="/images/mims_2024.jpg" style="width:85%">
-
-#### Password reset
-
-Student ICON is primarily used to log on to the computers in school and to the Student ICON portal (Google Classroom) 
-  
-[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
-
-Primary school students cannot do a self reset via the MIMS portal. 
-
-Parents can fill up the form below, to reset their children's password for Student ICON / MIMS.  
-[Password Reset Form](https://forms.gle/DWHm56pm7nCMQtgQ7)
-
-Requests will be fulfilled within 3-5 working days.
-  
-#### Password Requirements
-
-![Password Requirements](/images/pp2023.PNG)
-
-#### How do I log in to Student Icon?
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_1.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_2.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_3.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_4.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_5.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_6.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_7.jpg)
-
-![](/images/Student%20iCON%20Onboarding%20Guide%201_Page_8.jpg)
+<h4>MIMS Account</h4><p>Please take a minute to view this video.</p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZAejXe9_ic?si=MvBJI2Y4oKCyNqsq"></iframe></div><p></p><p>Here is a diagram to better explain how the MIMS account works for our students.</p><div class="isomer-image-wrapper"><img style="width:85%" height="auto" width="100%" src="/images/mims_2024.jpg"></div><h4>Password reset</h4><p>Student ICON is primarily used to log on to the computers in school and to the Student ICON portal (Google Classroom)</p><p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></p><p>Primary school students cannot do a self reset via the MIMS portal.</p><p>Parents can fill up the form below, to reset their children's password for Student ICON / MIMS.<br><a href="https://forms.gle/DWHm56pm7nCMQtgQ7" rel="noopener noreferrer nofollow" target="_blank">Password Reset Form</a></p><p>Requests will be fulfilled within 3-5 working days.</p><h4>Password Requirements</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Password Requirements" src="/images/pp2023.PNG"></div><h4>How do I log in to Student Icon?</h4><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_1.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_2.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_3.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_4.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_5.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_6.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_7.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20iCON%20Onboarding%20Guide%201_Page_8.jpg"></div><p></p>
