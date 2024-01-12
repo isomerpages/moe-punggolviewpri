@@ -32,10 +32,7 @@ For&nbsp;**Login Troubleshooting**, assistance for login and technical issues, p
 
 <img src="/images/sls1.jpg" style="width:85%">
 
-#### SLS R19 System Upgrade 2023&nbsp;
 
-The Singapore Student Learning Space (SLS) will be temporarily unavailable during a system upgrade from Tue 6 Jun until the evening of Wed 7 Jun 2023. 
-Thank you for your understanding as we enhance the system.
 
 #### R17 SLS
 
