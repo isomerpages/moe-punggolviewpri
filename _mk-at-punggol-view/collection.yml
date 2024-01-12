@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - COLLABORATIONS WITH FAMILIES/.keep
       - KINDERGARTEN CARE (KCARE).md
       - ABOUT MK@PV.md
       - OUR FAMILY.md
