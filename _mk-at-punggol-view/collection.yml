@@ -2,8 +2,8 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - 2024 MK OPEN HOUSE.md
       - ABOUT MK@PV.md
+      - 2024 MK OPEN HOUSE.md
       - OUR PROGRAMME/.keep
       - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/FUN WITH VALUES PROGRAMME.md
