@@ -2,6 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - KINDERGARTEN CARE (KCARE).md
       - ABOUT MK@PV.md
       - OUR FAMILY.md
       - 2024 MK OPEN HOUSE.md
