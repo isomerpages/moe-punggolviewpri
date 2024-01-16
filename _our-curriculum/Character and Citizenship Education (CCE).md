@@ -2,6 +2,7 @@
 title: Character and Citizenship Education (CCE)
 permalink: /our-curriculum/character-and-citizenship-education-cce/
 description: ""
+variant: markdown
 ---
 #### Curricular Goal
 
@@ -56,42 +57,41 @@ The following are highlights of what our students get to experience:
 
 **LOVE @ PGVP**
 
-LOVE (Living Our Values Everyday)@PGVP affirms our students for doing the right thing and to inspire others to continue to give of their best.  Students are encouraged to learn and demonstrate the school values via a set of observable behaviours for each value stated in a Value Card.  Teachers will then nominate these students to receive a value badge.  
+LOVE (Living Our Values Everyday)@PGVP affirms our students for doing the right thing and to inspire others to continue to give of their best.&nbsp; Students are encouraged to learn and demonstrate the school values via a set of observable behaviours for each value stated in a Value Card.&nbsp; Teachers will then nominate these students to receive a value badge.&nbsp;&nbsp;
 
   
 
-Narratives of notable local and international “heroes or heroines” who had demonstrated these values, are taught as moral exemplars. The lessons are taught during CCE Lessons to provide concrete role models whom the students can learn from.  By so doing, we hope that the students will live out the values every day. 
+Narratives of notable local and international “heroes or heroines” who had demonstrated these values, are taught as moral exemplars. The lessons are taught during CCE Lessons to provide concrete role models whom the students can learn from.&nbsp; By so doing, we hope that the students will live out the values every day.&nbsp;
 
   
 
-Assembly talks on the school values are conducted every month. Students reflected on the message delivered at the Assembly talks by completing a self-reflection of their behaviour on the Value Card.  This message will be further reinforced during Form Teacher Guidance Period (FTGP) and CCE lessons.
+Assembly talks on the school values are conducted every month. Students reflected on the message delivered at the Assembly talks by completing a self-reflection of their behaviour on the Value Card.&nbsp; This message will be further reinforced during Form Teacher Guidance Period (FTGP) and CCE lessons.
 
 #### Value Badges Recipients
 
 
 
-<img src="/images/Value%20Badges%20Recipients.png"  
-style="width:70%">
+<img src="/images/Value%20Badges%20Recipients.png" style="width:70%">
 
 
-<img src="/images/Value%20Badges%20Recipients_2.jpg"  
-style="width:70%">
+<img src="/images/Value%20Badges%20Recipients_2.jpg" style="width:70%">
 
-#### Sexuality Education 2023
+#### Sexuality Education 2024
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships, and make wise, informed and responsible decisions on sexuality matters in their growing up years. Sexuality Education also aims to help students develop a moral compass, respect for themselves and others, premised on the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 Please click on the link below to access info from MOE website <br>
 [Sexuality education (MOE)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
 
-[2023 Info on SEd for schs website PGVP.pdf](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20PGVP.pdf)
+
+[2024 Info on SEd for schs website (PGVP)](/files/2024_Info_on_SEd_for_schs_website__PGVP_.pdf)
 
 Please click the link below for the Opt-out form.<br>
-[https://go.gov.sg/pgvpsed2023](https://go.gov.sg/pgvpsed2023)
+[https://go.gov.sg/pgvpsed2024](https://go.gov.sg/pgvpsed2024)
 
 #### National Education
 
-National Education aims to develop national cohesion, cultivate the instinct for survival as a nation and to instil in our students confidence in our nation’s future.  It also emphasizes on cultivating a sense of belonging and emotional rootedness to Singapore.  National Education is pervasively implemented through Social Studies lessons, Social Studies Field-based Experiential Learning, NE Commemorative Events and Values-In-Action activities.
+National Education aims to develop national cohesion, cultivate the instinct for survival as a nation and to instil in our students confidence in our nation’s future.&nbsp; It also emphasizes on cultivating a sense of belonging and emotional rootedness to Singapore.&nbsp; National Education is pervasively implemented through Social Studies lessons, Social Studies Field-based Experiential Learning, NE Commemorative Events and Values-In-Action activities.
 
 #### Social Studies Field-based Experiential Learning
 
@@ -99,25 +99,24 @@ National Education aims to develop national cohesion, cultivate the instinct for
 Field-based experiential learning allows the students to contextualise their learning experience in an authentic real-world setting, thus enabling the relational learning of concepts and content. Students would also be able to conduct hands-on exploration in a focused area of study, thus being engaged in multi-sensory modes. As part of engaging students’ interest in inquiry, field-based learning would also motivate and sustain their interest in the subject matter as they would learn to explore, construct new knowledge and make connections to the topic being studied.
 
 
-<img src="/images/Social%20Studies%20Field-based%20Experiential%20Learning.png"  
-style="width:85%">
+<img src="/images/Social%20Studies%20Field-based%20Experiential%20Learning.png" style="width:85%">
 
 #### NE Commemorative Days
 
 NE events in school are commemorated and emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.  
   
   
-**Total Defence Day** <br>Total Defence Day is commemorated on 15 February annually, to mark Singapore's fall to the Japanese in 1942.  Total Defence Day serves to remind our students that Singapore is defensible and is worth defending, and we ourselves must defend Singapore.
+**Total Defence Day** <br>Total Defence Day is commemorated on 15 February annually, to mark Singapore's fall to the Japanese in 1942.&nbsp; Total Defence Day serves to remind our students that Singapore is defensible and is worth defending, and we ourselves must defend Singapore.
 
 ![Total Defence Day](/images/Total%20Defence%20Day.png)
 
 **International Friendship Day** <br>
-International Friendship Day is commemorated on the 3rd Friday of Term 2.  It is day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond.  It serves as a good opportunity to nurture in our students the spirit of friendship and collaboration among different people as well as learn and appreciate other cultures that exist in Singapore.
+International Friendship Day is commemorated on the 3rd Friday of Term 2.&nbsp; It is day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond.&nbsp; It serves as a good opportunity to nurture in our students the spirit of friendship and collaboration among different people as well as learn and appreciate other cultures that exist in Singapore.
 
 ![International Friendship Day](/images/International%20Friendship%20Day.png)
 
 **Racial Harmony Day** <br> 
-Racial Harmony Day is commemorated on 21 July.  On this day in 1964, Singapore saw racial riots.  Racial Harmony Day serves to remind our students that race and religion are potential fault-lines in Singapore society. It is a day for students to reflect on, and celebrate Singapore’s success as a harmonious nation and society built on a rich diversity of cultures and heritages.
+Racial Harmony Day is commemorated on 21 July.&nbsp; On this day in 1964, Singapore saw racial riots.&nbsp; Racial Harmony Day serves to remind our students that race and religion are potential fault-lines in Singapore society. It is a day for students to reflect on, and celebrate Singapore’s success as a harmonious nation and society built on a rich diversity of cultures and heritages.
 
 ![Racial Harmony Day](/images/Racial%20Harmony%20Day.png)
 
@@ -127,16 +126,16 @@ National Day is celebrated every year to commemorate Singapore’s independence 
 ![National Day](/images/National%20Day.png)
 
 **P5 NE Show** <br>
-The NE Show is organised annually for P5 students to instill a sense of pride and belonging in them and to bring across the significance of our National Day. It also aims to develop group spirit among our students and their commitment to the community and our nation.  Our students also exercised their social responsibility as they ensured they kept the sector they sat at litter-free.
+The NE Show is organised annually for P5 students to instill a sense of pride and belonging in them and to bring across the significance of our National Day. It also aims to develop group spirit among our students and their commitment to the community and our nation.&nbsp; Our students also exercised their social responsibility as they ensured they kept the sector they sat at litter-free.
 
 ![P5 NE Show](/images/P5%20NE%20Show.png)
 
 **Values-In-Action (VIA)** <br>
-Values-in-Action are learning experiences that support our students’ development as socially responsible citizens who show care and contribute positively to the school, community and environment through the learning and application of values, knowledge and skills.   
+Values-in-Action are learning experiences that support our students’ development as socially responsible citizens who show care and contribute positively to the school, community and environment through the learning and application of values, knowledge and skills.&nbsp;  
   
 
-At Punggol View, VIA focuses on <br>
-a) **A**ssisting the needy  <br>
+At Punggol View, VIA focuses on&nbsp;<br>
+a) **A**ssisting the needy&nbsp;&nbsp;<br>
 b) **B**uilding bonds with the Community<br>
 c) **C**ommitting to sustain as a Green school
 
