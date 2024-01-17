@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - 2024 P1 Curriculum Briefing.md
       - Student ICON, MIMS.md
       - SLS.md
       - Things to bring (2024).md
@@ -18,10 +19,6 @@ collections:
       - For Teachers.md
       - For Students.md
       - Media (Gallery).md
-      - 2023 Curriculum Briefing/.keep
-      - 2023 Curriculum Briefing/CL.md
-      - 2023 Curriculum Briefing/ML.md
-      - 2023 Curriculum Briefing/TL.md
       - SP CCA.md
       - Social Media (MOE).md
       - E Learning.md
