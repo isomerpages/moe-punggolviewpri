@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - 2024 P1 Curriculum Briefing/Pack 3 (Tamil Language).md
       - 2024 P1 Curriculum Briefing/Pack 2 (Malay Language).md
       - 2024 P1 Curriculum Briefing/Pack 1 (Chinese Language).md
       - 2024 P1 Curriculum Briefing/.keep
