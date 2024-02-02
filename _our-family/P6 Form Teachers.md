@@ -13,4 +13,4 @@ variant: markdown
 6 Opal | Mr Harikrishnan<br>Ms Sylvia Wang<br>Mr Fabian Koh | harikrishnan_jayapalan@moe.edu.sg<br>wang_yong_ling_sylvia@moe.edu.sg<br>koh_zong_cheng_fabian@moe.edu.sg
 6 Pearl | Ms Priya<br>Mdm Tan Siew Chian | priya_seridaran@moe.edu.sg<br>tan_siew_chian@moe.edu.sg
 6 Ruby | Ms Alyani<br>Ms Hadijah<br>Mdm Teo Lee Hwa | alyani_mohamed_husain@moe.edu.sg<br>hadijah_abdul_rahman@moe.edu.sg<br>teo_lee_hwa@moe.edu.sg
-6 Sapphire | Mr Hizammuddin<br>Mr Christopher Cheng<br>Mr Luo Kangming Eugene | mohd_hizammuddin_mohd_yusof@moe.edu.sg<br>christoper_cheng@moe.edu.sg<br>luo_kangming_eugene@moe.edu.sg
+6 Sapphire | Mr Hizammuddin<br>Mr Christopher Cheng<br>Mr Luo Kangming Eugene | mohd_hizammuddin_mohd_yusof@moe.edu.sg<br>christopher_cheng@moe.edu.sg<br>luo_kangming_eugene@moe.edu.sg
