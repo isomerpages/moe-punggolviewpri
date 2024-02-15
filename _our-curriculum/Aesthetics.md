@@ -187,9 +187,9 @@ and purpose in their music learning are:&nbsp;</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a15.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a16.jpg">
 </div>
 <p></p>
