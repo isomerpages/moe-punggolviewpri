@@ -105,8 +105,9 @@ Electronic Portfolio)</p>
 <p>
 <br><strong>Key Assessment Areas:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a8.jpg">
 </div>
 <p>
 <br><strong>PGVP 2023 Virtual Arts Showcase:</strong>
@@ -120,8 +121,60 @@ Electronic Portfolio)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/a10.jpg">
 </div>
-<p></p>
+<p><strong><u>Music Learning Framework</u></strong>
+</p>
+<p>The music curriculum is anchored on creating direct experiences in Listening
+and Responding, Creating and Performing Music. It is through these music-making
+activities, at the end of six years of music education, students develop</p>
+<p>• an awareness and appreciation of music of various cultures,</p>
+<p>• an ability for creative expression and communication through music,
+and</p>
+<p>• an understanding of music elements and concepts.</p>
 <p>
 <br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a11.jpg">
+</div>
+<p>
+<br>Music lessons are planned and delivered using the <strong><em>Experience – Concept – Application (ECA)</em></strong> approach.</p>
+<p>In the <strong>Experience</strong> phase, students experience and perceive
+a new concept through singing and accompanying kinaesthetic, aural and
+visual activities usually in the form of games. This phase provides a stimulus
+and preparation for the concept to be introduced. It also enables the teacher
+to reach out to the different learning styles and needs in a class.</p>
+<p>In the <strong>Concept</strong> phase, the teacher helps students to relate
+the activities in the Experience phase to formal learning. It allows students
+to make sense of the prior activities and to understand the musical concept.</p>
+<p>The A<strong>pplication</strong> phase involves various forms of practice
+and reinforcement. It also helps to develop critical and creative thinking
+while extending our students’ learning.</p>
+<p></p>
+<p><strong>Our Music Curriculum:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a12.jpg">
+</div>
+<p>The three Core Understandings that enable our PGVP students to find relevance
+and purpose in their music learning are:&nbsp;</p>
+<ol>
+<li>
+<p><strong>Music expresses our experiences and values&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Music connects individuals and communities&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Music is shaped by historical, social and cultural contexts</strong>
 <br>
 </p>
+</li>
+</ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a13.jpg">
+</div>
+<p></p>
