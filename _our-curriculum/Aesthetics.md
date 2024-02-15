@@ -119,7 +119,7 @@ Electronic Portfolio)</p>
 <br><a href="https://www.artsteps.com/view/6546565d87790ec5b8fcb95c" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.artsteps.com/view/6546565d87790ec5b8fcb95c</u></a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a10.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/a10.jpg">
 </div>
 <p><strong><u>Music Learning Framework</u></strong>
 </p>
@@ -168,7 +168,7 @@ and purpose in their music learning are:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>Music is shaped by historical, social and cultural contexts</strong>
+<p><strong>Music is shaped by historical, social and cultural contexts</strong> 
 <br>
 </p>
 </li>
@@ -176,5 +176,20 @@ and purpose in their music learning are:&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/a13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a14.jpg">
+</div>
+<p><strong>Assembly and Music Happy Hall Programmes:</strong>
+</p>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a15.jpg">
 </div>
 <p></p>
