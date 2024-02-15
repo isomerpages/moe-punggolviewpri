@@ -79,9 +79,49 @@ stop motion)</p>
 <p>Textile (Batik, marbling, stamping)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:-24.752692729234695px;margin-top:-52.000184029340744px;" height="379.20352470874786" width="270.72838068008423" alt="A group of children sitting on the floor in a room with paintings on the wall
-
-Description automatically generated" src="https://lh7-us.googleusercontent.com/QzMNm0wHplIi2EfbuCqTcP2oY14oLL8RdwzUbyO9iTu1q2AOZWEA3jIFyZThQmn13bQR73hztpQlXWocVBJL0W-5HuVosOqgBzHqGWtuOLsC5cyl5Hb-O0-INgLnb-hBDT1V2O0UY5vUavuPydqD_w">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a4.jpg">
 </div>
 <p></p>
+<p><strong>Key Programmes:</strong>
+</p>
+<p>Partnering with local artists for Artist Talk, post-PSLE Artist Immersion
+Mural Programme and Artist-In-School-Scheme (AISS):</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a6.jpg">
+</div>
+<p></p>
+<p>Using Technology to transform the Art Classrooms(New Media, StopMotion,
+Electronic Portfolio)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a7.jpg">
+</div>
+<p>
+<br><strong>Key Assessment Areas:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a12.jpg">
+</div>
+<p>
+<br><strong>PGVP 2023 Virtual Arts Showcase:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a9.jpg">
+</div>
+<p>
+<br><a href="https://www.artsteps.com/view/6546565d87790ec5b8fcb95c" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.artsteps.com/view/6546565d87790ec5b8fcb95c</u></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a10.jpg">
+</div>
+<p></p>
+<p>
+<br>
+<br>
+</p>
