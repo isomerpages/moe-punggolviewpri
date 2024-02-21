@@ -4,7 +4,7 @@ permalink: /ez-links/student-icon/
 description: ""
 variant: tiptap
 ---
-<h4>Password reset request should only be done by parents of students. </h4>
+<h4>Password reset request should only be done by parents of students.</h4>
 <p></p>
 <h4>Password reset</h4>
 <ul data-tight="true" class="tight">
