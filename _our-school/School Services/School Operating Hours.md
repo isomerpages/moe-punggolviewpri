@@ -99,7 +99,7 @@ after-school programmes on Tuesdays.</p>
 </table>
 <p><em>Selected Co-Curricular Activities (CCAs), Learning Support Programme for English Language and Mathematics, and remedial classes are held outside the normal school hours on weekdays.</em>
 </p>
-<h3>Office Operating Hours </h3>
+<h3>Office Operating Hours</h3>
 <p><strong>Normal School days</strong> 
 <br>7.00am to 5.30pm</p>
 <p><strong>School Holidays</strong> 
