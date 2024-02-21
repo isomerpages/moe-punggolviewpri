@@ -2,7 +2,7 @@
 title: MIMS
 permalink: /ez-links/student-icon/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Password reset request should only be done by parents of students.</h4>
 <p></p>
