@@ -2,22 +2,22 @@ collections:
   ez-links:
     output: true
     order:
-      - 2024 P1 Curriculum Briefing.md
-      - Things to bring (2024).md
-      - 2024 P1 Orientation.md
-      - P1 Admin Matters.md
-      - Canteen Advertisement.md
+      - For Parents/.keep
       - For Parents/SLS.md
       - For Parents/MIMS.md
       - For Parents/2024 Booklists.md
-      - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/PGVP Quarterly.md
       - For Parents/HBL.md
       - For Parents/Briefing Slides.md
       - For Parents/Financial Assistance Schemes (FAS).md
-      - For Teachers.md
       - For Students.md
+      - For Teachers.md
+      - 2024 P1 Curriculum Briefing.md
+      - Things to bring (2024).md
+      - 2024 P1 Orientation.md
+      - P1 Admin Matters.md
+      - Canteen Advertisement.md
       - Media (Gallery).md
       - Social Media (MOE).md
       - Health Promotion Month.md
