@@ -5,7 +5,24 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-#### \[Parent Kit\] Transitioning Back to School - It's a New Normal for us all
+#### Parents Gateway
+
+Dear parents,&nbsp;  
+  
+Below is an infographic and video explaining what the Parents Gateway is.
+
+[For a more detailed FAQ, please click here. ](/files/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)
+
+
+<img src="/images/pgateway.jpg" style="width:85%">
+
+#### Snacks For Break Time
+
+<img src="/images/Snacks for Break Time_HPB.jpg" style="width:85%">
+
+#### \[Parent Kit\] 
+
+Transitioning Back to School - It's a New Normal for us all
 
 Dear parents, &nbsp;
 
@@ -84,17 +101,3 @@ Here are some technology tips that you can adopt to ensure good ICT practices fr
 
 [Tips for Parents.pdf](/files/Children%20%20Technology%20Tips%20for%20Parents%20(003).pdf)
 
-#### Parents Gateway
-
-Dear parents,&nbsp;  
-  
-Below is an infographic and video explaining what the Parents Gateway is.
-
-[For a more detailed FAQ, please click here. ](/files/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)
-
-
-<img src="/images/pgateway.jpg" style="width:85%">
-
-#### Snacks For Break Time
-
-<img src="/images/Snacks for Break Time_HPB.jpg" style="width:85%">
