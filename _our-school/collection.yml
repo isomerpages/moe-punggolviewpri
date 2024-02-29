@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Corporate Videos.md
       - Vision.md
       - Mission.md
       - Motto.md
@@ -24,3 +23,4 @@ collections:
       - FAQS.md
       - Strategic Thrusts.md
       - School Song.md
+      - Corporate Videos.md
