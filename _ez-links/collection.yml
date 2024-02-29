@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - For Parents/2024 P1 Curriculum Briefing.md
       - For Parents/.keep
       - For Parents/SLS.md
       - For Parents/MIMS.md
