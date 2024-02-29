@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - SLS.md
       - 2024 P1 Curriculum Briefing.md
       - Things to bring (2024).md
       - 2024 P1 Orientation.md
