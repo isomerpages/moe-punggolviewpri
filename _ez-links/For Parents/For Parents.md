@@ -3,6 +3,7 @@ title: For Parents
 permalink: /ez-links/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 #### Primary 5 Briefing via Zoom
 
@@ -167,7 +168,6 @@ Below is an infographic and video explaining what the Parents Gateway is.
 
 [For a more detailed FAQ, please click here. ](/files/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)
 
-**REQUIRE JACKSON INPUT VIDEO**
 
 <img src="/images/pgateway.jpg" style="width:85%">
 
