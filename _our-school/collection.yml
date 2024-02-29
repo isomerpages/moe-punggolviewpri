@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Corporate Videos.md
       - Vision.md
       - Mission.md
       - Motto.md
