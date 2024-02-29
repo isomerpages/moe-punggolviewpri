@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - SLS.md
       - MIMS.md
       - For Parents/.keep
       - For Parents/P1 Admin Matters.md
