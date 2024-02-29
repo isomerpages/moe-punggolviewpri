@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - For Parents/Forms & Useful Links.md
       - For Parents/.keep
       - For Parents/SLS.md
       - For Parents/MIMS.md
