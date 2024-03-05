@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 #### Our Curricular Goal
   
@@ -51,8 +52,7 @@ Our students will be able to:
 </tbody>
 </table>
 
-<img src="/images/mathematics.png"  
-style="width:70%">
+<img src="/images/mathematics.png" style="width:70%">
 
 #### We support our students in their learning through: 
 
@@ -60,36 +60,32 @@ style="width:70%">
 
   
 
-It matters to us how our students learn. Learning will be enduring when students make sense of it. Through carefully planned lessons, our students actively engage in sense making by interacting, inquiring, doing and teaching others. 
+It matters to us how our students learn. Learning will be enduring when students make sense of it. Through carefully planned lessons, our students actively engage in sense making by interacting, inquiring, doing and teaching others.&nbsp;
 
   
 **Providing timely feedback to students and parents**
 
   
 
-We constantly gather information about our students’ thinking, learning and disposition through appropriate assessment methods, both formal and informal.  The information gathered enables us to reflect on instruction and decide on the next step for learning and teaching. Using the information, we can also provide feedback that enables our students to know their progress, strengths and weaknesses so that they can improve their learning. The feedback also motivates and engages the students so that they have greater ownership of their learning to strive for improvement. 
+We constantly gather information about our students’ thinking, learning and disposition through appropriate assessment methods, both formal and informal. &nbsp;The information gathered enables us to reflect on instruction and decide on the next step for learning and teaching. Using the information, we can also provide feedback that enables our students to know their progress, strengths and weaknesses so that they can improve their learning. The feedback also motivates and engages the students so that they have greater ownership of their learning to strive for improvement.&nbsp;
 
   
 
 **Below show examples of how we use the various assessment methods where appropriate to capture the various facets of learning:**
 
-*   To check the understanding of concepts and skills, effective questioning is emphasised during the daily classroom interactions. Teachers ask probing questions and listen carefully to students’ responses. 
+*   To check the understanding of concepts and skills, effective questioning is emphasised during the daily classroom interactions. Teachers ask probing questions and listen carefully to students’ responses.&nbsp;
 
   
 
-*   To check fluency in the use of Mathematical vocabulary and language and thinking processes, Maths Journal writing is used. Students are encouraged to communicate their thoughts and support their reasoning or justification through drawing or words. 
+*   To check fluency in the use of Mathematical vocabulary and language and thinking processes, students are encouraged to communicate their thoughts and support their reasoning or justification through drawing or words.&nbsp;
 
   
 
-*   To glimpse how our students solve problems where the focus is on the process besides the answer, we use Performance Task. By observing and listening to our students explain their methods and workings and watching them at work, we can understand our students’ perspectives better or spot the misconceptions more easily. 
+*   To glimpse how our students solve problems where the focus is on the process besides the answer. By observing and listening to our students explain their methods and workings and watching them at work, we can understand our students’ perspectives better or spot the misconceptions more easily.&nbsp;
 
   
 
-*   To glimpse our students’ feelings about their learning in Mathematics, students will write or draw in their Math Journal.  This allows us to adjust the learning environment or instruction to meet the students’ needs where necessary. 
-
-  
-
-*   To check our students’ mastery of the concepts and skills at the end of a unit of study, our students will sit for Diagnostic Assessments and/or Review Tests. The results will be used as part of our ongoing review of instructional goals and programmes and feedback to parents. 
+*   To check our students’ mastery of the concepts and skills at the end of a unit of study, our students will sit for Topical Mastery and/or Review Tests. The results will be used as part of our ongoing review of instructional goals and programmes and feedback to parents.&nbsp;
 
   
 
