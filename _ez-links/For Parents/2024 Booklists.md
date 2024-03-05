@@ -3,6 +3,7 @@ title: 2024 Booklists
 permalink: /ez-links/2024booklists/
 variant: markdown
 description: ""
+third_nav_title: For Parents
 ---
 [P2 Booklist](/files/Primary_2.pdf)
 
