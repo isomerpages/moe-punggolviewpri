@@ -2,6 +2,7 @@
 title: Parents Support Group
 permalink: /our-partners/parents-support-group/
 description: ""
+variant: markdown
 ---
 <img src="/images/psg%20logo.jpg" style="width:183px;height:183px;margin-left:15px;" align="left">
 
@@ -9,7 +10,7 @@ description: ""
 
 ![](/images/p2%20(1).jpg)
 
-#### PSG Registration 2023
+#### PSG Registration 
 
 [Click here to register!](https://form.gov.sg/615ac28adf018000122c1248)  
   
