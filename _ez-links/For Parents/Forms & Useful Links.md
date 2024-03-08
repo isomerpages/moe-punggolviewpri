@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-#### MOE FAS ONLINE APPLICATION (2023)&nbsp;
+#### MOE FAS ONLINE APPLICATION&nbsp;
 
 Click below to register online<br>
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
