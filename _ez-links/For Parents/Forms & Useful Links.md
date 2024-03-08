@@ -18,7 +18,7 @@ If you wish to enrol/transfer your child to Punggol View Primary School, please 
 
 #### PGVP Drive-through Car Decal
 
-[Click here for the appilcation form for the PGVP Drive-through car decal for 2022](https://go.gov.sg/pvpsdrivethrupass), or scan the QR code below.  
+[Click here for the appilcation form for the PGVP Drive-through car decal](https://go.gov.sg/pvpsdrivethrupass), or scan the QR code below.  
   
 <img src="/images/drivethru22.png" style="width:40%">
 
