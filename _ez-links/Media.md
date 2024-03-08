@@ -10,7 +10,7 @@ variant: markdown
 Check out our social media pages.
 
 #### Facebook
-https://www.facebook.com/PunggolViewPrimarySchool
+[www.facebook.com/punggolviewprimaryschool](www.facebook.com/punggolviewprimaryschool)
 
 #### Youtube
-https://www.youtube.com/@pgvps
+[www.youtube.com/@pgvps](https://www.youtube.com/@pgvps)
