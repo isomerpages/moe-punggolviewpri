@@ -16,6 +16,3 @@ Below is an infographic and video explaining what the Parents Gateway is.
 
 <img src="/images/pgateway.jpg" style="width:85%">
 
-#### Snacks For Break Time
-
-<img src="/images/Snacks for Break Time_HPB.jpg" style="width:85%">
