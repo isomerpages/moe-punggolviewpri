@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Distinctive Programmes/LLP.md
       - Distinctive Programmes/ALP.md
       - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/.keep
