@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/Code For fun.md
       - ICT/Information and Communication Technology (ICT).md
       - ICT/.keep
       - Distinctive Programmes/.keep
