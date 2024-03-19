@@ -2,7 +2,7 @@
 layout: homepage
 title: Punggol View Primary School
 description: Punggol View Primary School
-image: /images/sch banner 2.jpeg
+image: /images/School_Logo__high_res__1000x920_copy__PNG_.png
 permalink: /
 notification: ""
 sections:
