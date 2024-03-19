@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - ICT/Information and Communication Technology (ICT).md
       - ICT/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/ALP.md
