@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Distinctive Programmes/.keep
       - Curriculum Framework.md
       - English Language/.keep
       - English Language/English Language.md
