@@ -2,9 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - ICT/Code For fun.md
-      - ICT/Information and Communication Technology (ICT).md
-      - ICT/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/ALP.md
       - Distinctive Programmes/LLP.md
@@ -26,6 +23,9 @@ collections:
       - Science/Integration of Science.md
       - Aesthetics.md
       - Character and Citizenship Education (CCE).md
+      - ICT/.keep
+      - ICT/Code For fun.md
+      - ICT/Information and Communication Technology (ICT).md
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Programmes.md
