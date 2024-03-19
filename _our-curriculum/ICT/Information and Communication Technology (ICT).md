@@ -2,6 +2,7 @@
 title: Information and Communication Technology (ICT)
 permalink: /our-curriculum/information-and-communication-technology-ict/
 description: ""
+third_nav_title: ICT
 ---
 #### DEPARTMENT FOCUS
 
@@ -32,15 +33,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Student%20Learning%20Space%20(SLS).png" alt="Student Learning Space" style="width:40%;">  
+<img src="/images/Student%20Learning%20Space%20(SLS).png" alt="Student Learning Space" style="width:40%;">  
   
-</body>
+
 
 The Singapore Student Learning Space is a platform that will support Teaching and Learning in Punggol View Primary School. In particular, it will help empower our students to drive their own learning according to their needs and interests. By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.
 
   
 
-The SLS allows our students to take greater ownership of their learning and work collaboratively. In line with 21CC development, the SLS seeks to encourage learners to be self-directed and collaborative and promote student ownership. Through this process, students will discover the **joy of learning.**
+The SLS allows our students to take greater ownership of their learning and work collaboratively. In line with 21CC development, the SLS seeks to encourage learners to be self-directed and collaborative and promote student ownership. Through this process, students will discover the&nbsp;**joy of learning.**
 
 <style>  
 img {  
@@ -49,9 +50,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Student%20Learning%20Space%20(SLS)_2.jpg" alt="Student Learning Space" style="width:50%;">  
+<img src="/images/Student%20Learning%20Space%20(SLS)_2.jpg" alt="Student Learning Space" style="width:50%;">  
   
-</body>
+
 
 #### Cyber Wellness Education
 
@@ -62,11 +63,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Cyber%20Wellness%20Education.jpg" alt="Cyber Wellness Education" style="width:50%;">  
+<img src="/images/Cyber%20Wellness%20Education.jpg" alt="Cyber Wellness Education" style="width:50%;">  
   
-</body>
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in the online space. The focus of CW is to help students to become responsible digital learners. It is important for students to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practice safe and responsible use. Students should also be a positive peer influence and harness the power of technology for the good of the community.     
+
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in the online space. The focus of CW is to help students to become responsible digital learners. It is important for students to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practice safe and responsible use. Students should also be a positive peer influence and harness the power of technology for the good of the community.&nbsp; &nbsp;  
 
   
 ![Cyber Wellness Education](/images/Cyber%20Wellness%20Education_3.jpg)
@@ -106,16 +107,16 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Baseline%20ICT%20Training%20for%20Primary%201%20and%20Primary%202.jpg" alt="Baseline ICT Training for Primary 1 and Primary 2" style="width:50%;">  
+<img src="/images/Baseline%20ICT%20Training%20for%20Primary%201%20and%20Primary%202.jpg" alt="Baseline ICT Training for Primary 1 and Primary 2" style="width:50%;">  
   
-</body>
+
   
 
 **Baseline ICT Training for Primary 1 and Primary 2**
 
-• Primary 1: Touch Typing & MS Word
+• Primary 1: Touch Typing &amp; MS Word
 
-• Primary 2: MS Word & MS Powerpoint
+• Primary 2: MS Word &amp; MS Powerpoint
 
 #### 'Code For Fun' Programme
 

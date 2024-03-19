@@ -1,5 +1,5 @@
 ---
-title: For Parents
+title: Parents Gateway
 permalink: /ez-links/for-parents/
 description: ""
 third_nav_title: For Parents

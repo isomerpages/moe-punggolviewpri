@@ -2,6 +2,7 @@
 title: Distinctive Programmes
 permalink: /our-curriculum/distinctive-programmes/
 description: ""
+third_nav_title: Distinctive Programmes
 ---
 #### PGVP Applied Learning Programme (ALP) - Effective & Empathetic Communicators (E²C@PGVP)
 We are pleased to announce that our application for ALP has been approved at the end of 2020. Our ALP will focus on communication and we aim to leverage real-life issues and authentic problems to equip our students with effective communicative skills, grounded in values and expressing empathy in communication to achieve impact, effect and affect. Our ALP, entitled Effective and Empathetic Communicators (E²C @ PGVP), seeks to address a key competence on “Communication, Collaboration and Information Skills” which are important future ready skills for our students. 

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-#### MOE FAS ONLINE APPLICATION (2023)&nbsp;
+#### MOE FAS ONLINE APPLICATION&nbsp;
 
 Click below to register online<br>
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
@@ -18,7 +18,7 @@ If you wish to enrol/transfer your child to Punggol View Primary School, please 
 
 #### PGVP Drive-through Car Decal
 
-[Click here for the appilcation form for the PGVP Drive-through car decal for 2022](https://go.gov.sg/pvpsdrivethrupass), or scan the QR code below.  
+[Click here for the appilcation form for the PGVP Drive-through car decal](https://go.gov.sg/pvpsdrivethrupass), or scan the QR code below.  
   
 <img src="/images/drivethru22.png" style="width:40%">
 
