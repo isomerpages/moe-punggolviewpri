@@ -9,13 +9,11 @@ sections:
   - hero:
       background: /images/punggol pri.gif
       dropdown:
-        title: ANNOUNCEMENTS
+        title: Quick Links
         options:
-          - title: PGVP Quarterly 2024 Term 1
-            url: https://www.punggolviewpri.moe.edu.sg/ez-links/for-parents/letters/
-          - title: Student Icon - Locked Accounts  and Password Reset
+          - title: MIMS Password reset
             url: /ez-links/student-icon
-          - title: Things to bring (2024)
-            url: https://www.punggolviewpri.moe.edu.sg/ez-links/things2024/
+          - title: SLS Password reset
+            url: /ez-links/sls/
       subtitle: Click below to read the latest announcements
 ---
