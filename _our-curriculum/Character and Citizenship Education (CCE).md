@@ -94,7 +94,13 @@ and close parent-school engagement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Values In Action (VIA)</p>
+<p>·&nbsp;Canteen Cleanliness Programme&nbsp;</p>
+<p>·&nbsp;Use Our Hands Campaign</p>
+<p>·&nbsp;Appreciation to Non-Teaching Staff</p>
+<p>·&nbsp;CNY VIA</p>
+<p>· Food from the Heart</p>
+<p>Project OutR3ICH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
