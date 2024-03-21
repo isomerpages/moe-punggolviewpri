@@ -3,47 +3,85 @@ title: Science
 permalink: /our-curriculum/science/
 description: ""
 third_nav_title: Science
+variant: tiptap
 ---
-#### Curricular Goal
-A Reflective Science Inquirer
-
-<p><u>Our Aims</u></p>
-
-To provide our students with experiences which build on their interest in and stimulate their curiosity about their physical environment
-
-To provide our students with basic scientific terms and concepts to help them understand themselves and the world around them
-
-To provide our students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry
-
-#### Programmes
-
-##### Provision of Quality Learning Experiences for Our Students
-
-<p style="color:black" align="center"><i>Our belief<br>“I hear, I forget,<br>I see, I remember,<br>I do, I understand”<br>- Confucius</i></p>
-
-We support our students in their learning of Science using the 5E Instructional Model approach, namely: _Engage_, _Explore_ , _Explain_ , _Evaluate_ and _Extend_ . 
-
-**Engage** our students through carefully designed learning activities to allow our students to explore scientific concepts in an active manner.
-
-As our students **explore** through these activities, they discuss and **explain** the concepts to their classmates, which helps to develop their conceptual understanding of the concepts. They will also **evaluate** the concepts acquired.
-
-  
-After learning, students also need to extend their learning by applying the concepts into their daily lives or activities.
-
-
-This 5E approach allows our students to progress from concrete experiences to the development of understanding and application of concepts.
-
-<p><u>Happy Hall</u></p>
-Happy hall sessions allow teachers to engage pupils to apply science in daily life. During these sessions, science teachers share Just-In-Time scientific phenomena or discoveries with the pupils. The sessions serve as a platform to engage pupils on learning about science and the teachers will continue the conversations in the science classrooms.
-
-<p><u>Earth Week and Green Initiatives across PGVP</u></p>
-
-Earth week include many activities that take place during assembly and recesses. These activities allows pupils to understand their roles in protecting the Earth and conserving precious resources.
-
-Our pupils and staff participate in a year-long sustained efforts in recycling. Green monitors are trained to carry out the recycling programme in school. The green monitors are also given opportunities to participate in external competitions or programmes organised by environmental agencies.
-
-<p><u>E2K (Science)</u></p>
-
-This programme is offered to primary 4 and primary 5 pupils who are performing well and has a keen interest in Science. The programme aims to foster independence and confidence in scientific inquiry as well as to develop science process skills. Pupils collaborate with their peers and engage in science experiments and discussions. Through the programme, pupils gain 21st century competencies such as resilience, critical and inventive thinking and effective communicative skills.
-
-![E2K (Science)](/images/E2K%20Science.png)
+<h4><strong>Our Curricular/Science</strong></h4>
+<p></p>
+<blockquote>
+<h4><strong>Curricular Goal</strong></h4>
+</blockquote>
+<p>A Reflective Science Inquirer</p>
+<blockquote>
+<h4><strong>Our Aims</strong></h4>
+</blockquote>
+<p>To provide our students with experiences which stimulate their curiosity
+about their physical environment.</p>
+<p>To provide our students with basic scientific terms and concepts to help
+them understand themselves and the world around them.</p>
+<p>To provide our students with opportunities to demonstrate ways of thinking
+and doing,&nbsp; and relating science to their daily lives and the society.</p>
+<blockquote>
+<h4><strong>Programmes</strong></h4>
+</blockquote>
+<p>Provision of Quality Learning Experiences for Our Students</p>
+<p><u>Our belief</u>
+<br>“I hear, I forget,
+<br>I see, I remember,
+<br>I do, I understand”
+<br>- Confucius</p>
+<p>The science curriculum was updated in 2023. The science curricular framework
+advocates students as inquirers and teachers as facilitators. We support
+our students in their learning of Science using the integrated suite of
+resources&nbsp;from MOE, supplemented by resources curated by the science
+teachers.</p>
+<p>Our students engage in learning experiences to explore scientific concepts
+actively. As they collaborate to carry out the activities, they discuss
+and explain&nbsp;the observations, which further develop their conceptual
+understanding of the concepts. The students then extend their learning
+by applying the concepts into their daily lives or new contexts.</p>
+<p></p>
+<p></p>
+<blockquote>
+<h4><strong>Happy Hall</strong></h4>
+</blockquote>
+<p>Happy Hall sessions allow teachers to engage students to apply science
+in their daily life. During these sessions, science teachers share Just-In-Time
+scientific phenomena or discoveries with the students. The sessions serve
+as a platform to engage students in science beyond their classrooms.</p>
+<blockquote>
+<h4><strong>Earth Week and Green Initiatives across PGVP</strong></h4>
+</blockquote>
+<p>Earth Week encompasses many activities that take place during assembly
+and recesses. These activities allow students to understand their roles
+in sustainability – protecting the Earth and conserving precious resources,
+and appreciate the environment that they live in.</p>
+<p>Our students and staff participate in year-long sustained efforts in recycling.
+Green Leaders are trained to carry out the recycling programme in school.
+Green Leaders are also given opportunities to participate in external competitions
+or programmes organised by environmental agencies.</p>
+<p></p>
+<blockquote>
+<h4><strong>Eco-stewardship @ PGVP</strong></h4>
+</blockquote>
+<p>Aligned with the national sustainability agenda under the Singapore Green
+Plan 2030, MOE has worked with schools to promote sustainable living, empower
+students to play their part for the environment, and strengthen our green
+efforts through the establishment of Eco-stewardship Programme (ESP) in
+schools. Eco-stewardship @ PGVP ensures that environmental education and
+sustainability practices are pervasive throughout different aspects of
+school, beyond the learning of science.</p>
+<blockquote>
+<h4><strong>E2K (Science)</strong></h4>
+</blockquote>
+<p>This programme is offered to selected Primary 4 students who have and
+are performing well in Science and have a keen interest in Science. It
+is a two-year programme that aims to foster independence and confidence
+in scientific inquiry as well as to develop science process skills. Students
+collaborate with their peers and engage in science experiments and discussions.
+Through the programme, students gain 21st Century Competencies such as
+resilience, being an active contributor, critical, adaptive, and inventive
+thinking and effective communication skills.**</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="E2K (Science)" src="/images/E2K%20Science.png">
+</div>
+<p></p>
