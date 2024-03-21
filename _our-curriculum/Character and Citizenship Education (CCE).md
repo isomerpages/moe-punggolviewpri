@@ -349,6 +349,7 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 </p>
 <p></p>
 <p></p>
+<p></p>
 <blockquote>
 <h4><strong>National Education (NE)</strong></h4>
 </blockquote>
@@ -364,7 +365,141 @@ aspirational, allowing for individual sense-making so as to nurture engaged
 citizens, who are socially aware, adept at critical thinking, and informed
 about local, regional and global issues.</p>
 <p></p>
+<blockquote>
+<h4><strong>NE Commemorative Days</strong></h4>
+</blockquote>
+<p>National Education (NE) Commemorative Days are linked to defining moments
+in Singapore’s history. The four NE Commemorative Days (Total Defence Day,
+International Friendship Day, Racial Harmony Day and National Day) anchor
+on the following key dispositions for citizenship in Singapore to shape
+the purpose of and approach of the programmes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Sense of Belonging: To develop a deeper understanding of who we are
+as Singaporeans, and a shared understanding of the values that are important
+to us as a nation.</p>
+</li>
+<li>
+<p>A Sense of Hope: To have confidence and optimism in Singapore’s future
+and the resilience to face the challenges ahead.</p>
+</li>
+<li>
+<p>A Sense of Reality: To be aware of contemporary realities – including
+Singapore’s constraints and vulnerabilities – which affect us as a nation
+amidst the backdrop of a less predictable world.</p>
+</li>
+<li>
+<p>The Will to Act: To be active citizens who have a collective resolve and
+a sense of shared mission towards building a Singapore for all.</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__6_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__7_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__8_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td__9_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ifd__6_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
