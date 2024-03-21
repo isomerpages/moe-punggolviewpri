@@ -337,7 +337,32 @@ unit of society. This means encouraging healthy, heterosexual marriages
 and stable nuclear family units with extended family support. The teaching
 and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p><strong>Please click on the link below to access info from MOE website</strong>
+</p>
+<p><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality education (MOE)</a></strong>
+</p>
+<p><strong><a href="https://www.punggolviewpri.moe.edu.sg/files/2024_Info_on_SEd_for_schs_website__PGVP_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Info on SEd for schs website (PGVP)</a></strong>
+</p>
+<p><strong>Please click the link below for the Opt-out form.</strong>
+</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgvpsed2024</a></strong>
+</p>
 <p></p>
+<p></p>
+<blockquote>
+<h4>National Education (NE)</h4>
+</blockquote>
+<p>National Education is a significant aspect of CCE, comprises a wide range
+of school efforts that help students experience and explore their national
+identity as Singaporeans, understand the realities and challenges unique
+to our nation and foster a sense of hope and belonging to Singapore. A
+strong sense of belonging, reality and hope motivates our students to be
+active citizens. While they seek to achieve their personal life goals,
+they also see themselves as playing a contributory role in their families,
+school, and immediate communities. NE in CCE aims to be empowering and
+aspirational, allowing for individual sense-making so as to nurture engaged
+citizens, who are socially aware, adept at critical thinking, and informed
+about local, regional and global issues.</p>
 <p></p>
 <p></p>
 <p></p>
