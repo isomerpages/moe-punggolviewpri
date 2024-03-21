@@ -15,5 +15,4 @@ sections:
             url: /ez-links/student-icon
           - title: SLS Password reset
             url: /ez-links/sls/
-      subtitle: Click below to read the latest announcements
 ---
