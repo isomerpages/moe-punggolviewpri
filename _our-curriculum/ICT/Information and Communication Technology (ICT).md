@@ -25,4 +25,5 @@ ICT-enriched learning experiences.</p>
 of appropriate skills, behaviour, attitudes and values towards ICT usage,
 thus enabling students to become Competent and Responsible digital learners.</p>
 <p></p>
-<p>STUDENT LEARNING SPACE</p>
+<h4><strong>STUDENT LEARNING SPACE</strong></h4>
+<p>The Singapore Student Learning Space is a platform that will support Teaching</p>
