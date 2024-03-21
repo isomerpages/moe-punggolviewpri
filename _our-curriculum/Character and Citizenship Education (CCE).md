@@ -690,4 +690,16 @@ Studies (SS) curricula.</p>
 </tbody>
 </table>
 <p></p>
+<blockquote>
+<h4><strong>Outdoor Experiential Learning</strong></h4>
+</blockquote>
+<p>Field-based experiential learning allows the students to contextualise
+their learning experience in an authentic real-world setting, thus enabling
+the relational learning of concepts and content. Students would also be
+able to conduct hands-on exploration in a focused area of study, thus being
+engaged in multi-sensory modes. As part of engaging students’ interest
+in inquiry, field-based learning would also motivate and sustain their
+interest in the subject matter as they would learn to explore, construct
+new knowledge and make connections to the topic being studied.</p>
+<p></p>
 <p></p>
