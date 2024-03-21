@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/punggol pri.gif
+      background: /images/2024_gif_for_homepage.gif
       dropdown:
         title: Quick Links
         options:
