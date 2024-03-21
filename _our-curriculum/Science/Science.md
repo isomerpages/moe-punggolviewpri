@@ -24,7 +24,7 @@ and doing,&nbsp; and relating science to their daily lives and the society.</p>
 <h4><strong>Programmes</strong></h4>
 </blockquote>
 <p>Provision of Quality Learning Experiences for Our Students</p>
-<p><u>Our belief</u>
+<p><u>Our belief</u> 
 <br>“I hear, I forget,
 <br>I see, I remember,
 <br>I do, I understand”
