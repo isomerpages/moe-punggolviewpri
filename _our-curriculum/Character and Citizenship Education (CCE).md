@@ -149,3 +149,76 @@ and close parent-school engagement.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Key Student Development Experiences</strong></h4>
+<p>Student development experiences (SDEs) are programmes and activities that
+contribute towards the holistic development of our students in the physical,
+aesthetic, intellectual, moral and social domains.</p>
+<p>&nbsp;</p>
+<p>The following are highlights of our students’ experiences:</p>
+<blockquote>
+<h4><strong>LOVE@PGVP</strong></h4>
+</blockquote>
+<p>LOVE (Living Our Values Everyday)@PGVP is a signature programme that aims
+to affirm our students for doing the right thing and to inspire others
+to continue to give of their best. The programme acknowledges students
+who exemplify the R³ICH values by awarding them value badges.</p>
+<p>Students are encouraged to learn and demonstrate the school values via
+a set of observable behaviours for each value stated in the Values Booklet.&nbsp;
+Teachers will then nominate these students to receive a value badge.&nbsp;</p>
+<p>Narratives of notable local and international “heroes or heroines” who
+had demonstrated these values, are taught as moral exemplars. The lessons
+are taught during CCE Lessons to provide concrete role models whom the
+students can learn from.&nbsp; By so doing, we hope that the students will
+live out the values every day.</p>
+<p>To raise awareness on the featured school value, an interactive assembly
+programme was conducted. The programmes includes a skit presentation by
+our teachers and students. Students reflected on the message delivered
+at the Assembly talks by completing a self-reflection of their behaviour
+in the Values Booklet. This message will be further reinforced during Form
+Teacher Guidance Period (FTGP) and CCE lessons.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__1_x.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__2_x.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__3_x.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__6_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__4_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Love_PGVP__1_.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
