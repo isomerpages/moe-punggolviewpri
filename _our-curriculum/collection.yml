@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes (CIT).md
       - Distinctive Programmes/ALP.md
       - Distinctive Programmes/LLP.md
-      - Distinctive Programmes/Distinctive Programmes.md
       - Curriculum Framework.md
       - English Language/.keep
       - English Language/English Language.md
@@ -17,10 +17,7 @@ collections:
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
       - Mathematics.md
-      - Science/.keep
-      - Science/Science.md
-      - Science/Quality Experience & Happy Hall.md
-      - Science/Integration of Science.md
+      - Science.md
       - Aesthetics.md
       - Character and Citizenship Education (CCE).md
       - ICT/.keep
