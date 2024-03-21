@@ -2,9 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science.md
-      - Distinctive Programmes/Distinctive Programmes (CIT).md
       - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes (CIT).md
       - Distinctive Programmes/ALP.md
       - Distinctive Programmes/LLP.md
       - Curriculum Framework.md
@@ -18,6 +17,7 @@ collections:
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
       - Mathematics.md
+      - Science.md
       - Science/.keep
       - Science/Science.md
       - Aesthetics.md
