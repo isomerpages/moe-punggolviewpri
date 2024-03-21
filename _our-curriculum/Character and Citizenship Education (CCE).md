@@ -242,16 +242,8 @@ Teacher Guidance Period (FTGP) and CCE lessons.</p>
 </table>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <blockquote>
-<p><strong>RI³CH (Respect, Responsibility, Resilience, Integrity, Care &amp; Harmony) Card Programme</strong>
-</p>
+<h4><strong>RI³CH (Respect, Responsibility, Resilience, Integrity, Care &amp; Harmony) Card Programme</strong></h4>
 </blockquote>
 <p>The RI³CH (Respect, Responsibility, Resilience, Integrity, Care &amp;
 Harmony) Card Programme to all our students. The RI3CH Card Programme is
@@ -332,7 +324,19 @@ habit.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<blockquote>
+<h4><strong>Sexuality Education 2024</strong></h4>
+</blockquote>
+<p>Sexuality Education (SEd) in schools is about enabling students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships, and make wise, informed
+and responsible decisions on sexuality matters in their growing up years.
+Sexuality Education also aims to help students develop a moral compass,
+respect for themselves and others, premised on the family as the basic
+unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p></p>
 <p></p>
 <p></p>
