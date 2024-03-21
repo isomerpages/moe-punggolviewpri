@@ -93,50 +93,56 @@ and close parent-school engagement.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Values In Action (VIA)</p>
-<p>·&nbsp;Canteen Cleanliness Programme&nbsp;</p>
-<p>·&nbsp;Use Our Hands Campaign</p>
-<p>·&nbsp;Appreciation to Non-Teaching Staff</p>
-<p>·&nbsp;CNY VIA</p>
-<p>· Food from the Heart</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Canteen Cleanliness Programme&nbsp;</p>
+</li>
+<li>
+<p>Use Our Hands Campaign</p>
+</li>
+<li>
+<p>Appreciation to Non-Teaching Staff</p>
+</li>
+<li>
+<p>CNY VIA</p>
+</li>
+<li>
+<p>Food from the Heart</p>
+</li>
+<li>
 <p>Project OutR3ICH</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cohort Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;CCE MTL</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>R3ICH&nbsp; Card</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outdoor Experiential Learning</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>&nbsp;CCE FTGP</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p>Integration Programme</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
