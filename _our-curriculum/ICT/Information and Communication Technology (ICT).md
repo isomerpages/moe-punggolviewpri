@@ -26,4 +26,33 @@ of appropriate skills, behaviour, attitudes and values towards ICT usage,
 thus enabling students to become Competent and Responsible digital learners.</p>
 <p></p>
 <h4><strong>STUDENT LEARNING SPACE</strong></h4>
-<p>The Singapore Student Learning Space is a platform that will support Teaching</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Student Learning Space (SLS).png">
+</div>
+<p>The Singapore Student Learning Space is a platform that will support Teaching
+and Learning in Punggol View Primary School. In particular, it will help
+empower our students to drive their own learning according to their needs
+and interests. By spurring our students to take greater ownership of their
+learning and work collaboratively with their peers, the SLS aims to support
+them towards becoming responsible future-ready learners.</p>
+<p>The SLS allows our students to take greater ownership of their learning
+and work collaboratively. In line with 21CC development, the SLS seeks
+to encourage learners to be self-directed and collaborative and promote
+student ownership. Through this process, students will discover the&nbsp;<strong>joy of learning.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student Learning Space (SLS)_2.jpg">
+</div>
+<p></p>
+<h4><strong>Baseline ICT Training for Primary 1 and Primary 2</strong></h4>
+<p>Primary 1 to Primary 3 Touch Typing is a self-directed learning activity
+for students to practise their touch typing skills via Student Learning
+Space (SLS) portal and at their own pace.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/touch_typing.png">
+</div>
+<p>
+<br>
+</p>
