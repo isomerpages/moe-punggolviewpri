@@ -350,7 +350,7 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p></p>
 <p></p>
 <blockquote>
-<h4>National Education (NE)</h4>
+<h4><strong>National Education (NE)</strong></h4>
 </blockquote>
 <p>National Education is a significant aspect of CCE, comprises a wide range
 of school efforts that help students experience and explore their national
