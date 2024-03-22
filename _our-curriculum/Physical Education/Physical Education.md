@@ -96,8 +96,10 @@ Curriculum Framework.</p>
 <p>
 <br>
 </p>
-<p>Insert “Photo 6 - Figure 3. Framework for 21st Century Competencies and
-Student Outcomes”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_6___Figure_3__Framework_for_21st_Century_Competencies_and_Student_Outcomes.jpg">
+</div>
 <p>
 <br>
 </p>
@@ -113,8 +115,14 @@ and students are given different activities to help them learn and practise
 these values as they grow through school. These activities are designed
 to help students become better problem solvers, critical thinkers, and
 communicators.</p>
-<p>Insert “Photo 7 - peer assessment”</p>
-<p>Insert “Photo 8 - gym planning upper pri”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_7___peer_assessment.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_8___gym_planning_upper_pri.jpg">
+</div>
 <p>For example, when students dance or do gymnastics, they get to be creative
 and express themselves. In team sports, they learn how to work together,
 communicate effectively, and solve problems on the spot. All of these activities
@@ -122,7 +130,10 @@ help students build important skills for the future, especially in today's
 digital world.</p>
 <p>So, PE isn't just about physical health—it's also about building character
 and preparing students for success in life.</p>
-<p>Insert “Photo 9 - striking and fielding”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_9___striking_and_fielding.png">
+</div>
 <h4></h4>
 <blockquote>
 <h4><strong><u>PAMtastic Week</u></strong></h4>
@@ -139,10 +150,22 @@ develop skills with a common theme. Different activities for each level
 are specially curated to bring out the vibrancy of aesthetics in the school
 and as a platform to showcase student's talent and diversity, while developing
 their physical well-being.</p>
-<p>Insert “Photo 17 - PAMtastic Week 1”</p>
-<p>Insert “Photo 18 - my healthy plate”</p>
-<p>Insert “Photo 19 - making game”</p>
-<p>Insert photo 8969</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_17___PAMtastic_Week_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_18___my_healthy_plate.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_19___making_game.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8969.jpg">
+</div>
 <p>Insert video&nbsp;</p>
 <h4></h4>
 <blockquote>
