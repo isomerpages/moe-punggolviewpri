@@ -235,7 +235,7 @@ abilities within the context of gymnastics.</p>
 <p>
 <br>
 </p>
-<p>Insert “Photo 27 to 30”</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_27.jpg">
 </div>
