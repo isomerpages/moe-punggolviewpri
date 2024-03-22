@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_gif_for_homepage.gif
+      background: /images/gifgif.gif
       dropdown:
         title: Quick Links
         options:
@@ -15,5 +15,4 @@ sections:
             url: /ez-links/student-icon
           - title: SLS Password reset
             url: /ez-links/sls/
-      subtitle: Click below to read the latest announcements
 ---
