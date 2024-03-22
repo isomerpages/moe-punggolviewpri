@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_gif_for_homepage.gif
+      background: /images/new_2024_gif2.gif
       dropdown:
         title: Quick Links
         options:
