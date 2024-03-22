@@ -166,7 +166,10 @@ their physical well-being.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8969.jpg">
 </div>
-<p>Insert video&nbsp;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cL3VuAONdWc?si=_6UABH03puqe-PXn"></iframe>
+</div>
 <h4></h4>
 <blockquote>
 <h4><strong>Professional Development</strong></h4>
@@ -185,7 +188,10 @@ decision making processes and behavioural expectations. The team also explored
 the possibilities of using the Inclusive Style (Slanting Rope idea) to
 enable students with varied abilities to make decisions on performing different
 levels of task representation.</p>
-<p>Insert “Photo 20 - Dr Sara Ashworth”&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_20___Dr_Sara_Ashworth.jpg">
+</div>
 <p>Dr. Steve Mitchell, a professor of physical education teacher education
 at Kent State University, received his undergraduate and master’s degrees
 from Loughborough University, England, where the tactical approach was
@@ -200,8 +206,14 @@ The collaboration involving Dr. Mitchell culminated in a demonstration
 class for 20 teachers and officers from PESTA and PSOEB. The team of teachers
 at PGVP then presented their two part collaboration at the 2020 Physical
 and Sports Education Virtual Conference.</p>
-<p>Insert “Photo 21 - Dr Steve Mitchell”</p>
-<p>Insert “Photo 22 - PSE conference”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_21___Dr_Steve_Mitchell.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_22___PSE_conference.jpg">
+</div>
 <p>The NLP project utilizing a Constraints-Led Approach (CLA) in PE gymnastics,
 a subset of Nonlinear Pedagogy (NLP), involves collaboration among 9 teachers
 from 4 schools across different zones, with support from Dr. Chow Jiayi
@@ -224,7 +236,21 @@ abilities within the context of gymnastics.</p>
 <br>
 </p>
 <p>Insert “Photo 27 to 30”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_27.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_28.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_29.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_30.jpg">
+</div>
 <p>
 <br>
 </p>
