@@ -3,6 +3,7 @@ title: Contemporary Dance
 permalink: /our-curriculum/co-curricular-activities-ccas/contemporary-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 The International Dance CCA was one of the first few CCAs offered in our school in 2014. Since then, our Dance Crew has been involved in many performances such as the school’s Opening Ceremony in 2015, Kaleidoscope in 2017 as well as our annual Teacher’s Day and Prize-giving Day concerts.
 
