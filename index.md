@@ -8,11 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/gifgif.gif
-      dropdown:
-        title: Quick Links
-        options:
-          - title: MIMS Password reset
-            url: /ez-links/student-icon
-          - title: SLS Password reset
-            url: /ez-links/sls/
+      key_highlights:
+        - title: MIMS Password Reset
+          description: ""
+          url: ""
+        - title: SLS Password Reset
+          description: ""
+          url: ""
+        - title: "Corporate Video "
+          description: ""
+          url: ""
 ---
