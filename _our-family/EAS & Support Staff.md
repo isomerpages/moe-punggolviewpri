@@ -15,7 +15,6 @@ Corporate Support Officer | Mdm Haryati
 Corporate Support Officer | Ms Low Lee Kheng
 Corporate Support Officer (Adjunct) | Mdm Norafizah
 Operations Support Officer | Mr Junaidy
-Operations Support Officer | Ms Goo Ah Hwa
 Operations Support Officer | Mr William Tan
 Operations Support Officer | Mdm Saadiah
 Operations Support Officer (Adjunct) | Mdm Linda Lim
