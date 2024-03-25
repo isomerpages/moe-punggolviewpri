@@ -63,6 +63,14 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_photo_4.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_1_new.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pal_2_new.jpg">
+</div>
 <p>For the Programme Design for PAL, we adopted:</p>
 <ul>
 <li>
