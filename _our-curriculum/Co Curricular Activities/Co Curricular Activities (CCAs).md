@@ -3,10 +3,11 @@ title: Co Curricular Activities (CCAs)
 permalink: /our-curriculum/co-curricular-activities-ccas/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ![Co-Curricular Activities (CCAs)](/images/cca2020.png)
 
-#### CCA Details (2023)
+#### CCA Details (2024)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -79,7 +80,7 @@ third_nav_title: Co Curricular Activities
   </tr>
   <tr>
     <td class="tg-ii8k">Scouts</td>
-    <td class="tg-ii8k">CCA Rooms 1 & 2</td>
+    <td class="tg-ii8k">CCA Rooms 1 &amp; 2</td>
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
@@ -102,7 +103,7 @@ third_nav_title: Co Curricular Activities
     <td class="tg-ii8k">Rugby</td>
     <td class="tg-ii8k">School Field</td>
     <td class="tg-ii8k"></td>
-		<td class="tg-ii8k"><b>Development Team & School Team</b><br>2.00pm – 4.30pm</td>
+		<td class="tg-ii8k"><b>Development Team &amp; School Team</b><br>2.00pm – 4.30pm</td>
 		<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.00pm</td>
   </tr>
 	  <tr>
@@ -151,9 +152,9 @@ They are as follows:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6wz">1.    Badminton<br>2.    Floorball<br>3.    Rugby<br>4.   Sports and Adventure Club<br>5.    Wushu </td>
-    <td class="tg-s6wz"><span style="background-color:initial">1.</span>     <span style="background-color:initial">Contemporary Dance</span><br>2.   Cultural Dance (Malay Dance)<br>3.   The Children’s Choir<br>4.   Young Artists’ Club</td>
-    <td class="tg-s6wz">1.      IT Club<br>2.     Scouts<br>3.     Service and Interact Club<br>4.  Speech and Drama Society<br> </td>
+    <td class="tg-s6wz">1.    Badminton<br>2.    Floorball<br>3.    Rugby<br>4.&nbsp;&nbsp;&nbsp;Sports and Adventure Club<br>5.    Wushu </td>
+    <td class="tg-s6wz"><span style="background-color:initial">1.</span>     <span style="background-color:initial">Contemporary Dance</span><br>2.&nbsp;&nbsp;&nbsp;Cultural Dance (Malay Dance)<br>3.&nbsp;&nbsp;&nbsp;The Children’s Choir<br>4.&nbsp;&nbsp;&nbsp;Young Artists’ Club</td>
+    <td class="tg-s6wz">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IT Club<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scouts<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service and Interact Club<br>4.  Speech and Drama Society<br> </td>
   </tr>
 </tbody>
 </table>
@@ -163,11 +164,11 @@ Students from P3 onwards are encouraged to participate in a CCA. We strongly enc
 
 #### CCA Transfer Policy
 
-While we encourage all students to remain in their CCA, we understand that there may be circumstances that students are unable to continue in their CCA. Thus, the school has two transfer periods within the year, **first 2 weeks** of Semester 1 and **last 2 weeks** of Semester 2.
+While we encourage all students to remain in their CCA, we understand that there may be circumstances that students are unable to continue in their CCA.&nbsp;Thus, the school has two transfer periods within the year,&nbsp;**first 2 weeks**&nbsp;of Semester 1 and&nbsp;**last 2 weeks**&nbsp;of Semester 2.
 
 The school does not accede to any CCA transfer requests after the transfer periods unless on medical grounds.
 
-Students are entitled to only **one CCA change** during the time they are in the school. Provision for more than one change will be made for special cases like medical conditions.
+Students are entitled to only&nbsp;**one CCA change**&nbsp;during the time they are in the school.&nbsp;Provision for more than one change will be made for special cases like medical conditions.
 
 Students are required to fill up the CCA Transfer Form and submit to LH CCA, Mr Fabian Koh for approval.
 
