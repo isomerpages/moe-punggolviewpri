@@ -135,29 +135,10 @@ for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L<
 </div>
 <p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
-<p>Page 2 – 4 of current website (See headers below) - <strong>REMOVE</strong>
-</p>
-<p></p>
-<p>
-<br>
-</p>
-<p><strong>Replace </strong>with (powerpoint slides with write up can be
-found in the photos folder)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_page_2_copy.png">
+</div>
 <p></p>
 <p>
 <br>
