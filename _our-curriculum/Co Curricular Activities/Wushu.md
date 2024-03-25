@@ -18,3 +18,12 @@ values of sportsmanship. We aim to develop our students holistically, nurturing
 their physical, emotional, and social well-being, so they graduate with
 a strong moral compass and embody values such as respect, resilience, care,
 harmony, responsibility, and integrity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
+</div>
+<p></p>
