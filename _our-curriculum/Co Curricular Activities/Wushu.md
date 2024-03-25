@@ -3,11 +3,27 @@ title: Wushu
 permalink: /our-curriculum/co-curricular-activities-ccas/wushu/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-Wushu is a form of Chinese martial arts that is often viewed as an exhibition and combat sports. The training and stroke emphasizes on quickness, powerful yet natural and relaxed movements. In PGVP Wushu CCA, our members will learn basic Quanshu followed by Qixie and/or Taijiquan as they progress through the sports. 
-
-Throughout the year, school team members will participate in National Wushu Championships as well as numerous performances in school. The various forms of exposures can help to boost our performers’ confidence. 
-
-In PGVP Wushu CCA, we aim to expose our members to the culture and heritage of Chinese martial arts, as well as to inculcate good sportsmanship values in them. We want to develop our pupils physically, emotionally and socially so that they can graduate with a strong moral compass and learn values of respect, resilience, care, harmony, responsibility and integrity.
-
-![wushu](/images/wushu.png)
+<p>Wushu, a style of Chinese martial arts known for its blend of performance
+and competitive elements, focuses on agile, forceful, and naturally flowing
+movements. In our PGVP Wushu CCA program, participants start with basic
+Quanshu techniques and progress to Qixie and/or Taijiquan as they advance.</p>
+<p>Throughout the academic year, our school team actively participates in
+both the National Wushu Championships and various school performances,
+providing ample opportunities for our members to build their confidence.</p>
+<p>Our main objective in the PGVP Wushu CCA is to expose students to the
+rich cultural heritage of Chinese martial arts while instilling important
+values of sportsmanship. We aim to develop our students holistically, nurturing
+their physical, emotional, and social well-being, so they graduate with
+a strong moral compass and embody values such as respect, resilience, care,
+harmony, responsibility, and integrity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wushu2.jpg">
+</div>
+<p></p>

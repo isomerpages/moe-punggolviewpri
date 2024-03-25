@@ -12,6 +12,18 @@ must be taught not only what to think but “how” to think. We want them
 to be developed into Effective and Empathetic Communicators and have the
 capacity to think well, think clearly and think creatively. This will ensure
 they are well-equipped to navigate the complexities of the modern world.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/abc2d__1_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/abc2d__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/abc2d__3_.png">
+</div>
 <p>The school is committed to prepare our students to be Future Ready by
 employing our innovative ABC2D approach. This approach encapsulates Assessment
 Literacy, Blended Learning, Critical and Inventive Thinking (CIT), Effective

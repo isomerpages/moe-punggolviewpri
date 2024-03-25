@@ -1,5 +1,5 @@
 ---
-title: Social Media
+title: Our Social Media
 permalink: /ez-links/media-gallery/
 description: ""
 variant: markdown

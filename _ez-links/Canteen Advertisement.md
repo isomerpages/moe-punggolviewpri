@@ -8,7 +8,8 @@ variant: markdown
 | -------- | -------- | -------- |
 | Vegetarian Stall     | 31 Jul 2024     | Chinese or Indian vegetarian stall is acceptable.    |
 Japanese Stall | 31 Jul 2024 | Japanese food 
-Korean/Wrap Stall | 31 Jul 2024 | Korean food and wraps (ie. burritos, etc)
+Korean | 31 Jul 2024 | Korean food 
+Wrap Stall | 31 Jul 2024 | Wraps (ie. burritos, etc)
 
 **Application Procedure**
 
