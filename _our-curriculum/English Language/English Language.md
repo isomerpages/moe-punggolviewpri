@@ -126,8 +126,13 @@ for&nbsp;<strong>E</strong>nglish&nbsp;<strong>L</strong>anguage&nbsp;<strong>L<
 (<strong>STELLAR</strong>)</p>
 <p></p>
 <p>Lower Primary Strategies</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001.png">
+</div>
 <p>Upper Primary Strategies</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image003.png">
+</div>
 <p>
 <br>
 <br>
