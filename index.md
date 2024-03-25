@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gifgif.gif
+      background: /images/gid25_03.gif
       key_highlights:
         - title: MIMS Password Reset
           description: ""
@@ -15,7 +15,7 @@ sections:
         - title: SLS Password Reset
           description: ""
           url: ""
-        - title: "Corporate Video "
+        - title: Corporate Video
           description: ""
           url: ""
 ---
