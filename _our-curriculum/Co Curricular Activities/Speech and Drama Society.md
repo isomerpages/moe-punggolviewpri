@@ -3,12 +3,25 @@ title: Speech and Drama Society
 permalink: /our-curriculum/co-curricular-activities-ccas/speech-and-drama-society/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
-The Speech and Drama Society began as an enrichment programme for a selected group of students from Primary 2 to Primary 5. After the students' performance in August 2017 during Kaleidoscope, the enrichment programme is now offered as a CCA in Punggol View Primary School starting 2018.
-
-Through joining the Speech and Drama Society, we hope to see students perform confidently a variety of Speech and Drama performances (skits, poetry recitation, choral reading etc). The students performed during the P1 Orientation Day in 2018 and their performance was very well-received. We will look forward to more performances from the Speech and Drama Society in 2020.
-
-![Speech and Drama Society](/images/speech%20and%20drama%20society.png)
-
-<img src="/images/speech%20and%20drama%20society_2.jpg"  
-style="width:75%">
+<p>The Speech and Drama Society began as an enrichment programme for a selected
+group of students. After the students’ performance in August 2017 during
+Kaleidoscope, the programme was turned into a CCA to give students a platform
+for acting.&nbsp;</p>
+<p>Through the CCA sessions, we hope to develop good communication and critical
+thinking skills in our students. Students get to work with peers across
+levels to build teamwork and strengthen their acting and communication
+skills so that they can perform confidently in public. Students would be
+able to learn and apply drama techniques like voice projection and awareness
+of space and improvisation. We hope to nurture students to become effective
+and confident speakers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/snd1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/snd2.jpg">
+</div>
+<p></p>
