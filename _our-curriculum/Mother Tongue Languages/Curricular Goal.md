@@ -14,6 +14,10 @@ third_nav_title: Mother Tongue Languages
 menjadi pengguna yang cekap dan pelajar yang bertunjang kepada budaya.</p>
 <p>கலாசாரத்தில் வேரூன்றியும் தாய்மொழியில் திறமை வாய்ந்தும் விளங்குதல்.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cl.png">
+</div>
+<p></p>
 <blockquote>
 <h4>Overview</h4>
 </blockquote>
