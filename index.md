@@ -11,11 +11,11 @@ sections:
       key_highlights:
         - title: MIMS Password Reset
           description: ""
-          url: ""
+          url: https://www.punggolviewpri.moe.edu.sg/ez-links/student-icon/
         - title: SLS Password Reset
           description: ""
-          url: ""
+          url: https://www.punggolviewpri.moe.edu.sg/ez-links/sls/
         - title: Corporate Video
           description: ""
-          url: ""
+          url: https://www.punggolviewpri.moe.edu.sg/our-school/corporate-videos/
 ---
