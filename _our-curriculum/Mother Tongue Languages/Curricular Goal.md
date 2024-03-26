@@ -1,7 +1,7 @@
 ---
 title: Curricular Goal
 permalink: /mtl/curricular-goal/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
@@ -64,23 +64,41 @@ Listening, Speaking, Reading, Writing and Interactive Skills.</p>
 <td rowspan="1" colspan="1">
 <p>Low Readiness</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Module</p>
+</li>
+<li>
+<p>Differentiated Instruction in class</p>
+</li>
+<li>
+<p>School based oracy and writing package</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mother Tongue Support Programme
-(MTSP)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mother Tongue Support Programme (MTSP)</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foundation Mother Tongue Languages</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foundation Mother Tongue Languages</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -88,18 +106,52 @@ Listening, Speaking, Reading, Writing and Interactive Skills.</p>
 <p>Mid readiness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Module</p>
+</li>
+<li>
+<p>Differentiated Instruction in class</p>
+</li>
+<li>
+<p>School based oracy and writing package</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Module</p>
+</li>
+<li>
+<p>Differentiated Instruction in class</p>
+</li>
+<li>
+<p>School based oracy and writing package</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Module</p>
+</li>
+<li>
+<p>Differentiated Instruction in class</p>
+</li>
+<li>
+<p>School based oracy and writing package</p>
+</li>
+<li>
+<p>Reading Programme&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -107,17 +159,46 @@ Listening, Speaking, Reading, Writing and Interactive Skills.</p>
 <p>High Readiness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Languages(
-HMTL)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrichment Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Module</p>
+</li>
+<li>
+<p>Differentiated Instruction in class</p>
+</li>
+<li>
+<p>School based oracy and writing package</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Languages(
-HMTL)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrichment Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Mother Tongue Languages( HMTL)</p>
+</li>
+<li>
+<p>Enrichment Module</p>
+</li>
+<li>
+<p>Reading Programme&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Higher Mother Tongue Languages( HMTL)</p>
+</li>
+<li>
+<p>Enrichment Module</p>
+</li>
+<li>
+<p>Reading Programme</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
