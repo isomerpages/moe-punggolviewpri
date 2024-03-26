@@ -1,8 +1,9 @@
 ---
-title: Student Development Team
-permalink: /our-curriculum/student-development-team/
+title: Student Well Being Framework
+permalink: /our-curriculum/student-well-being-framework/
 description: ""
 third_nav_title: Student Development Team
+variant: tiptap
 ---
 #### Curricular Goal
 
