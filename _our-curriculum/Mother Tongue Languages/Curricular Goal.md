@@ -1,6 +1,6 @@
 ---
 title: Curricular Goal
-permalink: /curricular-goal/
+permalink: /mtl/curricular-goal/
 variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Languages
@@ -33,96 +33,14 @@ Listening, Speaking, Reading, Writing and Interactive Skills.</p>
 <blockquote>
 <h4>Learning Structure (Proficient Learners)</h4>
 </blockquote>
-<table>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Learners</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Middle Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper Primary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 and P2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 and P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 and P6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Low Readiness</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mother Tongue Support Programme
-(MTSP)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foundation Mother Tongue Languages</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid readiness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Differentiated Instruction in class</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based oracy and writing package</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>High Readiness</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Languages(
-HMTL)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrichment Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Mother Tongue Languages(
-HMTL)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enrichment Module</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reading Programme</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtl_curricular_goal.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <blockquote>
 <p>Festivities Celebration (Culturally-Rooted Learners)</p>
 </blockquote>
