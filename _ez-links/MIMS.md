@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4>Password reset request should only be done by parents of students.</h4>
 <p></p>
-<h4>Password reset</h4>
+<h4>MIMS Password reset</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Passwords will be reset after 1-2 working days. Check your spam/junk mail
