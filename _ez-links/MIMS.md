@@ -9,7 +9,7 @@ variant: tiptap
 <h4>MIMS Password reset</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Passwords will be reset after 1-2 working days. Check your spam/junk mail
+<p>Passwords will be reset after 3-5 working days. Check your spam/junk mail
 folder for the reply.</p>
 </li>
 <li>
