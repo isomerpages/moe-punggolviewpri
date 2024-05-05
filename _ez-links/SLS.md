@@ -13,7 +13,7 @@ variant: tiptap
 please fill out the form below.</p>
 <p><a href="https://forms.gle/nbYjvzeTtnEXyrLM8" rel="noopener noreferrer nofollow" target="_blank">Account Unlock Form</a>
 </p>
-<p>You will receive a reply within 1-2 working days.</p>
+<p>You will receive a reply within 3-5 working days.</p>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
