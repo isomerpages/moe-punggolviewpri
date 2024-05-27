@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - eOpen house 2024.md
       - MIMS.md
       - SLS.md
       - For Parents/.keep
