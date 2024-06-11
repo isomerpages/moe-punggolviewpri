@@ -17,6 +17,7 @@ MOE SYSTEMS
 SCHOOL SYSTEMS
 *   [Stars Studio Booking Schedule](https://forms.gle/hsRAzrPf7hxaQXn77)
 *   [Canteen TV upload request](https://docs.google.com/spreadsheets/d/10vzyPs0v4FGnLwiqN-rJhhYzv_VTHmvFGwLSRwiPQJM/edit?usp=sharing)
+*   [Lift lobby TV upload request](https://docs.google.com/spreadsheets/d/1QvIh2ZPxru_-i0XM-HoyXHxVi9WTgq9YNEV4OQ8heXY/edit?usp=sharing)
 
 ICT
 * [ICT/AV Fault Reporting Form 2024](https://forms.gle/V63XMwcKmzvF3T4u9)
