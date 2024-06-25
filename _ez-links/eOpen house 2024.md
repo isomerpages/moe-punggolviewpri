@@ -184,8 +184,8 @@ in students from 2013. As recommended by the Primary Education Review and
 Implementation (PERI) Committee, the school has new design norms such as
 redesigned classrooms, dance and performing arts studios, as well as an
 outdoor jogging path. These facilities support the delivery of holistic
-education, and facilitate engaged learning in both academic and</p>
-<p>co-curriculum education.</p>
+education, and facilitate engaged learning in both academic and co-curriculum
+education.</p>
 <p>&nbsp;</p>
 <p>Students can look forward to new facilities that will support educational
 approaches, which encourage more interaction and self-discovery, and facilitate
@@ -203,7 +203,7 @@ of students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br>Educational Approaches</strong>
+<p><strong>Educational Approaches</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,8 +322,8 @@ check out our PSG website for more information:&nbsp;<a rel="noopener noreferrer
 <p><strong>What do I need to do to transfer my child to your school?</strong>
 </p>
 <p>&nbsp;&nbsp; &nbsp;Please refer to MOE webpage on School Transfer Service</p>
-<p>&nbsp; &nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/primary/transfers</a>
-<a href="http://www.moe.gov.sg/primary/transfers%20" rel="noopener noreferrer nofollow" target="_blank"></a>) for details.</p>
+<p>&nbsp; &nbsp; (<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/primary/transfers</a>)
+for details.</p>
 <p><strong>How do I apply for financial assistance?</strong>
 </p>
 <p>&nbsp; Please refer to MOE web page on Financial Assistance Schemes</p>
