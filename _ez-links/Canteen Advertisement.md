@@ -6,10 +6,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Stall     | 31 Jul 2024     | Chinese or Indian vegetarian stall is acceptable.    |
-Japanese Stall | 31 Jul 2024 | Japanese food 
-Korean | 31 Jul 2024 | Korean food 
-Wrap Stall | 31 Jul 2024 | Wraps (ie. burritos, etc)
+| Vegetarian or Fusion Stall     | 31 Jul 2024     | For vegetarian stall, Chinese or Indian vegetarian stall is acceptable. For fusion stall, Japanese, Korean, wrap cuisine etc is acceptable
+
 
 **Application Procedure**
 
@@ -31,7 +29,7 @@ Wrap Stall | 31 Jul 2024 | Wraps (ie. burritos, etc)
 
 **How to get there?**
 * Nearest MRT: Punggol MRT (NE17 - use Exit B) – 5 minutes walking distance
-* Bus number: SBS 50 & GAS 382W from Punggol Temp Bus Interchange
+* Bus number: SBS 50 &amp; GAS 382W from Punggol Temp Bus Interchange
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
@@ -47,4 +45,4 @@ Wrap Stall | 31 Jul 2024 | Wraps (ie. burritos, etc)
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p>
