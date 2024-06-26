@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian or Fusion Stall     | 31 Jul 2024     | For vegetarian stall, Chinese or Indian vegetarian stall is acceptable.  <p>For fusion stall, Japanese, Korean, wrap cuisine etc is acceptable
+| Vegetarian or Fusion Stall     | 31 Jul 2024     | For vegetarian stall, Chinese or Indian vegetarian stall is acceptable. For fusion stall, Japanese, Korean, wrap cuisine etc is acceptable
 
 
 **Application Procedure**
@@ -45,4 +45,4 @@ variant: markdown
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*</p>
+*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*<p></p>
