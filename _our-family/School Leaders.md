@@ -69,7 +69,7 @@ to shape young minds and contribute towards creating an enriching learning
 experience for every child in Punggol View Primary School.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Sandra_Theseira.jpg">
+<img style="width: 35%" height="auto" width="100%" alt="" src="/images/Mrs_Sandra_Theseira.jpg">
 </div>
 <p><strong>Mrs Sandra Theseira<br>Vice-Principal</strong>
 </p>
