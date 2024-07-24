@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian or Fusion Stall     | 31 Jul 2024     | For vegetarian stall, Chinese or Indian vegetarian stall is acceptable. For fusion stall, Japanese, Korean, wrap cuisine etc is acceptable
+| Vegetarian or Fusion Stall     | 31 Aug 2024     | For vegetarian stall, Chinese or Indian vegetarian stall is acceptable. For fusion stall, Japanese, Korean, wrap cuisine etc is acceptable
 
 
 **Application Procedure**
