@@ -6,11 +6,9 @@ variant: tiptap
 ---
 <h4>SLS/MIMS Password reset</h4>
 <h4>Log in to SLS using <em><u>"LOGIN WITH MIMS"</u></em></h4>
-<p>There are 2 ways to log in to SLS.</p>
-<p>We advise our students to log in using "LOGIN WITH MIMS"</p>
-<p>We recommend and advise students to remember 1 account, which is the MIMS
-account. The MIMS account can be used to log in to SLS, school computers,
-and Google Classroom.</p>
+<p>Please use "LOGIN WITH MIMS"</p>
+<p>The MIMS account can be used to log in to SLS, school computers, and Google
+Classroom.</p>
 <p></p>
 <h4>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</h4>
 <p>Do not type password repeatedly if u got it wrong the first 2 times, to
