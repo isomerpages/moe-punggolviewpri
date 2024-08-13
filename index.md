@@ -12,7 +12,4 @@ sections:
         - title: Password Reset
           description: ""
           url: https://www.punggolviewpri.moe.edu.sg/ez-links/sls/
-        - title: Corporate Video
-          description: ""
-          url: https://www.punggolviewpri.moe.edu.sg/our-school/corporate-videos/
 ---
