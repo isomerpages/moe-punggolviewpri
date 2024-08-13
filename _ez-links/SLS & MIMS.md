@@ -41,12 +41,7 @@ access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener norefe
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZAejXe9_ic?si=ttb9y3gPYzN7ThAJ"></iframe>
 </div>
 <p></p>
-<h4>Troubleshooting&nbsp;</h4>
-<p>For&nbsp;<strong>Login Troubleshooting</strong>, assistance for login
-and technical issues, please access this&nbsp;<a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Page</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/sls1.jpg">
-</div>
+<p></p>
 <h4>R17 SLS</h4>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/sls3.png">
