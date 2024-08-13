@@ -23,6 +23,9 @@ prevent the account from being locked.</p>
 <h4>PASSWORD RESET REQUEST</h4>
 <p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
 </p>
+<p></p>
+<h4>I DON'T KNOW MY USERNAME</h4>
+<p>Contact form teacher to find out the student's e-mail address to log in</p>
 <h4>LOG IN TO SLS</h4>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
