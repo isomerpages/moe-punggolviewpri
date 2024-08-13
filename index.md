@@ -9,10 +9,7 @@ sections:
   - hero:
       background: /images/gid25_03.gif
       key_highlights:
-        - title: MIMS Password Reset
-          description: ""
-          url: https://www.punggolviewpri.moe.edu.sg/ez-links/student-icon/
-        - title: SLS Password Reset
+        - title: Password Reset
           description: ""
           url: https://www.punggolviewpri.moe.edu.sg/ez-links/sls/
         - title: Corporate Video
