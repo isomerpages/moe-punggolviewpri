@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_2024_copy.jpg">
 </div>
-<h4>Log in to SLS using  <em><u>"LOGIN WITH MIMS"</u></em></h4>
+<h4>Log in to SLS using <em><u>"LOGIN WITH MIMS"</u></em></h4>
 <p>There are 2 ways to log in to SLS.</p>
 <p>We advise our students to log in using "LOGIN WITH MIMS"</p>
 <p>We recommend and advise students to remember 1 account, which is the MIMS
@@ -20,7 +20,7 @@ and Google Classroom.</p>
 prevent the account from being locked.</p>
 <p>Immediately request a password request by clicking on the form below.</p>
 <p></p>
-<p>PASSWORD RESET REQUEST</p>
+<h4>PASSWORD RESET REQUEST</h4>
 <p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
 </p>
 <h4>LOG IN TO SLS</h4>
