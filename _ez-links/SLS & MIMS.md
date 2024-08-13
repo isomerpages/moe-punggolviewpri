@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4>SLS/MIMS Password reset</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_2024_copy.jpg">
-</div>
 <h4>Log in to SLS using <em><u>"LOGIN WITH MIMS"</u></em></h4>
 <p>There are 2 ways to log in to SLS.</p>
 <p>We advise our students to log in using "LOGIN WITH MIMS"</p>
@@ -30,16 +27,6 @@ prevent the account from being locked.</p>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="sls mims login" src="/images/sls%20mims%20login.JPG">
-</div>
-<h4></h4>
-<p></p>
-<p>Please take a minute to view this video.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZAejXe9_ic?si=ttb9y3gPYzN7ThAJ"></iframe>
-</div>
 <p></p>
 <p></p>
 <h4>R17 SLS</h4>
