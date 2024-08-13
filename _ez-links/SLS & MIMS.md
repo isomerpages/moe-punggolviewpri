@@ -4,30 +4,30 @@ permalink: /ez-links/sls/
 description: ""
 variant: tiptap
 ---
-<h4>SLS Password reset</h4>
+<h4>SLS/MIMS Password reset</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_2024_copy.jpg">
 </div>
-<h4>Account locked</h4>
-<p>If the account has been LOCKED because of multiple incorrect attempts,
-please fill out the form below.</p>
-<p><a href="https://forms.gle/nbYjvzeTtnEXyrLM8" rel="noopener noreferrer nofollow" target="_blank">Account Unlock Form</a>
+<h4>Log in to SLS using  <em><u>"LOGIN WITH MIMS"</u></em></h4>
+<p>There are 2 ways to log in to SLS.</p>
+<p>We advise our students to log in using "LOGIN WITH MIMS"</p>
+<p>We recommend and advise students to remember 1 account, which is the MIMS
+account. The MIMS account can be used to log in to SLS, school computers,
+and Google Classroom.</p>
+<p></p>
+<h4>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</h4>
+<p>Do not type password repeatedly if u got it wrong the first 2 times, to
+prevent the account from being locked.</p>
+<p>Immediately request a password request by clicking on the form below.</p>
+<p></p>
+<p>PASSWORD RESET REQUEST</p>
+<p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
 </p>
-<p>You will receive a reply within 3-5 working days.</p>
+<h4>LOG IN TO SLS</h4>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
-<p>For password reset of SLS accounts, please approach your child's Form
-Teacher. (In case student has forgotten the SLS password)</p>
-<p>Please take note that SLS can be entered via 2 different accounts.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SLS login account</p>
-</li>
-<li>
-<p>MIMS/Student ICON account</p>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="sls mims login" src="/images/sls%20mims%20login.JPG">
 </div>
