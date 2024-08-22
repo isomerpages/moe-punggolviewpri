@@ -7,6 +7,8 @@ variant: tiptap
 <h4>SLS/MIMS Password reset</h4>
 <h4>Log in to SLS using <em><u>"LOGIN WITH MIMS"</u></em></h4>
 <p>Please use "LOGIN WITH MIMS"</p>
+<p>The username will be the student's e-mail address. Please message the
+form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
 Classroom.</p>
 <p></p>
