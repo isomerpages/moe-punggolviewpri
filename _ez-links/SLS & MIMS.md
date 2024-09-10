@@ -9,6 +9,9 @@ variant: tiptap
 <h4><strong>PASSWORD RESET REQUEST</strong></h4>
 <p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
 </p>
+<p>Please take note, that the password is case sensitive. If it is a capital
+letter, you have to type it with a capital letter. Typing it with a lower
+case letter will be deemed as wrong password.</p>
 <p></p>
 <h4><strong>LOG IN TO SLS USING <em><u>"LOGIN WITH MIMS"</u></em></strong></h4>
 <p>Please use "LOGIN WITH MIMS"</p>
@@ -17,6 +20,13 @@ form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
 Classroom.</p>
 <p></p>
+<h4><strong>TECHNICAL SUPPORT (ISSUES LOGGING IN)</strong></h4>
+<p>If you still face issues after the password has been reset, please e-mail
+<a href="mailto:punggolviewhelpdesk@gmail.com" rel="noopener noreferrer nofollow" target="_blank">punggolviewhelpdesk@gmail.com</a>
+</p>
+<p>Please provide a screenshot/photo of the error you are facing.</p>
+<p>In the e-mail subject, please indicate student's full name and class.</p>
+<p></p>
 <h4><strong>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</strong></h4>
 <p>Do not type password repeatedly if u got it wrong the first 2 times, to
 prevent the account from being locked.</p>
@@ -24,9 +34,6 @@ prevent the account from being locked.</p>
 <p></p>
 <h4><strong>I DON'T KNOW MY USERNAME</strong></h4>
 <p>Contact form teacher to find out the student's e-mail address to log in</p>
-<p></p>
-<p>TECHNICAL SUPPORT (ISSUES LOGGING IN)</p>
-<p>Please fill up the form below, together with a screenshot</p>
 <p></p>
 <h4><strong>LOG IN TO SLS</strong></h4>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
