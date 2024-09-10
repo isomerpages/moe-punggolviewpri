@@ -4,32 +4,37 @@ permalink: /ez-links/sls/
 description: ""
 variant: tiptap
 ---
-<h4>SLS/MIMS Password reset</h4>
-<h4>Log in to SLS using <em><u>"LOGIN WITH MIMS"</u></em></h4>
+<h4><strong><u>SLS/MIMS PASSWORD RESET</u></strong></h4>
+<p></p>
+<h4><strong>PASSWORD RESET REQUEST</strong></h4>
+<p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
+</p>
+<p></p>
+<h4><strong>LOG IN TO SLS USING <em><u>"LOGIN WITH MIMS"</u></em></strong></h4>
 <p>Please use "LOGIN WITH MIMS"</p>
 <p>The username will be the student's e-mail address. Please message the
 form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
 Classroom.</p>
 <p></p>
-<h4>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</h4>
+<h4><strong>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</strong></h4>
 <p>Do not type password repeatedly if u got it wrong the first 2 times, to
 prevent the account from being locked.</p>
-<p>Immediately request a password request by clicking on the form below.</p>
+<p>Immediately request a password request by clicking on the form above.</p>
 <p></p>
-<h4>PASSWORD RESET REQUEST</h4>
-<p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
-</p>
-<p></p>
-<h4>I DON'T KNOW MY USERNAME</h4>
+<h4><strong>I DON'T KNOW MY USERNAME</strong></h4>
 <p>Contact form teacher to find out the student's e-mail address to log in</p>
-<h4>LOG IN TO SLS</h4>
+<p></p>
+<p>TECHNICAL SUPPORT (ISSUES LOGGING IN)</p>
+<p>Please fill up the form below, together with a screenshot</p>
+<p></p>
+<h4><strong>LOG IN TO SLS</strong></h4>
 <p>Click&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a>
 </p>
 <p></p>
 <p></p>
-<h4>R17 SLS</h4>
+<h4><strong>R17 SLS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/sls3.png">
 </div>
