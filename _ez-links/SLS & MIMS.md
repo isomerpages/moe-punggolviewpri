@@ -20,13 +20,6 @@ form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
 Classroom.</p>
 <p></p>
-<h4><strong>TECHNICAL SUPPORT (ISSUES LOGGING IN)</strong></h4>
-<p>If you still face issues after the password has been reset, please e-mail
-<a href="mailto:punggolviewhelpdesk@gmail.com" rel="noopener noreferrer nofollow" target="_blank">punggolviewhelpdesk@gmail.com</a>
-</p>
-<p>Please provide a screenshot/photo of the error you are facing.</p>
-<p>In the e-mail subject, please indicate student's full name and class.</p>
-<p></p>
 <h4><strong>DO NOT TYPE IN PASSWORD REPEATEDLY IF YOU FAILED AT FIRST ATTEMPT</strong></h4>
 <p>Do not type password repeatedly if u got it wrong the first 2 times, to
 prevent the account from being locked.</p>
