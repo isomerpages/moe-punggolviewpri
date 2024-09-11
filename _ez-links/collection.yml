@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - eLearning 13th Sept 2024.md
       - SLS & MIMS.md
       - eOpen house 2024.md
       - For Parents/.keep
