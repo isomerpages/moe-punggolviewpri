@@ -23,7 +23,7 @@ Operations Support Officer | Mr William Tan
 Operations Support Officer | Mdm Saadiah
 Operations Support Officer | Mr Suhandi 
 Operations Support Officer (Adjunct) | Mdm Linda Lim
-Operations Support Officer (Adjunct) | Mdm Siti Salina
+Operations Support Officer (Contract) | Mdm Siti Salina
 Operations Support Officer (MK) | Mdm Lim Ainie
 Operations Support Officer (MK) | Mdm Rokiah
 -
