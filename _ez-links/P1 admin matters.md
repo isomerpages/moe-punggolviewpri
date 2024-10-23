@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Dear parents,</p>
-<p>These are the forms for 2025.</p>
+<p>These are the forms for (2025).</p>
 <p><a href="/files/1__2025_P1_Booklist.pdf" rel="noopener nofollow" target="_blank">1) 2025 Primary 1 Booklist</a>
 </p>
 <p><a href="/files/2__Information_Sheet___GIRO_and_Edusave_Standing_Order__SC_Students_.pdf" rel="noopener nofollow" target="_blank">2) Information Sheet - GIRO and Edusave Standing Order (SC Students)</a>
