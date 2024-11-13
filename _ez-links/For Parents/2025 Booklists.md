@@ -5,12 +5,17 @@ variant: markdown
 description: ""
 third_nav_title: For Parents
 ---
-[P2 Booklist](/files/Primary_2.pdf)
+[P1 Booklist (2025)](/files/P1___2025_Booklilst.pdf)
 
-[P3 Booklist](/files/Primary_3.pdf)
+[P2 Booklist (2025)](/files/P2___2025_Booklist.pdf)
 
-[P4 Booklist](/files/Primary_4.pdf)
+[P3 Booklist (2025)](/files/P3___2025_Booklist.pdf)
 
-[P5 Booklist](/files/Primary_5.pdf)
+[P4 Booklist (2025)](/files/P4___2025_Booklist.pdf)
 
-[P6 Booklist](/files/Primary_6.pdf)
+[P5 Booklist (2025)](/files/P5___2025_Booklist.pdf)
+
+[P6 Booklist (2025)](/files/P6___2025_Booklist.pdf)
+
+
+
