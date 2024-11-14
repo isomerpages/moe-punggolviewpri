@@ -2,9 +2,9 @@ collections:
   ez-links:
     output: true
     order:
-      - P1 admin matters.md
+      - P1 Orientation (2025).md
+      - P1 Admin Matters.md
       - SLS & MIMS.md
-      - eOpen house 2024.md
       - For Parents/.keep
       - For Parents/eLearning 26,27 Sept 2024.md
       - For Parents/PGVP Quarterly.md
