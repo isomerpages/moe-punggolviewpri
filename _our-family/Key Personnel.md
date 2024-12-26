@@ -9,7 +9,7 @@ variant: markdown
 | HOD English     | Ms Balbir Kaur     | kaur_balbir_g_singh@moe.edu.sg
 | HOD Maths | Mr Christopher Cheng | christopher_cheng@moe.edu.sg
 | HOD Science | Ms Sylvia Wang | wang_yong_ling_sylvia@moe.edu.sg
-| HOD MTL | Mr Adrain Ong Wee Loon | ong_wee_loon_adrain@moe.edu.sg
+| HOD MTL | Mdm Yeo Kwang Yee | yeo_kwang_wee@moe.edu.sg
  HOD PE/CCA | Ms Alison Teo | teo_yili_alison@moe.edu.sg
  HOD ICT | Mdm Tan Siew Chian | tan_siew_chian@moe.edu.sg
  HOD CCE | Miss Nur Ain Bte Jumaát | nur_ain_juma_at@moe.edu.sg
