@@ -14,7 +14,7 @@ variant: markdown
  HOD ICT | Mdm Tan Siew Chian | tan_siew_chian@moe.edu.sg
  HOD CCE | Miss Nur Ain Bte Jumaát | nur_ain_juma_at@moe.edu.sg
  HOD SM | Ms Nur Mawarni Nin Sahmad | nur_mawarni_nin_sahmad@moe.edu.sg
-SSD | Mr Luo Kangming Eugene | luo_kangming_eugene@moe.edu.sg 
+SSD | Mdm Goh Meow Sim | goh_meow_sim@moe.edu.sg 
 YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sg
 YH Upper Years | Mdm Lim Hwee Li | lim_hwee_li@moe.edu.sg
 LH English | Ms Sharifah Aliah | sharifah_aliah_syed@moe.edu.sg 
