@@ -7,7 +7,7 @@ variant: markdown
 |Designation | Name | E-Mail |
 | -------- | -------- | -------- |
 | HOD English     | Ms Balbir Kaur     | kaur_balbir_g_singh@moe.edu.sg
-| HOD Maths | Mr Christopher Cheng | christopher_cheng@moe.edu.sg
+| HOD Mathematics (Covering) | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
 | HOD Science | Ms Sylvia Wang | wang_yong_ling_sylvia@moe.edu.sg
 | HOD MTL | Mdm Yeo Kwang Yee | yeo_kwang_wee@moe.edu.sg
  HOD PE/CCA | Ms Alison Teo | teo_yili_alison@moe.edu.sg
@@ -18,8 +18,7 @@ SSD | Mdm Goh Meow Sim | goh_meow_sim@moe.edu.sg
 YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@moe.edu.sg
 YH Upper Years | Mdm Lim Hwee Li | lim_hwee_li@moe.edu.sg
 LH English | Ms Sharifah Aliah | sharifah_aliah_syed@moe.edu.sg 
- | LH1 Maths | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
- LH2 Maths | Mr Reuben Dominic Phay | phay_yi_ren_dominic@moe.edu.sg
+ LH Mathematics | Mr Reuben Dominic Phay | phay_yi_ren_dominic@moe.edu.sg
  LH CL | Mrs Eng-Teng Yi Wen Yvonne | teng_yi_wen@moe.edu.sg
  LH Science (Internal) | Ms Choo Jia | choo_jia@moe.edu.sg
  SH Aesthetics | Ms Magdelene Khairyl-Han | han_may_yun_magdelene@moe.edu.sg

@@ -2,8 +2,52 @@
 title: School Leaders
 permalink: /our-family/school-leaders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
+<p>It is a privilege to join Punggol View Primary School (PVPS), where we
+are committed to nurturing our students into Confident Learners and Active
+Citizens. At PVPS, we believe in creating a positive and enriching learning
+environment through a well-rounded curriculum that balances cognitive academic
+pursuits with the development of 21st Century Competencies (21CC) supported
+by Positive Education (PosEd). Our carefully designed programmes aim to
+equip students with the knowledge, skills, and dispositions they need to
+thrive in both current and future learning contexts. Notably, our signature
+programmes, the Applied Learning Programme (ALP) and Learning for Life
+Programme (LLP), provide meaningful opportunities for students to apply
+their learning beyond the classroom.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mr_Wong_P.jpg">
+</div>
+<p><strong>Mr Wong Kin Mun</strong>
+<br><strong>Principal</strong>
+<br><strong>MA (Instructional Design and Technology)</strong>
+<br><strong>GDip (Applied Positive Psychology)</strong>
+</p>
+<p>Prior to my appointment as Principal of PVPS on 16 December 2024, I served
+as Principal of East Spring Primary School. My journey as an educator began
+in 1999 as a Physics teacher at Yusof Ishak Secondary School. In 2002,
+I took on the role of Head of the ICT Department, followed by a stint at
+the MOE Educational Technology Division (ETD) in 2007. I started my school
+leadership journey as Vice-Principal at Nan Chiau Primary School and Fernvale
+Primary School from 2011 to 2017.</p>
+<p>As a passionate advocate for Lifelong Learning, I firmly believe that
+educators must model continuous growth. I was fortunate to receive the
+MOE Post-Graduate Scholarship in 2005, which allowed me to pursue a Master’s
+in Instructional Design and Technology. In 2024, during my sabbatical,
+I deepened my expertise by completing a Graduate Diploma in Applied Positive
+Psychology.</p>
+<p>I am truly excited about the opportunity to work alongside the dedicated
+staff, supportive parents, and enthusiastic students of PVPS to deliver
+a values-based, holistic education for every child. To me, every student
+is unique and precious. Inspired by the Starfish Story, we are committed
+to bringing out the best in each child—nurturing their strengths, talents,
+and abilities.</p>
+<p>As we work together to fulfill this shared vision, I believe that strong
+collaboration among students, staff, parents, and community partners will
+be the cornerstone of our success. I look forward to partnering with you
+to empower our students and take Punggol View Primary School to greater
+heights.</p>
+<hr>
 <p>I am honoured to be part of the Punggol View family and to serve as the
 Principal of Punggol View Primary School – a school that strives to develop
 our students into Confident Learners, Active Citizens.</p>
