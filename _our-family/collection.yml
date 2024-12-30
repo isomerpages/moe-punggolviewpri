@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - School Leaders.md
-      - Teacher Leaders.md
       - Key Personnel.md
+      - Teacher Leaders.md
       - EAS & Support Staff.md
       - P1 Form Teachers.md
       - P2 Form Teachers.md
