@@ -8,7 +8,6 @@ variant: markdown
 | -------- | -------- 
 | Admin Manager    | Ms Cathy Lee
 Operations Manager | Mr Alan Ong
-Operations Manager (Adjunct)| Mr Eric Tan
 Admin Executive | Mdm Aryani
 Admin Executive | Mdm Claire Yap
 Corporate Support Officer | Mdm Haryati
