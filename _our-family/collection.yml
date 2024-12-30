@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Teacher Leaders.md
       - School Leaders.md
       - Key Personnel.md
       - EAS & Support Staff.md
