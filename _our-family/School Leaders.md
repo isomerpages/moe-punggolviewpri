@@ -4,9 +4,9 @@ permalink: /our-family/school-leaders/
 description: ""
 variant: tiptap
 ---
-<p>It is a privilege to join Punggol View Primary School (PVPS), where we
+<p>It is a privilege to join Punggol View Primary School (PGVP), where we
 are committed to nurturing our students into Confident Learners and Active
-Citizens. At PVPS, we believe in creating a positive and enriching learning
+Citizens. At PGVP, we believe in creating a positive and enriching learning
 environment through a well-rounded curriculum that balances cognitive academic
 pursuits with the development of 21st Century Competencies (21CC) supported
 by Positive Education (PosEd). Our carefully designed programmes aim to
@@ -37,7 +37,7 @@ in Instructional Design and Technology. In 2024, during my sabbatical,
 I deepened my expertise by completing a Graduate Diploma in Applied Positive
 Psychology.</p>
 <p>I am truly excited about the opportunity to work alongside the dedicated
-staff, supportive parents, and enthusiastic students of PVPS to deliver
+staff, supportive parents, and enthusiastic students of PGVP to deliver
 a values-based, holistic education for every child. To me, every student
 is unique and precious. Inspired by the Starfish Story, we are committed
 to bringing out the best in each child—nurturing their strengths, talents,
