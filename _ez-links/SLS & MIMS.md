@@ -14,6 +14,8 @@ variant: tiptap
 <p>If you don't receive the reply within a few days, please check your SPAM/JUNK
 folder.</p>
 <p>Sometimes, your system might detect our e-mail reply as spam/junk.</p>
+<p>Especially if you use Hotmail or Outlook, do check out for the reply in
+your junk folder.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_instructions_password_change_2025.jpg">
