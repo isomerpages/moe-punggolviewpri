@@ -9,9 +9,11 @@ variant: tiptap
 <h4><strong>PASSWORD RESET REQUEST</strong></h4>
 <p><a href="https://forms.gle/Pvcurc4kN4W4t79n8" rel="noopener noreferrer nofollow" target="_blank">Click here to request a password request</a>
 </p>
-<p>Please take note, that the password is case sensitive. If it is a capital
-letter, you have to type it with a capital letter. Typing it with a lower
-case letter will be deemed as wrong password.</p>
+<p></p>
+<h4>IMPORTANT:</h4>
+<p>If you don't receive the reply within a few days, please check your SPAM/JUNK
+folder.</p>
+<p>Sometimes, your system might detect our e-mail reply as spam/junk.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_instructions_password_change_2025.jpg">
