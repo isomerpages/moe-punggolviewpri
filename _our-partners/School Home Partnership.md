@@ -4,6 +4,8 @@ permalink: /our-partners/school-home-partnership/
 description: ""
 variant: markdown
 ---
-Here are guidelines that include points on how parents and schools can cooperate to help children pick up self-management skills, build resilience and take responsibility and ownership of their learning. At the heart of the guidelines is the importance of mutual respect and trust. Our children do best when schools and parents work hand in hand to support them. MOE has included tips to make this happen.  
+The Ministry of Education (MOE) has released a refreshed set of guidelines on the development of positive school-home partnerships. The previous guideline was initially released in 2019. The new School-Home Partnership Guidelines is a joint effort by COMPASS (COMmunity and PArents in Support of Schools) and Ministry of Education, Singapore (MOE). The refreshed guideline places our common desired outcomes at the centre so that both parents and schools will raise a HAPPY, CONFIDENT and KIND generation together.
   
-[Click here to view the infographic.](/files/guidelines-for-school-home-partnership.pdf)
+![](/images/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.jpg)
+
+![](/images/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.jpg)
