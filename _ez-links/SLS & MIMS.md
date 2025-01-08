@@ -13,14 +13,16 @@ variant: tiptap
 letter, you have to type it with a capital letter. Typing it with a lower
 case letter will be deemed as wrong password.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims_instructions_password_change_2025.jpg">
+</div>
 <h4><strong>LOG IN TO SLS USING <em><u>"LOGIN WITH MIMS"</u></em></strong></h4>
 <p>Please use "LOGIN WITH MIMS"</p>
 <p>The username will be the student's e-mail address. Please message the
 form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
-Classroom.</p>
-<p></p>
-<h4><strong>TECHNICAL SUPPORT (ISSUES LOGGING IN)</strong></h4>
+Classroom.<strong>TECHNICAL SUPPORT (ISSUES LOGGING IN)</strong>
+</p>
 <p>If you still face issues after the password has been reset, please e-mail
 <a href="mailto:punggolviewhelpdesk@gmail.com" rel="noopener noreferrer nofollow" target="_blank">punggolviewhelpdesk@gmail.com</a>
 </p>
