@@ -7,7 +7,7 @@ variant: markdown
 |Designation | Name | E-Mail |
 | -------- | -------- | -------- |
 | HOD English     | Ms Balbir Kaur     | kaur_balbir_g_singh@moe.edu.sg
-| HOD Mathematics (Covering) | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
+| LH Math (Covering HOD) | Mr Isreal Teo | teo_tze_koon_isreal@moe.edu.sg
 | HOD Science | Ms Sylvia Wang | wang_yong_ling_sylvia@moe.edu.sg
 | HOD MTL | Mdm Yeo Kwang Yee | yeo_kwang_yee@moe.edu.sg
  HOD PE/CCA | Ms Alison Teo | teo_yili_alison@moe.edu.sg
