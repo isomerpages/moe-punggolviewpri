@@ -35,7 +35,13 @@ the emphasis on the culture of care, strong teacher-student relationship
 and close parent-school engagement.</p>
 <p></p>
 <h4><strong>Key Programmes</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,7 +182,12 @@ our teachers and students. Students reflected on the message delivered
 at the Assembly talks by completing a self-reflection of their behaviour
 in the Values Booklet. This message will be further reinforced during Form
 Teacher Guidance Period (FTGP) and CCE lessons.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -259,7 +270,12 @@ we hope that the simple reward will instil a sense of pride in our students
 and motivate them to do the right thing all the time and become a lifelong
 habit.</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -325,7 +341,7 @@ habit.</p>
 </table>
 <p></p>
 <blockquote>
-<h4><strong>Sexuality Education 2024</strong></h4>
+<h4><strong>Sexuality Education 2025</strong></h4>
 </blockquote>
 <p>Sexuality Education (SEd) in schools is about enabling students to understand
 the physiological, social and emotional changes they experience as they
@@ -341,11 +357,11 @@ different ethnic and religious communities in Singapore on sexuality issues.</p>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality education (MOE)</a></strong>
 </p>
-<p><strong><a href="https://www.punggolviewpri.moe.edu.sg/files/2024_Info_on_SEd_for_schs_website__PGVP_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Info on SEd for schs website (PGVP)</a></strong>
+<p><a href="/files/2025_Info_on_SEd__PGVP.pdf" rel="noopener nofollow" target="_blank">MOE SEd info for school website 2025</a>
 </p>
 <p><strong>Please click the link below for the Opt-out form.</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgvpsed2024</a></strong>
+<p><strong><a href="https://go.gov.sg/pgvpsed2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgvpsed2025</a></strong>
 </p>
 <p></p>
 <p></p>
@@ -393,7 +409,12 @@ amidst the backdrop of a less predictable world.</p>
 a sense of shared mission towards building a Singapore for all.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -458,7 +479,12 @@ a sense of shared mission towards building a Singapore for all.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -503,7 +529,12 @@ a sense of shared mission towards building a Singapore for all.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -582,7 +613,12 @@ a sense of shared mission towards building a Singapore for all.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -631,7 +667,12 @@ a sense of shared mission towards building a Singapore for all.</p>
 to explore their Singaporean identity through the arts, culture and heritage.
 These complement the Art, Character and Citizenship Education and Social
 Studies (SS) curricula.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -701,7 +742,12 @@ engaged in multi-sensory modes. As part of engaging students’ interest
 in inquiry, field-based learning would also motivate and sustain their
 interest in the subject matter as they would learn to explore, construct
 new knowledge and make connections to the topic being studied.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -827,7 +873,12 @@ of values, knowledge and skills.</p>
 <p>a) Assisting the needy&nbsp;</p>
 <p>b) Building bonds with the Community</p>
 <p>c) Committing to sustain as a Green school</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
