@@ -24,6 +24,10 @@ We extend our heartfelt gratitude to them for their unwavering support.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2VH9OoSiqPg?si=tKYttbfepxjcF6sg"></iframe>
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz7zcyTXE8g9j4OeJ8S6a9TISFDT7EBqNT3FYyrzKvssXgyEZ2y1VDFbWOPmwlcaGbctBn2lpTkFPK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p>
 <br>
 <br>
