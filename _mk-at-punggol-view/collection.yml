@@ -2,7 +2,7 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
-      - MK OPEN HOUSE/MK OPEN HOUSE old.md
+      - MK OPEN HOUSE/MK OPEN HOUSE 2025.md
       - MK OPEN HOUSE/.keep
       - ABOUT MK@PV.md
       - OUR FAMILY.md
