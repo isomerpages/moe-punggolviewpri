@@ -24,9 +24,6 @@ to primary school and appropriate use of ICT tools.</p>
 <p>View the photo gallery below to see our sharing sessions conducted this
 year!</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRz7zcyTXE8g9j4OeJ8S6a9TISFDT7EBqNT3FYyrzKvssXgyEZ2y1VDFbWOPmwlcaGbctBn2lpTkFPK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>The K1 LIFE@MK session was held on the 16 August 2024. The ‘Start Small
 Dream Big (SSDB) project was the highlight for the year Life@MK session.
 Parents were invited to join us in this meaningful journey. Our SSDB project
