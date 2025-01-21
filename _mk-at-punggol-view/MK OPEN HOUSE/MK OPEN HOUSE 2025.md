@@ -12,7 +12,7 @@ trained educators, focus on holistic child development, confidence-building,
 bilingualism and foundational literacy and numeracy skills.</p>
 <p></p>
 <p>We warmly welcome you and your child to sign up for the 2024 MOE Kindergarten
-Open House on 3 and 17 February 2024 from 8.30 am to 12.30pm. At the physical
+Open House on 8 and 15 February 2025 from 8.30 am to 12.30pm. At the physical
 Open House, parents are welcomed to tour the learning environment and speak
 to the MK educators in person. Should you require a full-day service for
 child, we also offer Kindergarten Care (KCare) at all MKs.</p>
