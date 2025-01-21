@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - P1 Briefing 2025.md
       - Important things to bring 2025.md
       - P1 Orientation (2025).md
       - P1 Admin Matters.md
