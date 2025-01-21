@@ -46,5 +46,8 @@ of Deepavali through the bazaar as they walked through the exhibits filled
 with Deepavali decorations, watched the shadow puppet show depicting story
 of deepavali, explored the different Indian spices and food, and tried
 out the different apparels.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q_GtRBsVhy8?si=nu4bDx3goR6KLcgf"></iframe>
+</div>
 <p></p>
 <p></p>
