@@ -6,9 +6,7 @@ third_nav_title: KINDERGARTEN NEWS
 variant: tiptap
 ---
 <h2>KINDERGARTEN NEWS - LATEST EVENTS</h2>
-<p>
-<br>
-</p>
+<p></p>
 <h4>Chinese New Year Celebration</h4>
 <p>On 9 Feb 2024, our children celebrated Chinese New Year with a list of
 fun-filled activities! Our children created dragon crafts, tossed Yu Sheng
@@ -38,7 +36,9 @@ children’s day on 3rd October, 2024. Parents got to engage actively with
 their children in a fun and supportive environment. The event also motivated
 children to engage in physical activity and develop positive behaviors
 related to sportsmanship and teamwork.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DnmhPS1JGvo?si=gdrMUmzm_4dO18Ka"></iframe>
+</div>
 <p>
 <br>
 </p>
