@@ -1,8 +1,9 @@
 ---
-title: MK OPEN HOUSE
-permalink: /mk-at-punggol-view/mkopenhouse/
+title: MK OPEN HOUSE 2025
+permalink: /mk-at-punggol-view/mkopenhouse2025/
 variant: tiptap
 description: ""
+third_nav_title: MK OPEN HOUSE
 ---
 <h2>Discover quality and affordable preschool education at MOE Kindergarten!</h2>
 <p></p>

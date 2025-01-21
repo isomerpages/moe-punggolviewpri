@@ -2,9 +2,11 @@ collections:
   mk-at-punggol-view:
     output: true
     order:
+      - MK OPEN HOUSE/.keep
+      - MK OPEN HOUSE/MK OPEN HOUSE 2025.md
+      - MK OPEN HOUSE/Info for Parents.md
       - ABOUT MK@PV.md
       - OUR FAMILY.md
-      - MK OPEN HOUSE.md
       - OUR PROGRAMME/.keep
       - OUR PROGRAMME/MK TOTAL CURRICULUM.md
       - OUR PROGRAMME/HI LIGHT PROGRAMME.md
