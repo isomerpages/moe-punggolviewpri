@@ -25,7 +25,9 @@ child gets a strong start!</p>
 and find out more on the MK website (<a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>). We look forward
 to seeing you!</p>
 <p></p>
-<p>&lt;to insert Straits Times article here&gt;</p>
+<div class="iframe-wrapper">
+<iframe height="1152" width="793" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTq8siIdHBFirWydynlGzCQvI-U3I77XyKTYkkKUHhjTQkKaFfBuPIE04IZYttzPA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Open_House_2025.png">
