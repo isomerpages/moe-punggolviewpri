@@ -80,7 +80,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-ii8k">Scouts</td>
-    <td class="tg-ii8k">CCA Rooms 1 &amp; 2</td>
+    <td class="tg-ii8k">Music room 2</td>
     <td class="tg-ii8k"></td>
     <td class="tg-ii8k">2.00pm – 4.00pm<br></td>
     <td class="tg-ii8k"></td>
@@ -103,8 +103,8 @@ variant: markdown
     <td class="tg-ii8k">Rugby</td>
     <td class="tg-ii8k">School Field</td>
     <td class="tg-ii8k"></td>
-		<td class="tg-ii8k"><b>Development Team &amp; School Team</b><br>2.00pm – 4.30pm</td>
-		<td class="tg-ii8k"><b>School Team</b><br>3.30pm – 5.00pm</td>
+		<td class="tg-ii8k"><b>Development Team &amp; School Team</b><br>2.00pm – 3.30pm</td>
+		<td class="tg-ii8k"><b>School Team</b><br>2.00pm – 4.30pm</td>
   </tr>
 	  <tr>
     <td class="tg-ii8k">Wushu<br> <br></td>
