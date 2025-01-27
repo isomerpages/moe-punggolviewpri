@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![Co-Curricular Activities (CCAs)](/images/cca2020.png)
 
-#### CCA Details (2024)
+#### CCA Details (2025)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
