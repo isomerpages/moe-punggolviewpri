@@ -12,5 +12,5 @@ variant: markdown
 |1 Jade | Mdm Nur Amlia Jumali<br>Mdm Li Xinni<br>Mrs Mohan | nur_amlia_jumali@moe.edu.sg<br>li_xinni@moe.edu.sg<br>venkatachalam_gangaiswary@moe.edu.sg |
 | 1 Opal | Ms Nurhayati Selamat<br>Mr Jeremy Lim<br>Mdm Fong Lai Cheng Elaine (Mrs Elaine Lew) | nurhayati_selamat@moe.edu.sg<br>lim_wei_peng_jeremy@moe.edu.sg<br>fong_lai_cheng_elaine@moe.edu.sg | 
 1 Pearl | Mrs Tee - Ms Corinna Liow Chia Hong<br>Mrs Vijayalakshmi Vijayan<br> Ms Nurul Jannah | liow_chai_hong_corinna@moe.edu.sg<br>vijayalakshmi_vijayan@moe.edu.sg<br>nurul_jannah_mohamad_zahir@moe.edu.sg |
-1 Ruby | Mdm Lyly Suriani<br>Mrs Eng-Teng Yi Wen, Yvonne<br>Mr Raihan Bin Mohd Yassin | lyly_suriani_osman@moe.edu.sg<br>teng_yi_wen@moe.edu.sg |
+1 Ruby | Mdm Lyly Suriani<br>Mrs Eng-Teng Yi Wen, Yvonne<br> | lyly_suriani_osman@moe.edu.sg<br>teng_yi_wen@moe.edu.sg |
 1 Sapphire | Mrs Alison Humphries<br>Ms Magdelene Khairyl-Han | alison_maree_dragon-humphries@moe.edu.sg<br>han_may_yun_magdelene@moe.edu.sg |
