@@ -2,7 +2,6 @@ collections:
   ez-links:
     output: true
     order:
-      - P1 Admin Matters.md
       - SLS & MIMS.md
       - For Parents/External Awards 2025.md
       - For Parents/Speak Mandarin Campaign 2025.md
