@@ -26,12 +26,6 @@ your junk folder.</p>
 <p>The username will be the student's e-mail address. Please message the
 form teacher if you do not know the e-mail address.</p>
 <p>The MIMS account can be used to log in to SLS, school computers, and Google
-Classroom.<strong>TECHNICAL SUPPORT (ISSUES LOGGING IN)</strong>
-</p>
-<p>If you still face issues after the password has been reset, please e-mail
-<a href="mailto:punggolviewhelpdesk@gmail.com" rel="noopener noreferrer nofollow" target="_blank">punggolviewhelpdesk@gmail.com</a>
-</p>
-<p>Please provide a screenshot/photo/video of the error you are facing.</p>
-<p>In the e-mail subject, please indicate the student's full name and class.</p>
+Classroom.</p>
 <h4></h4>
 <p></p>
