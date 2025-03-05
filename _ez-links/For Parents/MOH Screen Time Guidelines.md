@@ -69,15 +69,15 @@ controls are set up. Below are links to resources that can assist you in
 configuring parental controls on various operating systems:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Android</strong>: <a href="link" rel="noopener noreferrer nofollow" target="_blank">Family Link by Google (free)</a>
+<p><strong>Android</strong>: <a href="https://support.google.com/families/answer/7101025?hl=en#zippy=%2Chow-account-management-works%2Cmanage-your-childs-google-account" rel="noopener noreferrer nofollow" target="_blank">Family Link by Google (free)</a>
 </p>
 </li>
 <li>
-<p><strong>iOS</strong>: <a href="link" rel="noopener noreferrer nofollow" target="_blank">Family Sharing (free)</a>
+<p><strong>iOS</strong>: <a href="https://www.apple.com/sg/family-sharing/" rel="noopener noreferrer nofollow" target="_blank">Family Sharing (free)</a>
 </p>
 </li>
 <li>
-<p><strong>Windows</strong>: <a href="link" rel="noopener noreferrer nofollow" target="_blank">Family Safety (free)</a>
+<p><strong>Windows</strong>: <a href="https://support.microsoft.com/en-us/account-billing/getting-started-with-microsoft-family-safety-b6280c9d-38d7-82ff-0e4f-a6cb7e659344" rel="noopener noreferrer nofollow" target="_blank">Family Safety (free)</a>
 </p>
 </li>
 </ul>
@@ -88,7 +88,7 @@ configuring parental controls on various operating systems:</p>
 explores the impact of excessive screen time on cognitive development among
 Singaporean adolescents. This research highlights how screen time can affect
 learning and future work life. You can find the video titled <strong>“No Phone, No Life?”</strong> on
-MeWatch or access it <a href="link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+MeWatch or access it <a href="https://www.mewatch.sg/show/No-Screen-No-Life-515686" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Partnership for Healthier Screen Use</strong>
