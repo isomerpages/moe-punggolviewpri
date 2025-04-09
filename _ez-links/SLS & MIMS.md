@@ -22,18 +22,18 @@ you forget your password.</p>
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025__1_.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025v2__2_.jpg">
 </div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025v2__3_.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025v2__5_.jpg">
 </div>
 <p></p>
 <h4><strong>FORGOT PASSWORD</strong></h4>
