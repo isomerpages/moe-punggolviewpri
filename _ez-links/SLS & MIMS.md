@@ -4,7 +4,25 @@ permalink: /ez-links/sls/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>SET UP SECURITY QUESTIONS/ANSWERS IN MIMS</u></strong></h4>
+<p>If you can log in to MIMS successfully, please set up your security questions.
+(No.2)
+<br>If not, please proceed to (No.3)</p>
+<h4><strong>1. LOG IN TO SLS USING <em><u>"LOGIN WITH MIMS"</u></em></strong></h4>
+<p>Please use <strong>"LOGIN WITH MIMS"</strong>
+</p>
+<p>The username will be the student's e-mail address. Please message the
+form teacher if you do not know the e-mail address.</p>
+<p>The MIMS account can be used to log in to SLS, school computers, and Google
+Classroom</p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Click here to login to SLS</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_website.jpg">
+</div>
+<p></p>
+<p></p>
+<h4><strong><u>2. SET UP SECURITY QUESTIONS/ANSWERS IN MIMS</u></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Log in to the MIMS portal (<a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>)</p>
@@ -18,7 +36,7 @@ variant: tiptap
 </li>
 <li>
 <p>Once security questions have been set, you can do a self reset anytime
-you forget your password.</p>
+you forget your password, even when your MIMS account has been locked.</p>
 </li>
 </ol>
 <p></p>
@@ -36,7 +54,7 @@ you forget your password.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mims2025v2__5_.jpg">
 </div>
 <p></p>
-<h4><strong>FORGOT PASSWORD</strong></h4>
+<h4><strong>3. FORGOT PASSWORD</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Do a self reset</p>
@@ -65,18 +83,5 @@ then fill up the form by <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJb
 </div>
 <p></p>
 <p></p>
-<h4><strong>LOG IN TO SLS USING <em><u>"LOGIN WITH MIMS"</u></em></strong></h4>
-<p>Please use <strong>"LOGIN WITH MIMS"</strong>
-</p>
-<p>The username will be the student's e-mail address. Please message the
-form teacher if you do not know the e-mail address.</p>
-<p>The MIMS account can be used to log in to SLS, school computers, and Google
-Classroom</p>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Click here to login to SLS</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sls_website.jpg">
-</div>
-<p></p>
+<h4></h4>
 <p></p>
