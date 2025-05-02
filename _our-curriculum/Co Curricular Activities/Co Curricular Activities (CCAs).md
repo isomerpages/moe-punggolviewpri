@@ -37,29 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports and Adventure Club
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IBC
-<br>Parade Square
-<br>School Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30 – 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Service &amp; Interact Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +81,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winning in Thinking Strategies club (New)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -333,8 +327,7 @@ all of which are essential to prepare our students to be future-ready.</p>
 <p>1. Badminton
 <br>2. Floorball
 <br>3. Rugby
-<br>4.&nbsp;&nbsp;&nbsp;Sports and Adventure Club
-<br>5. Wushu</p>
+<br>4. Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Contemporary Dance
@@ -347,8 +340,7 @@ all of which are essential to prepare our students to be future-ready.</p>
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scouts
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service and Interact Club
 <br>4. Speech and Drama Society
-<br>
-</p>
+<br>5. Winning in Thinking Strategies</p>
 </td>
 </tr>
 </tbody>
