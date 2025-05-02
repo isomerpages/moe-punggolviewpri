@@ -37,29 +37,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports and Adventure Club
-<br>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>IBC
-<br>Parade Square
-<br>School Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30 – 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Service &amp; Interact Club</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +81,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winning in Thinking Strategies club (New)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -333,8 +327,7 @@ all of which are essential to prepare our students to be future-ready.</p>
 <p>1. Badminton
 <br>2. Floorball
 <br>3. Rugby
-<br>4.&nbsp;&nbsp;&nbsp;Sports and Adventure Club
-<br>5. Wushu</p>
+<br>4. Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Contemporary Dance
@@ -347,8 +340,7 @@ all of which are essential to prepare our students to be future-ready.</p>
 <br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scouts
 <br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service and Interact Club
 <br>4. Speech and Drama Society
-<br>
-</p>
+<br>5. Winning in Thinking Strategies</p>
 </td>
 </tr>
 </tbody>
@@ -362,13 +354,13 @@ skill development and continuity.</p>
 that there may be circumstances that students are unable to continue in
 their CCA.&nbsp;Thus, the school has two transfer periods within the year,&nbsp;<strong>first 2 weeks</strong>&nbsp;of
 Semester 1 and&nbsp;<strong>last 2 weeks</strong>&nbsp;of Semester 2.</p>
-<p>The school does not accede to any CCA transfer requests after the transfer
-periods unless on medical grounds.</p>
+<p><strong>The school does not accede to any CCA transfer requests after the transfer periods unless on medical grounds.</strong>
+</p>
 <p>Students are entitled to only&nbsp;<strong>one CCA change</strong>&nbsp;during
 the time they are in the school.&nbsp;Provision for more than one change
 will be made for special cases like medical conditions.</p>
 <p>Students are required to fill up the CCA Transfer Form and submit to LH
-CCA, Mr Fabian Koh for approval.</p>
+CCA, Mdm Tan Li Hwa for approval.</p>
 <p>The CCA transfer is only successful if there is vacancy in the selected
 CCA.</p>
 <h4>Attendance</h4>
