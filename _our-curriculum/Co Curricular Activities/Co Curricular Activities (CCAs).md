@@ -354,13 +354,13 @@ skill development and continuity.</p>
 that there may be circumstances that students are unable to continue in
 their CCA.&nbsp;Thus, the school has two transfer periods within the year,&nbsp;<strong>first 2 weeks</strong>&nbsp;of
 Semester 1 and&nbsp;<strong>last 2 weeks</strong>&nbsp;of Semester 2.</p>
-<p>The school does not accede to any CCA transfer requests after the transfer
-periods unless on medical grounds.</p>
+<p><strong>The school does not accede to any CCA transfer requests after the transfer periods unless on medical grounds.</strong>
+</p>
 <p>Students are entitled to only&nbsp;<strong>one CCA change</strong>&nbsp;during
 the time they are in the school.&nbsp;Provision for more than one change
 will be made for special cases like medical conditions.</p>
 <p>Students are required to fill up the CCA Transfer Form and submit to LH
-CCA, Mr Fabian Koh for approval.</p>
+CCA, Mdm Tan Li Hwa for approval.</p>
 <p>The CCA transfer is only successful if there is vacancy in the selected
 CCA.</p>
 <h4>Attendance</h4>
