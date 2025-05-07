@@ -45,8 +45,9 @@ birth in the new password. It will be rejected.</p>
 <p>After password change in MIMS portal, you can just click on the SLS shortcut
 and you will get into SLS.</p>
 <p>If you want to go directly to the SLS portal, go to the SLS website.</p>
-<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login<br></a>Click
-on<strong>&nbsp;LOGIN WITH MIMS</strong>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+<p>Choose <strong>LOGIN WITH MIMS</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
