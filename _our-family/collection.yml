@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Allied Educators.md
       - School Leaders.md
       - Key Personnel.md
       - Teacher Leaders.md
