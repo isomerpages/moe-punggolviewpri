@@ -2,10 +2,10 @@ collections:
   our-family:
     output: true
     order:
-      - Allied Educators.md
       - School Leaders.md
       - Key Personnel.md
       - Teacher Leaders.md
+      - Allied Educators.md
       - EAS & Support Staff.md
       - P1 Form Teachers.md
       - P2 Form Teachers.md
