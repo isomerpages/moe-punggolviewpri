@@ -17,7 +17,7 @@ variant: markdown
 SSD | Mdm Goh Meow Sim | goh_meow_sim@schools.gov.sg 
 YH Lower Years | Mdm Rosnita Abdul Rahim | rosnita_abdul_rahim@schools.gov.sg
 YH Upper Years | Mdm Lim Hwee Li | lim_hwee_li@schools.gov.sg
-LH English | Ms Sharifah Aliah | sharifah_aliah_syed@schools.gov.sg 
+LH English | Ms Sharifah Aliah | sharifah_aliah_syed_ali@schools.gov.sg 
  LH Mathematics | Mr Reuben Dominic Phay | phay_yi_ren_dominic@schools.gov.sg
  LH CL | Mrs Eng-Teng Yi Wen Yvonne | teng_yi_wen@schools.gov.sg
  LH Science (Internal) | Ms Choo Jia | choo_jia@schools.gov.sg
