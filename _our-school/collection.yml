@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - Use Of Personal Data.md
       - Vision.md
       - Mission.md
+      - Strategic Thrusts.md
       - Motto.md
       - Philosophy.md
       - Values.md
@@ -20,6 +20,6 @@ collections:
       - School Services/Insurance Claim for Students.md
       - School Services/Name Tag Supplier.md
       - Contact Us.md
-      - Strategic Thrusts.md
       - School Song.md
       - Corporate Videos.md
+      - Use Of Personal Data.md
