@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Staff Appreciation.md
       - SLS & MIMS.md
       - For Parents/P4 Engagement Session (2025).md
       - For Parents/P3 Engagement Session (2025).md
