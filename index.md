@@ -12,4 +12,7 @@ sections:
         - title: Password Reset
           description: ""
           url: https://www.punggolviewpri.moe.edu.sg/ez-links/sls/
+        - title: Staff Appreciation
+          description: ""
+          url: ""
 ---
