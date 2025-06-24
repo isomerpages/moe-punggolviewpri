@@ -2,8 +2,9 @@ collections:
   ez-links:
     output: true
     order:
-      - Staff Appreciation.md
       - SLS & MIMS.md
+      - Staff Appreciation.md
+      - For Parents/.keep
       - For Parents/P4 Engagement Session (2025).md
       - For Parents/P3 Engagement Session (2025).md
       - For Parents/P6 Briefing (2025).md
@@ -11,7 +12,6 @@ collections:
       - For Parents/MOH Screen Time Guidelines.md
       - For Parents/External Awards 2025.md
       - For Parents/Speak Mandarin Campaign 2025.md
-      - For Parents/.keep
       - For Parents/2025 Booklists.md
       - For Parents/PGVP Quarterly.md
       - For Parents/Briefing Notes 2025.md
