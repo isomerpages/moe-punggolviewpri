@@ -15,4 +15,7 @@ sections:
         - title: Staff Appreciation
           description: ""
           url: https://www.punggolviewpri.moe.edu.sg/staff-appreciation/
+        - title: E-Forms
+          description: For staff
+          url: https://go.gov.sg/eformpgvp
 ---
