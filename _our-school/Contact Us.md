@@ -17,9 +17,11 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Getting Here</h4>
-<p>Bus Services :&nbsp;SBS 50&nbsp;&amp;&nbsp;GAS 382W&nbsp;from Punggol
-Temp Bus Interchange
-<br>Nearest MRT :&nbsp;NE17 Punggol &nbsp;(use Exit B)</p>
+<p><strong>Bus Stops</strong> : 65351 (outside Punggol View Pri Sch) and 65359
+(opp Punggol View Pri Sch)
+<br><strong>Bus Services</strong> : 50, 117 / 117M, 382W from Punggol Interchange,
+382G from Sumang
+<br><strong>Nearest MRT</strong> : NE17 Punggol (use Exit B)</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.473326271167!2d103.905183!3d1.4052725!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x96529c5623132e2a!2sPunggol%20View%20Primary%20School!5e0!3m2!1sen!2ssg!4v1657525817063!5m2!1sen!2ssg"></iframe>
