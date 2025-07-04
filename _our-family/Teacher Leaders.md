@@ -7,7 +7,7 @@ description: ""
 |Designation | Name | 
 | -------- | -------- | 
 | Leader Teacher (Chinese)     | Ms Goh Poh Khim     | 
-| Leader Teacher (SEN) | Mr Jeffery Wong
+| Senior Teacher (SEN) | Mr Jeffery Wong
 | Senior Teacher (English Language) | Mdm Siti Nurhawa (Mrs Ariff)
 | Senior Teacher (Mathematics) | Mr Michael Png
 | Senior Teacher (PE) | Mr Jeremy Lim
