@@ -6,8 +6,8 @@ description: ""
 ---
 <p>Term 3 Week 3 is English Language Week.
 <br>
-<br>We are collaborating with NLB to facilitate the <a rel="noopener noreferrer nofollow" target="_blank">Read.Create.SG</a>60
-Competition. Submission is online.
+<br>We are collaborating with NLB to facilitate the Read Create SG60 Competition.
+Submission is online.
 <br>
 <br><strong>Submission detail form:</strong>
 </p>
