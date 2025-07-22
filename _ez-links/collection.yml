@@ -2,9 +2,9 @@ collections:
   ez-links:
     output: true
     order:
+      - Life in PGVP (A Parent's 1st Look).md
       - SG60 Competition.md
       - P5 Briefing for Parents (2025).md
-      - Life in PGVP (A Parent's 1st Look).md
       - SLS & MIMS.md
       - Staff Appreciation.md
       - For Parents/.keep
