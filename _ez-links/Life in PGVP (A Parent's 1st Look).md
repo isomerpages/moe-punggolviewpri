@@ -4,7 +4,7 @@ permalink: /life-in-pgvp/
 variant: tiptap
 description: ""
 ---
-<p>More information about the Open House will be posted here soon!</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hugnI8IuNuk?si=zQAMQBHZnGLHgVcj"></iframe>
 </div>
