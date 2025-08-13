@@ -11,5 +11,5 @@ variant: markdown
 | 6 Emerald | Mdm Lisa Tan<br>Mr Hidayat Hamzah | choo_lisa@schools.gov.sg<br>hidayat_hamzah@schools.gov.sg |
 | 6 Jade | Mr Mohd Zahid<br>Mr Reuben Dominic Phay | mohammad_zahid_rohmat@schools.gov.sg<br>phay_yi_ren_dominic@schools.gov.sg |
 | 6 Opal | Miss Jueween Oh<br>Mr Michael Png | jueween_oh_ling_li@schools.gov.sg<br>png_ban_seng_michael@schools.gov.sg |
-| 6 Pearl | Miss Maithili Anpazhahan (Miss Mai)<br>Mdm Lim Hwee Li | maithili_anpazhahan@schools.gov.sg<br>lim_hwee_li@schools.gov.sg |
+| 6 Pearl | Miss Maithilli Anpazhahan (Miss Mai)<br>Mdm Lim Hwee Li | maithilli_anpazhahan@schools.gov.sg<br>lim_hwee_li@schools.gov.sg |
 | 6 Ruby | Mr Edwin Ong Zhi Wei<br>Ms Choo Jia | Edwin_ong_zhi_wei@schools.gov.sg<br>choo_jia@schools.gov.sg |
