@@ -8,6 +8,7 @@ variant: markdown
 | -------- | -------- |---|
 | Admin Manager    | Ms Cathy Lee | cathy_lee@schools.gov.sg
 Operations Manager | Mr Alan Ong | ong_tuan_kiat@schools.gov.sg
+Operations Manager | Mr Gunasekaran | gunasekaran_kanagarajan@schools.gov.sg
 Admin Executive | Mdm Aryani
 Admin Executive | Mdm Claire Yap
 Corporate Support Officer | Mdm Haryati
