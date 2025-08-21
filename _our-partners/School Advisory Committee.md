@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="auto" alt="" src="/images/2025___Mr_Arthur_Kong_Wei_Cheun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025___Mr_Sam_Ho_Gim_Hai.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ variant: tiptap
 <p>Mr Andy Ho See Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arthur Kong Wei Cheun</p>
+<p>Mr Sam Ho Gim Hai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Don Quah Poh Keng</p>
@@ -69,9 +69,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025___Mr_Sam_Ho_Gim_Hai.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -82,7 +80,7 @@ variant: tiptap
 <p>Mr Lim Teng Sherng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Ho Gim Hai</p>
+<p></p>
 </td>
 </tr>
 <tr>
