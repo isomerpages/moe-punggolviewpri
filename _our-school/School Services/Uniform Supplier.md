@@ -59,7 +59,7 @@ maintaining high quality standards so that our customers get the <strong>best va
 </p>
 <h3>Contact Us</h3>
 <h4><strong>Website</strong></h4>
-<p><a href="http://www.shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
+<p><a href="http://www.shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <h4><strong>E-mail</strong></h4>
 <p>General: <a href="mailto:sales@shanghai-uniforms.com" rel="noopener noreferrer nofollow" target="_blank">contact@shanghai-uniforms.com</a>
@@ -95,7 +95,7 @@ House)
 </p>
 <p>(Delivery charge : $10 for delivery to 1 location.)</p>
 <p>During the months Oct to Feb, visits to the Retail Outlet is STRICTLY
-by appointment only. Please book your appointment via <a href="https://shop.shanghai-uniforms.com/appointment-booking/" rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/appointment-booking/</a>.
+by appointment only. Please book your appointment via <a href="https://shanghai-uniforms.sg/appointment-retail" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-retail</a>.
 We regret to inform you that walk-ins will not be entertained during this
 period.</p>
 <p></p>
