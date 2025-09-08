@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - E Learning.md
       - SLS & MIMS.md
       - Forms & Useful Links.md
       - Life in PGVP (A Parent's 1st Look).md
