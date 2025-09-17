@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-#### July 2025
+#### September 2025
 
 Dear Parents/Guardians,
 
