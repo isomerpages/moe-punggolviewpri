@@ -48,8 +48,8 @@ in the child's profile.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Password Reset</u></strong>
 </p>
-<p>1) Get the student MIMS Admin to reset for you. E-mail will be sent within
-1-2 working days. Check your spam folder.</p>
+<p>1) Get the student MIMS Admin to reset for you via the form below. E-mail
+reply will be sent to you within 1-2 working days. Check your spam folder.</p>
 <p></p>
 <p>2) Do a self reset via the self service reset portal in the MIMS portal.</p>
 </td>
