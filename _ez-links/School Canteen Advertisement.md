@@ -35,7 +35,7 @@ description: ""
 <p>Wraps etc</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Sept 2025</p>
+<p>31st October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Start date: 2 January 2026</p>
