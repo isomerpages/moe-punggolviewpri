@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - P1 Admin Matters.md
       - E Learning 2025.md
       - School Canteen Advertisement.md
       - SLS & MIMS.md
