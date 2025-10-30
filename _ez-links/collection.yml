@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Acceptable Use Policy (EdTech).md
       - P1 Admin Matters.md
       - E Learning 2025.md
       - School Canteen Advertisement.md
