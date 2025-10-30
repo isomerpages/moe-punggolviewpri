@@ -4,7 +4,8 @@ permalink: /p1-admin-matters/
 variant: tiptap
 description: ""
 ---
-<p>1) Book list 2026 (To be uploaded soon)</p>
+<p><a href="/files/Book_list_2026.pdf" rel="noopener nofollow" target="_blank">1) Book list 2026 </a>
+</p>
 <p><a href="/files/A__Information_Sheet___GIRO_and_Edusave_Standing_Order__SC_Students_.pdf" rel="noopener nofollow" target="_blank">2) (A) Information Sheet – GIRO and Edusave Standing Order (SC Students)</a>
 </p>
 <p><a href="/files/B__Information_Sheet___GIRO_Standing_Order__non_SC_Students_.pdf" rel="noopener nofollow" target="_blank">3) (B) Information Sheet – GIRO Standing Order (non-SC Students)</a>
