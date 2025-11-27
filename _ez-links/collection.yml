@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - 2026 Important things to bring for Primary 6.md
       - P1 Orientation (2026).md
       - 13th Annual Awards Day 2025.md
       - Acceptable Use Policy (EdTech).md
