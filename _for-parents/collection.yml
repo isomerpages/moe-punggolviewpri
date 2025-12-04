@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Snacks For Break Time.md
       - Parents Gateway.md
       - 2026 Booklists.md
       - MOH Screen Time Guidelines.md
