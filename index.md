@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Password Reset
           description: ""
-          url: https://www.punggolviewpri.moe.edu.sg/ez-links/sls/
+          url: https://www.punggolviewpri.moe.edu.sg/mims-password-reset/
         - title: Staff Appreciation
           description: ""
           url: https://www.punggolviewpri.moe.edu.sg/staff-appreciation/
