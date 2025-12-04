@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - 2026 Booklists.md
       - MOH Screen Time Guidelines.md
       - PGVP Quarterly.md
