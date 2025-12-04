@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Acceptable Use Policy (EdTech).md
       - Positive Use Guide on Tech & Social Media.md
       - Snacks For Break Time.md
       - Parents Gateway.md
