@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - MIMS Password Reset.md
       - Useful Links.md
