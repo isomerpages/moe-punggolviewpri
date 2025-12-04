@@ -2,7 +2,6 @@
 title: PGVP Quarterly
 permalink: /ez-links/for-parents/quarterly/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 #### September 2025

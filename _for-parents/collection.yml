@@ -1,0 +1,12 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - P1 Admin Matters.md
+      - Acceptable Use Policy (EdTech).md
+      - Positive Use Guide on Tech & Social Media.md
+      - Snacks For Break Time.md
+      - Parents Gateway.md
+      - 2026 Booklists.md
+      - MOH Screen Time Guidelines.md
+      - PGVP Quarterly.md

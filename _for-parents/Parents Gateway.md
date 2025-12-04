@@ -2,7 +2,6 @@
 title: Parents Gateway
 permalink: /ez-links/for-parents/
 description: ""
-third_nav_title: For Parents
 variant: markdown
 ---
 #### Parents Gateway
@@ -15,4 +14,3 @@ Below is an infographic and video explaining what the Parents Gateway is.
 
 
 <img src="/images/pgateway.jpg" style="width:85%">
-

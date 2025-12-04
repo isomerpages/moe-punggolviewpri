@@ -3,7 +3,6 @@ title: 2026 Booklists
 permalink: /ez-links/2026booklists/
 variant: markdown
 description: ""
-third_nav_title: For Parents
 ---
 2026 Booklist
 

@@ -2,28 +2,12 @@ collections:
   ez-links:
     output: true
     order:
-      - Positive Use Guide on Tech & Social Media.md
       - 2026 Important things to bring for Primary 6.md
       - P1 Orientation (2026).md
-      - P1 Admin Matters.md
       - Life in PGVP (A Parent's 1st Look).md
       - SLS & MIMS.md
-      - Acceptable Use Policy (EdTech).md
       - Forms & Useful Links.md
       - Staff Appreciation.md
-      - For Parents/.keep
-      - For Parents/PGVP Quarterly.md
-      - For Parents/P4 Engagement Session (2025).md
-      - For Parents/P3 Engagement Session (2025).md
-      - For Parents/P6 Briefing (2025).md
-      - For Parents/P1 Curriculum Briefing (2025).md
-      - For Parents/MOH Screen Time Guidelines.md
-      - For Parents/External Awards 2025.md
-      - For Parents/Speak Mandarin Campaign 2025.md
-      - For Parents/2026 Booklists.md
-      - For Parents/Briefing Notes 2025.md
-      - For Parents/Parents Gateway.md
-      - For Parents/Snacks For Break Time.md
       - For Students.md
       - For Teachers.md
       - Alumni.md
