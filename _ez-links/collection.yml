@@ -2,6 +2,7 @@ collections:
   ez-links:
     output: true
     order:
+      - Positive Use Guide on Tech & Social Media.md
       - 2026 Important things to bring for Primary 6.md
       - P1 Orientation (2026).md
       - P1 Admin Matters.md
