@@ -1,5 +1,0 @@
-collections:
-  for-staff:
-    output: true
-    order:
-      - MOE Systems.md
