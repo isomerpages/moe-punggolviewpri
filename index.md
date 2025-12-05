@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2026banner.png
+      background: /images/gifbanner2026v2.gif
       key_highlights:
         - title: Password Reset
           description: ""
