@@ -69,7 +69,7 @@ at the General Office.
 <br><a href="/files/KF%20-%20KiFAS%20Explanatory%20Notes.pdf" rel="noopener noreferrer nofollow" target="_blank">KF - KiFAS Explanatory Notes</a>
 <br>
 <br>For more information on KiFAS, you may
-<br>visit&nbsp;<a href="https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx%C2%A0" rel="noopener noreferrer nofollow" target="_blank">https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx</a>
+<br>visit&nbsp;<a href="https://www.ecda.gov.sg/parents/preschool-subsidies/kindergarten-fee-assistance-scheme-(kifas)" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
