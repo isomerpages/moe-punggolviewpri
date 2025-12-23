@@ -91,11 +91,11 @@ House)
 <br>Christmas Eve and New year’s Eve: 10.00 am - 1.00 pm
 <br>Closed on Sunday and Public Holidays</p>
 <p>Online order:
-<br>https:// <a href="http://www.shanghai-uniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.com</a>
+<br>https:// <a href="http://www.shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">www.shanghai-uniforms.sg</a>
 </p>
 <p>(Delivery charge : $10 for delivery to 1 location.)</p>
 <p>During the months Oct to Feb, visits to the Retail Outlet is STRICTLY
-by appointment only. Please book your appointment via <a href="https://shanghai-uniforms.sg/appointment-retail" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-retail</a>.
-We regret to inform you that walk-ins will not be entertained during this
+by appointment only. Please book your appointment via <a href="https://www.shanghai-uniforms.sg/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a> We
+regret to inform you that walk-ins will not be entertained during this
 period.</p>
 <p></p>
