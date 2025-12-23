@@ -10,7 +10,5 @@ MOE SYSTEMS
 *   [Log in to SLS](https://vle.learning.moe.edu.sg/login)
 *   [SLS Info-Site](https://www.learning.moe.edu.sg)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg)
-*   [PaC@Gov (Pay and Claims @ Government)](https://pacgov.agd.gov.sg/)
 *   [iCart (Gebiz)](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)
 *   [SC Mobile](https://scmobile.moe.edu.sg/login)
-
