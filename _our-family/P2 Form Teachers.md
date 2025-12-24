@@ -20,4 +20,4 @@ variant: markdown
 |
 2 Ruby | Mdm Lyly<br>Mrs Eng-Teng Yi Wen, Yvonne | lyly_suriani_osman@schools.gov.sg<br>teng_yi_wen@schools.gov.sg|
 |
-2 Sapphire | Mrs Alison Humphries <br>Ms Magdelene Khairyl-Han  | mohamed_bilal_obayadulla@schools.gov.sg<br>rachael_ngiam_shi_ting@schools.gov.sg|
+2 Sapphire | Mrs Alison Humphries <br>Ms Magdelene Khairyl-Han  | alison_maree_dragon-humphries@schools.gov.sg<br>han_may_yun_magdelene@schools.gov.sg|
