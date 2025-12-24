@@ -16,8 +16,8 @@ variant: markdown
 |
 | 2 Opal | Mdm Nurhayati Selamat<br>Mr Jeremy Lim<br>Mrs Elaine Lew | nurhayati_selamat@schools.gov.sg<br>lim_wei_peng_jeremy@schools.gov.sg<br>fong_lai_cheng_elaine@schools.gov.sg| 
 |
-2 Pearl | Mrs Tee - Ms Corinna Liow Chai Hong<br>Mrs Vijay<br> Mdm Nurul Jannah | nurasyiqin_mohammad_abdu@schools.gov.sg<br>wang_shuangji@schools.gov.sg<br>noraini_aman@schools.gov.sg |
+2 Pearl | Mrs Tee - Ms Corinna Liow Chai Hong<br>Mrs Vijay<br> Mdm Nurul Jannah | liow_chai_hong_corinna@schools.gov.sg<br>vijayalakshmi_vijayan@schools.gov.sg<br>nurul_jannah_mohamad-zahir@schools.gov.sg |
 |
-2 Ruby | Mdm Lyly<br>Mrs Eng-Teng Yi Wen, Yvonne | nurfarizan_abdul_wahab@schools.gov.sg<br>teo_yili_alison@schools.gov.sg|
+2 Ruby | Mdm Lyly<br>Mrs Eng-Teng Yi Wen, Yvonne | lyly_suriani_osman@schools.gov.sg<br>teng_yi_wen@schools.gov.sg|
 |
 2 Sapphire | Mrs Alison Humphries <br>Ms Magdelene Khairyl-Han  | mohamed_bilal_obayadulla@schools.gov.sg<br>rachael_ngiam_shi_ting@schools.gov.sg|
