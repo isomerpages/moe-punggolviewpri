@@ -12,7 +12,7 @@ variant: markdown
 |
 |2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu<br>Ms Ho Julianna | paul_miki_koh@schools.gov.sg<br>han_huaxiu@schools.gov.sg|
 |
-|2 Jade | Mdm Li Xinni<br>Mr Wong Loong Ju (Jeffrey)<br> Ms Jane Lin Hui Ling| sarina_sapari@schools.gov.sg<br>sim_beng_hui_catherine@schools.gov.sg|
+|2 Jade | Mdm Li Xinni<br>Mr Wong Loong Ju (Jeffrey)<br> Ms Jane Lin Hui Ling|li_xinni@schools.gov.sg<br>sim_beng_hui_catherine@schools.gov.sg|
 |
 | 2 Opal | Mdm Nurhayati Selamat<br>Mr Jeremy Lim<br>Mrs Elaine Lew | hafizah_nordin@schools.gov.sg<br>hamimah_ali@schools.gov.sg<br>| 
 |
