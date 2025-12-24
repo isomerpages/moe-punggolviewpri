@@ -10,7 +10,7 @@ variant: markdown
 |
 |3 Diamond | Mr Jaya Balan<br>Mdm Jiang Wenshan | jaya_balan_kanagasundram@schools.gov.sg<br>jiang_wenshan@schools.gov.sg|
 |
-|2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu<br>Ms Ho Julianna | paul_miki_koh@schools.gov.sg<br>han_huaxiu@schools.gov.sg|
+|3 Emerald | Mdm Janice Ong<br>Mr Brandon Chow | janice_ong_poh_ling@schools.gov.sg<br>chow_yuen_jeng@schools.gov.sg|
 |
 |2 Jade | Mdm Li Xinni<br>Mr Wong Loong Ju (Jeffrey)<br> Ms Jane Lin Hui Ling|li_xinni@schools.gov.sg<br>wong_loong_ju_jeffrey@schools.gov.sg<br>lin_huiling_jane@schools.gov.sg|
 |
