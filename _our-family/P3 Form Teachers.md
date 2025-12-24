@@ -8,7 +8,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | 3 Amethyst | Mdm Tang Feifei<br>Mrs Ariff | tang_feifei@schools.gov.sg<br>siti_nurhawa_abdul_shukor@schools.gov.sg |
 |
-|2 Diamond | Ms Siti Khadijah<br>Ms Baey Geok Lin Elain | siti_khadijah_abdul_jalil@schools.gov.sg<br>baey_geok_lin_elain@schools.gov.sg|
+|3 Diamond | Mr Jaya Balan<br>Mdm Jiang Wenshan | jaya_balan_kanagasundram@schools.gov.sg<br>jiang_wenshan@schools.gov.sg|
 |
 |2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu<br>Ms Ho Julianna | paul_miki_koh@schools.gov.sg<br>han_huaxiu@schools.gov.sg|
 |
