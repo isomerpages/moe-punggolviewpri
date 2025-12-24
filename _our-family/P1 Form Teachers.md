@@ -12,7 +12,7 @@ variant: markdown
 |
 |1 Emerald | Mdm Rajabunnisah<br>Ms Oh Jueween | rajabunnisah_abdul_latiff@schools.gov.sg<br>jueween_oh_ling_li@schools.gov.sg|
 |
-|1 Jade | Mdm Sarina<br>Ms Catherine Sim | nur_amlia_jumali@schools.gov.sg<br>li_xinni@schools.gov.sg|
+|1 Jade | Mdm Sarina<br>Ms Catherine Sim | sarina_sapari@schools.gov.sg<br>sim_beng_hui_catherine@schools.gov.sg|
 |
 | 1 Opal | Ms Nurhayati Selamat<br>Mr Jeremy Lim<br>Mdm Fong Lai Cheng Elaine (Mrs Elaine Lew) | nurhayati_selamat@schools.gov.sg<br>lim_wei_peng_jeremy@schools.gov.sg<br>fong_lai_cheng_elaine@schools.gov.sg | 
 |
