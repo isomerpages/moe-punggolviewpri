@@ -17,7 +17,3 @@ variant: markdown
 | 3 Opal | Ms Anne Toh<br>Mr Siow Jit Keong<br>Ms Nuraizan | -<br>siow_jit_keong@schools.gov.sg<br>-| 
 |
 3 Pearl | Mr Mohammed Fadly<br>Ms Sophie Wang<br> Ms Kamaliah | mohammed_fadly_ramli@schools.gov.sg<br>wang_peipei_sophie@schools.gov.sg<br>- |
-|
-2 Ruby | Mdm Lyly<br>Mrs Eng-Teng Yi Wen, Yvonne | lyly_suriani_osman@schools.gov.sg<br>teng_yi_wen@schools.gov.sg|
-|
-2 Sapphire | Mrs Alison Humphries <br>Ms Magdelene Khairyl-Han  | alison_maree_dragon-humphries@schools.gov.sg<br>han_may_yun_magdelene@schools.gov.sg|
