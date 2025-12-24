@@ -14,10 +14,10 @@ variant: markdown
 |
 |1 Jade | Mdm Sarina<br>Ms Catherine Sim | sarina_sapari@schools.gov.sg<br>sim_beng_hui_catherine@schools.gov.sg|
 |
-| 1 Opal | Ms Nurhayati Selamat<br>Mr Jeremy Lim<br>Mdm Fong Lai Cheng Elaine (Mrs Elaine Lew) | nurhayati_selamat@schools.gov.sg<br>lim_wei_peng_jeremy@schools.gov.sg<br>fong_lai_cheng_elaine@schools.gov.sg | 
+| 1 Opal | Mdm Hafizah Nordin<br>Mdm Hamimah Ali | nurhayati_selama@schools.gov.sg<br>lim_wei_peng_jeremy@schools.gov.sg| 
 |
-1 Pearl | Mrs Tee - Ms Corinna Liow Chia Hong<br>Mrs Vijayalakshmi Vijayan<br> Ms Nurul Jannah | liow_chai_hong_corinna@schools.gov.sg<br>vijayalakshmi_vijayan@schools.gov.sg<br>nurul_jannah_mohamad_zahir@schools.gov.sg |
+1 Pearl | Mdm Nurasyiqin<br>Mdm Wang Shuangji<br> Mdm Noraini Aman | liow_chai_hong_corinna@schools.gov.sg<br>vijayalakshmi_vijayan@schools.gov.sg<br>nurul_jannah_mohamad_zahir@schools.gov.sg |
 |
-1 Ruby | Mdm Lyly Suriani<br>Mr Yu Cuncheng<br>Jeffrey Wong<br> | lyly_suriani_osman@schools.gov.sg<br>yu_cuncheng@schools.gov.sg<br>wong_loong_ju_jeffrey@schools.gov.sg |
+1 Ruby | Ms Nurfarizan<br>Ms Alison Teo | lyly_suriani_osman@schools.gov.sg<br>yu_cuncheng@schools.gov.sg|
 |
-1 Sapphire | Mrs Alison Humphries<br>Ms Magdelene Khairyl-Han<br>Mdm Noraini Bte Aman | alison_maree_dragon-humphries@schools.gov.sg<br>han_may_yun_magdelene@schools.gov.sg<br>noraini_aman@schools.gov.sg |To
+1 Sapphire | Mr Bilal<br>Mrs Rachael Sng | alison_maree_dragon-humphries@schools.gov.sg<br>han_may_yun_magdelene@schools.gov.sg|
