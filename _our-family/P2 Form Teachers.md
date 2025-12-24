@@ -6,9 +6,9 @@ variant: markdown
 ---
 | Class | Form Teachers | E-mail |
 | -------- | -------- | -------- |
-| 2 Amethyst | Mdm Razidah<br>Mdm Tan Li Hwa| kok_yao_xiang@schools.gov.sg<br>raihanah_ali@schools.gov.sg |
+| 2 Amethyst | Mdm Razidah<br>Mdm Tan Li Hwa| razidah_amat@schools.gov.sg<br>tan_li_hwa_a@schools.gov.sg |
 |
-|2 Diamond | Ms Siti Khadijah<br>Ms Baey Geok Lin Elain | koh_su_shin@schools.gov.sg<br>suhainis_samsi@schools.gov.sg|
+|2 Diamond | Ms Siti Khadijah<br>Ms Baey Geok Lin Elain | siti_khadijah_abdul_jalil@schools.gov.sg<br>baey_geok_lin_elain@schools.gov.sg|
 |
 |2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu<br>Ms Ho Julianna | rajabunnisah_abdul_latiff@schools.gov.sg<br>jueween_oh_ling_li@schools.gov.sg|
 |
