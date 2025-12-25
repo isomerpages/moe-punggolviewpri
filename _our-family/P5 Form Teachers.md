@@ -10,9 +10,9 @@ variant: markdown
 |
 |5 Diamond | Ms Alyani<br>Mdm Lim Hwee Li<br>Ms Sylvia Wang | alyani_mohamed_husain@schools.gov.sg<br>lim_hwee_li@schools.gov.sg<br>wang_yong_ling_sylvia@schools.gov.sg|
 |
-|5 Emerald | Mdm Tan Li Ying (Athena)<br>Ms Marz | tan_li_ying_a@schools.gov.sg<br>@schools.gov.sg|
+|5 Emerald | Mdm Tan Li Ying (Athena)<br>Ms Marz<br>Ms Julianna Ho | tan_li_ying_a@schools.gov.sg<br>nur_mawarni_nin_sahmad@schools.gov.sg<br>- |
 |
-|4 Jade | Ms Madeline Tan<br>Ms Cheng Chin Ying, Jamie<br>Mdm Liang Hong wen| madeline_tan_hwee_li@schools.gov.sg<br>cheng_chin_ying@schools.gov.sg<br>liang_hong_wen@schools.gov.sg|
+|5 Jade | Mr Hidayat<br>Ms Choo Jia | hidayat_hamzah@schools.gov.sg<br>choo_jia@schools.gov.sg |
 |
 | 4 Opal | Ms Dawn Chia Hui Ming<br>Mdm Gumutha| chia_hui_ming_dawn@schools.gov.sg<br>gumutha_murugathasan@schools.gov.sg| 
 |
