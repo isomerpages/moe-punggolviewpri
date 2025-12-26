@@ -10,11 +10,11 @@ variant: markdown
 |
 |6 Diamond | Mrs Violette Lim<br>Ms Balbir Kaur | chew_chai_lian@schools.gov.sg<br>kaur_balbir_g_singh@schools.gov.sg |
 |
-|4 Emerald | Ms Yeong Pui San<br>Mdm Khairunnisa | yeong_pui_san@schools.gov.sg<br>khairunnisa_mohd_isa@schools.gov.sg|
+|6 Emerald | Mr Hizammuddin<br>Mr Ong Yu Eng | mohd_hizammuddin_mohd_yusof@schools.gov.sg<br>ong_yu_eng@schools.gov.sg|
 |
-|4 Jade | Ms Madeline Tan<br>Ms Cheng Chin Ying, Jamie<br>Mdm Liang Hong wen| madeline_tan_hwee_li@schools.gov.sg<br>cheng_chin_ying@schools.gov.sg<br>liang_hong_wen@schools.gov.sg|
+|6 Jade | Mrs Tang-Tan Siew Hwa Irene<br>Ms Yeo Kwang Yee | tan_siew_hwa_a@schools.gov.sg<br>tan_siew_hwa_a@schools.gov.sg |
 |
-| 4 Opal | Ms Dawn Chia Hui Ming<br>Mdm Gumutha| chia_hui_ming_dawn@schools.gov.sg<br>gumutha_murugathasan@schools.gov.sg| 
+| 6 Opal | Mrs Janet Chan<br>Mr Lim Wei Cheng | janet_chanko@schools.gov.sg<br>lim_wei_cheng@schools.gov.sg| 
 |
 4 Pearl | Mr Mohammad Helmi<br>Ms Teo Xin Ning<br> Ms Prenuja | mohammad_helmi_ahmad_bamad@schools.gov.sg<br>teo_xin_ning@schools.gov.sg<br>- |
 |
