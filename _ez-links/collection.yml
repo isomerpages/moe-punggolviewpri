@@ -2,7 +2,7 @@ collections:
   ez-links:
     output: true
     order:
-      - 2026 Important things to bring for Primary 6.md
+      - Important things to bring (2026).md
       - P1 Orientation (2026).md
       - Life in PGVP (A Parent's 1st Look).md
       - Forms & Useful Links.md
