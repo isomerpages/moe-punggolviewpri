@@ -10,7 +10,7 @@ variant: markdown
 |
 | 5 Diamond | Ms Alyani<br>Mdm Lim Hwee Li<br>Ms Sylvia Wang | alyani_mohamed_husain@schools.gov.sg<br>lim_hwee_li@schools.gov.sg<br>wang_yong_ling_sylvia@schools.gov.sg|
 |
-| 5 Emerald | Mdm Tan Li Ying (Athena)<br>Ms Marz<br>Ms Julianna Ho | tan_li_ying_a@schools.gov.sg<br>nur_mawarni_nin_sahmad@schools.gov.sg<br>- |
+| 5 Emerald | Mdm Tan Li Ying (Athena)<br>Ms Marz | tan_li_ying_a@schools.gov.sg<br>nur_mawarni_nin_sahmad@schools.gov.sg|
 |
 | 5 Jade | Mr Hidayat<br>Ms Choo Jia | hidayat_hamzah@schools.gov.sg<br>choo_jia@schools.gov.sg |
 |
