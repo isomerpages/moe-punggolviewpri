@@ -102,32 +102,5 @@ Punggol View Primary School continues to be a place where education goes
 beyond the classroom, fostering a passion for lifelong learning and personal
 growth.</p>
 <hr>
-<p>I am excited to be a part of Punggol View Primary - a learning environment
-that is vibrant and exciting.&nbsp; I joined the education service in 1996
-as a teacher at Red Swastika School.&nbsp; Subsequently, I served as the
-HOD Science in the school before being appointed as Vice Principal in Ai
-Tong School, followed by postings to Park View Primary School and Casuarina
-Primary School.&nbsp; This year, I have been posted to Punggol View as
-the Vice Principal (Admin).&nbsp; Although this is a new learning opportunity
-for me, nevertheless, I hope to be able to share some of my experience
-gleaned over the years to enrich the staff and students at Punggol View
-Primary.</p>
-<div class="isomer-image-wrapper">
-<img style="width:35%;" height="auto" width="100%" alt="Mr Michael Chong" src="/images/Mr%20Michael%20Chong.jpg">
-</div>
-<p><strong>Mr Michael Chong<br>Vice-Principal (Administration)</strong>
-</p>
-<p>My educational philosophy has always been to provide students with a broad-based
-holistic education. Schools should equip students with the necessary life-skills
-and learning tools so that they are able to learn for life. With the help
-of our dedicated team of teachers, students should be able to pick up positive
-learning dispositions, values and attitudes for lifelong learning.&nbsp;
-As such, the educational environment, our classrooms and facilities must
-be able to allow teachers to impart learning and for students to become
-critical thinkers, self-directed learners and collaborative team members
-and leaders. Our school must also allocate appropriate resources to allow
-for teaching and learning to meet our students’ learning outcomes.&nbsp;
-I am very sure that, together with the vibrant team of teachers and administrators,
-we will work in partnership with parents and the community to create quality
-teaching and learning programmes for our students so as to make Punggol
-View Primary a choice school in Punggol in the years to come.</p>
+<p></p>
+<p></p>
