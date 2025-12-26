@@ -16,4 +16,4 @@ variant: markdown
 |
 | 6 Opal | Mrs Janet Chan<br>Mr Lim Wei Cheng | janet_chanko@schools.gov.sg<br>lim_wei_cheng@schools.gov.sg| 
 |
-6 Pearl | Mr Hari<br>Mr Phay Dominic | harikrishnan_jayapalan@schools.gov.sg<br>phay_yi_ren_dominic@schools.gov.sg |
+6 Pearl | Mr Hari<br>Mr Reuben Dominic Phay | harikrishnan_jayapalan@schools.gov.sg<br>phay_yi_ren_dominic@schools.gov.sg |
