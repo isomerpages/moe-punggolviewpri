@@ -384,8 +384,8 @@ Semester 1 and&nbsp;<strong>last 2 weeks</strong>&nbsp;of Semester 2.</p>
 the time they are in the school.&nbsp;Provision for more than one change
 will be made for special cases like medical conditions.</p>
 <p>Students are required to fill up the CCA Transfer Form sent out during
-the last 2 weeks of Semester 2. Students may email Mdm Tan Li Hwa (<a rel="noopener noreferrer nofollow" target="_blank">tan_li_hwa_a@moe.edu.sg</a>)
-for CCAs queries.</p>
+the last 2 weeks of Semester 2. Students may email Mdm Tan Li Hwa (<a rel="noopener noreferrer nofollow" target="_blank">tan_li_hwa_a@moe.edu.sg</a>) for CCAs
+queries.</p>
 <p>The CCA transfer is only successful if there is vacancy in the selected
 CCA.</p>
 <p>&nbsp;</p>
