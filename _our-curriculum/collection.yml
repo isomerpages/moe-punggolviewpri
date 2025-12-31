@@ -2,6 +2,21 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities (CCAs).md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Contemporary Dance.md
+      - Co Curricular Activities/Floorball.md
+      - Co Curricular Activities/IT Preneurial Club.md
+      - Co Curricular Activities/Malay Dance.md
+      - Co Curricular Activities/Rugby.md
+      - Co Curricular Activities/Service and Interact Club.md
+      - Co Curricular Activities/Scouts.md
+      - Co Curricular Activities/Speech and Drama Society.md
+      - Co Curricular Activities/Sports & Adventure Club.md
+      - Co Curricular Activities/The Children's Choir.md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Young Artists' Club.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes (CIT).md
       - Distinctive Programmes/ALP.md
@@ -9,8 +24,8 @@ collections:
       - Curriculum Framework.md
       - English Language/.keep
       - English Language/English Language.md
-      - Mother Tongue Languages/Curricular Goal.md
       - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Curricular Goal.md
       - Mother Tongue Languages/Chinese Language.md
       - Mother Tongue Languages/Malay Language.md
       - Mother Tongue Languages/Tamil Language.md
@@ -30,18 +45,3 @@ collections:
       - Student Development Team/Student Leadership.md
       - Student Development Team/Positive Education (PosEd).md
       - Student Development Team/PSL.md
-      - Co Curricular Activities/.keep
-      - Co Curricular Activities/Co Curricular Activities (CCAs).md
-      - Co Curricular Activities/Badminton.md
-      - Co Curricular Activities/Contemporary Dance.md
-      - Co Curricular Activities/Floorball.md
-      - Co Curricular Activities/IT Preneurial Club.md
-      - Co Curricular Activities/Malay Dance.md
-      - Co Curricular Activities/Rugby.md
-      - Co Curricular Activities/Service and Interact Club.md
-      - Co Curricular Activities/Scouts.md
-      - Co Curricular Activities/Speech and Drama Society.md
-      - Co Curricular Activities/Sports & Adventure Club.md
-      - Co Curricular Activities/The Children's Choir.md
-      - Co Curricular Activities/Wushu.md
-      - Co Curricular Activities/Young Artists' Club.md
