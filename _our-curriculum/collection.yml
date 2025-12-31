@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities/WITs & Media Club.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
+      - Co Curricular Activities/WITs & Media Club.md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Contemporary Dance.md
       - Co Curricular Activities/Floorball.md
