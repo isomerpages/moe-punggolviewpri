@@ -3,6 +3,7 @@ title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
 variant: tiptap
+third_nav_title: Our Partners
 ---
 <table style="minWidth: 75px">
 <colgroup>

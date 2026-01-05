@@ -3,6 +3,7 @@ title: Parents Support Group
 permalink: /our-partners/parents-support-group/
 description: ""
 variant: markdown
+third_nav_title: Our Partners
 ---
 <img src="/images/psg%20logo.jpg" style="width:183px;height:183px;margin-left:15px;" align="left">
 
