@@ -1,5 +1,4 @@
 collections:
   our-partners:
     output: true
-    order:
-      - School Home Partnership.md
+    order: []
