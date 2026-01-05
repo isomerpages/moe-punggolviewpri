@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Partners/.keep
-      - School Advisory Committee.md
       - School Leaders.md
       - Key Personnel.md
       - Teacher Leaders.md
