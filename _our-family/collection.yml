@@ -2,8 +2,8 @@ collections:
   our-family:
     output: true
     order:
-      - Our Partners.md
       - School Leaders.md
+      - Our Partners.md
       - Key Personnel.md
       - Teacher Leaders.md
       - Allied Educators.md
