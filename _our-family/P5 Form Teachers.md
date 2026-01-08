@@ -14,7 +14,7 @@ variant: markdown
 |
 | 5 Jade | Mr Hidayat<br>Ms Choo Jia | hidayat_hamzah@schools.gov.sg<br>choo_jia@schools.gov.sg |
 |
-| 5 Opal | Mdm Lisan Tan <br>Ms Goh Meow Sim | choo_lisa@schools.gov.sg<br>goh_meow_sim@schools.gov.sg | 
+| 5 Opal | Mdm Lisa Tan <br>Mdm Goh Meow Sim | choo_lisa@schools.gov.sg<br>goh_meow_sim@schools.gov.sg | 
 |
 5 Pearl | Mr Mohd Zahid<br>Mrs Liew Bee Lin | mohammad_zahid_rohmat@schools.gov.sg<br>tan_bee_lin@schools.gov.sg |
 |
