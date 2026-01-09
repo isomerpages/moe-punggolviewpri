@@ -14,7 +14,11 @@ reset by using the link below.
 reset for the whole school, and students will be encouraged to be self
 directed in resetting their passwords.
 <br>
-<br>More info will be given out soon.</p>
+</p>
+<p>More info will be given out soon.</p>
 <p></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">MIMS password reset form</a> 
+<p>Please use the MIMs username and password to log in to SLS.</p>
+<p></p>
+<p></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">MIMS password reset form</a>
 </p>
