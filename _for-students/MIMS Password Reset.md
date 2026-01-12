@@ -4,7 +4,15 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Password Reset 2026</u></strong>
+<p><strong><u>LOG IN TO SLS USING YOUR MIMS USERNAME AND PASSWORD</u></strong>
+</p>
+<p>The MIMS username is your STUDENT ICON e-mail address(get it from Form
+Teacher if you have forgotten)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/login_with_mims.png">
+</div>
+<p>
 <br>
 <br>Parents will be able to assist their children to have their MIMS password
 reset by using the link below.
