@@ -1,6 +1,6 @@
 ---
-title: MK OPEN HOUSE 2025
-permalink: /mk-at-punggol-view/mkopenhouse2025/
+title: MK OPEN HOUSE
+permalink: /mk-at-punggol-view/mkopenhouse/
 variant: tiptap
 description: ""
 third_nav_title: MK OPEN HOUSE
