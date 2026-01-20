@@ -341,18 +341,36 @@ habit.</p>
 </table>
 <p></p>
 <blockquote>
-<h4><strong>Sexuality Education 2025</strong></h4>
+<h4><strong>Sexuality Education 2026</strong></h4>
 </blockquote>
-<p>Sexuality Education (SEd) in schools is about enabling students to understand
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships, and make wise, informed
-and responsible decisions on sexuality matters in their growing up years.
-Sexuality Education also aims to help students develop a moral compass,
-respect for themselves and others, premised on the family as the basic
-unit of society. This means encouraging healthy, heterosexual marriages
-and stable nuclear family units with extended family support. The teaching
-and learning of SEd is based on respect for the values and beliefs of the
-different ethnic and religious communities in Singapore on sexuality issues.</p>
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+<p>2. The Goals of Sexuality Education are:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p>3. The Key Messages of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p></p>
 <p><strong>Please click on the link below to access info from MOE website</strong>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality education (MOE)</a></strong>
