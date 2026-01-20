@@ -375,11 +375,11 @@ ones.</p>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality education (MOE)</a></strong>
 </p>
-<p><a href="/files/v2_2025_Info_on_SEd__PGVP_UPDATED_.pdf" rel="noopener nofollow" target="_blank">MOE SEd info for school website 2025.</a>
+<p><a href="/files/2026_Info_on_SEd__PGVP_.pdf" rel="noopener nofollow" target="_blank">MOE SEd info for school website 2026file</a>
 </p>
 <p><strong>Please click the link below for the Opt-out form.</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/pgvpsed2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgvpsed2025</a></strong>
+<p><strong><a href="https://go.gov.sg/pgvpsed2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pgvpsed2026</a></strong>
 </p>
 <p></p>
 <p></p>
