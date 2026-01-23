@@ -13,11 +13,14 @@ Teacher if you have forgotten)
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/login_with_mims.png">
 </div>
 <p></p>
-<p>From 26th January 2026 (Monday), only parents of Primary 1 and Primary
-2 students may assist their child with the password reset form below.</p>
+<h4><strong><u>PRIMARY 1 -2 MIMS PASSWORD RESET FORM</u></strong></h4>
+<p>Only parents of Primary 1 and Primary 2 students may assist their child
+with the password reset form below.</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">MIMS password reset form</a>
 </p>
 <p></p>
+<p></p>
+<h4><strong><u>PRIMARY 3 - 6 TO USE THE SELF RESET KIOSK IN SCHOOL LIBRARY</u></strong></h4>
 <p>Primary 3, 4, 5 and 6 students can go to the library during recess to
 the MIMS PASSWORD RESET KIOSK to submit their reset request personally.
 Once submitted, their password will be reset 1-2 days later.</p>
