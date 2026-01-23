@@ -56,22 +56,20 @@ the guide:
 <td rowspan="1" colspan="1">
 <p><strong>Application for Kindergarten Financial Assistance Scheme (KIFAS)</strong>
 <br>
-<br>KiFAS subsidies are available for families where their</p>
-<p>household income (HHI) does not exceed $12,000</p>
-<p>or per capita income (PCI) is $3,000 or less</p>
-<p>(for households with 5 or more members).</p>
+<br>KiFAS subsidies are available for families where their household income
+(HHI) does not exceed $12,000 or per capita income (PCI) is $3,000 or less
+(for households with 5 or more members).</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To apply for KiFAS,please submit</p>
-<p>the request form via this <a href="https://go.gov.sg/kifasrequest" rel="noopener nofollow" target="_blank">link</a> or
-scan</p>
-<p>the QR code below.</p>
+<p>To apply for KiFAS,please submit the request form via this <a href="https://go.gov.sg/kifasrequest" rel="noopener nofollow" target="_blank">link</a> or
+scan the QR code below.</p>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KiFAS_request.png">
 </div>
 <p>
 <br>
