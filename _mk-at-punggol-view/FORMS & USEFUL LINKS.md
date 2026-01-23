@@ -56,17 +56,25 @@ the guide:
 <td rowspan="1" colspan="1">
 <p><strong>Application for Kindergarten Financial Assistance Scheme (KIFAS)</strong>
 <br>
-<br>KiFAS subsidies are available for families where their household income
-(HHI) does not exceed $12,000 or per capita income (PCI) does not exceed
-$3000.</p>
+<br>KiFAS subsidies are available for families where their</p>
+<p>household income (HHI) does not exceed $12,000</p>
+<p>or per capita income (PCI) is $3,000 or less</p>
+<p>(for households with 5 or more members).</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To apply for KIFAS, please submit the completed KF1 form via&nbsp;<a href="mailto:mk_punggolview@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">email</a>&nbsp;or
-at the General Office.
+<p>To apply for KiFAS,please submit</p>
+<p>the request form via this <a href="https://go.gov.sg/kifasrequest" rel="noopener nofollow" target="_blank">link</a> or
+scan</p>
+<p>the QR code below.</p>
+<p>
 <br>
-<br><a href="/files/KF1%20-%20Enrolment%20and%20KiFAS%20Application.pdf" rel="noopener noreferrer nofollow" target="_blank">KF1 - Enrolment and KiFAS Application</a> 
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK.png">
+</div>
+<p>
 <br>
-<br><a href="/files/KF%20-%20KiFAS%20Explanatory%20Notes.pdf" rel="noopener noreferrer nofollow" target="_blank">KF - KiFAS Explanatory Notes</a>
 <br>
 <br>For more information on KiFAS, you may
 <br>visit&nbsp;<a href="https://www.ecda.gov.sg/parents/preschool-subsidies/kindergarten-fee-assistance-scheme-(kifas)" rel="noopener noreferrer nofollow" target="_blank">here</a>
