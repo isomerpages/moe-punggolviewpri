@@ -1,6 +1,6 @@
 ---
-title: Primary 2
-permalink: /primary-2/
+title: Primary 1 & 2 slides
+permalink: /primary-1/
 variant: tiptap
 description: ""
 third_nav_title: Curriculum Briefing 2026
