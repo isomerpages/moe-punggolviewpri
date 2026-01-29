@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  useful-resources:
     output: true
     order:
       - MOH Screen Time Guidelines.md
