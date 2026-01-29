@@ -2,6 +2,7 @@ collections:
   useful-information-for-parents:
     output: true
     order:
+      - Briefing Notes.md
       - Important things to bring (2026).md
       - P1 Orientation (2026).md
       - Life in PGVP (A Parent's 1st Look).md
