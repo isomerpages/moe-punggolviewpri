@@ -15,11 +15,6 @@ If you wish to enrol/transfer your child to Punggol View Primary School, please 
   
 <img src="/images/PGVPWAITLIST.png" style="width:40%">
 
-#### PGVP Drive-through Car Decal
-
-[Click here for the appilcation form for the PGVP Drive-through car decal](https://go.gov.sg/pvpsdrivethrupass), or scan the QR code below.  
-  
-<img src="/images/drivethru22.png" style="width:40%">
 
 #### Application Form for Leave of Absence
 
