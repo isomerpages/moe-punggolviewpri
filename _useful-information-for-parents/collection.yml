@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum Briefing 2026/.keep
-      - Primary 1 & 2 slides.md
       - Briefing Notes.md
       - Important things to bring (2026).md
       - P1 Orientation (2026).md
