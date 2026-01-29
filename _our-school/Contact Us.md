@@ -9,6 +9,28 @@ variant: markdown
 <br>Tel: 6570 1588
 <br>Fax: 6570 3680</p>
 <p></p>
+
+<div style="font-family: Sans-Serif;
+    font-size: 15px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;">
+  If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/6977059b13157b46da120395">here</a>.
+</div>
+
+
+<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
+
+<div style="font-family: Sans-Serif;
+    font-size: 12px;
+    color: #999;
+    opacity: 0.5;
+    padding-top: 5px;">
+  Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
+</div>
+
+
 <h4>Contact E-mails:</h4>
 <p>For General Enquiries and parents: <a href="mailto:punggolview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolview_ps@moe.edu.sg</a>
 <br><em>Please do not use this generic e-mail address to send us sensitive data such as student particulars or medical records. For such data, please e-mail your child's class teachers directly. Their e-mail addresses can be found under Our Family tab of our website.</em>
@@ -27,3 +49,4 @@ variant: markdown
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.473326271167!2d103.905183!3d1.4052725!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x96529c5623132e2a!2sPunggol%20View%20Primary%20School!5e0!3m2!1sen!2ssg!4v1657525817063!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
+
