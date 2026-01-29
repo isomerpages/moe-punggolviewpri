@@ -2,6 +2,7 @@ collections:
   useful-information-for-parents:
     output: true
     order:
+      - Curriculum Briefing 2026/Briefing Notes.md
       - Curriculum Briefing 2026/Primary 1 & 2 slides.md
       - Curriculum Briefing 2026/.keep
       - Important things to bring (2026).md
