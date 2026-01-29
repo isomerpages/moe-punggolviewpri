@@ -13,6 +13,7 @@ variant: markdown
 <h4>Our Social Media Pages</h4>
 <div><a href="http://facebook.com/punggolviewprimaryschool">Facebook</a></div>
 <div><a href="http://www.youtube.com/@pgvps">Youtube</a></div>
+<div><a href="https://www.instagram.com/punggolviewprisch/">Instagram</a></div>
 
 <p></p>
 <p></p>
