@@ -1,5 +1,5 @@
 ---
-title: PGVP Quarterly
+title: PGVP Quarterly Letter to Parents
 permalink: /ez-links/for-parents/quarterly/
 description: ""
 variant: markdown

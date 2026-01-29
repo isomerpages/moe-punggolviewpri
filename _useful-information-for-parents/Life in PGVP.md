@@ -1,5 +1,5 @@
 ---
-title: Life in PGVP (A Parent's 1st Look)
+title: Life in PGVP
 permalink: /life-in-pgvp/
 variant: tiptap
 description: ""

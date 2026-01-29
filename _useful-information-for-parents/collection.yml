@@ -1,0 +1,14 @@
+collections:
+  useful-information-for-parents:
+    output: true
+    order:
+      - Curriculum Briefing 2026/.keep
+      - Curriculum Briefing 2026/Briefing Notes.md
+      - Curriculum Briefing 2026/Primary 1 & 2 slides.md
+      - 2026 Booklists.md
+      - PGVP Quarterly Letter to Parents.md
+      - P1 Orientation (2026).md
+      - P1 Admin Matters.md
+      - Forms.md
+      - Life in PGVP.md
+      - Staff Appreciation.md

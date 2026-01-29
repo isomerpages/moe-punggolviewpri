@@ -2,13 +2,44 @@
 title: Contact Us
 permalink: /our-school/contact-us/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4>Punggol View Primary School</h4>
 <p>9, Punggol Place, Singapore (828845)
 <br>Tel: 6570 1588
 <br>Fax: 6570 3680</p>
 <p></p>
+
+<h4>Our Social Media Pages</h4>
+<div><a href="http://facebook.com/punggolviewprimaryschool">Facebook</a></div>
+<div><a href="http://www.youtube.com/@pgvps">Youtube</a></div>
+<div><a href="https://www.instagram.com/punggolviewprisch/">Instagram</a></div>
+
+<p></p>
+<p></p>
+
+<h4>PGVPS Feedback Form</h4>
+<div style="font-family: Sans-Serif;
+    font-size: 15px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;">
+  If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/6977059b13157b46da120395">here</a>.
+</div>
+
+
+<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
+
+<div style="font-family: Sans-Serif;
+    font-size: 12px;
+    color: #999;
+    opacity: 0.5;
+    padding-top: 5px;">
+  Powered by <a style="color: #999" href="https://form.gov.sg">Form</a>
+</div>
+
+
 <h4>Contact E-mails:</h4>
 <p>For General Enquiries and parents: <a href="mailto:punggolview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolview_ps@moe.edu.sg</a>
 <br><em>Please do not use this generic e-mail address to send us sensitive data such as student particulars or medical records. For such data, please e-mail your child's class teachers directly. Their e-mail addresses can be found under Our Family tab of our website.</em>
