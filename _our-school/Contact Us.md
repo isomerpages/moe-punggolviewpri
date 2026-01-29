@@ -10,6 +10,14 @@ variant: markdown
 <br>Fax: 6570 3680</p>
 <p></p>
 
+<h4>Our Social Media Pages</h4>
+<div><a href="http://facebook.com/punggolviewprimaryschool">Facebook</a></div>
+<div><a href="http://www.youtube.com/@pgvps">Youtube</a></div>
+
+<p></p>
+<p></p>
+
+<h4>PGVPS Feedback Form</h4>
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
@@ -49,4 +57,3 @@ variant: markdown
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.473326271167!2d103.905183!3d1.4052725!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x96529c5623132e2a!2sPunggol%20View%20Primary%20School!5e0!3m2!1sen!2ssg!4v1657525817063!5m2!1sen!2ssg"></iframe>
 </div>
 <p></p>
-
