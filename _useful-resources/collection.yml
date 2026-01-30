@@ -2,7 +2,6 @@ collections:
   useful-resources:
     output: true
     order:
-      - For Teachers.md
       - Social Media (MOE).md
       - Alumni.md
       - MOH Screen Time Guidelines.md
