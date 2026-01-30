@@ -5,12 +5,24 @@ description: ""
 variant: markdown
 ---
 <h4>Punggol View Primary School</h4>
+<div style="font-family: Sans-Serif;
+    font-size: 20px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;">
 <p>9, Punggol Place, Singapore (828845)
 <br>Tel: 6570 1588
 <br>Fax: 6570 3680</p>
 <p></p>
 
 <h4>Our Social Media Pages</h4>
+	<div style="font-family: Sans-Serif;
+    font-size: 20px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;">
 <div><a href="http://facebook.com/punggolviewprimaryschool">Facebook</a></div>
 <div><a href="http://www.youtube.com/@pgvps">Youtube</a></div>
 <div><a href="https://www.instagram.com/punggolviewprisch/">Instagram</a></div>
@@ -20,7 +32,7 @@ variant: markdown
 
 <h4>Contact Us</h4>
 <div style="font-family: Sans-Serif;
-    font-size: 15px;
+    font-size: 20px;
     color: #000;
     opacity: 0.9;
     padding-top: 5px;
@@ -35,7 +47,7 @@ variant: markdown
 <iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
-    font-size: 12px;
+    font-size: 20px;
     color: #999;
     opacity: 0.5;
     padding-top: 5px;">
@@ -43,13 +55,16 @@ variant: markdown
 </div>
 
 
-<h4>Contact E-mails:</h4>
-<p>For General Enquiries and parents: <a href="mailto:punggolview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolview_ps@moe.edu.sg</a>
-<br><em>Please do not use this generic e-mail address to send us sensitive data such as student particulars or medical records. For such data, please e-mail your child's class teachers directly. Their e-mail addresses can be found under Our Family tab of our website.</em>
-</p>
+
 <p></p>
 <p></p>
 <h4>Getting Here</h4>
+<div style="font-family: Sans-Serif;
+    font-size: 20px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;">
 <p><strong>Bus Stops</strong> : 65351 (outside Punggol View Pri Sch) and 65359
 (opp Punggol View Pri Sch)
 <br><strong>Bus Services</strong> : 50, 117 / 117M, 382W from Punggol Interchange,
@@ -59,4 +74,4 @@ variant: markdown
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.473326271167!2d103.905183!3d1.4052725!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x96529c5623132e2a!2sPunggol%20View%20Primary%20School!5e0!3m2!1sen!2ssg!4v1657525817063!5m2!1sen!2ssg"></iframe>
 </div>
-<p></p>
+<p></p></div></div></div>
