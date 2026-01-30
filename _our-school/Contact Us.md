@@ -44,7 +44,7 @@ variant: markdown
 </p></div><p></p>
 
 
-<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
+<iframe style="width: 100%; height: 1200px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 20px;
