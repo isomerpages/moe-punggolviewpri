@@ -47,8 +47,7 @@ variant: markdown
 <p>For General Enquiries and parents: <a href="mailto:punggolview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolview_ps@moe.edu.sg</a>
 <br><em>Please do not use this generic e-mail address to send us sensitive data such as student particulars or medical records. For such data, please e-mail your child's class teachers directly. Their e-mail addresses can be found under Our Family tab of our website.</em>
 </p>
-<p>For Social Service Partners (e.g. MSF): <a href="mailto:punggolviewps_counselling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">punggolviewps_counselling@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 <h4>Getting Here</h4>
 <p><strong>Bus Stops</strong> : 65351 (outside Punggol View Pri Sch) and 65359
