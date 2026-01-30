@@ -18,15 +18,18 @@ variant: markdown
 <p></p>
 <p></p>
 
-<h4>PGVPS Feedback Form</h4>
+<h4>Contact Us</h4>
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
     opacity: 0.9;
     padding-top: 5px;
     padding-bottom: 8px;">
-  If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/6977059b13157b46da120395">here</a>.
-</div>
+	<div>You may contact us by completing the Feedback &amp; Enquiry Form below. </div>
+	<div>For matters relating to a student, parents can also contact your child's form teacher directly via e-mail, available under the Our Family tab.</div>
+	
+  <p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/6977059b13157b46da120395">here</a>.
+</p></div><p></p>
 
 
 <iframe style="width: 100%; height: 500px" src="https://form.gov.sg/6977059b13157b46da120395" id="iframe"></iframe>
@@ -44,8 +47,7 @@ variant: markdown
 <p>For General Enquiries and parents: <a href="mailto:punggolview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">punggolview_ps@moe.edu.sg</a>
 <br><em>Please do not use this generic e-mail address to send us sensitive data such as student particulars or medical records. For such data, please e-mail your child's class teachers directly. Their e-mail addresses can be found under Our Family tab of our website.</em>
 </p>
-<p>For Social Service Partners (e.g. MSF): <a href="mailto:punggolviewps_counselling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">punggolviewps_counselling@schools.gov.sg</a>
-</p>
+<p></p>
 <p></p>
 <h4>Getting Here</h4>
 <p><strong>Bus Stops</strong> : 65351 (outside Punggol View Pri Sch) and 65359
