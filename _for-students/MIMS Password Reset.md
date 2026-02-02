@@ -29,8 +29,9 @@ at the lift lobby, to look out for their reset status.</p>
 <p></p>
 <h4><strong><u>FOLLOW THE STEPS BELOW</u></strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MIM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
