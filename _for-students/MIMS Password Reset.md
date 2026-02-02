@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>LOG IN TO SLS USING YOUR MIMS USERNAME AND PASSWORD</u></strong></h4>
-<p>The MIMS username is your STUDENT ICON e-mail address(get it from Form
-Teacher if you have forgotten)
+<p>The MIMS username is your e-mail address(get it from Form Teacher if you
+have forgotten)
 <br>Please use the MIMs username and password to log in to SLS.</p>
 <p></p>
 <div class="isomer-image-wrapper">
