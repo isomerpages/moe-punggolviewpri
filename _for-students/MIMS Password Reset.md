@@ -4,13 +4,6 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>UNABLE TO LOG IN</u></strong></h4>
-<p>If you are unable to log in, please e-mail Mr Iskandar (ICT Associate)
-at <a href="iskandar_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_hamid@moe.edu.sg</a> together
-with the student's full name, username and class.</p>
-<p>
-<br>Please include a video or a screenshot of the error you are facing.</p>
-<p></p>
 <h4><strong><u>LOG IN TO SLS USING YOUR MIMS USERNAME AND PASSWORD</u></strong></h4>
 <p>The MIMS username is your e-mail address(get it from Form Teacher if you
 have forgotten)
@@ -63,7 +56,12 @@ at the lift lobby, to look out for their reset status.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<h4><strong><u>UNABLE TO LOG IN</u></strong></h4>
+<p>If you are unable to log in, please e-mail Mr Iskandar (ICT Associate)
+at <a href="iskandar_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_hamid@moe.edu.sg</a> together
+with the student's full name, username and class.</p>
+<p>
+<br>Please include a video or a screenshot of the error you are facing.</p>
 <p></p>
 <p></p>
 <p></p>
