@@ -2,6 +2,7 @@ collections:
   useful-information-for-parents:
     output: true
     order:
+      - P6 Briefing 6th Feb 2026.md
       - Curriculum Briefing 2026/.keep
       - Curriculum Briefing 2026/Briefing Notes.md
       - Curriculum Briefing 2026/Primary 1 & 2 slides.md
