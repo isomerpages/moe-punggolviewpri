@@ -13,10 +13,10 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb3.jpg">
-</div>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb3X.jpg">
+</div>
 <p></p>
 <h4><strong><u>PRIMARY 1 -2 MIMS PASSWORD RESET FORM</u></strong></h4>
 <p>Only parents of Primary 1 and Primary 2 students may assist their child
@@ -31,7 +31,7 @@ Once submitted, their password will be reset 1-2 days later.</p>
 <p>They will have to check the notice screen beside the kiosk, or the screen
 at the lift lobby, to look out for their reset status.</p>
 <p></p>
-<h4><strong><u>UNABLE TO LOG IN DUE TO ERROR </u></strong></h4>
+<h4><strong><u>UNABLE TO LOG IN DUE TO ERROR</u></strong></h4>
 <p>If you are unable to log in due to an error, please e-mail Mr Iskandar
 (ICT Associate) at <a href="iskandar_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_hamid@moe.edu.sg</a> together
 with the student's full name, username and class.</p>
