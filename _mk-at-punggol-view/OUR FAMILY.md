@@ -49,23 +49,23 @@ description: ""
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Mervyn Tay Zhi Jie</p>
-<p>Ms Chew Tang Wee</p>
-<p>Ms Farhanah Ramlan</p>
-<p>Ms Leck Shi Fang Charmaine</p>
-<p>Ms Siti Aisyah</p>
+<div>Mr Caleb Mervyn Tay Zhi Jie</div>
+<div>Ms Chew Tang Wee</div>
+<div>Ms Farhanah Ramlan</div>
+<div>Ms Leck Shi Fang Charmaine</div>
+<div>Ms Siti Aisyah</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_mervyn_tay_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_mervyn_tay_zhi@schools.gov.sg</a>
-</p>
-<p><a href="mailto:chew_tang_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_tang_wee@schools.gov.sg</a>
-</p>
-<p><a href="mailto:farhanah_ramlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_ramlan@schools.gov.sg</a>
-</p>
-<p><a href="mailto:leck_shi_fang_charmaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leck_shi_fang_charmaine@schools.gov.sg</a>
-</p>
-<p><a href="mailto:siti_nurul_aisyah_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurul_aisyah_mohd@schools.gov.sg</a>
-</p>
+<div><a href="mailto:caleb_mervyn_tay_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_mervyn_tay_zhi@schools.gov.sg</a>
+</div>
+<div><a href="mailto:chew_tang_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_tang_wee@schools.gov.sg</a>
+</div>
+<div><a href="mailto:farhanah_ramlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhanah_ramlan@schools.gov.sg</a>
+</div>
+<div><a href="mailto:leck_shi_fang_charmaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leck_shi_fang_charmaine@schools.gov.sg</a>
+</div>
+<div><a href="mailto:siti_nurul_aisyah_mohd@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurul_aisyah_mohd@schools.gov.sg</a>
+</div>
 </td>
 </tr>
 <tr>
@@ -73,10 +73,10 @@ description: ""
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Meng Hui</p>
-<p>Ms Li Xiaoping</p>
-<p>Ms Wang Ziming</p>
-<p>Ms Zhou Feng</p>
+<div>Ms Gan Meng Hui</div>
+<div>Ms Li Xiaoping</div>
+<div>Ms Wang Ziming</div>
+<div>Ms Zhou Feng</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_menghui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_menghui@schools.gov.sg</a>
