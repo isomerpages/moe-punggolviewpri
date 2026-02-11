@@ -13,8 +13,6 @@ Towards the end of the celebration, children received oranges and exchanged
 Chinese New Year greetings, wishing everyone “Xin Nian Kuai Le (新年快乐)”!</p>
 <p>Check out this video below to get a glimpse of the fun day the children
 had!</p>
-<p></p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xspvzzVQ4Nc?si=9EGiIU_1uxCDqgVm"></iframe>
 </div>
@@ -22,9 +20,6 @@ had!</p>
 <p>Our children celebrated Hari Raya by visiting a Raya Bazaar. They had
 fun and enjoyed traditional Malay snacks like butter cookies, honey cornflakes,
 and pineapple tarts.”&nbsp;</p>
-<p>
-<br>
-</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tsReBcyrONM?si=Afy_q-drZeDIl9ob"></iframe>
 </div>
@@ -36,14 +31,14 @@ environment. Happy Children’s Day!</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NyyzyZPDsMw?si=HOS4x_qUQqEURKHT"></iframe>
 </div>
 <h4><br>Deepavali Celebration</h4>
-<p>On 1 Nov 2024, our children celebrated Deepavali by visiting the ‘Little
-India Deepavali Bazaar’. Children were introduced to the cultural significance
-of Deepavali through the bazaar as they walked through the exhibits filled
-with Deepavali decorations, watched the shadow puppet show depicting story
-of deepavali, explored the different Indian spices and food, and tried
-out the different apparels.</p>
+<p>Our children celebrated Deepavali through an engaging interactive session
+in the music room, led by our parent volunteers. They also watched a teacher-led
+skit on the Story of Deepavali (Rama and Sita) to better understand why
+Hindus celebrate this festival. During snack time, the children had the
+opportunity to taste traditional Indian treats such as murukku, banana
+chips, and sweet boondhi.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q_GtRBsVhy8?si=nu4bDx3goR6KLcgf"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/szVhSdcM9TE?si=Xk3XzFH9eZ-1L1WD"></iframe>
 </div>
 <p></p>
 <p></p>
