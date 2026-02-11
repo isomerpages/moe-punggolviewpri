@@ -33,7 +33,7 @@ and pineapple tarts.”&nbsp;</p>
 Parents got to engage actively with their children in a fun and supportive
 environment. Happy Children’s Day!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DnmhPS1JGvo?si=gdrMUmzm_4dO18Ka"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NyyzyZPDsMw?si=HOS4x_qUQqEURKHT"></iframe>
 </div>
 <h4><br>Deepavali Celebration</h4>
 <p>On 1 Nov 2024, our children celebrated Deepavali by visiting the ‘Little
