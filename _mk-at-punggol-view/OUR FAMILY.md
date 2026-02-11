@@ -4,26 +4,24 @@ permalink: /mk-at-punggol-view/family/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Centre Head</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Centre Head</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Shalini Nair Prabhakaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shalini_nair_prabhakaran@schools.gov.sg</p>
+<p><a href="mailto:shalini_nair_prabhakaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shalini_nair_prabhakaran@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -58,7 +56,7 @@ description: ""
 <p>Ms Siti Aisyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_mervyn_tay_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_mervyn_tay_zhi@schools.gov.sg</a> 
+<p><a href="mailto:caleb_mervyn_tay_zhi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_mervyn_tay_zhi@schools.gov.sg</a>
 </p>
 <p><a href="mailto:chew_tang_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_tang_wee@schools.gov.sg</a>
 </p>
