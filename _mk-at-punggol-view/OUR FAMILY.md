@@ -146,20 +146,20 @@ description: ""
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alyssa Amritha Loganathan</p>
-<p>Ms Jenna</p>
-<p>Ms Ng Ee Lu</p>
-<p>Ms Tan Xin Yi</p>
+<div>Ms Alyssa Amritha Loganathan</div>
+<div>Ms Jenna</div>
+<div>Ms Ng Ee Lu</div>
+<div>Ms Tan Xin Yi</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alyssa_amritha_loganathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alyssa_amritha_loganathan@schools.gov.sg</a>
-</p>
-<p><a href="mailto:jenna_teh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jenna_teh@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ng_ee_lu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lu@schools.gov.sg</a>
-</p>
-<p><a href="mailto:tan_xin_yi_a_@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_yi_a_@schools.gov.sg</a>
-</p>
+<div><a href="mailto:alyssa_amritha_loganathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alyssa_amritha_loganathan@schools.gov.sg</a>
+</div>
+<div><a href="mailto:jenna_teh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jenna_teh@schools.gov.sg</a>
+</div>
+<div><a href="mailto:ng_ee_lu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lu@schools.gov.sg</a>
+</div>
+<div><a href="mailto:tan_xin_yi_a_@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_yi_a_@schools.gov.sg</a>
+</div>
 </td>
 </tr>
 <tr>
@@ -167,17 +167,17 @@ description: ""
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lai Jessy</p>
-<p>Ms Yan Anni</p>
-<p>Ms Zhang Jialing</p>
+<div>Ms Lai Jessy</div>
+<div>Ms Yan Anni</div>
+<div>Ms Zhang Jialing</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jessy_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessy_lai@schools.gov.sg</a>
-</p>
-<p><a href="mailto:yan_anni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_anni@schools.gov.sg</a>
-</p>
-<p><a href="mailto:zhang_jialing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_jialing@schools.gov.sg</a>
-</p>
+<div><a href="mailto:jessy_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessy_lai@schools.gov.sg</a>
+</div>
+<div><a href="mailto:yan_anni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yan_anni@schools.gov.sg</a>
+</div>
+<div><a href="mailto:zhang_jialing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_jialing@schools.gov.sg</a>
+</div>
 </td>
 </tr>
 <tr>
