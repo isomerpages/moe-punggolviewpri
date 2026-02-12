@@ -28,8 +28,8 @@ with the password reset form below.</p>
 <p>Primary 3, 4, 5 and 6 students can go to the library during recess to
 the MIMS PASSWORD RESET KIOSK to submit their reset request personally.
 Once submitted, their password will be reset 1-2 days later.</p>
-<p>They will have to check the notice screen beside the kiosk, or the screen
-at the lift lobby, to look out for their reset status.</p>
+<p>They will have to check the TV screen at the lift lobby, to look out for
+their reset status.</p>
 <p></p>
 <h4><strong><u>UNABLE TO LOG IN DUE TO ERROR</u></strong></h4>
 <p>If you are unable to log in due to an error, please e-mail Mr Iskandar
