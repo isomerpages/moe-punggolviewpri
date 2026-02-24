@@ -4,6 +4,11 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GSAVfAR17Ms?si=3At-MwEHqOntIBri&amp;controls=0"></iframe>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb1.jpg">
