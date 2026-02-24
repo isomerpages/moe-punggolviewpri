@@ -1,5 +1,5 @@
 collections:
-  for-students:
+  students:
     output: true
     order:
       - MIMS Password Reset.md
