@@ -1,5 +1,5 @@
 ---
-title: Useful Links
+title: Useful Links For Students
 permalink: /useful-links/
 variant: tiptap
 description: ""
