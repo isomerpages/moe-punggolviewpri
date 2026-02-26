@@ -23,6 +23,11 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb3X.jpg">
 </div>
 <p></p>
+<h4><strong><u>WHAT TO DO AFTER PASSWORD HAS BEEN RESET?</u></strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1hC5lDZNOe_ljbidRwbbCTC95qGlJ2fEQpYf9DzOUV7AevebcqLlCJtQTeiHpX6x8MsGZufelICwk/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+<p></p>
 <h4><strong><u>PRIMARY 1 -2 MIMS PASSWORD RESET FORM</u></strong></h4>
 <p>Only parents of Primary 1 and Primary 2 students may assist their child
 with the password reset form below.</p>
