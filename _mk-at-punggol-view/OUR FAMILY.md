@@ -158,7 +158,7 @@ description: ""
 </div>
 <div><a href="mailto:ng_ee_lu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ee_lu@schools.gov.sg</a>
 </div>
-<div><a href="mailto:tan_xin_yi_a_@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_yi_a_@schools.gov.sg</a>
+<div><a href="mailto:tan_xin_yi_a_@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xin_yi_a@schools.gov.sg</a>
 </div>
 </td>
 </tr>
