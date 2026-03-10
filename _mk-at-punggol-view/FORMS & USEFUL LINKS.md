@@ -10,9 +10,7 @@ variant: tiptap
 submit a Waitlist Application form by scanning or clicking the QR code
 below. Vacancies are subject to availability.</p>
 <p>The school will contact you once a vacancy is available for your child.</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/mkpvps-waitlist/">
-<img style="width: 50%;" height="auto" width="100%" src="https://www.punggolviewpri.moe.edu.sg/images/qr.jpg">
-</a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/mkpvps2026waitlist"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_mkpvps2026waitlist.png"></a>
 <p>
 <br>
 </p>
