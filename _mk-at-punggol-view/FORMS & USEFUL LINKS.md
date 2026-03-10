@@ -4,8 +4,8 @@ permalink: /mk-at-punggol-view/forms-n-useful-links/
 description: ""
 variant: tiptap
 ---
-<h4>MOE Kindergarten Waitlist Application 2025</h4>
-<p><strong>18th February 2025</strong>
+<h4>MOE Kindergarten Waitlist Application 2026</h4>
+<p>
 <br>If you wish to enrol your child to MOE Kindergarten@Punggol View, please
 submit a Waitlist Application form by scanning or clicking the QR code
 below. Vacancies are subject to availability.</p>
