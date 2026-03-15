@@ -8,20 +8,13 @@ description: ""
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GSAVfAR17Ms?si=3At-MwEHqOntIBri&amp;controls=0"></iframe>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb1.jpg">
+<h4><strong><u>HOW TO LOG IN TO SLS, USING MIMS?</u></strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="600" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCInDTIzFDBFFzuR1K4jHIl8gX1XA6SUSRANNiiIzpCS68wdgy_smnqh3u4Uq_RCjifLcZ9QDo6ZEr/pubembed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb2.jpg">
-</div>
 <p></p>
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/feb3X.jpg">
-</div>
 <p></p>
 <h4><strong><u>WHAT TO DO AFTER PASSWORD HAS BEEN RESET?</u></strong></h4>
 <div class="iframe-wrapper">
