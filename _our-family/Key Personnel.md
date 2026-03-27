@@ -8,7 +8,7 @@ variant: tiptap
 <p><strong>HOD English </strong>- Ms Balbir Kaur</p>
 <p><strong>LH English (Internal)</strong> - Ms Maithilli</p>
 <p><strong>HOD Mother Tongue Languages </strong>- Mdm Yeo Kwang Yee</p>
-<p><strong>LH Mother Tongue </strong>- Mrs Eng - Teng Yi Wen, Yvonne</p>
+<p><strong>LH CL </strong>- Mrs Eng - Teng Yi Wen, Yvonne</p>
 <p><strong>HOD Mathematics </strong>- Mr Isreal Teo</p>
 <p><strong>LH Mathematics </strong>- Mr Reuben Dominic Phay</p>
 <p><strong>HOD Science</strong> - Ms Sylvia Wang</p>
