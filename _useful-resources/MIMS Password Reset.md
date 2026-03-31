@@ -4,6 +4,17 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
+<h4><strong><u>PLEASE DO NOT USE THE </u><em><u>LOGIN WITH SLS</u></em><u> FUNCTION</u></strong></h4>
+<p>If your SLS account gets locked, together with your MIMS account. It will
+take longer to reset, as 2 accounts are locked.</p>
+<p>Please <u>do not</u> attempt to log in using the <em><u>LOGIN WITH SLS</u></em> option.</p>
+<p>Only use the<u> </u><em><u>LOGIN WITH MIMS</u></em> option.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MIMS_NOT_SLS.png">
+</div>
+<p></p>
 <h4><strong><u>PRIMARY 1 -2 MIMS PASSWORD RESET FORM</u></strong></h4>
 <p>Only parents of Primary 1 and Primary 2 students may assist their child
 with the password reset form below.</p>
