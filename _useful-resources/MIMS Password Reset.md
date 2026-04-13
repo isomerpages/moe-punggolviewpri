@@ -4,33 +4,33 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>PLEASE DO NOT USE THE </u><em><u>LOGIN WITH SLS</u></em><u> FUNCTION</u></strong></h4>
-<p>If your SLS account gets locked, together with your MIMS account. It will
-take longer to reset, as 2 accounts are locked.</p>
-<p>Please <u>do not</u> attempt to log in using the <em><u>LOGIN WITH SLS</u></em> option.</p>
-<p>Only use the<u> </u><em><u>LOGIN WITH MIMS</u></em> option.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MIMS_NOT_SLS.png">
-</div>
-<p></p>
-<h4><strong><u>PRIMARY 1 -2 MIMS PASSWORD RESET FORM</u></strong></h4>
-<p>Only parents of Primary 1 and Primary 2 students may assist their child
-with the password reset form below.</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">MIMS password reset form</a>
+<ol data-tight="true" class="tight">
+<li>
+<p>Log in to SLS, using the <strong><u>LOGIN WITH MIMS</u></strong> option.
+Don't use the <strong><u>LOGIN WITH SLS</u></strong> option.</p>
+</li>
+<li>
+<p>Primary 1 and 2 students, can get parents to reset via this link.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">PRIMARY 1 AND 2 PASSWORD RESET</a>
 </p>
+</li>
+</ol>
+<p>3. Primary 3,4,5 and 6 students, are to go to the library, to fill out
+the form at the self service kiosk. Once they have filled out their name,
+class and MIMS username, they are to look out for their names at the lift
+lobby TV to see if their account has been reset. (Takes 1-2 days)</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>If your MIMS account is locked, you will need to reset it. Account gets
+locked when you type in the wrong password multiple times.</p>
+</li>
+<li>
+<p>Only e-mail the ICT Associate, Mr Iskandar, if you have already requested
+a reset, but you have problems logging in. Please include a video of the
+log in attempt from start to finish.</p>
+</li>
+</ol>
 <p></p>
-<h4><strong><u>PRIMARY 3 - 6 TO USE THE SELF RESET KIOSK IN SCHOOL LIBRARY</u></strong></h4>
-<p>Primary 3, 4, 5 and 6 students can go to the library during recess to
-the MIMS PASSWORD RESET KIOSK to submit their reset request personally.
-Once submitted, their password will be reset 1-2 days later.</p>
-<p>They will have to check the TV screen at the lift lobby, to look out for
-their reset status.</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GSAVfAR17Ms?si=3At-MwEHqOntIBri&amp;controls=0"></iframe>
-</div>
 <p></p>
 <h4><strong><u>HOW TO LOG IN TO SLS, USING MIMS?</u></strong></h4>
 <div class="iframe-wrapper">
@@ -52,8 +52,8 @@ their reset status.</p>
 (ICT Associate) at <a href="iskandar_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iskandar_hamid@moe.edu.sg</a> together
 with the student's full name, username and class.</p>
 <p>
-<br>You need to include a video of your log in attempt as I will need to see
-if the username and password was keyed in correctly.</p>
+<br>You need to include a <strong><u>video</u></strong> of your log in attempt
+as I will need to see if the username and password was keyed in correctly.</p>
 <p></p>
 <p></p>
 <p></p>
