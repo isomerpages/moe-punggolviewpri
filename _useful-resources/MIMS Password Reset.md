@@ -14,12 +14,12 @@ Don't use the <strong><u>LOGIN WITH SLS</u></strong> option.</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgJbQ_oDlS06x2iVAeZ_yKajatL6u_WUG4spxO5Qw3j-C3HQ/viewform?usp=header" rel="noopener nofollow" target="_blank">PRIMARY 1 AND 2 PASSWORD RESET</a>
 </p>
 </li>
-</ol>
-<p>3. Primary 3,4,5 and 6 students, are to go to the library, to fill out
-the form at the self service kiosk. Once they have filled out their name,
-class and MIMS username, they are to look out for their names at the lift
-lobby TV to see if their account has been reset. (Takes 1-2 days)</p>
-<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Primary 3,4,5 and 6 students, are to go to the library, to fill out the
+form at the self service kiosk. Once they have filled out their name, class
+and MIMS username, they are to look out for their names at the lift lobby
+TV to see if their account has been reset. (Takes 1-2 days)</p>
+</li>
 <li>
 <p>If your MIMS account is locked, you will need to reset it. Account gets
 locked when you type in the wrong password multiple times.</p>
