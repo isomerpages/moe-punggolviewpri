@@ -4,6 +4,13 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/How_to_reset_MIMS_account_April_2026.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Log in to SLS, using the <strong><u>LOGIN WITH MIMS</u></strong> option.
