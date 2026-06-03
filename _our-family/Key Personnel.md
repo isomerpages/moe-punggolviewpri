@@ -16,7 +16,7 @@ variant: tiptap
 <p><strong>HOD ICT</strong> - Mdm Tan Siew Chian</p>
 <p><strong>SH ICT (Internal)</strong> - Mdm Jiang Wenshan</p>
 <p><strong>HOD CCE </strong>- Mdm Nur Ain Bte Juma'at</p>
-<p><strong>SH CCE (Internal)</strong> - Ms Siti Nadia</p>
+<p><strong>SH CCE</strong> - Ms Siti Nadia</p>
 <p><strong>HOD PE/CCA</strong> - Ms Alison Teo</p>
 <p><strong>SH PE/CCA </strong>- Mdm Tan Li Hwa</p>
 <p><strong>SH Aesthetics </strong>- Mrs Magdelene Khairyl-Han</p>
