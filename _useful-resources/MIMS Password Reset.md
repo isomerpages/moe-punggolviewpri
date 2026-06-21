@@ -4,12 +4,6 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>MIMS PASSWORD RESET TEMPORARILY UNAVAILABILE</u></strong></h4>
-<p>The password reset for MIMS accounts will not be available from 15th -
-21st June.</p>
-<p>If you have requested a reset within this period, it will only be reset
-on 22nd June onwards.</p>
-<p></p>
 <h4><strong><u>JUNE HOLIDAY RESET FOR P3 - P6</u></strong></h4>
 <p>From 28th May to 26th June, Primary 3 to Primary 6 students can use the
 form below to submit a password reset request.
