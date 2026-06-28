@@ -4,18 +4,14 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>JUNE HOLIDAY RESET FOR P3 - P6</u></strong></h4>
-<p>From 28th May to 26th June, Primary 3 to Primary 6 students can use the
-form below to submit a password reset request.
-<br>
-</p>
-<blockquote>
-<h4><a href="https://forms.gle/VmbiQZUhnevbYKXY6" rel="noopener nofollow" target="_blank">June Holiday P3 - P6 MIMS Password Reset Form</a></h4>
-</blockquote>
-<hr>
-<p></p>
-<p>Log in to SLS, using the <strong><u>LOGIN WITH MIMS</u></strong> option.
-Don't use the <strong><u>LOGIN WITH SLS</u></strong> option.</p>
+<h4>Log in to SLS, using the <strong><u>LOGIN WITH MIMS</u></strong> option. Don't use the <strong><u>LOGIN WITH SLS</u></strong> option.<br><br><strong>RESET FOR PRIMARY 3 - 6 STUDENTS</strong></h4>
+<p>Primary 3-6 students are to go to the library during recess or after school,
+to fill out the MIMS password reset form at the kiosk in the school library.
+They can ask the librarian if they cant locate it.</p>
+<p>
+<br>When their passwords have been reset 1-2 days later, they can check the
+TV at the lift lobby to see whether their accounts have been reset.</p>
+<h4><br><br><strong>RESET FORM FOR PRIMARY 1 AND 2 STUDENTS</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Primary 1 and 2 students, can get parents to reset via this link.</p>
