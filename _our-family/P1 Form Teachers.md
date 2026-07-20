@@ -10,7 +10,7 @@ variant: markdown
 |
 |1 Diamond | Ms Koh Su Shin<br>Mdm Suhainis | koh_su_shin@schools.gov.sg<br>suhainis_samsi@schools.gov.sg|
 |
-|1 Emerald | Mdm Rajabunnisah<br>Ms Oh Jueween | rajabunnisah_abdul_latiff@schools.gov.sg<br>jueween_oh_ling_li@schools.gov.sg|
+|1 Emerald | Mdm Rajabunnisah<br>Ms Oh Jueween<br>Ms Sydney Peh Boon Teng | rajabunnisah_abdul_latiff@schools.gov.sg<br>jueween_oh_ling_li@schools.gov.sg<br>PEH_BOON_TENG_SYDNEY@schools.gov.sg|
 |
 |1 Jade | Mdm Sarina<br>Ms Catherine Sim | sarina_sapari@schools.gov.sg<br>sim_beng_hui_catherine@schools.gov.sg|
 |

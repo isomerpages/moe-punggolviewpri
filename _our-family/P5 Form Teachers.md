@@ -6,9 +6,9 @@ variant: markdown
 ---
 | Class | Form Teachers | E-mail |
 | -------- | -------- | -------- |
-| 5 Amethyst | Mdm Mardiana Mahat<br>Ms Goh Poh Khim<br>Mr Sadik | mardiana_mahat@schools.gov.sg<br>goh_poh_khim@schools.gov.sg<br> - | 
+| 5 Amethyst | Mdm Mardiana Mahat<br>Ms Goh Poh Khim | mardiana_mahat@schools.gov.sg<br>goh_poh_khim@schools.gov.sg<br>  | 
 |
-| 5 Diamond | Ms Alyani<br>Mdm Lim Hwee Li<br>Ms Sylvia Wang | alyani_mohamed_husain@schools.gov.sg<br>lim_hwee_li@schools.gov.sg<br>wang_yong_ling_sylvia@schools.gov.sg|
+| 5 Diamond | Ms Alyani<br> Muhammad Sadik Bin Jamil | alyani_mohamed_husain@schools.gov.sg<br>Muhammad_Sadik_Jamil_A@schools.gov.sg|
 |
 | 5 Emerald | Mdm Tan Li Ying (Athena)<br>Ms Marz | tan_li_ying_a@schools.gov.sg<br>nur_mawarni_nin_sahmad@schools.gov.sg|
 |
