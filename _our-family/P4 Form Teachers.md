@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Class | Form Teachers | E-mail |
 | -------- | -------- | -------- |
-| 4 Amethyst | Mr Mazher<br>Mdm Tan Siew Chian<br>Ms Parameswary | mazher_a@schools.gov.sg<br>tan_siew_chian@schools.gov.sg<br> - | 
+| 4 Amethyst | Mr Mazher<br>Mdm Tan Siew Chian<br>Ms Parameswary | mazher_a@schools.gov.sg<br>tan_siew_chian@schools.gov.sg<br> Parameswary_Moghan_Naidu@schools.gov.sg | 
 |
 |4 Diamond | Mr Kumaran<br>Mdm Li Shihua<br>Mr Nazriff | kumaran_muniandi@schools.gov.sg<br>li_shihua@schools.gov.sg<br>muhammad_nazriff_nasser@schools.gov.sg|
 |
@@ -16,6 +16,6 @@ variant: markdown
 |
 | 4 Opal | Ms Dawn Chia Hui Ming<br>Mdm Gumutha| chia_hui_ming_dawn@schools.gov.sg<br>gumutha_murugathasan@schools.gov.sg| 
 |
-4 Pearl | Mr Mohammad Helmi<br>Ms Teo Xin Ning<br> Ms Prenuja | mohammad_helmi_ahmad_bamad@schools.gov.sg<br>teo_xin_ning@schools.gov.sg<br>- |
+4 Pearl | Mr Mohammad Helmi<br>Ms Teo Xin Ning<br> Ms Siti Muneera Binte Noorul Zunaidh| mohammad_helmi_ahmad_bamad@schools.gov.sg<br>teo_xin_ning@schools.gov.sg<br>siti_muneera_noorul_zunaidh@schools.gov.sg |
 |
-4 Ruby | Mr Edwin Ong<br>Ms Nur Ain<br>Mdm Rukiya | edwin_ong_zhi_wei@schools.gov.sg<br>nur_ain_juma_at@schools.gov.sg<br>rukiya_ameer_hamjah@schools.gov.sg|
+4 Ruby | Mr Edwin Ong<br>Ms Nur Ain | edwin_ong_zhi_wei@schools.gov.sg<br>nur_ain_juma_at@schools.gov.sg|
