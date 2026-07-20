@@ -8,11 +8,11 @@ variant: markdown
 | -------- | -------- | -------- |
 | 2 Amethyst | Mdm Razidah<br>Mdm Tan Li Hwa| razidah_amat@schools.gov.sg<br>tan_li_hwa_a@schools.gov.sg |
 |
-|2 Diamond | Ms Siti Khadijah<br>Ms Baey Geok Lin Elain | siti_khadijah_abdul_jalil@schools.gov.sg<br>baey_geok_lin_elain@schools.gov.sg|
+|2 Diamond | Ms Siti Khadijah<br>Ms Baey Geok Lin Elain<br>Ms Koh Chee Ting| siti_khadijah_abdul_jalil@schools.gov.sg<br>baey_geok_lin_elain@schools.gov.sg<br>Koh_Chee_Ting@schools.gov.sg
 |
-|2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu<br>Ms Ho Julianna | paul_miki_koh@schools.gov.sg<br>han_huaxiu@schools.gov.sg|
+|2 Emerald | Mdm Paul Miki Koh<br>Mdm Han Huaxiu | paul_miki_koh@schools.gov.sg<br>han_huaxiu@schools.gov.sg|
 |
-|2 Jade | Mdm Li Xinni<br>Mr Wong Loong Ju (Jeffrey)<br> Ms Jane Lin Hui Ling|li_xinni@schools.gov.sg<br>wong_loong_ju_jeffrey@schools.gov.sg<br>lin_huiling_jane@schools.gov.sg|
+|2 Jade | Mdm Li Xinni<br>Mr Wong Loong Ju (Jeffrey)<br> Mrs Tan Lee Pin |li_xinni@schools.gov.sg<br>wong_loong_ju_jeffrey@schools.gov.sg<br>Tan_Lee_Pin_A@schools.gov.sg
 |
 | 2 Opal | Mdm Nurhayati Selamat<br>Mr Jeremy Lim<br>Mrs Elaine Lew | nurhayati_selamat@schools.gov.sg<br>lim_wei_peng_jeremy@schools.gov.sg<br>fong_lai_cheng_elaine@schools.gov.sg| 
 |
