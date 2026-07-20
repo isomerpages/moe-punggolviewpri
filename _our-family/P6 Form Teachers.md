@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Class | Form Teachers | E-mail |
 | -------- | -------- | -------- |
-| 6 Amethyst | Ms Nicole Tan<br>Mr Isreal Teo<br>Ms Thirumalar | tan_liang_liang@schools.gov.sg<br>teo_tze_koon_isreal@schools.gov.sg<br> - | 
+| 6 Amethyst | Ms Nicole Tan<br>Mr Isreal Teo<br> | tan_liang_liang@schools.gov.sg<br>teo_tze_koon_isreal@schools.gov.sg<br>  | 
 |
 |6 Diamond | Mrs Violette Lim<br>Ms Balbir Kaur | chew_chai_lian@schools.gov.sg<br>kaur_balbir_g_singh@schools.gov.sg |
 |
@@ -14,6 +14,6 @@ variant: markdown
 |
 |6 Jade | Mrs Tang-Tan Siew Hwa Irene<br>Ms Yeo Kwang Yee | tan_siew_hwa_a@schools.gov.sg<br>yeo_kwang_yee@schools.gov.sg |
 |
-| 6 Opal | Mrs Janet Chan<br>Mr Lim Wei Cheng | janet_chanko@schools.gov.sg<br>lim_wei_cheng@schools.gov.sg| 
+| 6 Opal | Mr Lim Wei Cheng<br>MdmThirumalar D/O Ganesan  | lim_wei_cheng@schools.gov.sg<br>Thirumalar_Ganesan_A@schools.gov.sg | 
 |
 6 Pearl | Mr Hari<br>Mr Reuben Dominic Phay | harikrishnan_jayapalan@schools.gov.sg<br>phay_yi_ren_dominic@schools.gov.sg |
