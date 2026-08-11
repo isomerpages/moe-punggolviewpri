@@ -4,6 +4,9 @@ permalink: /mims-password-reset/
 variant: tiptap
 description: ""
 ---
+<h4><a href="https://forms.gle/hSxqsfeDUTE3ZkYs9" rel="noopener nofollow" target="_blank">MIMS Password reset for 12th and 13th August 2026 (Primary 3,4 and 5 students)</a></h4>
+<p>Click the link above to submit a password request during this HBL period.</p>
+<hr>
 <h4>Log in to SLS, using the <strong><u>LOGIN WITH MIMS</u></strong> option. Don't use the <strong><u>LOGIN WITH SLS</u></strong> option.<br><br><strong>RESET FOR PRIMARY 3 - 6 STUDENTS</strong></h4>
 <p>Primary 3-6 students are to go to the library during recess or after school,
 to fill out the MIMS password reset form at the kiosk in the school library.
